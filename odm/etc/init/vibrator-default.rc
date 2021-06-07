@@ -1,0 +1,4 @@
+service vendor.oplus.vibrator-default /odm/bin/hw/vendor.oplus.hardware.vibrator-service
+    class hal
+    user system
+    group system

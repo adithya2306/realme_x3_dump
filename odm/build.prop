@@ -1,0 +1,31 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.vendor.qti.va_odm.support=1
+ro.com.android.dataroaming=false
+persist.vendor.radio.custom_ecc=0
+ro.oplus.system.camera.name=com.oppo.camera
+ro.com.google.lens.oem_camera_package=com.oppo.camera
+ro.sf.lcd_density=480
+ro.separate.soft=19710
+ro.product.authentication=0
+ro.product.first_api_level=29
+MARKET_NAME_PROJECT=
+ro.oppo.market.name=realme X3 SuperZoom
+ro.product.hw=RA189
+ro.sys.reserve.integrate=true
+ro.build.product=RMX2085
+ro.vendor.product.oem=RMX2085
+ro.vendor.product.device.oem=RMX2085L1
+persist.version.confidential=false
+ro.version.confidential=false
+ro.build.version.opporom=V11
+ro.build.version.realmeui=V2.0
+ro.build.kernel.id=4.14.190
+ro.com.google.clientidbase=android-oppo
+ro.oplus.connectivity.oversea=true
+vendor.media.ozo.license=cc160
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=19710
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
