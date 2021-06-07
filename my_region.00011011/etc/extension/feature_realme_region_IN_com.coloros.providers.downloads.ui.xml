@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!-- ad region support feature -->
+    <app_feature name="com.coloros.providers.downloads.ui.ad_region" args="String:IN"/>
+</extend_features>

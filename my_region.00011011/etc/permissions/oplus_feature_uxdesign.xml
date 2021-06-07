@@ -1,0 +1,4 @@
+<oplus-config>
+    <!-- Qiu.Yu@ANDROID.UIFramework,2020.06.28,Add for uxicon exp. -->
+    <oplus-feature name="oplus.software.uxicon_exp" />
+</oplus-config>

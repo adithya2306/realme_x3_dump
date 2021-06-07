@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <app_feature name="com.android.settings.auth_base_url" args="String:https://spk-service-sg.allawnos.com/" />
+    <app_feature name="com.android.settings.app_recommend_url" args="String:https://adx-in.ads.heytapmobile.com/ads/mix-frgn/V1/stg" />
+    <app_feature name="com.android.settings.auth_base_url_for_test" args="String:http://ispk.romtestbj.wanyol.com/" />
+    <app_feature name="com.android.settings.app_recommend_url_for_test" args="String:https://awsads.wanyol.com/adx-in/ads/mix-frgn/V1/stg" />
+</extend_features>

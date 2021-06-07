@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!-- indicate if the device is export -->
+    <app_feature name="com.coloros.securitypermission.search_view" args="boolean:true"/>
+</extend_features>

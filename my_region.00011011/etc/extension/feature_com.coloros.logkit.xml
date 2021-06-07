@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!-- exp rom support upload feature -->
+    <app_feature name="com.coloros.logkit.support_upload" args="boolean:true"/>
+</extend_features>

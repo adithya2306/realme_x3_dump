@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!--component update url ,default:""-->
+    <app_feature name="com.oppo.ota.component_update_url" args="String:https://component-ota-in.coloros.com"/>
+    <!--check update url ,default:""-->
+    <app_feature name="com.oppo.ota.url" args="String:https://ifota-in.coloros.com/post/"/>
+    <!--realme check update url ,default:""-->
+    <app_feature name="com.oppo.ota.realme_url" args="String:https://ifota-in.realmemobile.com/post/"/>
+    <!--contributors_url ,default:""-->
+    <app_feature name="com.oppo.ota.contributors_url" args="String:https://icontributor-in.coloros.com/contributor/home"/>
+    <!--appointment_url ,default:""-->
+    <app_feature name="com.oppo.ota.appointment_url" args="String:https://otarecruitf-in.apps.coloros.com/recruit/home"/>
+    <!--realme_appointment_url ,default:""-->
+    <app_feature name="com.oppo.ota.realme_appointment_url" args="String:https://otarecruit-in.realme.com/recruit/home"/>
+    <!--new appointment_url ,default:""-->
+    <app_feature name="com.oplus.ota.new_appointment_url" args="String:https://ota-recruit-in.coloros.com/recruit/url"/>
+    <!--new rlm_appointment_url ,default:""-->
+    <app_feature name="com.oplus.ota.new_rlm_appointment_url" args="String:https://ota-recruit-in.realmemobile.com/recruit/url"/>
+    <!--show_appointment_entry ,default:true-->
+    <app_feature name="com.oppo.ota.show_appointment_entry" args="boolean:true"/>
+    <!--cellular_download_choice_type ,default:1-->
+    <app_feature name="com.oppo.ota.cellular_download_choice_type" args="int:1"/>
+    <!--show_version_type ,default:1-->
+    <app_feature name="com.oppo.ota.show_version_type" args="int:2"/>
+    <!--questionnaire_support ,default:false-->
+    <app_feature name="com.oppo.ota.questionnaire_support" args="boolean:true"/>
+</extend_features>

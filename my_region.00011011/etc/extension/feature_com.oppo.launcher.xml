@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extend_features>
+    <!-- tianjicun@APP.Launcher, 2020/08/18, set default drawer mode -->
+    <app_feature name="com.oppo.launcher.DEFAULT_DRAWER_MODE" />
+
+    <!-- new feature -->
+    <!-- tianjicun@APP.Launcher, 2020/12/10, set default drawer mode -->
+    <app_feature name="com.android.launcher.DEFAULT_DRAWER_MODE" />
+</extend_features>

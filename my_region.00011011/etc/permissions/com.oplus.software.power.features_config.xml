@@ -1,0 +1,8 @@
+<oplus-config>
+    <!-- ZengKaiFa@ANDROID.POWER, 2020/06/08, add for power feature toggle -->
+    <oplus-feature name="oplus.software.power.inexact_alarm" />
+    <oplus-feature name="oplus.software.power.guardelf" />
+    <oplus-feature name="oplus.software.power.align_alarm" />
+    <oplus-feature name="oplus.software.power.jobscheduler" />
+    <!-- ZengKaiFa@ANDROID.POWER, 2020/06/08, add end -->
+</oplus-config>
