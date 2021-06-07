@@ -1,0 +1,18 @@
+#ifdef OPLUS_FEATURE_SECURITY_COMMON
+#Qingwen.liu@Tech.BSP.Security, 2020/04/03, Add for disable SPU.
+#on post-fs
+#    start vendor.spdaemon
+#    start vendor.sec_nvm
+
+#service vendor.spdaemon /vendor/bin/spdaemon
+#    class core
+#    user system
+#    group system
+#    shutdown critical
+#endif /* OPLUS_FEATURE_SECURITY_COMMON */
+
+service vendor.sec_nvm /vendor/bin/sec_nvm
+    class core
+    user system
+    group system
+
