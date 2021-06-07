@@ -1,0 +1,7 @@
+name="BookmarkProvider.apk" info_1="609343c51bbce9849561f1d6d36983e7" info_2="7d822fa38ee4143c247579c7cd1775f8" location="app/BookmarkProvider/BookmarkProvider.apk"
+name="ChromePartnerProvider.apk" info_1="737bfa449bcb3eda3736a87d00cca982" info_2="65b55f10bf2d77dc8a5aa58d8d8a18d0" location="app/ChromePartnerProvider/ChromePartnerProvider.apk"
+name="EmailPartnerProvider.apk" info_1="737bfa449bcb3eda3736a87d00cca982" info_2="65b55f10bf2d77dc8a5aa58d8d8a18d0" location="app/EmailPartnerProvider/EmailPartnerProvider.apk"
+name="GmsConfigOverlayCommon.apk" info_1="26c67d10fb853836f354b72930b0cc63" info_2="204559577e3e7ff2b23a70828a5375ac" location="overlay/GmsConfigOverlayCommon/GmsConfigOverlayCommon.apk"
+name="GmsConfigOverlayComms.apk" info_1="26c67d10fb853836f354b72930b0cc63" info_2="204559577e3e7ff2b23a70828a5375ac" location="overlay/GmsConfigOverlayComms/GmsConfigOverlayComms.apk"
+name="GmsConfigOverlayGSA.apk" info_1="26c67d10fb853836f354b72930b0cc63" info_2="204559577e3e7ff2b23a70828a5375ac" location="overlay/GmsConfigOverlayGSA/GmsConfigOverlayGSA.apk"
+name="GmsOverlay.apk" info_1="26c67d10fb853836f354b72930b0cc63" info_2="204559577e3e7ff2b23a70828a5375ac" location="overlay/GmsOverlay/GmsOverlay.apk"
