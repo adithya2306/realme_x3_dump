@@ -1,0 +1,1929 @@
+/system_ext/app/Athena/Athena.apk 28-1524
+/system_ext/app/Athena/oat/arm/Athena.odex 1527-1548
+/system_ext/app/Athena/oat/arm/Athena.vdex 1549-1559
+/system_ext/app/Athena/oat/arm64/Athena.odex 1561-1562 1529-1540 1563 1542-1543 1564 1566-1569
+/system_ext/app/Athena/oat/arm64/Athena.vdex 1549-1559
+/system_ext/app/BTtestmode/BTtestmode.apk 1571-1578
+/system_ext/app/CertInstaller/CertInstaller.apk 1582-2995
+/system_ext/app/CertInstaller/oat/arm64/CertInstaller.odex 2998-3015
+/system_ext/app/CertInstaller/oat/arm64/CertInstaller.vdex 3016-3023
+/system_ext/app/ColorEyeProtect/ColorEyeProtect.apk 3025-4488
+/system_ext/app/ColorEyeProtect/oat/arm64/ColorEyeProtect.odex 4491-4508
+/system_ext/app/ColorEyeProtect/oat/arm64/ColorEyeProtect.vdex 4509-4517
+/system_ext/app/ConfURIDialer/ConfURIDialer.apk 4519-4527
+/system_ext/app/ConfURIDialer/oat/arm64/ConfURIDialer.odex 4530-4534
+/system_ext/app/ConfURIDialer/oat/arm64/ConfURIDialer.vdex 4535
+/system_ext/app/CrashBox/CrashBox.apk 4537-5223
+/system_ext/app/CrashBox/oat/arm64/CrashBox.odex 5226-5243
+/system_ext/app/CrashBox/oat/arm64/CrashBox.vdex 5244-5250
+/system_ext/app/DataMigrate/DataMigrate.apk 5252-5709
+/system_ext/app/DeviceInfo/DeviceInfo.apk 5711-5717
+/system_ext/app/DeviceInfo/oat/arm64/DeviceInfo.odex 5720-5722 4533 5723
+/system_ext/app/DeviceInfo/oat/arm64/DeviceInfo.vdex 5724
+/system_ext/app/DeviceStatisticsService/DeviceStatisticsService.apk 5726-5741
+/system_ext/app/DeviceStatisticsService/oat/arm64/DeviceStatisticsService.odex 5744-5746 4533 5747
+/system_ext/app/DeviceStatisticsService/oat/arm64/DeviceStatisticsService.vdex 5748
+/system_ext/app/DynamicDDSService/DynamicDDSService.apk 5750-5808
+/system_ext/app/DynamicDDSService/oat/arm64/DynamicDDSService.odex 5811-5816
+/system_ext/app/DynamicDDSService/oat/arm64/DynamicDDSService.vdex 5817
+/system_ext/app/EidService/EidService.apk 5819-5827
+/system_ext/app/EidService/oat/arm64/EidService.odex 5830-5832 4533 5833
+/system_ext/app/EidService/oat/arm64/EidService.vdex 5834
+/system_ext/app/FidoAsm/FidoAsm.apk 5836-5927
+/system_ext/app/FidoAsm/oat/arm64/FidoAsm.odex 5930-5935
+/system_ext/app/FidoAsm/oat/arm64/FidoAsm.vdex 5936-5937
+/system_ext/app/HTMLViewer/HTMLViewer.apk 5939-8039
+/system_ext/app/HTMLViewer/oat/arm64/HTMLViewer.odex 8042-8071
+/system_ext/app/HTMLViewer/oat/arm64/HTMLViewer.vdex 8072-8086
+/system_ext/app/HealthService/HealthService.apk 8088-8528
+/system_ext/app/HealthService/oat/arm/HealthService.odex 8531-8541
+/system_ext/app/HealthService/oat/arm/HealthService.vdex 8542-8546
+/system_ext/app/HealthService/oat/arm64/HealthService.odex 8548-8549 8533-8538 8550-8552
+/system_ext/app/HealthService/oat/arm64/HealthService.vdex 8542-8546
+/system_ext/app/KeyChain/KeyChain.apk 8554-8588 0 8589-8590
+/system_ext/app/KeyChain/oat/arm64/KeyChain.odex 8593-8618
+/system_ext/app/KeyChain/oat/arm64/KeyChain.vdex 8619
+/system_ext/app/LogKit/LogKit.apk 8621-12114
+/system_ext/app/LogKit/oat/arm64/LogKit.odex 12117-12149 3011 12150-12159
+/system_ext/app/LogKit/oat/arm64/LogKit.vdex 12160-12177
+/system_ext/app/ModemTestMode/ModemTestMode.apk 12179-12209
+/system_ext/app/ModemTestMode/oat/arm64/ModemTestMode.odex 12212-12214 4533 12215
+/system_ext/app/ModemTestMode/oat/arm64/ModemTestMode.vdex 12216
+/system_ext/app/NetworkHealthService/NetworkHealthService.apk 12218-12351
+/system_ext/app/NetworkHealthService/oat/arm64/NetworkHealthService.odex 12354-12360
+/system_ext/app/NetworkHealthService/oat/arm64/NetworkHealthService.vdex 12361-12362
+/system_ext/app/NfcNci/NfcNci.apk 12364-14381 0 14382-14790
+/system_ext/app/NfcNci/oat/arm64/NfcNci.odex 14793-14826
+/system_ext/app/NfcNci/oat/arm64/NfcNci.vdex 14827-14841
+/system_ext/app/NotificationCenter/NotificationCenter.apk 14843-18311
+/system_ext/app/NotificationCenter/oat/arm64/NotificationCenter.odex 18314-18342 3011 3011 18343-18347
+/system_ext/app/NotificationCenter/oat/arm64/NotificationCenter.vdex 18348-18364
+/system_ext/app/OTA/OTA.apk 18366-20397 0 20398-21570
+/system_ext/app/OTrace/OTrace.apk 21572-22705 22705-23473 23473 23473-23623 22705 22705 23625-24000 24000 24000 24000-24014 7459-7463 24015-24270
+/system_ext/app/OTrace/oat/arm64/OTrace.odex 24273-24294
+/system_ext/app/OTrace/oat/arm64/OTrace.vdex 24295-24304
+/system_ext/app/OVoiceManagerService/lib/arm64/libca.so 24309-24313
+/system_ext/app/OVoiceManagerService/lib/arm64/libduidns.so 24314-24451
+/system_ext/app/OVoiceManagerService/lib/arm64/libduiutils.so 24452-24521
+/system_ext/app/OVoiceManagerService/lib/arm64/libecho.so 24522-24571
+/system_ext/app/OVoiceManagerService/lib/arm64/libfespl.so 24572-24896
+/system_ext/app/OVoiceManagerService/lib/arm64/libgender.so 24897-25058
+/system_ext/app/OVoiceManagerService/lib/arm64/liblistenjni-ovs.qti.so 25059-25081
+/system_ext/app/OVoiceManagerService/lib/arm64/libvad.so 25082-25241
+/system_ext/app/OVoiceManagerService/lib/arm64/libvprint.so 25242-26074 0 26075-26081
+/system_ext/app/OVoiceManagerService/lib/arm64/libwakeup.so 26082-26330
+/system_ext/app/OppoAtlasService/OppoAtlasService.apk 26332-26444
+/system_ext/app/OppoAtlasService/oat/arm64/OppoAtlasService.odex 26449-26455
+/system_ext/app/OppoAtlasService/oat/arm64/OppoAtlasService.vdex 26456
+/system_ext/app/OppoEngineerCamera/OppoEngineerCamera.apk 26458-26882 22705 22705 26883-29041 29034 29043-29044 29037 29045-29121 29121 29121-29130 29130 29130 29130-29131 29121 29121 29132-29140 0 0 0 0 29141-29157 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 29158-29436 29436 29436 29436-29746
+/system_ext/app/OppoEngineerCamera/oat/arm64/OppoEngineerCamera.odex 29749-29762
+/system_ext/app/OppoEngineerCamera/oat/arm64/OppoEngineerCamera.vdex 29763-29766
+/system_ext/app/OppoEngineerMode/OppoEngineerMode.apk 29768-32767 32789-33585 19592 33586-33609 0 0 0 33610 0 0 0 33612 0 0 0 33613-33619 0 0 0 33620-35332 35197 35333 35199 35334 35201 35335 35203 35336 35205 35337 35207 35338-36293
+/system_ext/app/OppoEngineerMode/oat/arm64/OppoEngineerMode.odex 36296-36328
+/system_ext/app/OppoEngineerMode/oat/arm64/OppoEngineerMode.vdex 36329-36342
+/system_ext/app/OppoEngineerNetwork/OppoEngineerNetwork.apk 36344-37045 5514 37046-37278
+/system_ext/app/OppoEngineerNetwork/oat/arm64/OppoEngineerNetwork.odex 37281-37294
+/system_ext/app/OppoEngineerNetwork/oat/arm64/OppoEngineerNetwork.vdex 37295-37301
+/system_ext/app/OppoExServiceUI/OppoExServiceUI.apk 37303-38829
+/system_ext/app/OppoExServiceUI/oat/arm64/OppoExServiceUI.odex 38832-38850
+/system_ext/app/OppoExServiceUI/oat/arm64/OppoExServiceUI.vdex 38851-38859
+/system_ext/app/OppoGestureUI/OppoGestureUI.apk 38861-40141 7481 40142-41429 0 41430-41841
+/system_ext/app/OppoGestureUI/oat/arm64/OppoGestureUI.odex 41844-41856 3011 41857-41862
+/system_ext/app/OppoGestureUI/oat/arm64/OppoGestureUI.vdex 41863-41873
+/system_ext/app/OppoGuardElf/OppoGuardElf.apk 41875-44432 0 44433-44995
+/system_ext/app/OppoGuardElf/oat/arm64/OppoGuardElf.odex 44998-45020 3011 45021-45027
+/system_ext/app/OppoGuardElf/oat/arm64/OppoGuardElf.vdex 45028-45042
+/system_ext/app/OppoLFEHer/OppoLFEHer.apk 45044-45082
+/system_ext/app/OppoLFEHer/oat/arm64/OppoLFEHer.odex 45085-45087 4533 45088
+/system_ext/app/OppoLFEHer/oat/arm64/OppoLFEHer.vdex 45089
+/system_ext/app/OppoMultiApp/OppoMultiApp.apk 45091-46933
+/system_ext/app/OppoMultiApp/oat/arm64/OppoMultiApp.odex 46936-46959 3011 46960-46963
+/system_ext/app/OppoMultiApp/oat/arm64/OppoMultiApp.vdex 46964-46976
+/system_ext/app/OppoPowerMonitor/OppoPowerMonitor.apk 46978-47467
+/system_ext/app/OppoPowerMonitor/oat/arm64/OppoPowerMonitor.odex 47470-47481
+/system_ext/app/OppoPowerMonitor/oat/arm64/OppoPowerMonitor.vdex 47482-47487
+/system_ext/app/OsCenter/OsCenter.apk 47489-49044
+/system_ext/app/OsCenter/oat/arm64/OsCenter.odex 49047-49075
+/system_ext/app/OsCenter/oat/arm64/OsCenter.vdex 49076-49085
+/system_ext/app/PostmanService/PostmanService.apk 49087-49659
+/system_ext/app/PostmanService/oat/arm64/PostmanService.odex 49662-49668 3011 49669-49670 47480 49671
+/system_ext/app/PostmanService/oat/arm64/PostmanService.vdex 49673-49678
+/system_ext/app/PrintSpooler/PrintSpooler.apk 49680-51419
+/system_ext/app/PrintSpooler/oat/arm64/PrintSpooler.odex 51422-51440
+/system_ext/app/PrintSpooler/oat/arm64/PrintSpooler.vdex 51441-51451
+/system_ext/app/QColor/QColor.apk 51453-51648
+/system_ext/app/QColor/oat/arm64/QColor.odex 51651-51654 5815 51655
+/system_ext/app/QColor/oat/arm64/QColor.vdex 51656
+/system_ext/app/QdcmFF/QdcmFF.apk 51658-51662
+/system_ext/app/QtiTelephonyService/QtiTelephonyService.apk 51664-51687
+/system_ext/app/QtiTelephonyService/oat/arm64/QtiTelephonyService.odex 51690-51692 4533 51693
+/system_ext/app/QtiTelephonyService/oat/arm64/QtiTelephonyService.vdex 51694
+/system_ext/app/SAUHelper/SAUHelper.apk 51696-51704
+/system_ext/app/SAUHelper/oat/arm64/SAUHelper.odex 51707-51709 4533 51710
+/system_ext/app/SAUHelper/oat/arm64/SAUHelper.vdex 51711
+/system_ext/app/SafeCenter/SafeCenter.apk 51713-56244 0 56245-56275 56273 56276-56278 56273 56280-56302 56273 56303-57078
+/system_ext/app/SafeCenter/oat/arm64/SafeCenter.odex 57081-57113
+/system_ext/app/SafeCenter/oat/arm64/SafeCenter.vdex 57114-57132
+/system_ext/app/SecureElement/SecureElement.apk 57134-57201
+/system_ext/app/SecureElement/oat/arm64/SecureElement.odex 57204-57207 5815 57208
+/system_ext/app/SecureElement/oat/arm64/SecureElement.vdex 57209
+/system_ext/app/SecurityPermission/SecurityPermission.apk 57211-59984
+/system_ext/app/SecurityPermission/oat/arm64/SecurityPermission.odex 59987-60008 3011 60009-60015
+/system_ext/app/SecurityPermission/oat/arm64/SecurityPermission.vdex 60016-60028
+/system_ext/app/Shelper/Shelper.apk 60030-60788
+/system_ext/app/Shelper/oat/arm64/Shelper.odex 60791-60801
+/system_ext/app/Shelper/oat/arm64/Shelper.vdex 60802-60807
+/system_ext/app/SimContact/SimContact.apk 60809-61500 5136 61501-61580
+/system_ext/app/SimContact/oat/arm64/SimContact.odex 61583-61594
+/system_ext/app/SimContact/oat/arm64/SimContact.vdex 61595-61602
+/system_ext/app/SimSettings/SimSettings.apk 61604-61710
+/system_ext/app/SimSettings/oat/arm64/SimSettings.odex 61713-61716 5815 61717
+/system_ext/app/SimSettings/oat/arm64/SimSettings.vdex 61718
+/system_ext/app/SoterService/SoterService.apk 61720-61728
+/system_ext/app/SoterService/oat/arm64/SoterService.odex 61731-61733 4533 61734
+/system_ext/app/SoterService/oat/arm64/SoterService.vdex 61735
+/system_ext/app/Stk/Stk.apk 61737-62867 58746 62868-63486
+/system_ext/app/Stk/oat/arm64/Stk.odex 63489-63508
+/system_ext/app/Stk/oat/arm64/Stk.vdex 63509-63517
+/system_ext/app/SystemAppUpdateService/SystemAppUpdateService.apk 63519-65192
+/system_ext/app/SystemAppUpdateService/oat/arm64/SystemAppUpdateService.odex 65195-65207 3011 65208-65212 1568 65213
+/system_ext/app/SystemAppUpdateService/oat/arm64/SystemAppUpdateService.vdex 65215-65226
+/system_ext/app/UAFClient/UAFClient.apk 65228-65302
+/system_ext/app/UXDesign/UXDesign.apk 65304-65535 65555-67115 2359-2361 67116-67127 19842-19854 67129-67907 4260-4263 67908-68153
+/system_ext/app/UXDesign/oat/arm64/UXDesign.odex 68156-68177 3011 68178-68186
+/system_ext/app/UXDesign/oat/arm64/UXDesign.vdex 68187-68198
+/system_ext/app/WAPPushManager/WAPPushManager.apk 68200-68205
+/system_ext/app/WAPPushManager/oat/arm64/WAPPushManager.odex 68208-68210 4533 68211
+/system_ext/app/WAPPushManager/oat/arm64/WAPPushManager.vdex 68212
+/system_ext/app/WallpaperChooser/WallpaperChooser.apk 68214-75084 0 75085-75487
+/system_ext/app/WallpaperChooser/oat/arm64/WallpaperChooser.odex 75490-75512 3011 75513-75517
+/system_ext/app/WallpaperChooser/oat/arm64/WallpaperChooser.vdex 75518-75529
+/system_ext/app/WapiCertManage/WapiCertManage.apk 75531-75547
+/system_ext/app/WapiCertManage/oat/arm64/WapiCertManage.odex 75550-75552 4533 75553
+/system_ext/app/WapiCertManage/oat/arm64/WapiCertManage.vdex 75554
+/system_ext/app/WifiBackupAndRestore/WifiBackupAndRestore.apk 75556-75748
+/system_ext/app/WifiBackupAndRestore/oat/arm64/WifiBackupAndRestore.odex 75751-75758
+/system_ext/app/WifiBackupAndRestore/oat/arm64/WifiBackupAndRestore.vdex 75759-75760
+/system_ext/app/WigigTetheringRRO/WigigTetheringRRO.apk 75762-75764
+/system_ext/app/atfwd/atfwd.apk 75766-75778
+/system_ext/app/atfwd/oat/arm64/atfwd.odex 75781-75783 4533 75784
+/system_ext/app/atfwd/oat/arm64/atfwd.vdex 75785
+/system_ext/app/colorservice/colorservice.apk 75787-75797
+/system_ext/app/datastatusnotification/datastatusnotification.apk 75799-75807
+/system_ext/app/datastatusnotification/oat/arm64/datastatusnotification.odex 75810-75812 4533 75813
+/system_ext/app/datastatusnotification/oat/arm64/datastatusnotification.vdex 75814
+/system_ext/app/embms/embms.apk 75816-75828
+/system_ext/app/embms/oat/arm64/embms.odex 75831-75833 4533 75834
+/system_ext/app/embms/oat/arm64/embms.vdex 75835
+/system_ext/app/imssettings/imssettings.apk 75837-75848
+/system_ext/app/imssettings/oat/arm64/imssettings.odex 75851-75853 4533 75854
+/system_ext/app/imssettings/oat/arm64/imssettings.vdex 75855
+/system_ext/app/remoteSimLockAuthentication/remoteSimLockAuthentication.apk 75857-75859
+/system_ext/app/remotesimlockservice/oat/arm64/remotesimlockservice.odex 75863-75865 4533 75866
+/system_ext/app/remotesimlockservice/oat/arm64/remotesimlockservice.vdex 75867
+/system_ext/app/remotesimlockservice/remotesimlockservice.apk 75868-75874
+/system_ext/app/uceShimService/oat/arm64/uceShimService.odex 75878-75880 4533 75881
+/system_ext/app/uceShimService/oat/arm64/uceShimService.vdex 75882
+/system_ext/app/uceShimService/uceShimService.apk 75883-75948
+/system_ext/app/uimgbaservice/oat/arm64/uimgbaservice.odex 75952-75954 4533 75955
+/system_ext/app/uimgbaservice/oat/arm64/uimgbaservice.vdex 75956
+/system_ext/app/uimgbaservice/uimgbaservice.apk 75957-75961
+/system_ext/app/uimlpaservice/oat/arm64/uimlpaservice.odex 75965-75967 4533 75968
+/system_ext/app/uimlpaservice/oat/arm64/uimlpaservice.vdex 75969
+/system_ext/app/uimlpaservice/uimlpaservice.apk 75970-76004
+/system_ext/app/uimremoteclient/oat/arm64/uimremoteclient.odex 76008-76010 4533 76011
+/system_ext/app/uimremoteclient/oat/arm64/uimremoteclient.vdex 76012
+/system_ext/app/uimremoteclient/uimremoteclient.apk 76013-76032
+/system_ext/app/uimremoteserver/oat/arm64/uimremoteserver.odex 76036-76038 4533 76039
+/system_ext/app/uimremoteserver/oat/arm64/uimremoteserver.vdex 76040
+/system_ext/app/uimremoteserver/uimremoteserver.apk 76041-76058
+/system_ext/app/wifirftest/wifirftest.apk 65228-65231 76060-76086
+/system_ext/app/workloadclassifier/oat/arm64/workloadclassifier.odex 76090-76095
+/system_ext/app/workloadclassifier/oat/arm64/workloadclassifier.vdex 76096
+/system_ext/app/workloadclassifier/workloadclassifier.apk 76097-76110
+/system_ext/app/xdivert/oat/arm64/xdivert.odex 76114-76116 4533 76117
+/system_ext/app/xdivert/oat/arm64/xdivert.vdex 76118
+/system_ext/app/xdivert/xdivert.apk 76119-76135
+/system_ext/bin/CLGen 76137-76140
+/system_ext/bin/PmicHistoryClear 76141-76143
+/system_ext/bin/SecrecyAutoUnlocker 76144-77104 0 77105 0 77106-77109 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77110-77863
+/system_ext/bin/asserttip 77864-77885
+/system_ext/bin/atlasservice 77886-77888
+/system_ext/bin/autochmod.sh 77889-77921
+/system_ext/bin/autofixfreqtest.sh 77922-77927
+/system_ext/bin/bspCriticalLog 77928-77939
+/system_ext/bin/bt_logger 77940-77946
+/system_ext/bin/cachebench_eng 77947-78066
+/system_ext/bin/checkfutexwait 78067-78069
+/system_ext/bin/common_dcs 78070-78072
+/system_ext/bin/cpustress_eng 78073-78199
+/system_ext/bin/criticallog 78200-78213
+/system_ext/bin/datafree 78214-78216
+/system_ext/bin/debuglog_common.sh 78217-78219
+/system_ext/bin/diag_callback_sample_system 78220-78224
+/system_ext/bin/diag_dci_sample_system 78225-78233
+/system_ext/bin/diag_mdlog_system 78234-78245
+/system_ext/bin/do_replace_splash_logo.sh 78246
+/system_ext/bin/dpmd 78247-78259
+/system_ext/bin/dump_switch 78260-78262
+/system_ext/bin/dun-server 78263-78271
+/system_ext/bin/engineer_system_shell.sh 78272
+/system_ext/bin/extractCurrentUefiLog 78273-78275
+/system_ext/bin/fsck_exfat 78276-78285
+/system_ext/bin/get-cplc 78286
+/system_ext/bin/hans 78287-78294
+/system_ext/bin/hapticscreencap 78295-78300
+/system_ext/bin/hephaestus 78301-78305
+/system_ext/bin/horae 78306-78363
+/system_ext/bin/init.sys.oppo.bt.debug.sh 78364-78365
+/system_ext/bin/init.sys.oppo.wifi.RusUpgrade.sh 78366-78371
+/system_ext/bin/init.sys.oppo.wifi.debug.sh 78372-78374
+/system_ext/bin/memtester_eng 78375-78378
+/system_ext/bin/minidumpreader 78379-78382
+/system_ext/bin/mkexfat 78383-78390
+/system_ext/bin/mkntfs 78391-78414
+/system_ext/bin/move_widevine_data.sh 78415
+/system_ext/bin/ntfs-3g 78416-78507
+/system_ext/bin/ntfsfix 78508-78550
+/system_ext/bin/oiface 78551-78717
+/system_ext/bin/oplus_diag_mdlog_drain 78718-78721
+/system_ext/bin/oplus_kevent 78722-78730
+/system_ext/bin/oplus_log_performance.sh 78731-78732
+/system_ext/bin/oppo_adbd 78733-78754 78754-79012
+/system_ext/bin/oppo_app_data 79013-79023
+/system_ext/bin/oppo_diag_mdlog 79024-79034
+/system_ext/bin/oppo_theia 79035-79041
+/system_ext/bin/perfservice 79042-79050
+/system_ext/bin/phoenix_log_manager 79051-79060
+/system_ext/bin/phoenix_log_native_helper.sh 79061-79065
+/system_ext/bin/qccsyshalservice 79066-79069
+/system_ext/bin/qspmsvc 79070-79077
+/system_ext/bin/quickboot 79078-79080
+/system_ext/bin/qvrdatalogger 79081-79099
+/system_ext/bin/qvrservice 79100-79101
+/system_ext/bin/qvrservicetest 79102-79140
+/system_ext/bin/qvrservicetest64 79141-79194
+/system_ext/bin/resize_ext4 79195-79197
+/system_ext/bin/rtspclient 79198-79205
+/system_ext/bin/rtspserver 79206-79210
+/system_ext/bin/self-init-system 79211-79240
+/system_ext/bin/shutdown_log_back 79241-79246
+/system_ext/bin/shutdown_log_native_helper.sh 79247-79248
+/system_ext/bin/sigma_miracasthalservice 79249-79254
+/system_ext/bin/stressapptest_eng 79255-79300
+/system_ext/bin/svelte 79301-79312
+/system_ext/bin/test_diag_system 79313-79318
+/system_ext/bin/test_ep_hidl 79319-79321
+/system_ext/bin/wfdservice 79322-79323
+/system_ext/build.prop 79324
+/system_ext/etc/Multimedia_Daemon_List.xml 79326-79343
+/system_ext/etc/NOTICE.xml.gz 79344-79356
+/system_ext/etc/app_launch_opt_list.xml 79357-79367
+/system_ext/etc/bluetooth/bt_configstore.conf 79369-79370
+/system_ext/etc/bluetooth/bt_profile.conf 79371
+/system_ext/etc/bluetooth/bt_stack_debug.conf 79372
+/system_ext/etc/bluetooth/interop_database.conf 79373-79377
+/system_ext/etc/cdma_call_conf.xml 79378-79379
+/system_ext/etc/comm_nwpower_config.xml 79380
+/system_ext/etc/connectivity_ssv.xml 79381-79382
+/system_ext/etc/criticallog_config.xml 79383-79389
+/system_ext/etc/dpm/dpm.conf 79391
+/system_ext/etc/ecc_list.xml 79392-79400
+/system_ext/etc/fingerprint_switch_list.xml 79401
+/system_ext/etc/fonts_base.xml 79402-79411
+/system_ext/etc/horae/horae.conf 79413
+/system_ext/etc/horae/horae_MT6765.conf 79414
+/system_ext/etc/horae/horae_MT6769.conf 79415
+/system_ext/etc/horae/horae_MT6771.conf 79416
+/system_ext/etc/horae/horae_MT6779.conf 79417-79419
+/system_ext/etc/horae/horae_MT6785.conf 79420
+/system_ext/etc/horae/horae_MT6853.conf 79421-79422
+/system_ext/etc/horae/horae_MT6873.conf 79423
+/system_ext/etc/horae/horae_MT6885.conf 79424-79425
+/system_ext/etc/horae/horae_SM4250.conf 79426
+/system_ext/etc/horae/horae_SM6125.conf 79427
+/system_ext/etc/horae/horae_SM7125.conf 79428-79429
+/system_ext/etc/horae/horae_SM7150.conf 79430
+/system_ext/etc/horae/horae_SM7250.conf 79431-79433
+/system_ext/etc/horae/horae_SM8150.conf 79434
+/system_ext/etc/horae/horae_SM8250.conf 79435-79437
+/system_ext/etc/horae/horae_SM8350.conf 79438-79439
+/system_ext/etc/init/atlasservice.rc 79441
+/system_ext/etc/init/com.qualcomm.qti.sigma_miracast@1.0-service.rc 79442
+/system_ext/etc/init/common_dcs.rc 79443
+/system_ext/etc/init/datafree.rc 79444
+/system_ext/etc/init/debuglog_common.rc 79445
+/system_ext/etc/init/dpmd.rc 79446
+/system_ext/etc/init/hans.rc 79447
+/system_ext/etc/init/hapticscreencap.rc 79448
+/system_ext/etc/init/horae.rc 79449
+/system_ext/etc/init/init.oppo.adbd.rc 79450
+/system_ext/etc/init/init.oppo.custom_logo.rc 79451
+/system_ext/etc/init/init.oppo.debug.rc 79452-79461
+/system_ext/etc/init/init.oppo.rootdir.rc 79462-79464
+/system_ext/etc/init/init.qti.bt.logger.rc 79465
+/system_ext/etc/init/init.sys.oppo.connectivity.rc 79466-79467
+/system_ext/etc/init/init.wlan.ftm.rc 79468
+/system_ext/etc/init/oiface.rc 79469
+/system_ext/etc/init/olog_system.rc 79470
+/system_ext/etc/init/perfservice.rc 79471
+/system_ext/etc/init/pmic_history_clear.rc 79472
+/system_ext/etc/init/qspmsvc.rc 79473
+/system_ext/etc/init/qvrd_ext.rc 79474
+/system_ext/etc/init/self-init-system.rc 79475
+/system_ext/etc/init/self_init_hephaestus.rc 79476
+/system_ext/etc/init/self_init_kevent.rc 79477
+/system_ext/etc/init/self_init_theia.rc 79478
+/system_ext/etc/init/system_engineermode.rc 79479
+/system_ext/etc/init/vendor.qti.hardware.qccsyshal@1.0-service.rc 79480
+/system_ext/etc/init/wfdservice.rc 79481
+/system_ext/etc/init/xkit.rc 79482
+/system_ext/etc/netcode_config.xml 79483-79484
+/system_ext/etc/netcode_version.xml 79485
+/system_ext/etc/nfcee_access.xml 79486-79489
+/system_ext/etc/nfcsvc_access.xml 79490-79492
+/system_ext/etc/oiface/oiface.config 79494-79560
+/system_ext/etc/oppo_cpt_list.xml 79561-79571
+/system_ext/etc/perf/wlc_model.tflite 79573-79595
+/system_ext/etc/permissions/RemoteSimlock.xml 79597
+/system_ext/etc/permissions/RemoteSimlockManager.xml 79598
+/system_ext/etc/permissions/UimGba.xml 79599
+/system_ext/etc/permissions/UimGbaManager.xml 79600
+/system_ext/etc/permissions/UimService.xml 79601
+/system_ext/etc/permissions/android.software.verified_boot.xml 79602
+/system_ext/etc/permissions/audiosphere.xml 79603
+/system_ext/etc/permissions/com.android.carrierconfig.xml 79604
+/system_ext/etc/permissions/com.android.emergency.xml 79605
+/system_ext/etc/permissions/com.android.launcher3.xml 79606
+/system_ext/etc/permissions/com.android.provision.xml 79607
+/system_ext/etc/permissions/com.android.storagemanager.xml 79608
+/system_ext/etc/permissions/com.oppo.camera.unit.sdk.xml 79609
+/system_ext/etc/permissions/com.oppo.features.os.xml 79610
+/system_ext/etc/permissions/com.qti.dpmframework.xml 79611
+/system_ext/etc/permissions/com.qti.location.sdk.xml 79612
+/system_ext/etc/permissions/com.qti.media.secureprocessor.xml 79613
+/system_ext/etc/permissions/com.qualcomm.location.xml 79614
+/system_ext/etc/permissions/com.qualcomm.qmapbridge.xml 79615
+/system_ext/etc/permissions/com.qualcomm.qti.imscmservice-V2.0-java.xml 79616
+/system_ext/etc/permissions/com.qualcomm.qti.imscmservice-V2.1-java.xml 79617
+/system_ext/etc/permissions/com.qualcomm.qti.imscmservice-V2.2-java.xml 79618
+/system_ext/etc/permissions/com.qualcomm.qti.imscmservice.xml 79619
+/system_ext/etc/permissions/com.qualcomm.qti.izattools.xml 79620
+/system_ext/etc/permissions/com.vendor.nfc.xml 79621
+/system_ext/etc/permissions/com.wapi.wapicertstore.xml 79622
+/system_ext/etc/permissions/dpmapi.xml 79623
+/system_ext/etc/permissions/embms-noship_product_privapp_permissions_qti.xml 79624
+/system_ext/etc/permissions/embms.xml 79625
+/system_ext/etc/permissions/izat.xt.srv.xml 79626
+/system_ext/etc/permissions/nfcvendorlib.xml 79627
+/system_ext/etc/permissions/oplus.feature.android.xml 79628
+/system_ext/etc/permissions/oplus.system.features_multimedia.xml 79629
+/system_ext/etc/permissions/org.ifaa.android.manager.permissions.xml 79630
+/system_ext/etc/permissions/privapp-permissions-com.qualcomm.location.xml 79631
+/system_ext/etc/permissions/privapp-permissions-google-system-ext.xml 79632
+/system_ext/etc/permissions/privapp-permissions-oppo-ext.xml 79633-79645
+/system_ext/etc/permissions/privapp-permissions-platform-ext.xml 79646-79652
+/system_ext/etc/permissions/privapp-permissions-qti-system-ext.xml 79653
+/system_ext/etc/permissions/qcrilhook.xml 79654
+/system_ext/etc/permissions/qti_libpermissions.xml 79655
+/system_ext/etc/permissions/qti_permissions.xml 79656
+/system_ext/etc/permissions/qti_telephony_hidl_wrapper.xml 79657
+/system_ext/etc/permissions/qti_telephony_utils.xml 79658
+/system_ext/etc/permissions/telephony_system-ext_privapp-permissions-qti.xml 79659
+/system_ext/etc/permissions/telephonyservice.xml 79660
+/system_ext/etc/permissions/uimremoteclient.xml 79661
+/system_ext/etc/permissions/uimremoteserver.xml 79662
+/system_ext/etc/permissions/wfd-system-ext-privapp-permissions-qti.xml 79663
+/system_ext/etc/power_monitor_config.xml 79664
+/system_ext/etc/public.libraries-qti.txt 79665
+/system_ext/etc/qvr/cfg/339/0/65536/mtp855.txt 79671-79672
+/system_ext/etc/qvr/cfg/339/0/65536/mtp855_6dof_config.xml 79673
+/system_ext/etc/qvr/cfg/341/2/65536/svr845.txt 79677-79679
+/system_ext/etc/qvr/cfg/356/0/65536/mtp865.txt 79683-79684
+/system_ext/etc/qvr/cfg/356/0/65536/mtp865_6dof_config.xml 79685
+/system_ext/etc/qvr/cfg/356/1/131072/morpheus.txt 79688-79691
+/system_ext/etc/qvr/cfg/356/1/131072/morpheus_6dof_config.xml 79685
+/system_ext/etc/qvr/cfg/356/1/65536/trinity.txt 79693-79696
+/system_ext/etc/qvr/cfg/356/1/65536/trinity_6dof_config.xml 79685
+/system_ext/etc/qvr/cfg/415/0/65536/mtplahaina.txt 79700-79701
+/system_ext/etc/qvr/cfg/415/0/65536/mtplahaina_6dof_config.xml 79685
+/system_ext/etc/qvr/qvr_hid_device_list.txt 79702
+/system_ext/etc/qvr/qvrservice_config.txt 79703
+/system_ext/etc/rp.png 79704
+/system_ext/etc/seccomp_policy/perfservice.policy 79706
+/system_ext/etc/seccomp_policy/qvr@2.0.policy 79707
+/system_ext/etc/seccomp_policy/wfdservice.policy 79708
+/system_ext/etc/selinux/mapping/30.0.cil 79711-79717
+/system_ext/etc/selinux/plat_sepolicy_and_mapping_debug.sha256 79718
+/system_ext/etc/selinux/plat_sepolicy_debug.cil 79719-80104
+/system_ext/etc/selinux/system_ext_file_contexts 80105-80108
+/system_ext/etc/selinux/system_ext_hwservice_contexts 80109
+/system_ext/etc/selinux/system_ext_mac_permissions.xml 80110-80113
+/system_ext/etc/selinux/system_ext_property_contexts 80114-80121
+/system_ext/etc/selinux/system_ext_seapp_contexts 80122
+/system_ext/etc/selinux/system_ext_sepolicy.cil 80123-80225
+/system_ext/etc/selinux/system_ext_sepolicy_and_mapping.sha256 80226
+/system_ext/etc/selinux/system_ext_sepolicy_and_mapping_debug.sha256 80227
+/system_ext/etc/selinux/system_ext_sepolicy_debug.cil 80123-80138 80228-80323
+/system_ext/etc/selinux/system_ext_service_contexts 80324-80328
+/system_ext/etc/spn-conf.xml 80329
+/system_ext/etc/sys_alarm_delay_list.xml 80330-80331
+/system_ext/etc/sys_alipay_model_list.json 80332-80337
+/system_ext/etc/sys_bad_battery_config.xml 80338
+/system_ext/etc/sys_face_switch_list.xml 80339
+/system_ext/etc/sys_filter_list.json 80340
+/system_ext/etc/sys_luckymoney_config_list.xml 80341-80342
+/system_ext/etc/sys_stamp_config.xml 80343-80345
+/system_ext/etc/sys_wifi_par_config_list.xml 80346-80353
+/system_ext/etc/sys_wifi_rus_config.xml 80354
+/system_ext/etc/sysconfig/hidden-api-whitelist-ext.xml 80356
+/system_ext/etc/sysconfig/qti_whitelist_system_ext.xml 80357
+/system_ext/etc/ueventd.reserve.rc 80358
+/system_ext/etc/vintf/manifest.xml 80360
+/system_ext/etc/wfdconfigsink.xml 80361-80367
+/system_ext/etc/wifi_custom_config.xml 80368-80370
+/system_ext/etc/wifi_operator_preset_ap_list.xml 80371-80372
+/system_ext/framework/ActivityExt.jar 80374-80376
+/system_ext/framework/OplusMdmAdapter.jar 80377
+/system_ext/framework/OplusMdmInterface.jar 80378-80410
+/system_ext/framework/audiosphere.jar 80411-80412
+/system_ext/framework/com.oppo.camera.unit.sdk.jar 80413-80638
+/system_ext/framework/com.qti.dpmframework.jar 80639-80712
+/system_ext/framework/com.qti.location.sdk.jar 80713-80777
+/system_ext/framework/com.qti.media.secureprocessor.jar 80778-80779
+/system_ext/framework/com.qualcomm.qti.imscmservice-V2.0-java.jar 80780-80797
+/system_ext/framework/com.qualcomm.qti.imscmservice-V2.1-java.jar 80798-80823
+/system_ext/framework/com.qualcomm.qti.imscmservice-V2.2-java.jar 80824-80855
+/system_ext/framework/com.qualcomm.qti.uceservice-V2.0-java.jar 80856-80878
+/system_ext/framework/com.qualcomm.qti.uceservice-V2.1-java.jar 80879-80913
+/system_ext/framework/com.qualcomm.qti.uceservice-V2.2-java.jar 80914-80959
+/system_ext/framework/com.quicinc.cne.api-V1.0-java.jar 80960-80974
+/system_ext/framework/com.quicinc.cne.api-V1.1-java.jar 80975-80993
+/system_ext/framework/com.quicinc.cne.constants-V1.0-java.jar 80994-80996
+/system_ext/framework/com.quicinc.cne.constants-V2.0-java.jar 80997-80999
+/system_ext/framework/com.quicinc.cne.constants-V2.1-java.jar 81000-81001
+/system_ext/framework/com.vendor.nfc.jar 81002-81005
+/system_ext/framework/dpmapi.jar 81006-81009
+/system_ext/framework/embmslibrary.jar 81010-81016
+/system_ext/framework/getcplc.jar 81017-81020
+/system_ext/framework/izat.xt.srv.jar 81021-81025
+/system_ext/framework/nfcvendorlib.jar 81026-81074
+/system_ext/framework/oat/arm/com.oppo.camera.unit.sdk.odex 81077-81085
+/system_ext/framework/oat/arm/com.oppo.camera.unit.sdk.vdex 81086-81088
+/system_ext/framework/oat/arm/com.qti.location.sdk.art 81089-81090
+/system_ext/framework/oat/arm/com.qti.location.sdk.odex 81091-81096
+/system_ext/framework/oat/arm/com.qti.location.sdk.vdex 81097
+/system_ext/framework/oat/arm/com.qti.media.secureprocessor.odex 81098-81103
+/system_ext/framework/oat/arm/com.qti.media.secureprocessor.vdex 81104
+/system_ext/framework/oat/arm/com.qualcomm.qti.imscmservice-V2.0-java.odex 81105-81109
+/system_ext/framework/oat/arm/com.qualcomm.qti.imscmservice-V2.0-java.vdex 81110
+/system_ext/framework/oat/arm/com.qualcomm.qti.imscmservice-V2.1-java.odex 81111-81113 81108 81114
+/system_ext/framework/oat/arm/com.qualcomm.qti.imscmservice-V2.1-java.vdex 81115
+/system_ext/framework/oat/arm/com.qualcomm.qti.imscmservice-V2.2-java.odex 81116-81118 81108 81119
+/system_ext/framework/oat/arm/com.qualcomm.qti.imscmservice-V2.2-java.vdex 81120
+/system_ext/framework/oat/arm/com.qualcomm.qti.uceservice-V2.0-java.odex 81121-81123 81108 81124
+/system_ext/framework/oat/arm/com.qualcomm.qti.uceservice-V2.0-java.vdex 81125
+/system_ext/framework/oat/arm/com.qualcomm.qti.uceservice-V2.1-java.odex 81126-81128 81108 81129
+/system_ext/framework/oat/arm/com.qualcomm.qti.uceservice-V2.1-java.vdex 81130
+/system_ext/framework/oat/arm/com.qualcomm.qti.uceservice-V2.2-java.odex 81131-81133 81108 81134
+/system_ext/framework/oat/arm/com.qualcomm.qti.uceservice-V2.2-java.vdex 81135
+/system_ext/framework/oat/arm/com.vendor.nfc.odex 81136-81138 81108 81139
+/system_ext/framework/oat/arm/com.vendor.nfc.vdex 81140
+/system_ext/framework/oat/arm/getcplc.odex 81141-81143 81108 81144
+/system_ext/framework/oat/arm/getcplc.vdex 81145
+/system_ext/framework/oat/arm/nfcvendorlib.odex 81146-81148 81108 81149
+/system_ext/framework/oat/arm/nfcvendorlib.vdex 81150
+/system_ext/framework/oat/arm/oplus-ims-ext.odex 81151-81153 81108 81154
+/system_ext/framework/oat/arm/oplus-ims-ext.vdex 81155
+/system_ext/framework/oat/arm/oplus-telephony-common-qcom-ext.odex 81156-81159 81095 81160
+/system_ext/framework/oat/arm/oplus-telephony-common-qcom-ext.vdex 81161
+/system_ext/framework/oat/arm/oplus-telephony-common.odex 81162-81168
+/system_ext/framework/oat/arm/oplus-telephony-common.vdex 81169-81172
+/system_ext/framework/oat/arm/oppo-wifi-service-qcom-ext.odex 81173-81175 81108 81176
+/system_ext/framework/oat/arm/oppo-wifi-service-qcom-ext.vdex 81177
+/system_ext/framework/oat/arm/oppo-wifi-service.odex 81178-81190
+/system_ext/framework/oat/arm/oppo-wifi-service.vdex 81191-81198
+/system_ext/framework/oat/arm/oppo_bluetooth_common_ext.odex 81199-81205
+/system_ext/framework/oat/arm/oppo_bluetooth_common_ext.vdex 81206
+/system_ext/framework/oat/arm/oppo_qcom_bluetooth_ext.odex 81207-81209 81108 81210
+/system_ext/framework/oat/arm/oppo_qcom_bluetooth_ext.vdex 81211
+/system_ext/framework/oat/arm/qcrilhook.odex 81212-81214 81108 81215
+/system_ext/framework/oat/arm/qcrilhook.vdex 81216
+/system_ext/framework/oat/arm/qti-telephony-common.odex 81217-81223
+/system_ext/framework/oat/arm/qti-telephony-common.vdex 81224-81225
+/system_ext/framework/oat/arm/qti-telephony-hidl-wrapper.odex 81226-81228 81108 81229
+/system_ext/framework/oat/arm/qti-telephony-hidl-wrapper.vdex 81230
+/system_ext/framework/oat/arm/qti-telephony-utils.odex 81231-81233 81108 81234
+/system_ext/framework/oat/arm/qti-telephony-utils.vdex 81235
+/system_ext/framework/oat/arm/remotesimlockmanagerlibrary.odex 81236-81238 81108 81239
+/system_ext/framework/oat/arm/remotesimlockmanagerlibrary.vdex 81240
+/system_ext/framework/oat/arm/uimgbalibrary.odex 81241-81243 81108 81244
+/system_ext/framework/oat/arm/uimgbalibrary.vdex 81245
+/system_ext/framework/oat/arm/uimgbamanagerlibrary.odex 81246-81248 81108 81249
+/system_ext/framework/oat/arm/uimgbamanagerlibrary.vdex 81250
+/system_ext/framework/oat/arm/uimremoteclientlibrary.odex 81251-81253 81108 81254
+/system_ext/framework/oat/arm/uimremoteclientlibrary.vdex 81255
+/system_ext/framework/oat/arm/uimremoteserverlibrary.odex 81256-81257 81253 81108 81254
+/system_ext/framework/oat/arm/uimremoteserverlibrary.vdex 81258
+/system_ext/framework/oat/arm/uimremotesimlocklibrary.odex 81259-81261 81108 81262
+/system_ext/framework/oat/arm/uimremotesimlocklibrary.vdex 81263
+/system_ext/framework/oat/arm/vendor.oplus.hardware.biometrics.face-V1.0-java.odex 81264-81266 81108 81267
+/system_ext/framework/oat/arm/vendor.oplus.hardware.biometrics.face-V1.0-java.vdex 81268
+/system_ext/framework/oat/arm/vendor.oplus.hardware.biometrics.faceservice-V1.0-java.odex 81269-81271 81108 81272
+/system_ext/framework/oat/arm/vendor.oplus.hardware.biometrics.faceservice-V1.0-java.vdex 81273
+/system_ext/framework/oat/arm/vendor.oplus.hardware.biometrics.fingerprint-V2.1-java.odex 81274-81276 81108 81277
+/system_ext/framework/oat/arm/vendor.oplus.hardware.biometrics.fingerprint-V2.1-java.vdex 81278
+/system_ext/framework/oat/arm/vendor.oplus.hardware.biometrics.fingerprintpay-V1.0-java.odex 81279-81281 81108 81282
+/system_ext/framework/oat/arm/vendor.oplus.hardware.biometrics.fingerprintpay-V1.0-java.vdex 81283
+/system_ext/framework/oat/arm/vendor.oplus.hardware.biometrics.fingerprintservice-V1.0-java.odex 81284-81285 81271 81108 81272
+/system_ext/framework/oat/arm/vendor.oplus.hardware.biometrics.fingerprintservice-V1.0-java.vdex 81286
+/system_ext/framework/oat/arm/vendor.oplus.hardware.commondcs-V1.0-java.odex 81287-81288 81281 81108 81282
+/system_ext/framework/oat/arm/vendor.oplus.hardware.commondcs-V1.0-java.vdex 81289
+/system_ext/framework/oat/arm/vendor.oplus.hardware.cryptoeng-V1.0-java.odex 81290-81291 81271 81108 81272
+/system_ext/framework/oat/arm/vendor.oplus.hardware.cryptoeng-V1.0-java.vdex 81292
+/system_ext/framework/oat/arm/vendor.oplus.hardware.displaypanelfeature-V1.0-java.odex 81293-81295 81108 81296
+/system_ext/framework/oat/arm/vendor.oplus.hardware.displaypanelfeature-V1.0-java.vdex 81297
+/system_ext/framework/oat/arm/vendor.oplus.hardware.eid-V1.0-java.odex 81298-81300 81108 81301
+/system_ext/framework/oat/arm/vendor.oplus.hardware.eid-V1.0-java.vdex 81302
+/system_ext/framework/oat/arm/vendor.oplus.hardware.engineer-V1.0-java.odex 81303-81305 81108 81306
+/system_ext/framework/oat/arm/vendor.oplus.hardware.engineer-V1.0-java.vdex 81307
+/system_ext/framework/oat/arm/vendor.oplus.hardware.engsensor-V1.0-java.odex 81308-81309 81305 81108 81306
+/system_ext/framework/oat/arm/vendor.oplus.hardware.engsensor-V1.0-java.vdex 81310
+/system_ext/framework/oat/arm/vendor.oplus.hardware.fido.fidoca-V1.0-java.odex 81311-81312 81305 81108 81306
+/system_ext/framework/oat/arm/vendor.oplus.hardware.fido.fidoca-V1.0-java.vdex 81313
+/system_ext/framework/oat/arm/vendor.oplus.hardware.oplusSensor-V1.0-java.odex 81314-81315 81295 81108 81296
+/system_ext/framework/oat/arm/vendor.oplus.hardware.oplusSensor-V1.0-java.vdex 81316
+/system_ext/framework/oat/arm/vendor.oplus.hardware.orms-V1.0-java.odex 81317-81319 81108 81320
+/system_ext/framework/oat/arm/vendor.oplus.hardware.orms-V1.0-java.vdex 81321
+/system_ext/framework/oat/arm/vendor.oplus.hardware.orms.ormsHalService-V1.0-java.odex 81322-81323 81271 81108 81272
+/system_ext/framework/oat/arm/vendor.oplus.hardware.orms.ormsHalService-V1.0-java.vdex 81324
+/system_ext/framework/oat/arm/vendor.oplus.hardware.stability.oplus_project-V1.0-java.odex 81326-81328 81108 81329
+/system_ext/framework/oat/arm/vendor.oplus.hardware.stability.oplus_project-V1.0-java.vdex 81330
+/system_ext/framework/oat/arm/vendor.oplus.hardware.touch-V1.0-java.odex 81331-81332 81271 81108 81272
+/system_ext/framework/oat/arm/vendor.oplus.hardware.touch-V1.0-java.vdex 81333
+/system_ext/framework/oat/arm/vendor.oplus.hardware.transmessage-V1.0-java.odex 81334-81335 81305 81108 81306
+/system_ext/framework/oat/arm/vendor.oplus.hardware.transmessage-V1.0-java.vdex 81336
+/system_ext/framework/oat/arm/vendor.qti.data.slm-V1.0-java.odex 81337-81339 81108 81340
+/system_ext/framework/oat/arm/vendor.qti.data.slm-V1.0-java.vdex 81341
+/system_ext/framework/oat/arm/vendor.qti.hardware.alarm-V1.0-java.odex 81342-81343 81295 81108 81296
+/system_ext/framework/oat/arm/vendor.qti.hardware.alarm-V1.0-java.vdex 81344
+/system_ext/framework/oat/arm/vendor.qti.hardware.capabilityconfigstore-V1.0-java.odex 81345-81347 81108 81348
+/system_ext/framework/oat/arm/vendor.qti.hardware.capabilityconfigstore-V1.0-java.vdex 81349
+/system_ext/framework/oat/arm/vendor.qti.hardware.data.connection-V1.0-java.odex 81350-81352 81108 81353
+/system_ext/framework/oat/arm/vendor.qti.hardware.data.connection-V1.0-java.vdex 81354
+/system_ext/framework/oat/arm/vendor.qti.hardware.data.connection-V1.1-java.odex 81355-81357 81108 81358
+/system_ext/framework/oat/arm/vendor.qti.hardware.data.connection-V1.1-java.vdex 81359
+/system_ext/framework/oat/arm/vendor.qti.hardware.data.dynamicdds-V1.0-java.odex 81360-81362 81108 81363
+/system_ext/framework/oat/arm/vendor.qti.hardware.data.dynamicdds-V1.0-java.vdex 81364
+/system_ext/framework/oat/arm/vendor.qti.hardware.data.iwlan-V1.0-java.odex 81365-81368 81095 81369
+/system_ext/framework/oat/arm/vendor.qti.hardware.data.iwlan-V1.0-java.vdex 81370
+/system_ext/framework/oat/arm/vendor.qti.hardware.data.latency-V1.0-java.odex 81371-81372 81319 81108 81320
+/system_ext/framework/oat/arm/vendor.qti.hardware.data.latency-V1.0-java.vdex 81373
+/system_ext/framework/oat/arm/vendor.qti.hardware.fingerprint-V1.0-java.odex 81374-81376 81108 81377
+/system_ext/framework/oat/arm/vendor.qti.hardware.fingerprint-V1.0-java.vdex 81378
+/system_ext/framework/oat/arm/vendor.qti.hardware.sensorscalibrate-V1.0-java.odex 81379-81380 81295 81108 81296
+/system_ext/framework/oat/arm/vendor.qti.hardware.sensorscalibrate-V1.0-java.vdex 81381
+/system_ext/framework/oat/arm/vendor.qti.hardware.soter-V1.0-java.odex 81382-81384 81108 81385
+/system_ext/framework/oat/arm/vendor.qti.hardware.soter-V1.0-java.vdex 81386
+/system_ext/framework/oat/arm/vendor.qti.hardware.wigig.netperftuner-V1.0-java.odex 81387-81388 81347 81108 81348
+/system_ext/framework/oat/arm/vendor.qti.hardware.wigig.netperftuner-V1.0-java.vdex 81389
+/system_ext/framework/oat/arm/vendor.qti.hardware.wigig.supptunnel-V1.0-java.odex 81390-81392 81108 81393
+/system_ext/framework/oat/arm/vendor.qti.hardware.wigig.supptunnel-V1.0-java.vdex 81394
+/system_ext/framework/oat/arm/vendor.qti.ims.callcapability-V1.0-java.odex 81395-81397 81108 81398
+/system_ext/framework/oat/arm/vendor.qti.ims.callcapability-V1.0-java.vdex 81399
+/system_ext/framework/oat/arm/vendor.qti.ims.callinfo-V1.0-java.odex 81400-81401 81347 81108 81348
+/system_ext/framework/oat/arm/vendor.qti.ims.callinfo-V1.0-java.vdex 81402
+/system_ext/framework/oat/arm/vendor.qti.ims.rcsconfig-V1.0-java.odex 81403-81405 81108 81406
+/system_ext/framework/oat/arm/vendor.qti.ims.rcsconfig-V1.0-java.vdex 81407
+/system_ext/framework/oat/arm/vendor.qti.ims.rcsconfig-V1.1-java.odex 81408-81410 81108 81411
+/system_ext/framework/oat/arm/vendor.qti.ims.rcsconfig-V1.1-java.vdex 81412
+/system_ext/framework/oat/arm/vendor.qti.ims.rcsconfig-V2.0-java.odex 81413-81414 81266 81108 81267
+/system_ext/framework/oat/arm/vendor.qti.ims.rcsconfig-V2.0-java.vdex 81415
+/system_ext/framework/oat/arm/vendor.qti.ims.rcsconfig-V2.1-java.odex 81416-81418 81108 81419
+/system_ext/framework/oat/arm/vendor.qti.ims.rcsconfig-V2.1-java.vdex 81420
+/system_ext/framework/oat/arm/vendor.qti.latency-V2.0-java.odex 81421-81422 81339 81108 81340
+/system_ext/framework/oat/arm/vendor.qti.latency-V2.0-java.vdex 81423
+/system_ext/framework/oat/arm/vendor.qti.voiceprint-V1.0-java.odex 81424-81426 81108 81427
+/system_ext/framework/oat/arm/vendor.qti.voiceprint-V1.0-java.vdex 81428
+/system_ext/framework/oat/arm/wapicertstore.odex 81429-81432 81102 81433
+/system_ext/framework/oat/arm/wapicertstore.vdex 81434
+/system_ext/framework/oat/arm/wigig-service.odex 81435-81438 81095 81439
+/system_ext/framework/oat/arm/wigig-service.vdex 81440
+/system_ext/framework/oat/arm64/com.oppo.camera.unit.sdk.odex 81441-81442 81079-81080 81443-81448
+/system_ext/framework/oat/arm64/com.oppo.camera.unit.sdk.vdex 81086-81088
+/system_ext/framework/oat/arm64/com.qti.location.sdk.art 81449-81450 81090
+/system_ext/framework/oat/arm64/com.qti.location.sdk.odex 81451-81452 81093 81453 5815 81454
+/system_ext/framework/oat/arm64/com.qti.location.sdk.vdex 81097
+/system_ext/framework/oat/arm64/com.qti.media.secureprocessor.odex 81456-81460 26454 81461
+/system_ext/framework/oat/arm64/com.qti.media.secureprocessor.vdex 81104
+/system_ext/framework/oat/arm64/com.qualcomm.qti.imscmservice-V2.0-java.odex 81462-81464 4533 81465
+/system_ext/framework/oat/arm64/com.qualcomm.qti.imscmservice-V2.0-java.vdex 81110
+/system_ext/framework/oat/arm64/com.qualcomm.qti.imscmservice-V2.1-java.odex 81466-81468 4533 81469
+/system_ext/framework/oat/arm64/com.qualcomm.qti.imscmservice-V2.1-java.vdex 81115
+/system_ext/framework/oat/arm64/com.qualcomm.qti.imscmservice-V2.2-java.odex 81470-81472 4533 81473
+/system_ext/framework/oat/arm64/com.qualcomm.qti.imscmservice-V2.2-java.vdex 81120
+/system_ext/framework/oat/arm64/com.qualcomm.qti.uceservice-V2.0-java.odex 81474-81476 4533 81477
+/system_ext/framework/oat/arm64/com.qualcomm.qti.uceservice-V2.0-java.vdex 81125
+/system_ext/framework/oat/arm64/com.qualcomm.qti.uceservice-V2.1-java.odex 81478-81480 4533 81481
+/system_ext/framework/oat/arm64/com.qualcomm.qti.uceservice-V2.1-java.vdex 81130
+/system_ext/framework/oat/arm64/com.qualcomm.qti.uceservice-V2.2-java.odex 81482-81484 4533 81485
+/system_ext/framework/oat/arm64/com.qualcomm.qti.uceservice-V2.2-java.vdex 81135
+/system_ext/framework/oat/arm64/com.vendor.nfc.odex 81486-81488 4533 81489
+/system_ext/framework/oat/arm64/com.vendor.nfc.vdex 81140
+/system_ext/framework/oat/arm64/getcplc.odex 81490-81492 4533 81493
+/system_ext/framework/oat/arm64/getcplc.vdex 81145
+/system_ext/framework/oat/arm64/nfcvendorlib.odex 81494-81496 4533 81497
+/system_ext/framework/oat/arm64/nfcvendorlib.vdex 81150
+/system_ext/framework/oat/arm64/oplus-ims-ext.odex 81498-81500 4533 81501
+/system_ext/framework/oat/arm64/oplus-ims-ext.vdex 81155
+/system_ext/framework/oat/arm64/oplus-telephony-common-qcom-ext.odex 81502-81503 81158 81504 5815 81505
+/system_ext/framework/oat/arm64/oplus-telephony-common-qcom-ext.vdex 81161
+/system_ext/framework/oat/arm64/oplus-telephony-common.odex 81507-81508 81164-81165 81509-81511
+/system_ext/framework/oat/arm64/oplus-telephony-common.vdex 81169-81172
+/system_ext/framework/oat/arm64/oppo-wifi-service-qcom-ext.odex 81512-81514 4533 81515
+/system_ext/framework/oat/arm64/oppo-wifi-service-qcom-ext.vdex 81177
+/system_ext/framework/oat/arm64/oppo-wifi-service.odex 81516-81517 81180-81187 81518-81520
+/system_ext/framework/oat/arm64/oppo-wifi-service.vdex 81191-81198
+/system_ext/framework/oat/arm64/oppo_bluetooth_common_ext.odex 81521-81525 26454 81526
+/system_ext/framework/oat/arm64/oppo_bluetooth_common_ext.vdex 81206
+/system_ext/framework/oat/arm64/oppo_qcom_bluetooth_ext.odex 81527-81529 4533 81530
+/system_ext/framework/oat/arm64/oppo_qcom_bluetooth_ext.vdex 81211
+/system_ext/framework/oat/arm64/qcrilhook.odex 81531-81533 4533 81534
+/system_ext/framework/oat/arm64/qcrilhook.vdex 81216
+/system_ext/framework/oat/arm64/qti-telephony-common.odex 81535-81536 81219-81220 81537 12359 81538
+/system_ext/framework/oat/arm64/qti-telephony-common.vdex 81224-81225
+/system_ext/framework/oat/arm64/qti-telephony-hidl-wrapper.odex 81540-81542 4533 81543
+/system_ext/framework/oat/arm64/qti-telephony-hidl-wrapper.vdex 81230
+/system_ext/framework/oat/arm64/qti-telephony-utils.odex 81544-81546 4533 81547
+/system_ext/framework/oat/arm64/qti-telephony-utils.vdex 81235
+/system_ext/framework/oat/arm64/remotesimlockmanagerlibrary.odex 81548-81550 4533 81551
+/system_ext/framework/oat/arm64/remotesimlockmanagerlibrary.vdex 81240
+/system_ext/framework/oat/arm64/uimgbalibrary.odex 81552-81554 4533 81555
+/system_ext/framework/oat/arm64/uimgbalibrary.vdex 81245
+/system_ext/framework/oat/arm64/uimgbamanagerlibrary.odex 81556-81558 4533 81559
+/system_ext/framework/oat/arm64/uimgbamanagerlibrary.vdex 81250
+/system_ext/framework/oat/arm64/uimremoteclientlibrary.odex 81560-81562 4533 81563
+/system_ext/framework/oat/arm64/uimremoteclientlibrary.vdex 81255
+/system_ext/framework/oat/arm64/uimremoteserverlibrary.odex 81564-81565 81562 4533 81563
+/system_ext/framework/oat/arm64/uimremoteserverlibrary.vdex 81258
+/system_ext/framework/oat/arm64/uimremotesimlocklibrary.odex 81566-81568 4533 81569
+/system_ext/framework/oat/arm64/uimremotesimlocklibrary.vdex 81263
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.biometrics.face-V1.0-java.odex 81570-81572 4533 81573
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.biometrics.face-V1.0-java.vdex 81268
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.biometrics.faceservice-V1.0-java.odex 81574-81576 4533 81577
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.biometrics.faceservice-V1.0-java.vdex 81273
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.biometrics.fingerprint-V2.1-java.odex 81578-81580 4533 81581
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.biometrics.fingerprint-V2.1-java.vdex 81278
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.biometrics.fingerprintpay-V1.0-java.odex 81582-81584 4533 81585
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.biometrics.fingerprintpay-V1.0-java.vdex 81283
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.biometrics.fingerprintservice-V1.0-java.odex 81586-81587 81576 4533 81577
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.biometrics.fingerprintservice-V1.0-java.vdex 81286
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.commondcs-V1.0-java.odex 81588-81589 81584 4533 81585
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.commondcs-V1.0-java.vdex 81289
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.cryptoeng-V1.0-java.odex 81590-81591 81576 4533 81577
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.cryptoeng-V1.0-java.vdex 81292
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.displaypanelfeature-V1.0-java.odex 81592-81594 4533 81595
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.displaypanelfeature-V1.0-java.vdex 81297
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.eid-V1.0-java.odex 81596-81598 4533 81599
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.eid-V1.0-java.vdex 81302
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.engineer-V1.0-java.odex 81600-81602 4533 81603
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.engineer-V1.0-java.vdex 81307
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.engsensor-V1.0-java.odex 81604-81605 81602 4533 81603
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.engsensor-V1.0-java.vdex 81310
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.fido.fidoca-V1.0-java.odex 81606-81607 81602 4533 81603
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.fido.fidoca-V1.0-java.vdex 81313
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.oplusSensor-V1.0-java.odex 81608-81609 81594 4533 81595
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.oplusSensor-V1.0-java.vdex 81316
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.orms-V1.0-java.odex 81610-81612 4533 81613
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.orms-V1.0-java.vdex 81321
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.orms.ormsHalService-V1.0-java.odex 81614-81615 81576 4533 81577
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.orms.ormsHalService-V1.0-java.vdex 81324
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.stability.oplus_project-V1.0-java.odex 81616-81618 4533 81619
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.stability.oplus_project-V1.0-java.vdex 81330
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.touch-V1.0-java.odex 81620-81621 81576 4533 81577
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.touch-V1.0-java.vdex 81333
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.transmessage-V1.0-java.odex 81622-81623 81602 4533 81603
+/system_ext/framework/oat/arm64/vendor.oplus.hardware.transmessage-V1.0-java.vdex 81336
+/system_ext/framework/oat/arm64/vendor.qti.data.slm-V1.0-java.odex 81624-81626 4533 81627
+/system_ext/framework/oat/arm64/vendor.qti.data.slm-V1.0-java.vdex 81341
+/system_ext/framework/oat/arm64/vendor.qti.hardware.alarm-V1.0-java.odex 81628-81629 81594 4533 81595
+/system_ext/framework/oat/arm64/vendor.qti.hardware.alarm-V1.0-java.vdex 81344
+/system_ext/framework/oat/arm64/vendor.qti.hardware.capabilityconfigstore-V1.0-java.odex 81630-81632 4533 81633
+/system_ext/framework/oat/arm64/vendor.qti.hardware.capabilityconfigstore-V1.0-java.vdex 81349
+/system_ext/framework/oat/arm64/vendor.qti.hardware.data.connection-V1.0-java.odex 81634-81636 4533 81637
+/system_ext/framework/oat/arm64/vendor.qti.hardware.data.connection-V1.0-java.vdex 81354
+/system_ext/framework/oat/arm64/vendor.qti.hardware.data.connection-V1.1-java.odex 81638-81640 4533 81641
+/system_ext/framework/oat/arm64/vendor.qti.hardware.data.connection-V1.1-java.vdex 81359
+/system_ext/framework/oat/arm64/vendor.qti.hardware.data.dynamicdds-V1.0-java.odex 81642-81644 4533 81645
+/system_ext/framework/oat/arm64/vendor.qti.hardware.data.dynamicdds-V1.0-java.vdex 81364
+/system_ext/framework/oat/arm64/vendor.qti.hardware.data.iwlan-V1.0-java.odex 81646-81647 81367 81648 5815 81649
+/system_ext/framework/oat/arm64/vendor.qti.hardware.data.iwlan-V1.0-java.vdex 81370
+/system_ext/framework/oat/arm64/vendor.qti.hardware.data.latency-V1.0-java.odex 81651-81652 81612 4533 81613
+/system_ext/framework/oat/arm64/vendor.qti.hardware.data.latency-V1.0-java.vdex 81373
+/system_ext/framework/oat/arm64/vendor.qti.hardware.fingerprint-V1.0-java.odex 81653-81655 4533 81656
+/system_ext/framework/oat/arm64/vendor.qti.hardware.fingerprint-V1.0-java.vdex 81378
+/system_ext/framework/oat/arm64/vendor.qti.hardware.sensorscalibrate-V1.0-java.odex 81657-81658 81594 4533 81595
+/system_ext/framework/oat/arm64/vendor.qti.hardware.sensorscalibrate-V1.0-java.vdex 81381
+/system_ext/framework/oat/arm64/vendor.qti.hardware.soter-V1.0-java.odex 81659-81661 4533 81662
+/system_ext/framework/oat/arm64/vendor.qti.hardware.soter-V1.0-java.vdex 81386
+/system_ext/framework/oat/arm64/vendor.qti.hardware.wigig.netperftuner-V1.0-java.odex 81663-81664 81632 4533 81633
+/system_ext/framework/oat/arm64/vendor.qti.hardware.wigig.netperftuner-V1.0-java.vdex 81389
+/system_ext/framework/oat/arm64/vendor.qti.hardware.wigig.supptunnel-V1.0-java.odex 81665-81667 4533 81668
+/system_ext/framework/oat/arm64/vendor.qti.hardware.wigig.supptunnel-V1.0-java.vdex 81394
+/system_ext/framework/oat/arm64/vendor.qti.ims.callcapability-V1.0-java.odex 81669-81671 4533 81672
+/system_ext/framework/oat/arm64/vendor.qti.ims.callcapability-V1.0-java.vdex 81399
+/system_ext/framework/oat/arm64/vendor.qti.ims.callinfo-V1.0-java.odex 81673-81674 81632 4533 81633
+/system_ext/framework/oat/arm64/vendor.qti.ims.callinfo-V1.0-java.vdex 81402
+/system_ext/framework/oat/arm64/vendor.qti.ims.rcsconfig-V1.0-java.odex 81675-81677 4533 81678
+/system_ext/framework/oat/arm64/vendor.qti.ims.rcsconfig-V1.0-java.vdex 81407
+/system_ext/framework/oat/arm64/vendor.qti.ims.rcsconfig-V1.1-java.odex 81679-81681 4533 81682
+/system_ext/framework/oat/arm64/vendor.qti.ims.rcsconfig-V1.1-java.vdex 81412
+/system_ext/framework/oat/arm64/vendor.qti.ims.rcsconfig-V2.0-java.odex 81683-81684 81572 4533 81573
+/system_ext/framework/oat/arm64/vendor.qti.ims.rcsconfig-V2.0-java.vdex 81415
+/system_ext/framework/oat/arm64/vendor.qti.ims.rcsconfig-V2.1-java.odex 81685-81687 4533 81688
+/system_ext/framework/oat/arm64/vendor.qti.ims.rcsconfig-V2.1-java.vdex 81420
+/system_ext/framework/oat/arm64/vendor.qti.latency-V2.0-java.odex 81689-81690 81626 4533 81627
+/system_ext/framework/oat/arm64/vendor.qti.latency-V2.0-java.vdex 81423
+/system_ext/framework/oat/arm64/vendor.qti.voiceprint-V1.0-java.odex 81691-81693 4533 81694
+/system_ext/framework/oat/arm64/vendor.qti.voiceprint-V1.0-java.vdex 81428
+/system_ext/framework/oat/arm64/wapicertstore.odex 81695-81698 76094 81699
+/system_ext/framework/oat/arm64/wapicertstore.vdex 81434
+/system_ext/framework/oat/arm64/wigig-service.odex 81700-81701 81437 81702 5815 81703
+/system_ext/framework/oat/arm64/wigig-service.vdex 81440
+/system_ext/framework/oplus-framework-res.apk 81705-84849
+/system_ext/framework/oplus-ims-ext.jar 84850-84886
+/system_ext/framework/oplus-telephony-common-qcom-ext.jar 84887-84957
+/system_ext/framework/oplus-telephony-common.jar 84958-85355
+/system_ext/framework/oppo-wifi-service-qcom-ext.jar 85356-85357
+/system_ext/framework/oppo-wifi-service.jar 85358-86152
+/system_ext/framework/oppo_bluetooth_common_ext.jar 86153-86216
+/system_ext/framework/oppo_qcom_bluetooth_ext.jar 86217-86242
+/system_ext/framework/qcrilhook.jar 86243-86279
+/system_ext/framework/qmapbridge.jar 86280-86285
+/system_ext/framework/qti-telephony-common.jar 86286-86525
+/system_ext/framework/qti-telephony-hidl-wrapper.jar 86526-86533
+/system_ext/framework/qti-telephony-utils.jar 86534-86545
+/system_ext/framework/remotesimlockmanagerlibrary.jar 86546-86548
+/system_ext/framework/uimgbalibrary.jar 86549-86551
+/system_ext/framework/uimgbamanagerlibrary.jar 86552-86553
+/system_ext/framework/uimremoteclientlibrary.jar 86554-86557
+/system_ext/framework/uimremoteserverlibrary.jar 86558-86561
+/system_ext/framework/uimremotesimlocklibrary.jar 86562-86565
+/system_ext/framework/uimservicelibrary.jar 86566-86583
+/system_ext/framework/vendor.oplus.hardware.biometrics.face-V1.0-java.jar 86584-86596
+/system_ext/framework/vendor.oplus.hardware.biometrics.faceservice-V1.0-java.jar 86597-86601
+/system_ext/framework/vendor.oplus.hardware.biometrics.fingerprint-V2.1-java.jar 86602-86613
+/system_ext/framework/vendor.oplus.hardware.biometrics.fingerprintpay-V1.0-java.jar 86614-86621
+/system_ext/framework/vendor.oplus.hardware.biometrics.fingerprintservice-V1.0-java.jar 86622 86598-86599 86623-86624
+/system_ext/framework/vendor.oplus.hardware.commondcs-V1.0-java.jar 86625-86629
+/system_ext/framework/vendor.oplus.hardware.cryptoeng-V1.0-java.jar 86630-86634
+/system_ext/framework/vendor.oplus.hardware.displaypanelfeature-V1.0-java.jar 86635-86640
+/system_ext/framework/vendor.oplus.hardware.eid-V1.0-java.jar 86641-86648
+/system_ext/framework/vendor.oplus.hardware.engineer-V1.0-java.jar 86649-86656
+/system_ext/framework/vendor.oplus.hardware.engsensor-V1.0-java.jar 86657-86661
+/system_ext/framework/vendor.oplus.hardware.fido.fidoca-V1.0-java.jar 86662-86667
+/system_ext/framework/vendor.oplus.hardware.oplusSensor-V1.0-java.jar 86668-86672
+/system_ext/framework/vendor.oplus.hardware.orms-V1.0-java.jar 86673-86678
+/system_ext/framework/vendor.oplus.hardware.orms.ormsHalService-V1.0-java.jar 86679-86684
+/system_ext/framework/vendor.oplus.hardware.stability.oplus_project-V1.0-java.jar 86685-86689
+/system_ext/framework/vendor.oplus.hardware.touch-V1.0-java.jar 86690-86694
+/system_ext/framework/vendor.oplus.hardware.transmessage-V1.0-java.jar 86695-86700
+/system_ext/framework/vendor.qti.data.factory-V1.0-java.jar 86701-86773
+/system_ext/framework/vendor.qti.data.factory-V2.0-java.jar 86774-86820
+/system_ext/framework/vendor.qti.data.factory-V2.1-java.jar 86821-86880
+/system_ext/framework/vendor.qti.data.slm-V1.0-java.jar 86881-86887
+/system_ext/framework/vendor.qti.hardware.alarm-V1.0-java.jar 86888-86892
+/system_ext/framework/vendor.qti.hardware.capabilityconfigstore-V1.0-java.jar 86893-86897
+/system_ext/framework/vendor.qti.hardware.data.cne.internal.api-V1.0-java.jar 86898-86910
+/system_ext/framework/vendor.qti.hardware.data.cne.internal.constants-V1.0-java.jar 86911-86913
+/system_ext/framework/vendor.qti.hardware.data.cne.internal.server-V1.0-java.jar 86914-86929
+/system_ext/framework/vendor.qti.hardware.data.connection-V1.0-java.jar 86930-86938
+/system_ext/framework/vendor.qti.hardware.data.connection-V1.1-java.jar 86939-86949
+/system_ext/framework/vendor.qti.hardware.data.dynamicdds-V1.0-java.jar 86950-86960
+/system_ext/framework/vendor.qti.hardware.data.iwlan-V1.0-java.jar 86961-87191
+/system_ext/framework/vendor.qti.hardware.data.latency-V1.0-java.jar 87192-87199
+/system_ext/framework/vendor.qti.hardware.data.qmi-V1.0-java.jar 87200-87208
+/system_ext/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar 87209-87229
+/system_ext/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar 87230-87234
+/system_ext/framework/vendor.qti.hardware.slmadapter-V1.0-java.jar 87235-87242
+/system_ext/framework/vendor.qti.hardware.soter-V1.0-java.jar 87243-87250
+/system_ext/framework/vendor.qti.hardware.wigig.netperftuner-V1.0-java.jar 87251-87256
+/system_ext/framework/vendor.qti.hardware.wigig.supptunnel-V1.0-java.jar 87257-87265
+/system_ext/framework/vendor.qti.ims.callcapability-V1.0-java.jar 87266-87273
+/system_ext/framework/vendor.qti.ims.callinfo-V1.0-java.jar 87274-87279
+/system_ext/framework/vendor.qti.ims.factory-V1.0-java.jar 87280-87301
+/system_ext/framework/vendor.qti.ims.factory-V1.1-java.jar 87302-87329
+/system_ext/framework/vendor.qti.ims.rcsconfig-V1.0-java.jar 87331-87338
+/system_ext/framework/vendor.qti.ims.rcsconfig-V1.1-java.jar 87339-87354
+/system_ext/framework/vendor.qti.ims.rcsconfig-V2.0-java.jar 87355-87370
+/system_ext/framework/vendor.qti.ims.rcsconfig-V2.1-java.jar 87371-87390
+/system_ext/framework/vendor.qti.latency-V2.0-java.jar 87391-87398
+/system_ext/framework/vendor.qti.voiceprint-V1.0-java.jar 87399-87412
+/system_ext/framework/wapicertstore.jar 87413-87414
+/system_ext/framework/wigig-service.jar 87415-87536
+/system_ext/lib/EngCameraClient.so 87537-87541
+/system_ext/lib/android.hidl.base@1.0.so 87542-87555
+/system_ext/lib/com.qualcomm.qti.ant@1.0.so 87556-87577
+/system_ext/lib/com.qualcomm.qti.bluetooth_audio@1.0.so 87578-87607
+/system_ext/lib/com.qualcomm.qti.dpm.api@1.0.so 87608-87643
+/system_ext/lib/com.qualcomm.qti.imscmservice@1.0.so 87644-87689
+/system_ext/lib/com.qualcomm.qti.imscmservice@2.0.so 87690-87736
+/system_ext/lib/com.qualcomm.qti.imscmservice@2.1.so 87737-87782
+/system_ext/lib/com.qualcomm.qti.imscmservice@2.2.so 87783-87815
+/system_ext/lib/com.qualcomm.qti.uceservice@2.0.so 87816-87886
+/system_ext/lib/com.qualcomm.qti.uceservice@2.1.so 87887-87953
+/system_ext/lib/com.qualcomm.qti.uceservice@2.2.so 87954-88016
+/system_ext/lib/com.qualcomm.qti.wifidisplayhal@1.0.so 88017-88061
+/system_ext/lib/com.quicinc.cne.api@1.0.so 88062-88107
+/system_ext/lib/com.quicinc.cne.api@1.1.so 88108-88136
+/system_ext/lib/com.quicinc.cne.constants@1.0.so 88137
+/system_ext/lib/com.quicinc.cne.constants@2.0.so 88138
+/system_ext/lib/com.quicinc.cne.constants@2.1.so 88139-88140
+/system_ext/lib/drm/libomadrmengine.so 88141-88162
+/system_ext/lib/extractors/libffmpeg_extractor.so 88163-88186
+/system_ext/lib/extractors/libmmparserextractor.so 88187-88205
+/system_ext/lib/fm_helium.so 88206-88212
+/system_ext/lib/hw/raw_part.default.so 88213-88215
+/system_ext/lib/hw/vendor.qti.hardware.sigma_miracast@1.0-impl.so 88216-88218
+/system_ext/lib/lib-imsvideocodec.so 88219-88245
+/system_ext/lib/lib-imsvt.so 88246-88284
+/system_ext/lib/lib-imsvtextutils.so 88285-88286
+/system_ext/lib/lib-imsvtutils.so 88287-88291
+/system_ext/lib/libAPSClient-jni.qti.so 88292-88350
+/system_ext/lib/libAncHumBokeh-jni.qti.so 88351-88383
+/system_ext/lib/libAncHumanVideo-jni.qti.so 88384-88414
+/system_ext/lib/libAtlasListParser.so 88415-88418
+/system_ext/lib/libBitmapCmp.so 88419-88982
+/system_ext/lib/libChineseDateAndSolarDate.so 88983-88987
+/system_ext/lib/libDiagService.so 88988-88989
+/system_ext/lib/libEngCameraClient-jni.qti.so 88990-88994
+/system_ext/lib/libIDHelper.so 88995-88999
+/system_ext/lib/libNativeWinBuffExchange.so 89000-89001
+/system_ext/lib/libOpenCL_system.so 89002-89021
+/system_ext/lib/libOplusGameVoiceOptimize.so 89022-89025
+/system_ext/lib/libOppoAtlas.so 89026-89028
+/system_ext/lib/libOppoAudioVoiceScence.so 89029-89035
+/system_ext/lib/libQSEEComAPI_system.so 89036-89041
+/system_ext/lib/libScenescape.so 89042-89546 89546-89547 0 89548-89554
+/system_ext/lib/libVoiceScenceDiscern.so 89555-89557
+/system_ext/lib/libYouMeMagicVoice.so 89558-90895 0 90896-90919 0 0 0 0 90920-90942 0 90943-90961
+/system_ext/lib/lib_inputflingerEx.so 90962-90965
+/system_ext/lib/libadsprpc_system.so 90966-91014
+/system_ext/lib/libandroid_protocol.so 91015-91016
+/system_ext/lib/libatlasservice.so 91017-91040
+/system_ext/lib/libatlasutilshelper.so 91041-91043
+/system_ext/lib/libavcodec.so 91044-93624
+/system_ext/lib/libavenhancements.so 93625-93700
+/system_ext/lib/libavformat.so 93701-93993
+/system_ext/lib/libavutil.so 93994-94098
+/system_ext/lib/libbeluga.so 94099
+/system_ext/lib/libbinauralrenderer_wrapper.qti.so 94100-94102
+/system_ext/lib/libbluetooth_qti.so 94103-94838
+/system_ext/lib/libbsproxy.so 94839-94845
+/system_ext/lib/libbt-logClient.so 94846-94847
+/system_ext/lib/libbtconfigstore.so 94848-94857
+/system_ext/lib/libcdsprpc_system.so 94858-94860 90969-90983 94861-94891
+/system_ext/lib/libcommon_dcs_service.so 94892-94898
+/system_ext/lib/libcvp_common_system.so 94899-94900
+/system_ext/lib/libcvpcpuRev_skel_system.so 94901-94920
+/system_ext/lib/libdav1d.so.4 94921-95102
+/system_ext/lib/libdiag_system.so 95103-95146
+/system_ext/lib/libdisplayconfig.qti.so 95147-95163
+/system_ext/lib/libdolphin.so 95164-95187
+/system_ext/lib/libdpmctmgr.so 95188-95195
+/system_ext/lib/libdpmfdmgr.so 95196-95201
+/system_ext/lib/libdpmframework.so 95202-95240
+/system_ext/lib/libdpmtcm.so 95241-95247
+/system_ext/lib/libeye_tracking_dsp_sample_stub.so 95248-95249
+/system_ext/lib/libffmpeg_utils.so 95250-95253
+/system_ext/lib/libfm-hci.so 95254-95259
+/system_ext/lib/libframeextension.so 95260-95261
+/system_ext/lib/libfwk.aps.interface.so 95262-95265
+/system_ext/lib/libgameaudioeffects.so 95266-95271
+/system_ext/lib/libgaussgraphic.so 95272-95274
+/system_ext/lib/libgpustress_eng.so 95275-95490 95490-95491
+/system_ext/lib/libgralloc.qti.so 95492-95496
+/system_ext/lib/libhoaeffects.qti.so 95497-95498
+/system_ext/lib/libhoaeffects_csim.so 95499-95527 95526 95528-95804
+/system_ext/lib/libiatlasservice.so 95805-95824
+/system_ext/lib/libimscamera_jni.so 95825-95827
+/system_ext/lib/libimsmedia_jni.so 95828-95832
+/system_ext/lib/libjnihelpers.so 95833-95843
+/system_ext/lib/libjnistblur_api.qti.so 95844-95863
+/system_ext/lib/liblayerext.qti.so 95864-95879
+/system_ext/lib/liblistenjni.qti.so 95880-95896
+/system_ext/lib/liblistensoundmodel2.qti.so 95897-96317
+/system_ext/lib/libmdsprpc_system.so 96318-96320 90969-90983 96321-96329 94870 96330 96332-96334 94875 96335-96337 94879-94880 96338-96341 94885-94887 96342-96345
+/system_ext/lib/libmediasp_jni.so 96346-96353
+/system_ext/lib/libmink-sock-native-api.so 96354-96356
+/system_ext/lib/libminksocket_system.so 96357-96361
+/system_ext/lib/libmiracastsystem.so 96362-96376
+/system_ext/lib/libmmkevent.so 96377-96379
+/system_ext/lib/libmmosal.so 96380-96386
+/system_ext/lib/libmmparser_lite.so 96387-96610
+/system_ext/lib/libmmrtpdecoder.so 96611-96629
+/system_ext/lib/libmmrtpencoder.so 96630-96641
+/system_ext/lib/libnativehelpers.so 96642-96646
+/system_ext/lib/liboddi.so 96647-96662
+/system_ext/lib/libodispscene.so 96663-96669
+/system_ext/lib/liboemaids_system.so 96670
+/system_ext/lib/liboithmb.so 96671-96754
+/system_ext/lib/libopf.so 96755
+/system_ext/lib/liboplus_10bitHeif.so 96756-96769 22705 96770-97941
+/system_ext/lib/liboplus_heifconverter.so 97942-97944
+/system_ext/lib/liboplus_imageprocessing.so 97945-97947
+/system_ext/lib/liboplusavenhancements.so 97948-97950
+/system_ext/lib/libopluscameraservice.so 97951-97986
+/system_ext/lib/liboplusdisplayinput.so 97987-97992
+/system_ext/lib/liboplusdisplayqdcm.so 97993-97995
+/system_ext/lib/liboplusdrmdecoderjni.so 97996-97999
+/system_ext/lib/liboplusdrmutil.so 98000-98001
+/system_ext/lib/liboplusgraphic.so 98002-98005
+/system_ext/lib/liboplusheifwriter.so 98006-98030
+/system_ext/lib/liboplusloadframe.so 98031-98038
+/system_ext/lib/liboplusmediaplayerservice.so 98039-98057
+/system_ext/lib/liboplusplugin.so 98058-98062
+/system_ext/lib/liboplusrecorder.so 98063-98187
+/system_ext/lib/liboplusstagefright.so 98188-98215
+/system_ext/lib/liboplusstagefright__mp3enc.so 98216-98260
+/system_ext/lib/liboplusstagefright_foundation.so 98261-98262
+/system_ext/lib/liboplustinyxml.so 98263-98273
+/system_ext/lib/liboplusutils.so 98274-98283
+/system_ext/lib/liboppo_rp.so 98284-98285
+/system_ext/lib/liboppoaudiolowlatency.so 98286-98291
+/system_ext/lib/libozoaudiodecoder.so 98292-98303 98328-98338 22705 98339-98518 0 0 0 98519 98521-98522 0 0 0 98523-98526 0 0 0 0 98527-98529 0 0 0 0 98530-98531 0 0 0 0 98532-98534 0 0 0 98535-98537 0 0 0 0 98538-98540 0 0 0 0 98541-98542 0 0 0 0 98543-98545 0 0 0 0 98546-98547 0 0 0 0 98548-98550 0 0 0 0 0 98551-98552 0 0 0 0 98553-98555 0 0 0 0 98556-98557 0 0 0 0 98558-98560 0 0 0 0 98561-98562 0 0 0 0 98563-98565 0 0 0 98566-98568 0 0 0 0 98569-98571 0 0 0 0 98572-98573 0 0 0 0 98574-98576 0 0 0 0 98577-98578 0 0 0 0 98579-98581 0 0 0 0 98582-98584 0 0 0 0 98585-98586 0 0 0 0 0 98587-98589 0 0 0 98590-98591 0 0 0 0 0 98592-98593 0 0 0 0 98594-98596 0 0 0 0 98597-98598 0 0 0 0 98599-98600 0 0 0 0 98601-98604 0 0 0 0 98605-98607 0 0 0 98608-98611 0 0 0 98612-99384
+/system_ext/lib/libozoaudioutils.so 99385-99393
+/system_ext/lib/libphoenix_jni.so 99394-99395
+/system_ext/lib/libphoenix_native.so 99396-99401
+/system_ext/lib/libqcc.so 99402-99499
+/system_ext/lib/libqcomfm_jni.so 99507-99512
+/system_ext/lib/libqcc_file_agent_sys.so 99501-99506
+/system_ext/lib/libqct_resampler.so 99513-99531
+/system_ext/lib/libqdMetaData.so 99532-99536
+/system_ext/lib/libqmi_cci_system.so 99537-99545
+/system_ext/lib/libqmi_encdec_system.so 99546-99548
+/system_ext/lib/libqspmsvc.so 99549-99552
+/system_ext/lib/libqti-at.so 99553
+/system_ext/lib/libqti-iopd-client_system.so 99554-99556
+/system_ext/lib/libqti-perfd-client_system.so 99557-99560
+/system_ext/lib/libqti-util_system.so 99561-99563
+/system_ext/lib/libqti_performance.so 99564-99567
+/system_ext/lib/libqti_vndfwk_detect.so 99568
+/system_ext/lib/libqti_workloadclassifiermodel.so 99569-99571
+/system_ext/lib/libqvr_cam_cdsp_driver_stub.so 99572-99574
+/system_ext/lib/libqvr_cdsp_driver_stub.so 99575-99578
+/system_ext/lib/libqvr_eyetracking_plugin.so 99579-99586
+/system_ext/lib/libqvrcamera_client.qti.so 99587-99617
+/system_ext/lib/libqvrservice.so 99618-99636 22705 99637-99934 99934 99934 99936-99946
+/system_ext/lib/libqvrservice_client.qti.so 99947-99972
+/system_ext/lib/libqvrservice_ov7251_hvx_tuning.so 99973-99975
+/system_ext/lib/libqvrservice_ov9282_hvx_tuning.so 99976-99977 99975
+/system_ext/lib/libqvrservice_v4l_ov7251_hvx_tuning.so 99978-99980
+/system_ext/lib/libradio_em5g_jni.so 99981-99987
+/system_ext/lib/librftoolkit.so 99988-99992
+/system_ext/lib/libsd_sdk_display.qti.so 99993-99996
+/system_ext/lib/libsdm-disp-apis.qti.so 99997-100001
+/system_ext/lib/libsdsprpc_system.so 100002-100003 94860 90969-90983 94861 100004 100006-100011 94869-94875 100012 94877-94888 100013-100014 94891
+/system_ext/lib/libseccam-ipc.so 100015-100016
+/system_ext/lib/libseccam.so 100017-100029
+/system_ext/lib/libseccamservice.so 100030-100035
+/system_ext/lib/libsecureui_svcsock_system.so 100036-100041
+/system_ext/lib/libsecureuisvc_jni.so 100042-100048
+/system_ext/lib/libsensor_calibration.so 100049-100056
+/system_ext/lib/libskewknob_system.so 100057-100060
+/system_ext/lib/libsmomo.qti.so 100061-100092
+/system_ext/lib/libswresample.so 100093-100113
+/system_ext/lib/libswscale.so 100114-100220
+/system_ext/lib/libtinyxmlbp.so 100221 98264 100222-100230
+/system_ext/lib/libtrigger-handler.so 100231-100233
+/system_ext/lib/libupdateprof.qti.so 100234-100236
+/system_ext/lib/libvndfwk_detect_jni.qti.so 100237-100238
+/system_ext/lib/libvr_amb_engine.so 100239-100268 100267 100269-100548
+/system_ext/lib/libvr_object_engine.so 100549-100578 100577 100579-100856
+/system_ext/lib/libvr_sam_wrapper.so 100857-100863
+/system_ext/lib/libvraudio.so 100864-100906
+/system_ext/lib/libvraudio_client.qti.so 100907-100910
+/system_ext/lib/libwatchcall.so 100911-100918
+/system_ext/lib/libwfdaac.so 100919-101190
+/system_ext/lib/libwfdavenhancements.so 101191-101196
+/system_ext/lib/libwfdclient.so 101197-101224
+/system_ext/lib/libwfdcommonutils.so 101225-101244
+/system_ext/lib/libwfdconfigutils.so 101245-101263
+/system_ext/lib/libwfddisplayconfig.so 101264-101265
+/system_ext/lib/libwfdmminterface.so 101266-101271
+/system_ext/lib/libwfdmmsink.so 101272-101305
+/system_ext/lib/libwfdmmsrc_system.so 101306-101323
+/system_ext/lib/libwfdnative.so 101324-101331
+/system_ext/lib/libwfdrtsp.so 101332-101391
+/system_ext/lib/libwfdservice.so 101392-101421
+/system_ext/lib/libwfdsinksm.so 101422-101450
+/system_ext/lib/libwfduibcinterface.so 101451
+/system_ext/lib/libwfduibcsink.so 101452-101457
+/system_ext/lib/libwfduibcsinkinterface.so 101458-101460
+/system_ext/lib/libwfduibcsrc.so 101461-101471
+/system_ext/lib/libwfduibcsrcinterface.so 101472-101474
+/system_ext/lib/oppoex/libasserttipex.so 101475-101478
+/system_ext/lib/oppoex/libcriticallogex.so 101479-101483
+/system_ext/lib/oppoex/liboplustpcomplogex.so 101484-101515
+/system_ext/lib/rfsa/adsp/libdsp_streamer_qvrcam_receiver.so 101516-101521
+/system_ext/lib/rfsa/adsp/libeye_tracking_dsp_sample_skel.so 101522-101529
+/system_ext/lib/rfsa/adsp/libqvr_cam_dsp_driver_skel.so 101530-101531 101518 101532-101553
+/system_ext/lib/rfsa/adsp/libqvr_dsp_driver_skel.so 101554-101555 101518 101556-101584
+/system_ext/lib/rfsa/adsp/libtracker_6dof_skel_8150.so 101585-106019 105973 106020-106170 105973 106171 106173-106187 106064 106188-106324 106074 106325-106330 106064 106331-106474 105982 106475-106531 106233 106532-106738 105951 106739-106749 106743 106750-106851 106413 106852 106670 106853-106867 106574 106868-106869 106534 106870-107217 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 107218-107220 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 107221-107222 0 0 0 107223-107281 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 107282 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 107283
+/system_ext/lib/rfsa/adsp/libtracker_6dof_skel_8250.so 107284-107285 101587 107286-111634 106022 111635 111637-111650 106162 111651-111681 106385 111682-111714 111669 111715-111782 106464 111783 106180 111784-111827 106150 111828-111874 111707 111875-111882 111639 111883-111893 111707 111894-111920 106409 111921-111947 106563 111948-111953 106066 111954 111766 111955-111984 111976 111985-112016 106713 112017-112053 106680 112054-112104 106670 112105-112144 106773 112145-112160 106574 112161 112081 112162-112172 106718 112173-112242 106162 112243 106147 112244-112247 112037 112248-112281 111737 112282-112308 106066 112309-112314 106773 112315-112343 112158 112344-112377 106228 112378-112386 106822 112387-112407 106676 112408-112422 112416 112423-112430 112182 112431 111766 112432 111863 112433-112468 112239 112469-112480 106439 112481-112521 112345 112522-112524 112063 112525-112533 111707 112534-112886 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 112887-112889 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 112890-112891 0 0 0 112892-112950 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 112951 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 112952
+/system_ext/lib/vendor.display.color@1.0.so 112953-112983
+/system_ext/lib/vendor.display.color@1.1.so 112984-113005
+/system_ext/lib/vendor.display.color@1.2.so 113006-113028
+/system_ext/lib/vendor.display.color@1.3.so 113029-113053
+/system_ext/lib/vendor.display.config@1.0.so 113054-113076
+/system_ext/lib/vendor.display.config@1.1.so 113077-113095
+/system_ext/lib/vendor.display.config@1.10.so 113096-113135
+/system_ext/lib/vendor.display.config@1.11.so 113136-113167
+/system_ext/lib/vendor.display.config@1.12.so 113168-113200
+/system_ext/lib/vendor.display.config@1.13.so 113201-113235
+/system_ext/lib/vendor.display.config@1.14.so 113236-113271
+/system_ext/lib/vendor.display.config@1.2.so 113272-113291
+/system_ext/lib/vendor.display.config@1.3.so 113292-113312
+/system_ext/lib/vendor.display.config@1.4.so 113313-113334
+/system_ext/lib/vendor.display.config@1.5.so 113335-113357
+/system_ext/lib/vendor.display.config@1.6.so 113358-113381
+/system_ext/lib/vendor.display.config@1.7.so 113382-113409
+/system_ext/lib/vendor.display.config@1.8.so 113410-113437
+/system_ext/lib/vendor.display.config@1.9.so 113438-113466
+/system_ext/lib/vendor.display.config@2.0.so 113467-113488
+/system_ext/lib/vendor.display.postproc@1.0.so 113489-113502
+/system_ext/lib/vendor.oplus.hardware.biometrics.fingerprintpay@1.0.so 113503-113531
+/system_ext/lib/vendor.oplus.hardware.bluetooth_audio@1.0.so 113532-113554
+/system_ext/lib/vendor.oplus.hardware.charger@1.0.so 113555-113580
+/system_ext/lib/vendor.oplus.hardware.commondcs@1.0.so 113581-113594
+/system_ext/lib/vendor.oplus.hardware.cryptoeng@1.0.so 113595-113607
+/system_ext/lib/vendor.oplus.hardware.displaypanelfeature@1.0.so 113608-113622
+/system_ext/lib/vendor.oplus.hardware.earprotection@1.0.so 113623-113638
+/system_ext/lib/vendor.oplus.hardware.engcamera@1.0.so 113639-113664
+/system_ext/lib/vendor.oplus.hardware.engineer@1.0.so 113665-113692
+/system_ext/lib/vendor.oplus.hardware.engsensor@1.0.so 113693-113707
+/system_ext/lib/vendor.oplus.hardware.fido.fidoca@1.0.so 113708-113722
+/system_ext/lib/vendor.oplus.hardware.mmdisplayfeature@1.0.so 113723-113736
+/system_ext/lib/vendor.oplus.hardware.oplusSensor@1.0.so 113737-113751
+/system_ext/lib/vendor.oplus.hardware.orms.ormsHalService@1.0.so 113752-113774
+/system_ext/lib/vendor.oplus.hardware.orms@1.0.so 113775-113789
+/system_ext/lib/vendor.oplus.hardware.stability.oplus_project@1.0.so 113790-113805
+/system_ext/lib/vendor.oplus.hardware.touch@1.0.so 113806-113820
+/system_ext/lib/vendor.oplus.hardware.transmessage@1.0.so 113821-113838
+/system_ext/lib/vendor.oplus.hardware.wifi@1.1.so 113839-113856
+/system_ext/lib/vendor.pixelworks.hardware.display@1.0.so 113857-113879
+/system_ext/lib/vendor.qti.data.factory@1.0.so 113880-113903
+/system_ext/lib/vendor.qti.data.factory@2.0.so 113904-113927
+/system_ext/lib/vendor.qti.data.factory@2.1.so 113928-113949
+/system_ext/lib/vendor.qti.data.slm@1.0.so 113950-113969
+/system_ext/lib/vendor.qti.diaghal@1.0.so 113970-113990
+/system_ext/lib/vendor.qti.gnss@1.0.so 113991-114175
+/system_ext/lib/vendor.qti.gnss@1.1.so 114176-114360
+/system_ext/lib/vendor.qti.gnss@1.2.so 114361-114410
+/system_ext/lib/vendor.qti.gnss@2.0.so 114412-114444
+/system_ext/lib/vendor.qti.gnss@2.1.so 114445-114597
+/system_ext/lib/vendor.qti.gnss@3.0.so 114598-114649
+/system_ext/lib/vendor.qti.gnss@4.0.so 114650-114731
+/system_ext/lib/vendor.qti.hardware.alarm@1.0.so 114732-114745
+/system_ext/lib/vendor.qti.hardware.audiohalext@1.0.so 114746-114760
+/system_ext/lib/vendor.qti.hardware.bluetooth_audio@2.0.so 114761-114794
+/system_ext/lib/vendor.qti.hardware.btconfigstore@1.0.so 114795-114809
+/system_ext/lib/vendor.qti.hardware.btconfigstore@2.0.so 114810-114825
+/system_ext/lib/vendor.qti.hardware.camera.device@1.0.so 114826-114841
+/system_ext/lib/vendor.qti.hardware.camera.postproc@1.0.so 114842-114872
+/system_ext/lib/vendor.qti.hardware.capabilityconfigstore@1.0.so 114873-114886
+/system_ext/lib/vendor.qti.hardware.cvp@1.0-adapter-helper.so 114887-115007
+/system_ext/lib/vendor.qti.hardware.cvp@1.0.so 115008-115115
+/system_ext/lib/vendor.qti.hardware.data.cne.internal.api@1.0.so 115116-115154
+/system_ext/lib/vendor.qti.hardware.data.cne.internal.constants@1.0.so 115155
+/system_ext/lib/vendor.qti.hardware.data.cne.internal.server@1.0.so 115156-115194
+/system_ext/lib/vendor.qti.hardware.data.connection@1.0.so 115195-115225
+/system_ext/lib/vendor.qti.hardware.data.connection@1.1.so 115226-115241
+/system_ext/lib/vendor.qti.hardware.data.dynamicdds@1.0.so 115242-115286
+/system_ext/lib/vendor.qti.hardware.data.iwlan@1.0.so 115287-115323
+/system_ext/lib/vendor.qti.hardware.data.latency@1.0.so 115324-115351
+/system_ext/lib/vendor.qti.hardware.data.qmi@1.0.so 115352-115383
+/system_ext/lib/vendor.qti.hardware.display.composer@3.0.so 115384-115430
+/system_ext/lib/vendor.qti.hardware.dsp@1.0.so 115431-115451
+/system_ext/lib/vendor.qti.hardware.fingerprint@1.0.so 115452-115519
+/system_ext/lib/vendor.qti.hardware.fm@1.0.so 115520-115540
+/system_ext/lib/vendor.qti.hardware.iop@2.0.so 115541-115555
+/system_ext/lib/vendor.qti.hardware.perf@2.0.so 115556-115573
+/system_ext/lib/vendor.qti.hardware.perf@2.1.so 115574-115597
+/system_ext/lib/vendor.qti.hardware.perf@2.2.so 115598-115616
+/system_ext/lib/vendor.qti.hardware.qccsyshal@1.0-halimpl.so 115617-115623
+/system_ext/lib/vendor.qti.hardware.qccsyshal@1.0.so 115624-115654
+/system_ext/lib/vendor.qti.hardware.qccvndhal@1.0.so 115655-115674
+/system_ext/lib/vendor.qti.hardware.qdutils_disp@1.0.so 115675-115688
+/system_ext/lib/vendor.qti.hardware.qseecom@1.0.so 115689-115710
+/system_ext/lib/vendor.qti.hardware.qteeconnector@1.0.so 115711-115749
+/system_ext/lib/vendor.qti.hardware.radio.am@1.0.so 115750-115771
+/system_ext/lib/vendor.qti.hardware.radio.ims@1.0.so 115772-115860
+/system_ext/lib/vendor.qti.hardware.radio.ims@1.1.so 115861-115908
+/system_ext/lib/vendor.qti.hardware.radio.ims@1.2.so 115909-115986
+/system_ext/lib/vendor.qti.hardware.radio.ims@1.3.so 115987-116069
+/system_ext/lib/vendor.qti.hardware.radio.ims@1.4.so 116070-116158
+/system_ext/lib/vendor.qti.hardware.radio.ims@1.5.so 116159-116254
+/system_ext/lib/vendor.qti.hardware.radio.ims@1.6.so 116255-116366
+/system_ext/lib/vendor.qti.hardware.radio.internal.deviceinfo@1.0.so 116367-116397
+/system_ext/lib/vendor.qti.hardware.radio.lpa@1.0.so 116398-116428
+/system_ext/lib/vendor.qti.hardware.radio.qcrilhook@1.0.so 116429-116456
+/system_ext/lib/vendor.qti.hardware.radio.qtiradio@1.0.so 116457-116484
+/system_ext/lib/vendor.qti.hardware.radio.qtiradio@2.0.so 116485-116524
+/system_ext/lib/vendor.qti.hardware.radio.qtiradio@2.1.so 116525-116567
+/system_ext/lib/vendor.qti.hardware.radio.qtiradio@2.2.so 116568-116612
+/system_ext/lib/vendor.qti.hardware.radio.qtiradio@2.3.so 116613-116651
+/system_ext/lib/vendor.qti.hardware.radio.qtiradio@2.4.so 116652-116692
+/system_ext/lib/vendor.qti.hardware.radio.uim@1.0.so 116693-116720
+/system_ext/lib/vendor.qti.hardware.radio.uim@1.1.so 116721-116743
+/system_ext/lib/vendor.qti.hardware.radio.uim@1.2.so 116744-116771
+/system_ext/lib/vendor.qti.hardware.radio.uim_remote_client@1.0.so 116772-116805
+/system_ext/lib/vendor.qti.hardware.radio.uim_remote_client@1.1.so 116806-116822
+/system_ext/lib/vendor.qti.hardware.radio.uim_remote_client@1.2.so 116823-116841
+/system_ext/lib/vendor.qti.hardware.radio.uim_remote_server@1.0.so 116842-116880
+/system_ext/lib/vendor.qti.hardware.scve.objecttracker@1.0-adapter-helper.so 116881-116915
+/system_ext/lib/vendor.qti.hardware.scve.objecttracker@1.0.so 116916-116945
+/system_ext/lib/vendor.qti.hardware.scve.panorama@1.0-adapter-helper.so 116946-116994
+/system_ext/lib/vendor.qti.hardware.scve.panorama@1.0.so 116995-117037
+/system_ext/lib/vendor.qti.hardware.seccam@1.0.so 117038-117051
+/system_ext/lib/vendor.qti.hardware.secureprocessor.common@1.0.so 117052
+/system_ext/lib/vendor.qti.hardware.secureprocessor.config@1.0.so 117053
+/system_ext/lib/vendor.qti.hardware.secureprocessor.device@1.0.so 117054-117071
+/system_ext/lib/vendor.qti.hardware.sensorscalibrate@1.0.so 117072-117085
+/system_ext/lib/vendor.qti.hardware.sigma_miracast@1.0-halimpl.so 117086-117088
+/system_ext/lib/vendor.qti.hardware.sigma_miracast@1.0.so 117089-117109
+/system_ext/lib/vendor.qti.hardware.slmadapter@1.0.so 117110-117135
+/system_ext/lib/vendor.qti.hardware.soter@1.0.so 117136-117156
+/system_ext/lib/vendor.qti.hardware.tui_comm@1.0.so 117157-117181
+/system_ext/lib/vendor.qti.hardware.vpp@1.1.so 117182-117212
+/system_ext/lib/vendor.qti.hardware.vpp@1.2.so 117213-117237
+/system_ext/lib/vendor.qti.hardware.vpp@1.3.so 117238-117266
+/system_ext/lib/vendor.qti.hardware.wifidisplaysession@1.0.so 117267-117384
+/system_ext/lib/vendor.qti.hardware.wigig.netperftuner@1.0.so 117385-117399
+/system_ext/lib/vendor.qti.hardware.wigig.supptunnel@1.0.so 117400-117430
+/system_ext/lib/vendor.qti.ims.callcapability@1.0.so 117431-117451
+/system_ext/lib/vendor.qti.ims.callinfo@1.0.so 117452-117471
+/system_ext/lib/vendor.qti.ims.factory@1.0.so 117472-117488
+/system_ext/lib/vendor.qti.ims.factory@1.1.so 117490-117507
+/system_ext/lib/vendor.qti.ims.rcsconfig@1.0.so 117508-117534
+/system_ext/lib/vendor.qti.ims.rcsconfig@1.1.so 117535-117565
+/system_ext/lib/vendor.qti.ims.rcsconfig@2.0.so 117566-117616
+/system_ext/lib/vendor.qti.ims.rcsconfig@2.1.so 117617-117642
+/system_ext/lib/vendor.qti.imsrtpservice@3.0.so 117643-117678
+/system_ext/lib/vendor.qti.latency@2.0.so 117679-117698
+/system_ext/lib/vendor.qti.qspmhal@1.0.so 117699-117713
+/system_ext/lib/vendor.qti.voiceprint@1.0.so 117714-117751
+/system_ext/lib64/EngCameraClient.so 117752-117758
+/system_ext/lib64/android.hidl.base@1.0.so 117759-117778
+/system_ext/lib64/com.qualcomm.qti.ant@1.0.so 117779-117815
+/system_ext/lib64/com.qualcomm.qti.bluetooth_audio@1.0.so 117816-117869
+/system_ext/lib64/com.qualcomm.qti.dpm.api@1.0.so 117870-117931
+/system_ext/lib64/com.qualcomm.qti.imscmservice@1.0.so 117932-118012
+/system_ext/lib64/com.qualcomm.qti.imscmservice@2.0.so 118013-118096
+/system_ext/lib64/com.qualcomm.qti.imscmservice@2.1.so 118097-118175
+/system_ext/lib64/com.qualcomm.qti.imscmservice@2.2.so 118176-118230
+/system_ext/lib64/com.qualcomm.qti.uceservice@2.0.so 118231-118357
+/system_ext/lib64/com.qualcomm.qti.uceservice@2.1.so 118358-118473
+/system_ext/lib64/com.qualcomm.qti.uceservice@2.2.so 118474-118582
+/system_ext/lib64/com.quicinc.cne.api@1.0.so 118583-118665
+/system_ext/lib64/com.quicinc.cne.api@1.1.so 118666-118715
+/system_ext/lib64/com.quicinc.cne.constants@1.0.so 118716-118719
+/system_ext/lib64/com.quicinc.cne.constants@2.0.so 118720 118717-118718 118721
+/system_ext/lib64/com.quicinc.cne.constants@2.1.so 118722-118725
+/system_ext/lib64/extractors/libOplusmp3extractor.so 118726-118742
+/system_ext/lib64/extractors/libOplusmp4extractor.so 118743-118821
+/system_ext/lib64/extractors/libffmpeg_extractor.so 118822-118852
+/system_ext/lib64/extractors/libmmparserextractor.so 118853-118882
+/system_ext/lib64/extractors/liboplusapeextractor.so 118883-118914
+/system_ext/lib64/fm_helium.so 118915-118926
+/system_ext/lib64/hw/raw_part.default.so 118927-118931
+/system_ext/lib64/hw/vendor.qti.hardware.sigma_miracast@1.0-impl.so 118932-118937
+/system_ext/lib64/lib-imsvideocodec.so 118938-118971
+/system_ext/lib64/lib-imsvt.so 118972-119026
+/system_ext/lib64/lib-imsvtextutils.so 119027-119030
+/system_ext/lib64/lib-imsvtutils.so 119031-119038
+/system_ext/lib64/libAPSClient-jni.qti.so 119039-119130 0 119131-119134
+/system_ext/lib64/libAncHumBokeh-jni.qti.so 119135-119195 0 119196-119198
+/system_ext/lib64/libAncHumanVideo-jni.qti.so 119199-119256 0 0 0 0 119257-119259
+/system_ext/lib64/libAtlasListParser.so 119260-119264
+/system_ext/lib64/libBitmapCmp.so 119265-120394
+/system_ext/lib64/libChineseDateAndSolarDate.so 120395-120402
+/system_ext/lib64/libDiagService.so 120403-120406
+/system_ext/lib64/libEngCameraClient-jni.qti.so 120407-120412 117758
+/system_ext/lib64/libIDHelper.so 120413-120415
+/system_ext/lib64/libNativeWinBuffExchange.so 120416-120418
+/system_ext/lib64/libOpenCL_system.so 120419-120459
+/system_ext/lib64/libOplusGameVoiceOptimize.so 120460-120464
+/system_ext/lib64/libOppoAtlas.so 120465-120470
+/system_ext/lib64/libOppoAudioVoiceScence.so 120471-120480
+/system_ext/lib64/libQOC.qti.so 120481-120516
+/system_ext/lib64/libQSEEComAPI_system.so 120517-120528
+/system_ext/lib64/libVoiceScenceDiscern.so 120529-120533
+/system_ext/lib64/libYouMeMagicVoice.so 120534-122018 0 122019-122042 0 0 0 0 122043-122065 0 122066-122084
+/system_ext/lib64/lib_inputflingerEx.so 122085-122089
+/system_ext/lib64/lib_theiaDumpstateEx.so 122090-122105
+/system_ext/lib64/libadsprpc_system.so 122106-122170
+/system_ext/lib64/libandroid_protocol.so 122171-122173
+/system_ext/lib64/libatlasservice.so 122174-122207
+/system_ext/lib64/libatlasutilshelper.so 122208-122211
+/system_ext/lib64/libavcodec.so 122212-124684
+/system_ext/lib64/libavenhancements.so 124685-124813
+/system_ext/lib64/libavformat.so 124814-125104
+/system_ext/lib64/libavutil.so 125105-125201
+/system_ext/lib64/libbeluga.so 125202-125205
+/system_ext/lib64/libbinauralrenderer_wrapper.qti.so 125206-125211
+/system_ext/lib64/libbluetooth_qti.so 125212-126343
+/system_ext/lib64/libbsproxy.so 126344-126354
+/system_ext/lib64/libbt-logClient.so 126355 0 126356-126358
+/system_ext/lib64/libbtconfigstore.so 126359-126374
+/system_ext/lib64/libbttestmode.so 126375-126379
+/system_ext/lib64/libcdsprpc_system.so 126380-126383 122110-122124 126384-126429
+/system_ext/lib64/libcommon_dcs_service.so 126430-126440
+/system_ext/lib64/libcryptfs_hw.so 126441-126444
+/system_ext/lib64/libcvp_common_system.so 126445-126449
+/system_ext/lib64/libcvpcpuRev_skel_system.so 126450-126474
+/system_ext/lib64/libdashdatasource.so 126475-126493
+/system_ext/lib64/libdashsamplesource.so 126494-126512
+/system_ext/lib64/libdav1d.so.4 126513-126700
+/system_ext/lib64/libdecrypt_recovery.so 126701-126774 78754 126775-127048
+/system_ext/lib64/libdiag_system.so 127049-127110
+/system_ext/lib64/libdisplayconfig.qti.so 127111-127143
+/system_ext/lib64/libdolphin.so 127144-127174
+/system_ext/lib64/libdpmctmgr.so 127175-127187
+/system_ext/lib64/libdpmfdmgr.so 127188-127197
+/system_ext/lib64/libdpmframework.so 127198-127255
+/system_ext/lib64/libdpmtcm.so 127256-127267
+/system_ext/lib64/libembmsmmosal.so 127268-127277
+/system_ext/lib64/libembmsmmparser_lite.so 127278-127433
+/system_ext/lib64/libembmssqlite.so 127434-127667
+/system_ext/lib64/libembmstinyxml.so 127668-127685
+/system_ext/lib64/libffmpeg_utils.so 127686-127691
+/system_ext/lib64/libfm-hci.so 127692-127701
+/system_ext/lib64/libframeextension.so 127702-127705
+/system_ext/lib64/libfwk.aps.interface.so 127706-127711
+/system_ext/lib64/libgameaudioeffects.so 127712-127720
+/system_ext/lib64/libgaussgraphic.so 127721-127723
+/system_ext/lib64/libgpustress_eng.so 127724-128069 128069 128069-128071
+/system_ext/lib64/libgralloc.qti.so 128072-128080
+/system_ext/lib64/libhoaeffects.qti.so 128081-128086
+/system_ext/lib64/libhoaeffects_csim.so 128087-128116 128115 128117-128400
+/system_ext/lib64/libiatlasservice.so 128401-128430
+/system_ext/lib64/libimscamera_jni.so 128431-128437
+/system_ext/lib64/libimsmedia_jni.so 128438-128446
+/system_ext/lib64/libjnihelpers.so 128447-128464
+/system_ext/lib64/libjnistblur_api.qti.so 128465-128489
+/system_ext/lib64/liblayerext.qti.so 128490-128511
+/system_ext/lib64/liblistenjni.qti.so 128512-128535
+/system_ext/lib64/liblistensoundmodel2.qti.so 128536-129034
+/system_ext/lib64/libmdsprpc_system.so 129035-129038 122110-122124 129039-129084
+/system_ext/lib64/libmediasp_jni.so 129085-129097
+/system_ext/lib64/libmink-sock-native-api.so 129098-129104
+/system_ext/lib64/libminksocket_system.so 129105-129115
+/system_ext/lib64/libmiracastsystem.so 129116-129140
+/system_ext/lib64/libmmQSM.so 129141-129214
+/system_ext/lib64/libmmhttpstack.so 129215-129252
+/system_ext/lib64/libmmiipstreammmihttp.so 129253-129305
+/system_ext/lib64/libmmipstreamnetwork.so 129306-129310
+/system_ext/lib64/libmmipstreamsourcehttp.so 129311-129520
+/system_ext/lib64/libmmipstreamutils.so 129521-129536
+/system_ext/lib64/libmmkevent.so 129537-129540
+/system_ext/lib64/libmmosal.so 129541-129553
+/system_ext/lib64/libmmparser_lite.so 129554-129894
+/system_ext/lib64/libmmrtpdecoder.so 129895-129918
+/system_ext/lib64/libmmrtpencoder.so 129919-129935
+/system_ext/lib64/libmsp.so 129936-131071 131097-133828
+/system_ext/lib64/libnative.so 133829-133925 22705 133926-135388 135381 135389 135391-135393 135386 135394-135465 29121 29121 29121 135466-135473 29130 29130 29130 29130 135474 29121 29121 135475-135483 0 0 0 0 135484-135500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 135501-135715
+/system_ext/lib64/libnativehelpers.so 135716-135722
+/system_ext/lib64/libnq330nfc_nci.so 135723-135803 22705 135804-136391 136391 136391 136393-136395
+/system_ext/lib64/liboddi.so 136396-136417
+/system_ext/lib64/libodispscene.so 136418-136427
+/system_ext/lib64/liboemaids_system.so 136428-136430
+/system_ext/lib64/liboifacegame.so 136431-136436 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 136437 0 0 0 0 0 0 0 136438-136439 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 136440 0 0 0 0 0 0 0 0 0 0 136441 136443-136457 0 136458-136460 0 136461-136463 0 136464-136466 0 136467-136473 0 136474-136496 0 136497-136509 0 0 0 0 0 0 0 0 0 0 0 0 136510-136513 0 0 0 0 0 0 0 0 136514 136472-136473 0 136515-136517 0 136518-136520 0 136521 136483-136484 136522-136531 136495 136532-136537 136441 136538 136444-136445 136539-136546 136454 136547 136456 136548 0 136549-136552 136510-136511 136553 136513 136464-136465 136554 0 136555-136561 0 136562-136570 0 0 0 0 0 0 0 136571 136491-136492 136572-136573 0 0 0 0 0 0 0 136574 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 136575-136586 0 0 0 136587-136588 0 0 0 136589-136590
+/system_ext/lib64/liboifaceim.so 136591-136650
+/system_ext/lib64/liboithmb.so 136651-136763
+/system_ext/lib64/libopf.so 136764-136766
+/system_ext/lib64/liboplus_10bitHeif.so 136767-136787 22705 136788-138247 138247 138247 138249-138307
+/system_ext/lib64/liboplus_heifconverter.so 138308-138310
+/system_ext/lib64/liboplus_imageprocessing.so 138311-138315
+/system_ext/lib64/liboplusaudioDump.so 138316-138318
+/system_ext/lib64/liboplusavenhancements.so 138319-138323
+/system_ext/lib64/libopluscameraservice.so 138324-138371
+/system_ext/lib64/liboplusdisplayinput.so 138372-138380
+/system_ext/lib64/liboplusdisplayqdcm.so 138381-138385
+/system_ext/lib64/liboplusdrmdecoderjni.so 138386-138391
+/system_ext/lib64/liboplusdrmutil.so 138392-138395
+/system_ext/lib64/liboplusgraphic.so 138396-138400
+/system_ext/lib64/liboplusheifwriter.so 138401-138433
+/system_ext/lib64/liboplusloadframe.so 138434-138444
+/system_ext/lib64/liboplusmagicvoiceloopback.so 138445-138451
+/system_ext/lib64/liboplusmediaplayerservice.so 138452-138479
+/system_ext/lib64/liboplusplugin.so 138480-138487
+/system_ext/lib64/liboplusrecorder.so 138488-138637
+/system_ext/lib64/liboplusstagefright.so 138638-138678
+/system_ext/lib64/liboplusstagefright__mp3enc.so 138679-138743
+/system_ext/lib64/liboplusstagefright_foundation.so 138744-138746
+/system_ext/lib64/liboplustinyxml.so 138747-138762
+/system_ext/lib64/liboplusutils.so 138763-138778
+/system_ext/lib64/liboppo_rp.so 138779-138781
+/system_ext/lib64/liboppoaudiolowlatency.so 138782-138791
+/system_ext/lib64/libozoaudiodecoder.so 138792-138817 22705 138818-139012 0 0 0 139013-139016 0 0 139017 139019-139021 0 0 0 0 139022-139024 0 0 0 0 139025-139027 0 0 0 0 139028-139029 0 0 0 0 139030-139032 0 0 0 0 139033-139034 0 0 0 0 139035-139037 0 0 0 139038-139040 0 0 0 0 139041-139043 0 0 0 0 139044-139045 0 0 0 0 0 139046-139048 0 0 0 0 139049-139050 0 0 0 0 139051-139053 0 0 0 0 139054-139055 0 0 0 0 139056-139058 0 0 0 0 139059-139060 0 0 0 0 139061-139062 0 0 0 0 0 139063-139064 0 0 0 0 139065-139066 0 0 0 0 0 139067-139068 0 0 0 0 139069-139070 0 0 0 0 0 139071-139072 0 0 0 0 0 139073-139074 0 0 0 0 0 139075-139076 0 0 0 0 139077-139079 0 0 0 0 139080-139081 0 0 0 0 139082-139083 0 0 0 0 139084-139086 0 0 0 0 139087-139088 0 0 0 0 139089-139091 0 0 0 0 139092-139094 0 0 0 0 139095-139098 0 0 0 139099-139101 0 0 0 139102-140030
+/system_ext/lib64/libozoaudioutils.so 140031-140042
+/system_ext/lib64/libphoenix_jni.so 140043-140045
+/system_ext/lib64/libphoenix_native.so 140046-140055
+/system_ext/lib64/libqcc.so 140056-140212
+/system_ext/lib64/libqcc_file_agent_sys.so 140213-140223
+/system_ext/lib64/libqcomfm_jni.so 140224-140234
+/system_ext/lib64/libqdMetaData.so 140235-140242
+/system_ext/lib64/libqmi_cci_system.so 140243-140256
+/system_ext/lib64/libqmi_encdec_system.so 140257-140262
+/system_ext/lib64/libqspmsvc.so 140263-140270
+/system_ext/lib64/libqti-at.so 140271-140274
+/system_ext/lib64/libqti-iopd-client_system.so 140275-140280
+/system_ext/lib64/libqti-perfd-client_system.so 140281-140288
+/system_ext/lib64/libqti-util_system.so 140289-140294
+/system_ext/lib64/libqti_performance.so 140295-140301
+/system_ext/lib64/libqti_vndfwk_detect.so 140302-140305
+/system_ext/lib64/libqti_workloadclassifiermodel.so 140306-140310
+/system_ext/lib64/libquickboot.so 140311-140335
+/system_ext/lib64/libqvrcamera_client.qti.so 140336-140381
+/system_ext/lib64/libqvrservice_client.qti.so 140382-140424
+/system_ext/lib64/libqvrservice_ov7251_hvx_tuning.so 140425-140430
+/system_ext/lib64/libqvrservice_ov9282_hvx_tuning.so 140431 140426-140427 140432-140433 140430
+/system_ext/lib64/libqvrservice_v4l_ov7251_hvx_tuning.so 140434 140426-140427 140435-140436 140430
+/system_ext/lib64/libradio_em5g_jni.so 140437-140446
+/system_ext/lib64/librftoolkit.so 140447-140454
+/system_ext/lib64/libsaupwk_native.so 140455-140457
+/system_ext/lib64/libsd_sdk_display.qti.so 140458-140465
+/system_ext/lib64/libsdm-disp-apis.qti.so 140466-140476
+/system_ext/lib64/libsdsprpc_system.so 140477 126381 140478-140479 122110-122124 126384-126389 140481-140489 126399-126408 140490-140491 126411-126426 140492-140494
+/system_ext/lib64/libseccam-ipc.so 140495-140498
+/system_ext/lib64/libseccam.so 140499-140517
+/system_ext/lib64/libseccamservice.so 140518-140525
+/system_ext/lib64/libsecureui_svcsock_system.so 140526-140536
+/system_ext/lib64/libsecureuisvc_jni.so 140537-140547
+/system_ext/lib64/libshutdown_native.so 140548-140550
+/system_ext/lib64/libskewknob_system.so 140551-140558
+/system_ext/lib64/libslpVoiceEngine.so 140559-140683
+/system_ext/lib64/libsmomo.qti.so 140684-140732
+/system_ext/lib64/libsn100nfc_nci.so 140733-140808 22705 140809-141313 141313-141316
+/system_ext/lib64/libsvelte_malloc.so 141317-141346
+/system_ext/lib64/libswresample.so 141347-141367
+/system_ext/lib64/libswscale.so 141368-141479
+/system_ext/lib64/libtinyxmlbp.so 141480 138748-138749 141481 138751-138760 141482 141484
+/system_ext/lib64/libtrigger-handler.so 141485-141489
+/system_ext/lib64/libupdateprof.qti.so 141490-141496
+/system_ext/lib64/libvndfwk_detect_jni.qti.so 141497-141500
+/system_ext/lib64/libvr_amb_engine.so 141501-141531 141530 141532-141819
+/system_ext/lib64/libvr_object_engine.so 141820-141850 141849 141851-142135
+/system_ext/lib64/libvr_sam_wrapper.so 142136-142147
+/system_ext/lib64/libvraudio.so 142148-142219
+/system_ext/lib64/libvraudio_client.qti.so 142220-142227
+/system_ext/lib64/libwatchcall.so 142228-142237
+/system_ext/lib64/libwfdclient.so 142238-142284
+/system_ext/lib64/libwfdcommonutils.so 142285-142311
+/system_ext/lib64/libwfdconfigutils.so 142312-142336
+/system_ext/lib64/libwfddisplayconfig.so 142337-142340
+/system_ext/lib64/libwfdmminterface.so 142341-142350
+/system_ext/lib64/libwfdmmsink.so 142351-142400
+/system_ext/lib64/libwfdnative.so 142401-142414
+/system_ext/lib64/libwfdrtsp.so 142415-142498
+/system_ext/lib64/libwfdsinksm.so 142499-142540
+/system_ext/lib64/libwfduibcinterface.so 142541-142544
+/system_ext/lib64/libwfduibcsink.so 142545-142554
+/system_ext/lib64/libwfduibcsinkinterface.so 142555-142559
+/system_ext/lib64/libwfduibcsrc.so 142560-142575
+/system_ext/lib64/libwfduibcsrcinterface.so 142576-142580
+/system_ext/lib64/oppoex/libasserttipex.so 142581-142586
+/system_ext/lib64/oppoex/libcriticallogex.so 142587-142594
+/system_ext/lib64/oppoex/libdisplayppex.so 142595-142601
+/system_ext/lib64/oppoex/liboplustpcomplogex.so 142602-142646
+/system_ext/lib64/vendor.display.color@1.0.so 142647-142699
+/system_ext/lib64/vendor.display.color@1.1.so 142700-142735
+/system_ext/lib64/vendor.display.color@1.2.so 142736-142772
+/system_ext/lib64/vendor.display.color@1.3.so 142773-142813
+/system_ext/lib64/vendor.display.config@1.0.so 142814-142852
+/system_ext/lib64/vendor.display.config@1.1.so 142853-142882
+/system_ext/lib64/vendor.display.config@1.10.so 142883-142947
+/system_ext/lib64/vendor.display.config@1.11.so 142948-142997
+/system_ext/lib64/vendor.display.config@1.12.so 142998-143049
+/system_ext/lib64/vendor.display.config@1.13.so 143050-143103
+/system_ext/lib64/vendor.display.config@1.14.so 143104-143158
+/system_ext/lib64/vendor.display.config@1.2.so 143159-143190
+/system_ext/lib64/vendor.display.config@1.3.so 143191-143223
+/system_ext/lib64/vendor.display.config@1.4.so 143224-143258
+/system_ext/lib64/vendor.display.config@1.5.so 143259-143295
+/system_ext/lib64/vendor.display.config@1.6.so 143296-143334
+/system_ext/lib64/vendor.display.config@1.7.so 143335-143379
+/system_ext/lib64/vendor.display.config@1.8.so 143380-143423
+/system_ext/lib64/vendor.display.config@1.9.so 143424-143469
+/system_ext/lib64/vendor.display.config@2.0.so 143470-143506
+/system_ext/lib64/vendor.display.postproc@1.0.so 143507-143527
+/system_ext/lib64/vendor.dolby.hardware.dms@2.0.so 143528-143591
+/system_ext/lib64/vendor.oplus.hardware.biometrics.fingerprintpay@1.0.so 143592-143631
+/system_ext/lib64/vendor.oplus.hardware.bluetooth_audio@1.0.so 143632-143661
+/system_ext/lib64/vendor.oplus.hardware.charger@1.0.so 143662-143697
+/system_ext/lib64/vendor.oplus.hardware.commondcs@1.0.so 143698-143716
+/system_ext/lib64/vendor.oplus.hardware.cryptoeng@1.0.so 143717-143735
+/system_ext/lib64/vendor.oplus.hardware.displaypanelfeature@1.0.so 143736-143756
+/system_ext/lib64/vendor.oplus.hardware.earprotection@1.0.so 143757-143777
+/system_ext/lib64/vendor.oplus.hardware.engcamera@1.0.so 143778-143813
+/system_ext/lib64/vendor.oplus.hardware.engineer@1.0.so 143814-143852
+/system_ext/lib64/vendor.oplus.hardware.engsensor@1.0.so 143853-143873
+/system_ext/lib64/vendor.oplus.hardware.fido.fidoca@1.0.so 143874-143894
+/system_ext/lib64/vendor.oplus.hardware.mmdisplayfeature@1.0.so 143895-143914
+/system_ext/lib64/vendor.oplus.hardware.oplusSensor@1.0.so 143915-143934
+/system_ext/lib64/vendor.oplus.hardware.orms.ormsHalService@1.0.so 143935-143965
+/system_ext/lib64/vendor.oplus.hardware.orms@1.0.so 143966-143986
+/system_ext/lib64/vendor.oplus.hardware.stability.oplus_project@1.0.so 143987-144008
+/system_ext/lib64/vendor.oplus.hardware.thermalmntcfg@1.0.so 144009-144029
+/system_ext/lib64/vendor.oplus.hardware.touch@1.0.so 144030-144050
+/system_ext/lib64/vendor.oplus.hardware.transmessage@1.0.so 144051-144075
+/system_ext/lib64/vendor.oplus.hardware.wifi@1.1.so 144076-144100
+/system_ext/lib64/vendor.pixelworks.hardware.display@1.0.so 144101-144132
+/system_ext/lib64/vendor.qti.data.factory@1.0.so 144133-144176
+/system_ext/lib64/vendor.qti.data.factory@2.0.so 144177-144215 144172 144216-144219
+/system_ext/lib64/vendor.qti.data.factory@2.1.so 144220-144259
+/system_ext/lib64/vendor.qti.data.slm@1.0.so 144260-144293
+/system_ext/lib64/vendor.qti.diaghal@1.0.so 144294-144328
+/system_ext/lib64/vendor.qti.gnss@1.0.so 144329-144658
+/system_ext/lib64/vendor.qti.gnss@1.1.so 144659-144967 144967-144981
+/system_ext/lib64/vendor.qti.gnss@1.2.so 144982-145071
+/system_ext/lib64/vendor.qti.gnss@2.0.so 145072-145131
+/system_ext/lib64/vendor.qti.gnss@2.1.so 145132-145403
+/system_ext/lib64/vendor.qti.gnss@3.0.so 145404-145498
+/system_ext/lib64/vendor.qti.gnss@4.0.so 145499-145644
+/system_ext/lib64/vendor.qti.hardware.alarm@1.0.so 145645-145667
+/system_ext/lib64/vendor.qti.hardware.audiohalext@1.0.so 145668-145692
+/system_ext/lib64/vendor.qti.hardware.bluetooth_audio@2.0.so 145693-145749
+/system_ext/lib64/vendor.qti.hardware.btconfigstore@1.0.so 145750-145775
+/system_ext/lib64/vendor.qti.hardware.btconfigstore@2.0.so 145776-145802
+/system_ext/lib64/vendor.qti.hardware.camera.device@1.0.so 145803-145829
+/system_ext/lib64/vendor.qti.hardware.camera.postproc@1.0.so 145830-145882
+/system_ext/lib64/vendor.qti.hardware.capabilityconfigstore@1.0.so 145883-145905
+/system_ext/lib64/vendor.qti.hardware.cryptfshw@1.0.so 145906-145928
+/system_ext/lib64/vendor.qti.hardware.cvp@1.0-adapter-helper.so 145929-146150
+/system_ext/lib64/vendor.qti.hardware.cvp@1.0.so 146151-146341
+/system_ext/lib64/vendor.qti.hardware.data.cne.internal.api@1.0.so 146342-146408
+/system_ext/lib64/vendor.qti.hardware.data.cne.internal.constants@1.0.so 146409 118717-118718 146410
+/system_ext/lib64/vendor.qti.hardware.data.cne.internal.server@1.0.so 146411-146478
+/system_ext/lib64/vendor.qti.hardware.data.connection@1.0.so 146479-146531
+/system_ext/lib64/vendor.qti.hardware.data.connection@1.1.so 146532-146557
+/system_ext/lib64/vendor.qti.hardware.data.dynamicdds@1.0.so 146558-146635
+/system_ext/lib64/vendor.qti.hardware.data.iwlan@1.0.so 146636-146702
+/system_ext/lib64/vendor.qti.hardware.data.latency@1.0.so 146703-146751
+/system_ext/lib64/vendor.qti.hardware.data.qmi@1.0.so 146752-146808
+/system_ext/lib64/vendor.qti.hardware.display.composer@3.0.so 146809-146882
+/system_ext/lib64/vendor.qti.hardware.dsp@1.0.so 146883-146919
+/system_ext/lib64/vendor.qti.hardware.embmssl@1.0-adapter-helper.so 146920-147040
+/system_ext/lib64/vendor.qti.hardware.embmssl@1.0.so 147041-147148
+/system_ext/lib64/vendor.qti.hardware.fingerprint@1.0.so 147149-147265
+/system_ext/lib64/vendor.qti.hardware.fm@1.0.so 147266-147301
+/system_ext/lib64/vendor.qti.hardware.iop@2.0.so 147302-147327
+/system_ext/lib64/vendor.qti.hardware.perf@2.0.so 147328-147357
+/system_ext/lib64/vendor.qti.hardware.perf@2.1.so 147358-147396
+/system_ext/lib64/vendor.qti.hardware.perf@2.2.so 147397-147427
+/system_ext/lib64/vendor.qti.hardware.qccsyshal@1.0-halimpl.so 147428-147437
+/system_ext/lib64/vendor.qti.hardware.qccsyshal@1.0.so 147438-147489
+/system_ext/lib64/vendor.qti.hardware.qccvndhal@1.0.so 147490-147522
+/system_ext/lib64/vendor.qti.hardware.qdutils_disp@1.0.so 147523-147546
+/system_ext/lib64/vendor.qti.hardware.qseecom@1.0.so 147547-147583
+/system_ext/lib64/vendor.qti.hardware.qteeconnector@1.0.so 147584-147650
+/system_ext/lib64/vendor.qti.hardware.radio.am@1.0.so 147651-147687
+/system_ext/lib64/vendor.qti.hardware.radio.ims@1.0.so 147688-147852
+/system_ext/lib64/vendor.qti.hardware.radio.ims@1.1.so 147853-147940
+/system_ext/lib64/vendor.qti.hardware.radio.ims@1.2.so 147941-148083
+/system_ext/lib64/vendor.qti.hardware.radio.ims@1.3.so 148084-148233
+/system_ext/lib64/vendor.qti.hardware.radio.ims@1.4.so 148234-148395
+/system_ext/lib64/vendor.qti.hardware.radio.ims@1.5.so 148396-148569
+/system_ext/lib64/vendor.qti.hardware.radio.ims@1.6.so 148570-148773
+/system_ext/lib64/vendor.qti.hardware.radio.internal.deviceinfo@1.0.so 148774-148827
+/system_ext/lib64/vendor.qti.hardware.radio.lpa@1.0.so 148828-148882
+/system_ext/lib64/vendor.qti.hardware.radio.qcrilhook@1.0.so 148883-148931
+/system_ext/lib64/vendor.qti.hardware.radio.qtiradio@1.0.so 148932-148980
+/system_ext/lib64/vendor.qti.hardware.radio.qtiradio@2.0.so 148981-149053
+/system_ext/lib64/vendor.qti.hardware.radio.qtiradio@2.1.so 149054-149130
+/system_ext/lib64/vendor.qti.hardware.radio.qtiradio@2.2.so 149131-149210
+/system_ext/lib64/vendor.qti.hardware.radio.qtiradio@2.3.so 149211-149279
+/system_ext/lib64/vendor.qti.hardware.radio.qtiradio@2.4.so 149280-149349
+/system_ext/lib64/vendor.qti.hardware.radio.uim@1.0.so 149350-149397
+/system_ext/lib64/vendor.qti.hardware.radio.uim@1.1.so 149398-149438
+/system_ext/lib64/vendor.qti.hardware.radio.uim@1.2.so 149439-149486
+/system_ext/lib64/vendor.qti.hardware.radio.uim_remote_client@1.0.so 149487-149545
+/system_ext/lib64/vendor.qti.hardware.radio.uim_remote_client@1.1.so 149546-149574
+/system_ext/lib64/vendor.qti.hardware.radio.uim_remote_client@1.2.so 149575-149606
+/system_ext/lib64/vendor.qti.hardware.radio.uim_remote_server@1.0.so 149607-149675
+/system_ext/lib64/vendor.qti.hardware.scve.objecttracker@1.0-adapter-helper.so 149676-149734
+/system_ext/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so 149735-149741 148780 149742-149781
+/system_ext/lib64/vendor.qti.hardware.scve.panorama@1.0-adapter-helper.so 149782-149867
+/system_ext/lib64/vendor.qti.hardware.scve.panorama@1.0.so 149868-149940
+/system_ext/lib64/vendor.qti.hardware.seccam@1.0.so 149941-149963
+/system_ext/lib64/vendor.qti.hardware.secureprocessor.common@1.0.so 149964 118717-118718 149965
+/system_ext/lib64/vendor.qti.hardware.secureprocessor.config@1.0.so 149966 118717-118718 149967
+/system_ext/lib64/vendor.qti.hardware.secureprocessor.device@1.0.so 149968-149997
+/system_ext/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so 149998-150019
+/system_ext/lib64/vendor.qti.hardware.sigma_miracast@1.0.so 150027-150060
+/system_ext/lib64/vendor.qti.hardware.sigma_miracast@1.0-halimpl.so 150020-150026
+/system_ext/lib64/vendor.qti.hardware.slmadapter@1.0.so 150061-150103
+/system_ext/lib64/vendor.qti.hardware.soter@1.0.so 150104-150139
+/system_ext/lib64/vendor.qti.hardware.tui_comm@1.0.so 150140-150182
+/system_ext/lib64/vendor.qti.hardware.vpp@1.1.so 150183-150237
+/system_ext/lib64/vendor.qti.hardware.vpp@1.2.so 150238-150279
+/system_ext/lib64/vendor.qti.hardware.vpp@1.3.so 150280-150328
+/system_ext/lib64/vendor.qti.hardware.wifi.keystore@1.0.so 150329-150351
+/system_ext/lib64/vendor.qti.hardware.wifidisplaysession@1.0.so 150352-150551
+/system_ext/lib64/vendor.qti.hardware.wigig.netperftuner@1.0.so 150552-150576
+/system_ext/lib64/vendor.qti.hardware.wigig.supptunnel@1.0.so 150577-150630
+/system_ext/lib64/vendor.qti.ims.callcapability@1.0.so 150631-150665
+/system_ext/lib64/vendor.qti.ims.callinfo@1.0.so 150666-150699
+/system_ext/lib64/vendor.qti.ims.factory@1.0.so 150700-150729
+/system_ext/lib64/vendor.qti.ims.factory@1.1.so 150730-150760
+/system_ext/lib64/vendor.qti.ims.rcsconfig@1.0.so 150761-150807
+/system_ext/lib64/vendor.qti.ims.rcsconfig@1.1.so 150808-150862
+/system_ext/lib64/vendor.qti.ims.rcsconfig@2.0.so 150863-150955
+/system_ext/lib64/vendor.qti.ims.rcsconfig@2.1.so 150956-151002
+/system_ext/lib64/vendor.qti.imsrtpservice@3.0.so 151003-151062
+/system_ext/lib64/vendor.qti.latency@2.0.so 151063-151095
+/system_ext/lib64/vendor.qti.qspmhal@1.0.so 151096-151121
+/system_ext/lib64/vendor.qti.voiceprint@1.0.so 151122-151189
+/system_ext/media/audio/notifications/ClassHarp1_1.ogg 151190-151193
+/system_ext/media/audio/notifications/ClassHarp1_10.ogg 151194-151197
+/system_ext/media/audio/notifications/ClassHarp1_2.ogg 151198-151201
+/system_ext/media/audio/notifications/ClassHarp1_3.ogg 151202-151205
+/system_ext/media/audio/notifications/ClassHarp1_4.ogg 151206-151209
+/system_ext/media/audio/notifications/ClassHarp1_5.ogg 151210-151213
+/system_ext/media/audio/notifications/ClassHarp1_6.ogg 151214-151217
+/system_ext/media/audio/notifications/ClassHarp1_7.ogg 151218-151221
+/system_ext/media/audio/notifications/ClassHarp1_8.ogg 151222-151225
+/system_ext/media/audio/notifications/ClassHarp1_9.ogg 151226-151229
+/system_ext/media/audio/notifications/ClassHarp2_1.ogg 151230-151234
+/system_ext/media/audio/notifications/ClassHarp2_2.ogg 151235-151239
+/system_ext/media/audio/notifications/ClassHarp2_3.ogg 151240-151245
+/system_ext/media/audio/notifications/ClassHarp2_4.ogg 151246-151250
+/system_ext/media/audio/notifications/ClassHarp2_5.ogg 151251-151255
+/system_ext/media/audio/notifications/ClassHarp2_6.ogg 151256-151260
+/system_ext/media/audio/notifications/ClassHarp2_7.ogg 151261-151266
+/system_ext/media/audio/notifications/ClassHarp2_8.ogg 151267-151271
+/system_ext/media/audio/notifications/ClassHarp2_9.ogg 151272-151276
+/system_ext/media/audio/notifications/ClassHarp3_1.ogg 151277-151280
+/system_ext/media/audio/notifications/ClassHarp3_10.ogg 151281-151285
+/system_ext/media/audio/notifications/ClassHarp3_11.ogg 151286-151290
+/system_ext/media/audio/notifications/ClassHarp3_12.ogg 151291-151294
+/system_ext/media/audio/notifications/ClassHarp3_13.ogg 151295-151299
+/system_ext/media/audio/notifications/ClassHarp3_14.ogg 151300-151304
+/system_ext/media/audio/notifications/ClassHarp3_15.ogg 151305-151310
+/system_ext/media/audio/notifications/ClassHarp3_2.ogg 151311-151315
+/system_ext/media/audio/notifications/ClassHarp3_3.ogg 151316-151320
+/system_ext/media/audio/notifications/ClassHarp3_4.ogg 151321-151324
+/system_ext/media/audio/notifications/ClassHarp3_5.ogg 151325-151328
+/system_ext/media/audio/notifications/ClassHarp3_6.ogg 151329-151332
+/system_ext/media/audio/notifications/ClassHarp3_7.ogg 151333-151336
+/system_ext/media/audio/notifications/ClassHarp3_8.ogg 151337-151340
+/system_ext/media/audio/notifications/ClassHarp3_9.ogg 151341-151345
+/system_ext/media/audio/notifications/ClassHarp4_1.ogg 151346-151350
+/system_ext/media/audio/notifications/ClassHarp4_10.ogg 151351-151354
+/system_ext/media/audio/notifications/ClassHarp4_11.ogg 151355-151358
+/system_ext/media/audio/notifications/ClassHarp4_12.ogg 151359-151362
+/system_ext/media/audio/notifications/ClassHarp4_13.ogg 151363-151366
+/system_ext/media/audio/notifications/ClassHarp4_14.ogg 151367-151370
+/system_ext/media/audio/notifications/ClassHarp4_15.ogg 151371-151374
+/system_ext/media/audio/notifications/ClassHarp4_16.ogg 151375-151378
+/system_ext/media/audio/notifications/ClassHarp4_2.ogg 151379-151383
+/system_ext/media/audio/notifications/ClassHarp4_3.ogg 151384-151388
+/system_ext/media/audio/notifications/ClassHarp4_4.ogg 151389-151393
+/system_ext/media/audio/notifications/ClassHarp4_5.ogg 151394-151397
+/system_ext/media/audio/notifications/ClassHarp4_6.ogg 151398-151402
+/system_ext/media/audio/notifications/ClassHarp4_7.ogg 151403-151406
+/system_ext/media/audio/notifications/ClassHarp4_8.ogg 151407-151410
+/system_ext/media/audio/notifications/ClassHarp4_9.ogg 151411-151414
+/system_ext/media/audio/notifications/ClassHarpPreview.ogg 151415-151438
+/system_ext/media/audio/notifications/ClassicGuitar1_1.ogg 151439-151444
+/system_ext/media/audio/notifications/ClassicGuitar1_10.ogg 151445-151450
+/system_ext/media/audio/notifications/ClassicGuitar1_2.ogg 151451-151456
+/system_ext/media/audio/notifications/ClassicGuitar1_3.ogg 151457-151462
+/system_ext/media/audio/notifications/ClassicGuitar1_4.ogg 151463-151468
+/system_ext/media/audio/notifications/ClassicGuitar1_5.ogg 151469-151474
+/system_ext/media/audio/notifications/ClassicGuitar1_6.ogg 151475-151480
+/system_ext/media/audio/notifications/ClassicGuitar1_7.ogg 151481-151486
+/system_ext/media/audio/notifications/ClassicGuitar1_8.ogg 151487-151492
+/system_ext/media/audio/notifications/ClassicGuitar1_9.ogg 151493-151498
+/system_ext/media/audio/notifications/ClassicGuitar2_1.ogg 151439-151444
+/system_ext/media/audio/notifications/ClassicGuitar2_2.ogg 151499-151505
+/system_ext/media/audio/notifications/ClassicGuitar2_3.ogg 151506-151511
+/system_ext/media/audio/notifications/ClassicGuitar2_4.ogg 151512-151517
+/system_ext/media/audio/notifications/ClassicGuitar2_5.ogg 151518-151522
+/system_ext/media/audio/notifications/ClassicGuitar2_6.ogg 151523-151528
+/system_ext/media/audio/notifications/ClassicGuitar2_7.ogg 151529-151533
+/system_ext/media/audio/notifications/ClassicGuitar2_8.ogg 151534-151539
+/system_ext/media/audio/notifications/ClassicGuitar2_9.ogg 151540-151544
+/system_ext/media/audio/notifications/ClassicGuitar3_1.ogg 151545-151550
+/system_ext/media/audio/notifications/ClassicGuitar3_10.ogg 151551-151556
+/system_ext/media/audio/notifications/ClassicGuitar3_11.ogg 151557-151561
+/system_ext/media/audio/notifications/ClassicGuitar3_12.ogg 151562-151567
+/system_ext/media/audio/notifications/ClassicGuitar3_13.ogg 151568-151572
+/system_ext/media/audio/notifications/ClassicGuitar3_14.ogg 151573-151578
+/system_ext/media/audio/notifications/ClassicGuitar3_15.ogg 151579-151584
+/system_ext/media/audio/notifications/ClassicGuitar3_2.ogg 151585-151590
+/system_ext/media/audio/notifications/ClassicGuitar3_3.ogg 151591-151596
+/system_ext/media/audio/notifications/ClassicGuitar3_4.ogg 151597-151602
+/system_ext/media/audio/notifications/ClassicGuitar3_5.ogg 151603-151608
+/system_ext/media/audio/notifications/ClassicGuitar3_6.ogg 151609-151614
+/system_ext/media/audio/notifications/ClassicGuitar3_7.ogg 151545-151546 151615-151618
+/system_ext/media/audio/notifications/ClassicGuitar3_8.ogg 151619-151624
+/system_ext/media/audio/notifications/ClassicGuitar3_9.ogg 151625-151630
+/system_ext/media/audio/notifications/ClassicGuitar4_1.ogg 151631-151636
+/system_ext/media/audio/notifications/ClassicGuitar4_10.ogg 151637-151642
+/system_ext/media/audio/notifications/ClassicGuitar4_11.ogg 151643-151648
+/system_ext/media/audio/notifications/ClassicGuitar4_12.ogg 151649-151654
+/system_ext/media/audio/notifications/ClassicGuitar4_13.ogg 151655-151660
+/system_ext/media/audio/notifications/ClassicGuitar4_14.ogg 151661-151665
+/system_ext/media/audio/notifications/ClassicGuitar4_15.ogg 151666-151670
+/system_ext/media/audio/notifications/ClassicGuitar4_16.ogg 151671-151675
+/system_ext/media/audio/notifications/ClassicGuitar4_2.ogg 151676-151681
+/system_ext/media/audio/notifications/ClassicGuitar4_3.ogg 151682-151686
+/system_ext/media/audio/notifications/ClassicGuitar4_4.ogg 151687-151692
+/system_ext/media/audio/notifications/ClassicGuitar4_5.ogg 151693-151698
+/system_ext/media/audio/notifications/ClassicGuitar4_6.ogg 151699-151704
+/system_ext/media/audio/notifications/ClassicGuitar4_7.ogg 151705-151710
+/system_ext/media/audio/notifications/ClassicGuitar4_8.ogg 151711-151716
+/system_ext/media/audio/notifications/ClassicGuitar4_9.ogg 151717-151722
+/system_ext/media/audio/notifications/ClassicGuitarPreview.ogg 151723-151753
+/system_ext/media/audio/notifications/Electronic1_1.ogg 151754-151756
+/system_ext/media/audio/notifications/Electronic1_10.ogg 151757-151759
+/system_ext/media/audio/notifications/Electronic1_2.ogg 151760-151762
+/system_ext/media/audio/notifications/Electronic1_3.ogg 151763-151765
+/system_ext/media/audio/notifications/Electronic1_4.ogg 151766-151767
+/system_ext/media/audio/notifications/Electronic1_5.ogg 151768-151769
+/system_ext/media/audio/notifications/Electronic1_6.ogg 151770-151772
+/system_ext/media/audio/notifications/Electronic1_7.ogg 151773-151775
+/system_ext/media/audio/notifications/Electronic1_8.ogg 151776-151778
+/system_ext/media/audio/notifications/Electronic1_9.ogg 151779-151781
+/system_ext/media/audio/notifications/Electronic2_1.ogg 151782-151784
+/system_ext/media/audio/notifications/Electronic2_2.ogg 151785-151788
+/system_ext/media/audio/notifications/Electronic2_3.ogg 151789-151791
+/system_ext/media/audio/notifications/Electronic2_4.ogg 151792-151794
+/system_ext/media/audio/notifications/Electronic2_5.ogg 151795-151797
+/system_ext/media/audio/notifications/Electronic2_6.ogg 151798-151800
+/system_ext/media/audio/notifications/Electronic2_7.ogg 151801-151803
+/system_ext/media/audio/notifications/Electronic2_8.ogg 151804-151806
+/system_ext/media/audio/notifications/Electronic2_9.ogg 151807-151809
+/system_ext/media/audio/notifications/Electronic3_1.ogg 151810-151812
+/system_ext/media/audio/notifications/Electronic3_10.ogg 151813-151815
+/system_ext/media/audio/notifications/Electronic3_11.ogg 151816-151817
+/system_ext/media/audio/notifications/Electronic3_12.ogg 151818-151820
+/system_ext/media/audio/notifications/Electronic3_13.ogg 151821-151823
+/system_ext/media/audio/notifications/Electronic3_14.ogg 151824-151826
+/system_ext/media/audio/notifications/Electronic3_15.ogg 151827-151829
+/system_ext/media/audio/notifications/Electronic3_2.ogg 151830-151832
+/system_ext/media/audio/notifications/Electronic3_3.ogg 151833-151835
+/system_ext/media/audio/notifications/Electronic3_4.ogg 151836-151838
+/system_ext/media/audio/notifications/Electronic3_5.ogg 151839-151841
+/system_ext/media/audio/notifications/Electronic3_6.ogg 151842-151844
+/system_ext/media/audio/notifications/Electronic3_7.ogg 151845-151847
+/system_ext/media/audio/notifications/Electronic3_8.ogg 151848-151850
+/system_ext/media/audio/notifications/Electronic3_9.ogg 151851-151853
+/system_ext/media/audio/notifications/Electronic4_1.ogg 151854-151856
+/system_ext/media/audio/notifications/Electronic4_10.ogg 151857-151859
+/system_ext/media/audio/notifications/Electronic4_11.ogg 151860-151862
+/system_ext/media/audio/notifications/Electronic4_12.ogg 151863-151865
+/system_ext/media/audio/notifications/Electronic4_13.ogg 151866-151867
+/system_ext/media/audio/notifications/Electronic4_14.ogg 151868-151869
+/system_ext/media/audio/notifications/Electronic4_15.ogg 151870-151872
+/system_ext/media/audio/notifications/Electronic4_16.ogg 151873-151875
+/system_ext/media/audio/notifications/Electronic4_2.ogg 151876-151878
+/system_ext/media/audio/notifications/Electronic4_3.ogg 151879-151881
+/system_ext/media/audio/notifications/Electronic4_4.ogg 151882-151884
+/system_ext/media/audio/notifications/Electronic4_5.ogg 151885-151887
+/system_ext/media/audio/notifications/Electronic4_6.ogg 151888-151890
+/system_ext/media/audio/notifications/Electronic4_7.ogg 151891-151892
+/system_ext/media/audio/notifications/Electronic4_8.ogg 151893-151895
+/system_ext/media/audio/notifications/Electronic4_9.ogg 151896-151898
+/system_ext/media/audio/notifications/ElectronicPreview.ogg 151899-151924
+/system_ext/media/audio/notifications/Marimba1_1.ogg 151925-151928
+/system_ext/media/audio/notifications/Marimba1_10.ogg 151929-151932
+/system_ext/media/audio/notifications/Marimba1_2.ogg 151933-151936
+/system_ext/media/audio/notifications/Marimba1_3.ogg 151937-151940
+/system_ext/media/audio/notifications/Marimba1_4.ogg 151941-151944
+/system_ext/media/audio/notifications/Marimba1_5.ogg 151945-151948
+/system_ext/media/audio/notifications/Marimba1_6.ogg 151949-151952
+/system_ext/media/audio/notifications/Marimba1_7.ogg 151953-151955
+/system_ext/media/audio/notifications/Marimba1_8.ogg 151956-151959
+/system_ext/media/audio/notifications/Marimba1_9.ogg 151960-151963
+/system_ext/media/audio/notifications/Marimba2_1.ogg 151964-151967
+/system_ext/media/audio/notifications/Marimba2_2.ogg 151968-151970
+/system_ext/media/audio/notifications/Marimba2_3.ogg 151971-151974
+/system_ext/media/audio/notifications/Marimba2_4.ogg 151975-151978
+/system_ext/media/audio/notifications/Marimba2_5.ogg 151979-151982
+/system_ext/media/audio/notifications/Marimba2_6.ogg 151983-151986
+/system_ext/media/audio/notifications/Marimba2_7.ogg 151987-151991
+/system_ext/media/audio/notifications/Marimba2_8.ogg 151992-151996
+/system_ext/media/audio/notifications/Marimba2_9.ogg 151997-152001
+/system_ext/media/audio/notifications/Marimba3_1.ogg 152002-152004
+/system_ext/media/audio/notifications/Marimba3_10.ogg 152005-152008
+/system_ext/media/audio/notifications/Marimba3_11.ogg 152009-152012
+/system_ext/media/audio/notifications/Marimba3_12.ogg 152013-152016
+/system_ext/media/audio/notifications/Marimba3_13.ogg 152017-152020
+/system_ext/media/audio/notifications/Marimba3_14.ogg 152021-152024
+/system_ext/media/audio/notifications/Marimba3_15.ogg 152025-152028
+/system_ext/media/audio/notifications/Marimba3_2.ogg 152029-152031
+/system_ext/media/audio/notifications/Marimba3_3.ogg 152032-152035
+/system_ext/media/audio/notifications/Marimba3_4.ogg 152036-152039
+/system_ext/media/audio/notifications/Marimba3_5.ogg 152040-152043
+/system_ext/media/audio/notifications/Marimba3_6.ogg 152044-152047
+/system_ext/media/audio/notifications/Marimba3_7.ogg 152048-152051
+/system_ext/media/audio/notifications/Marimba3_8.ogg 152052-152055
+/system_ext/media/audio/notifications/Marimba3_9.ogg 152056-152059
+/system_ext/media/audio/notifications/Marimba4_1.ogg 152060-152062
+/system_ext/media/audio/notifications/Marimba4_10.ogg 152063-152066
+/system_ext/media/audio/notifications/Marimba4_11.ogg 152067-152070
+/system_ext/media/audio/notifications/Marimba4_12.ogg 152071-152073
+/system_ext/media/audio/notifications/Marimba4_13.ogg 152074-152076
+/system_ext/media/audio/notifications/Marimba4_14.ogg 152077-152080
+/system_ext/media/audio/notifications/Marimba4_15.ogg 152081-152084
+/system_ext/media/audio/notifications/Marimba4_16.ogg 152085-152088
+/system_ext/media/audio/notifications/Marimba4_2.ogg 152089-152092
+/system_ext/media/audio/notifications/Marimba4_3.ogg 152093-152096
+/system_ext/media/audio/notifications/Marimba4_4.ogg 152097-152099
+/system_ext/media/audio/notifications/Marimba4_5.ogg 152100-152103
+/system_ext/media/audio/notifications/Marimba4_6.ogg 152104-152107
+/system_ext/media/audio/notifications/Marimba4_7.ogg 152108-152110
+/system_ext/media/audio/notifications/Marimba4_8.ogg 152111-152114
+/system_ext/media/audio/notifications/Marimba4_9.ogg 152115-152117
+/system_ext/media/audio/notifications/MarimbaPreview.ogg 152118-152145
+/system_ext/media/audio/ui/Usb.ogg 152146-152148
+/system_ext/media/audio/ui/VolumePanelSound.ogg 152149-152150
+/system_ext/media/audio/ui/WheelPicker.ogg 152151-152152
+/system_ext/media/audio/ui/charge.mp3 152153-152156
+/system_ext/media/audio/ui/cover.mp3 152157-152160
+/system_ext/media/audio/ui/delete.mp3 152161-152171
+/system_ext/media/audio/ui/delete3.mp3 152172-152182
+/system_ext/media/audio/ui/dew.wav 152149 152183
+/system_ext/media/audio/ui/ebook_open.mp3 152184-152191
+/system_ext/media/audio/ui/ebook_open2.mp3 152192-152195
+/system_ext/media/audio/ui/ebook_page1.mp3 152196-152210
+/system_ext/media/audio/ui/ebook_page3.mp3 152211-152219
+/system_ext/media/audio/ui/error.mp3 152220-152229
+/system_ext/media/audio/ui/extended_effect_a.ogg 152230-152235
+/system_ext/media/audio/ui/extended_effect_b.ogg 152236-152244
+/system_ext/media/audio/ui/extended_effect_c.ogg 152245
+/system_ext/media/audio/ui/extended_effect_d.ogg 152245
+/system_ext/media/audio/ui/extended_effect_e.ogg 152245
+/system_ext/media/audio/ui/global_delete.ogg 152246-152249
+/system_ext/media/audio/ui/inefficacy.mp3 152250-152252
+/system_ext/media/audio/ui/lomo_click.mp3 152253-152255
+/system_ext/media/audio/ui/lowbattery.mp3 152256-152272
+/system_ext/media/audio/ui/machine.mp3 152273-152278
+/system_ext/media/audio/ui/mechanism_down.ogg 152279-152285
+/system_ext/media/audio/ui/mechanism_up.ogg 152286-152291
+/system_ext/media/audio/ui/numberpicker_click.ogg 152292-152293
+/system_ext/media/audio/ui/powerlow.mp3 152256-152272
+/system_ext/media/audio/ui/poweroff.mp3 152294-152351
+/system_ext/media/audio/ui/poweron.mp3 152294-152351
+/system_ext/media/audio/ui/pure_music_down.ogg 152352-152358
+/system_ext/media/audio/ui/pure_music_up.ogg 152359-152364
+/system_ext/media/audio/ui/slight_feedback.ogg 152365-152366
+/system_ext/media/audio/ui/sound_10s.mp3 152367-152425
+/system_ext/media/audio/ui/sound_5s.mp3 152367-152389 152426-152427 152422-152424 152428-152429
+/system_ext/media/audio/ui/technology_down.ogg 152430-152434
+/system_ext/media/audio/ui/technology_up.ogg 152435-152440
+/system_ext/media/audio/ui/touch.mp3 152441-152443
+/system_ext/media/audio/ui/touch2.mp3 152444-152447
+/system_ext/media/audio/ui/touch3.mp3 152448-152452
+/system_ext/media/audio/ui/uncover.mp3 152157-152160
+/system_ext/media/audio/ui/warning3.mp3 152453-152455
+/system_ext/media/audio/ui/warrning.mp3 152453-152455
+/system_ext/media/audio/ui/weather_alarm_cloud.ogg 152456-152568
+/system_ext/media/audio/ui/weather_alarm_cloud2.ogg 152569-152677
+/system_ext/media/audio/ui/weather_alarm_cloud3.ogg 152678-152774
+/system_ext/media/audio/ui/weather_alarm_cloud4.ogg 152775-152874
+/system_ext/media/audio/ui/weather_alarm_default.ogg 152456 152875-153042
+/system_ext/media/audio/ui/weather_alarm_haze.ogg 152456 153043-153140
+/system_ext/media/audio/ui/weather_alarm_haze2.ogg 153141-153230
+/system_ext/media/audio/ui/weather_alarm_rain.ogg 152456 153231-153332
+/system_ext/media/audio/ui/weather_alarm_rain2.ogg 153333-153436
+/system_ext/media/audio/ui/weather_alarm_snow.ogg 152456 153437-153528
+/system_ext/media/audio/ui/weather_alarm_snow2.ogg 153529-153764
+/system_ext/media/audio/ui/weather_alarm_sun.ogg 152456 153765-153888
+/system_ext/media/audio/ui/weather_alarm_sun2.ogg 153889-154012
+/system_ext/media/audio/ui/weather_alarm_sun3.ogg 154013-154250
+/system_ext/media/audio/ui/weather_alarm_sun4.ogg 154251-154374
+/system_ext/media/audio/ui/weather_alarm_thunderstorm.ogg 152456 154375-154475
+/system_ext/media/audio/ui/weather_alarm_thunderstorm2.ogg 154476-154658
+/system_ext/media/audio/ui/weather_alarm_thunderstorm3.ogg 154659-154751
+/system_ext/media/audio/ui/weather_alarm_wind.ogg 152456 154752-154849
+/system_ext/media/audio/ui/weather_alarm_wind2.ogg 154850-154965
+/system_ext/oppo/app_dynamic_detect_info.xml 154966-154967
+/system_ext/oppo/app_static_detect_info.xml 154968-154976
+/system_ext/oppo/bsp_stability_theia_switch.xml 154977
+/system_ext/oppo/oppo_cts_list.xml 154978-155018
+/system_ext/oppo/startup_manager.xml 155019-155024
+/system_ext/oppo/sys_app_switch_config.xml 155025
+/system_ext/oppo/sys_global_drag_share_config.xml 155026
+/system_ext/oppo/sys_key_layout_config.xml 155027
+/system_ext/oppo/sys_multi_app_config.xml 155028
+/system_ext/oppo/sys_quality_dcs_config.xml 155029
+/system_ext/oppo/sys_rom_black_list.xml 155030-155031
+/system_ext/oppo/sys_wms_split_app.xml 155032-155033
+/system_ext/oppo/sys_zoom_window_config.xml 155034-155037
+/system_ext/oppoex/ld.config.oppo.txt 155038
+/system_ext/oppoex/public.libraries-oppoex.txt 155039
+/system_ext/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk 155040-155432
+/system_ext/priv-app/BlockedNumberProvider/oat/arm/BlockedNumberProvider.odex 155433-155439 3011 155440-155443
+/system_ext/priv-app/BlockedNumberProvider/oat/arm/BlockedNumberProvider.vdex 155444-155446
+/system_ext/priv-app/BlockedNumberProvider/oat/arm64/BlockedNumberProvider.odex 155447-155448 155435-155439 3011 155440 155449 155451-155452
+/system_ext/priv-app/BlockedNumberProvider/oat/arm64/BlockedNumberProvider.vdex 155444-155446
+/system_ext/priv-app/BuiltInPrintService/BuiltInPrintService.apk 155453-157243
+/system_ext/priv-app/BuiltInPrintService/oat/arm64/BuiltInPrintService.odex 157244-157262
+/system_ext/priv-app/BuiltInPrintService/oat/arm64/BuiltInPrintService.vdex 157263-157272
+/system_ext/priv-app/CarrierConfig/CarrierConfig.apk 157273-157323
+/system_ext/priv-app/CarrierConfig/oat/arm64/CarrierConfig.odex 157324-157326 4533 81489
+/system_ext/priv-app/CarrierConfig/oat/arm64/CarrierConfig.vdex 157327
+/system_ext/priv-app/ContactsProvider/ContactsProvider.apk 157328-159845
+/system_ext/priv-app/ContactsProvider/oat/arm/ContactsProvider.odex 159846-159871 3011 159872-159876
+/system_ext/priv-app/ContactsProvider/oat/arm/ContactsProvider.vdex 159877-159888
+/system_ext/priv-app/CustCoreApp/CustCoreApp.apk 159889-160301
+/system_ext/priv-app/DeepThinker/DeepThinker.apk 160302-162316
+/system_ext/priv-app/DeepThinker/oat/arm64/DeepThinker.odex 162317-162349
+/system_ext/priv-app/DeepThinker/oat/arm64/DeepThinker.vdex 162350-162354
+/system_ext/priv-app/DownloadProvider/DownloadProvider.apk 162355-162583
+/system_ext/priv-app/DownloadProvider/oat/arm64/DownloadProvider.odex 162584-162588 12359 162589
+/system_ext/priv-app/DownloadProvider/oat/arm64/DownloadProvider.vdex 162590-162591
+/system_ext/priv-app/DownloaderCenterUI/DownloaderCenterUI.apk 162592-163839 163867-165433 10750-10762 165434-166664
+/system_ext/priv-app/DownloaderCenterUI/oat/arm64/DownloaderCenterUI.odex 166665-166720 3011 166721-166731
+/system_ext/priv-app/DownloaderCenterUI/oat/arm64/DownloaderCenterUI.vdex 166732-166751
+/system_ext/priv-app/Entitlement/Entitlement.apk 166752-166851
+/system_ext/priv-app/Entitlement/oat/arm64/Entitlement.odex 166852-166858
+/system_ext/priv-app/Entitlement/oat/arm64/Entitlement.vdex 166859-166860
+/system_ext/priv-app/MmsService/MmsService.apk 166861-167627
+/system_ext/priv-app/MmsService/oat/arm64/MmsService.odex 167628-167642 4507 167643
+/system_ext/priv-app/MmsService/oat/arm64/MmsService.vdex 167644-167653
+/system_ext/priv-app/OppoExSystemService/OppoExSystemService.apk 167654-168113 0 168114-168277
+/system_ext/priv-app/OppoExSystemService/oat/arm64/OppoExSystemService.odex 168278-168289
+/system_ext/priv-app/OppoExSystemService/oat/arm64/OppoExSystemService.vdex 168290-168296
+/system_ext/priv-app/OppoLauncher/OppoLauncher.apk 168297-172697 165369-165431 172698-174975 0 174976-175011 56273 175013-175026 56273 175027-175029 56273 175030 56273 175031-175035 56273 175036-175070 56273 175071-175080 56273 175081 56273 175082-175994
+/system_ext/priv-app/OppoLauncher/oat/arm64/OppoLauncher.odex 175995-182856
+/system_ext/priv-app/OppoLauncher/oat/arm64/OppoLauncher.vdex 182857-182885
+/system_ext/priv-app/OppoSimSettings/OppoSimSettings.apk 182886-185965
+/system_ext/priv-app/OppoSimSettings/oat/arm64/OppoSimSettings.odex 185966-185978 3011 185979 3011 185980 185982 63507 185983
+/system_ext/priv-app/OppoSimSettings/oat/arm64/OppoSimSettings.vdex 185984-185992
+/system_ext/priv-app/OppoWirelessSettings/OppoWirelessSettings.apk 185993-188976 188938 188977-189108 189104 189109 189111-189113 189104 189114-189117 189104 189118-189586
+/system_ext/priv-app/OppoWirelessSettings/oat/arm64/OppoWirelessSettings.odex 189587-189607
+/system_ext/priv-app/OppoWirelessSettings/oat/arm64/OppoWirelessSettings.vdex 189608-189616
+/system_ext/priv-app/QAS_DVC_MSP/QAS_DVC_MSP.apk 189617-190044 169908 190045-190276
+/system_ext/priv-app/QAS_DVC_MSP/oat/arm64/QAS_DVC_MSP.odex 190277-190295
+/system_ext/priv-app/QAS_DVC_MSP/oat/arm64/QAS_DVC_MSP.vdex 190296-190302
+/system_ext/priv-app/Settings/Settings.apk 190303-196607 196632-200836 0 200837-200927 0 200928-213907 0 213908 213910-213954 56273 213955 56273 213956 56273 213957-213965 56273 213966-213969 56273 213970-213972 56273 213973-213975 56273 213976-213988 56273 213989-213999 56273 214000-214011 56273 214012-214032 56273 214033-214051 56273 214052-214068 56273 214069-214070 56273 214071-214072 56273 214073-214083 56273 214084-214100 56273 214101-214105 56273 214106-214112 0 0 214113-214317 56273 56273 56273 56273 56273 56273 214318-214345 56273 56273 56273 56273 56273 56273 214346-214379 56273 56273 56273 56273 56273 56273 214380-214414 56273 56273 56273 56273 56273 214415-214451 56273 56273 56273 56273 56273 56273 214452-214479 56273 56273 56273 56273 56273 56273 214480-214508 56273 56273 56273 56273 56273 56273 214509-214544 56273 56273 56273 56273 56273 56273 214545-214581 56273 56273 56273 56273 56273 56273 214582-214609 56273 56273 56273 56273 56273 56273 214610-214638 56273 56273 56273 56273 56273 56273 214639-214670 56273 56273 56273 56273 56273 56273 214671-214698 56273 56273 56273 56273 56273 56273 214699-214735 56273 56273 56273 56273 56273 56273 214736-214763 56273 56273 56273 56273 56273 56273 214764-214800 56273 56273 56273 56273 56273 56273 214801-214836 56273 56273 56273 56273 56273 56273 214837-214872 214735 56273 56273 56273 56273 56273 56273 214873 214737-214742 214874-214893 214763 56273 56273 56273 56273 56273 56273 214894-214921 56273 56273 56273 56273 56273 56273 214922-214950 56273 56273 56273 56273 56273 56273 214951-214987 56273 56273 56273 56273 56273 56273 214988-215015 56273 56273 56273 56273 56273 56273 215016-215043 56273 56273 56273 56273 56273 56273 215044-215080 56273 56273 56273 56273 56273 56273 215081-215117 56273 56273 56273 56273 56273 215118-215146 56273 56273 56273 56273 56273 56273 215147-215182 56273 56273 56273 56273 56273 56273 215183-215211 56273 56273 56273 56273 56273 56273 215212-215239 56273 56273 56273 56273 56273 56273 215240-215276 56273 56273 56273 56273 56273 56273 215277-215304 56273 56273 56273 56273 56273 56273 215305-215341 56273 56273 56273 56273 56273 56273 215342-215369 56273 56273 56273 56273 56273 56273 215370-215406 56273 56273 56273 56273 56273 56273 215407-215442 56273 56273 56273 56273 56273 56273 215443-215479 56273 56273 56273 56273 56273 56273 215480-215507 56273 56273 56273 56273 56273 56273 215508-215536 56273 56273 56273 56273 56273 215537-215565 56273 56273 56273 56273 56273 56273 215566-215601 56273 56273 56273 56273 56273 56273 215602-215637 56273 56273 56273 56273 56273 56273 215638-215666 56273 56273 56273 56273 56273 56273 215668-215695 56273 56273 56273 56273 56273 56273 215696-215732 56273 56273 56273 56273 56273 56273 215733-215768 56273 56273 56273 56273 56273 56273 215769-215797 56273 56273 56273 56273 56273 56273 215798-215825 56273 56273 56273 56273 56273 56273 215826-215862 56273 56273 56273 56273 56273 215863-215891 56273 56273 56273 56273 56273 56273 215892-215926 56273 56273 56273 56273 56273 56273 215927-215955 56273 56273 56273 56273 56273 56273 215956-215983 56273 56273 56273 56273 56273 56273 215984-216020 56273 56273 56273 56273 56273 56273 216021-216056 56273 56273 56273 56273 56273 56273 216057-216085 56273 56273 56273 56273 56273 56273 216086-216113 56273 56273 56273 56273 56273 56273 216114-216150 56273 56273 56273 56273 56273 56273 216151-216178 56273 56273 56273 56273 56273 56273 216179-216214 56273 56273 56273 56273 56273 56273 216215-216243 56273 56273 56273 56273 56273 216244-216272 56273 56273 56273 56273 56273 56273 216273-216374 56273 56273 56273 56273 56273 56273 216375-216723 216178 56273 56273 56273 56273 56273 56273 216724-216890 56273 56273 56273 56273 56273 56273 216891-217083 56273 56273 56273 56273 56273 56273 217084-217327 56273 56273 56273 56273 56273 56273 217328-217484 56273 56273 56273 56273 56273 56273 217485-217546 56273 56273 56273 56273 56273 56273 217547-217583 56273 56273 56273 56273 56273 56273 217584-217679 56273 56273 56273 56273 56273 56273 217680-217844 56273 56273 56273 56273 56273 56273 217845-217846 56273 56273 56273 56273 56273 56273 217847 56273 56273 56273 56273 56273 56273 217848-217849 56273 56273 56273 56273 56273 56273 217850 56273 56273 56273 56273 56273 56273 217851-217852 56273 56273 56273 56273 56273 56273 217853 56273 56273 56273 56273 56273 56273 217854-217855 56273 56273 56273 56273 56273 56273 217856-217857 56273 56273 56273 56273 56273 217858-217859 56273 56273 56273 56273 56273 56273 217860-217861 56273 56273 56273 56273 56273 56273 217862 56273 56273 56273 56273 56273 56273 217863-217864 56273 56273 56273 56273 56273 56273 217865 56273 56273 56273 56273 56273 56273 217866-217867 56273 56273 56273 56273 56273 56273 217868 56273 56273 56273 56273 56273 56273 217869-217870 56273 56273 56273 56273 56273 56273 217871 56273 56273 56273 56273 56273 56273 217872-217873 56273 56273 56273 56273 56273 56273 217874-217875 56273 56273 56273 56273 56273 217876-217877 56273 56273 56273 56273 56273 56273 217879-217880 56273 56273 56273 56273 56273 56273 217881 56273 56273 56273 56273 56273 56273 217882-217883 56273 56273 56273 56273 56273 56273 217884 56273 56273 56273 56273 56273 56273 217885-217886 56273 56273 56273 56273 56273 56273 217887 56273 56273 56273 56273 56273 56273 217888-217889 56273 56273 56273 56273 56273 56273 217890-217891 56273 56273 56273 56273 56273 217892-217893 56273 56273 56273 56273 56273 56273 215239 217894 56273 56273 56273 56273 56273 56273 217895 56273 56273 56273 56273 56273 56273 217896-217897 56273 56273 56273 56273 56273 56273 217898 56273 56273 56273 56273 56273 56273 217899-217900 56273 56273 56273 56273 56273 56273 217901 56273 56273 56273 56273 56273 56273 217902-217903 56273 56273 56273 56273 56273 56273 217904-217905 56273 56273 56273 56273 56273 217906-217907 56273 56273 56273 56273 56273 56273 217908-217909 56273 56273 56273 56273 56273 56273 217910 56273 56273 56273 56273 56273 56273 217911-217912 56273 56273 56273 56273 56273 56273 217913 56273 56273 56273 56273 56273 56273 217914-217915 56273 56273 56273 56273 56273 56273 217916 56273 56273 56273 56273 56273 56273 217917-217918 56273 56273 56273 56273 56273 56273 217919 56273 56273 56273 56273 56273 56273 217920-217921 56273 56273 56273 56273 56273 56273 214950 217922 56273 56273 56273 56273 56273 217923-217924 56273 56273 56273 56273 56273 56273 217925-217926 56273 56273 56273 56273 56273 56273 217927 56273 56273 56273 56273 56273 56273 217928-217929 56273 56273 56273 56273 56273 56273 217930 56273 56273 56273 56273 56273 56273 217931-217932 56273 56273 56273 56273 56273 56273 217933 56273 56273 56273 56273 56273 56273 217934-217935 56273 56273 56273 56273 56273 56273 217936-217937 56273 56273 56273 56273 56273 217938-217939 56273 56273 56273 56273 56273 56273 217940-217941 56273 56273 56273 56273 56273 56273 217942 56273 56273 56273 56273 56273 56273 217943-217944 56273 56273 56273 56273 56273 56273 217945 56273 56273 56273 56273 56273 56273 217946-217947 56273 56273 56273 56273 56273 56273 217948 56273 56273 56273 56273 56273 56273 217949-217950 56273 56273 56273 56273 56273 56273 217951-217952 56273 56273 56273 56273 56273 217953-217954 56273 56273 56273 56273 56273 56273 217955-217956 56273 56273 56273 56273 56273 56273 217957 56273 56273 56273 56273 56273 56273 217959-217960 56273 56273 56273 56273 56273 56273 217961 56273 56273 56273 56273 56273 56273 217962-217993 56273 217994-218000 56273 218001-219211
+/system_ext/priv-app/Settings/oat/arm/Settings.odex 219212-219291
+/system_ext/priv-app/Settings/oat/arm/Settings.vdex 219292-219331
+/system_ext/priv-app/Settings/oat/arm64/Settings.odex 219332-219333 219214-219288 219334-219336
+/system_ext/priv-app/Settings/oat/arm64/Settings.vdex 219292-219331
+/system_ext/priv-app/SettingsIntelligence/SettingsIntelligence.apk 219337-220776 38175 220777-221383
+/system_ext/priv-app/SettingsIntelligence/oat/arm/SettingsIntelligence.odex 221384-221412
+/system_ext/priv-app/SettingsIntelligence/oat/arm/SettingsIntelligence.vdex 221413-221425
+/system_ext/priv-app/SettingsIntelligence/oat/arm64/SettingsIntelligence.odex 221426-221427 221386-221409 221428 46962 221429
+/system_ext/priv-app/SettingsIntelligence/oat/arm64/SettingsIntelligence.vdex 221413-221425
+/system_ext/priv-app/SettingsProvider/SettingsProvider.apk 221431-221571
+/system_ext/priv-app/SettingsProvider/oat/arm/SettingsProvider.odex 221572-221722
+/system_ext/priv-app/SettingsProvider/oat/arm/SettingsProvider.vdex 221723-221724
+/system_ext/priv-app/SettingsProvider/oat/arm64/SettingsProvider.odex 221725-221897
+/system_ext/priv-app/SettingsProvider/oat/arm64/SettingsProvider.vdex 221723-221724
+/system_ext/priv-app/StorageManager/StorageManager.apk 221898-223509
+/system_ext/priv-app/StorageManager/oat/arm64/StorageManager.odex 223510-223519 47480 223520
+/system_ext/priv-app/StorageManager/oat/arm64/StorageManager.vdex 223521-223526
+/system_ext/priv-app/SystemUI/SystemUI.apk 223527-228584 170470 228585 170470 228586 228588 170470 228589-229375 229436-231880 22705 22705 22705 22705 22705 231881-232701 0 232702-232704 0 232705-232714 0 0 232715-232725 232725 232725 232725-232726 0 0 232727-232829 172699-172701 232830-233050 0 233051-246720 0 246721-246769 56273 56273 246770 56273 56273 246771 56273 56273 246772 56273 56273 246773 56273 246774 56273 246775-246778 56273 246779-246781 56273 246782 56273 246783-246797 56273 56273 246798-246801 56273 246802-246804 56273 56273 246805 56273 56273 246806-246809 56273 246810-246811 56273 246812-246813 56273 56273 246814 56273 246815 56273 246816-246819 56273 246820-246821 56273 246822 56273 246823-246824 56273 246825-246828 56273 246829-246830 56273 56273 246831 56273 56273 246832-246833 56273 56273 246834 56273 56273 246835-246836 56273 246837-246838 56273 246839 56273 56273 246840-246841 56273 246842-246846 56273 56273 246847-246848 175057 246849-246856 56273 246857 217946 56273 56273 246858 56273 246859-246861 56273 246862-246863 56273 246864-246881 56273 56273 246882 56273 246883 217896 56273 56273 246884 56273 246885-246886 56273 246887 56273 246888 56273 246889 56273 246890-246893 56273 56273 246894 56273 246895-246905 56273 56273 246906 56273 246907-246911 56273 246912-246915 56273 56273 246916-246917 56273 246918 56273 56273 246919-246921 56273 246922 56273 56273 56273 246923-246924 56273 56273 246925-246938 0 0 246939-247009 56273 247010 247009 56273 247011 247009 56273 247012 213989 56273 247013 56273 247014-247015 56273 217869 247016-247025 56273 247026-247027 56273 56273 247028 56273 56273 247029 56273 56273 247030-247041 56273 247042-247043 56273 247044-247045 56273 247046-247059 56273 247060-247061 56273 247062-247063 56273 247064-247065 56273 247064 247066-247079 56273 247080-247081 56273 247082-247083 56273 56273 247084-247094 56273 247095-247096 56273 247097-247107 56273 56273 247108 56273 56273 247109-247126 56273 247127-247128 56273 247129-247143 56273 247144-247145 56273 247146-247147 56273 247148-247158 56273 56273 247159 56273 56273 247160-247170 56273 247171-247172 56273 56273 247173-247183 56273 247184-247185 56273 247186-247187 56273 56273 247188-247198 56273 247199-247200 56273 247201-247202 56273 247203-247204 56273 247203 247205-247218 56273 247219-247220 56273 247221-247222 56273 56273 247223 56273 56273 247224-247234 56273 247235-247236 56273 247237-247238 56273 247239-247240 56273 247239 247241-247254 56273 247255-247256 56273 247257-247258 56273 247259-247273 56273 247274-247275 56273 217876 247276-247289 56273 247290-247291 56273 247292-247293 56273 56273 247294 56273 56273 247295-247305 56273 217083 247306 56273 217934 247307-247316 56273 247317-247318 56273 56273 247319 56273 56273 247320 56273 56273 247321-247331 56273 247332-247333 56273 56273 247334 56273 56273 247335 56273 56273 247336-247349 56273 247350-247351 56273 56273 247352 56273 56273 247353-247363 56273 247364 247366 56273 56273 247367-247377 56273 247378-247379 56273 56273 247380-247393 56273 247394-247395 56273 247396-247397 56273 56273 247398-247411 56273 247412-247413 56273 247414-247415 56273 56273 247416-247426 56273 247427-247428 56273 247429-247430 56273 56273 247431 56273 56273 247432-247445 56273 247446-247447 56273 217949 247448 56273 56273 247449 56273 56273 247450-247460 56273 247461-247462 56273 247463-247473 56273 56273 247474 56273 56273 247475-247489 56273 247490-247491 56273 247492-247493 56273 247494-247495 56273 247494 247496-247505 56273 56273 247506 56273 56273 247507-247520 56273 247521-247522 56273 56273 247523 56273 56273 247524-247534 56273 56273 247535 56273 56273 247536-247549 56273 247550-247551 56273 56273 247552 56273 56273 247553 56273 56273 247554-247567 56273 247568-247569 56273 56273 247570 56273 56273 247571 56273 56273 247572-247585 56273 247586-247587 214088 56273 247588 214088 56273 247589-247599 56273 247600-247601 56273 56273 247602 56273 56273 247603 56273 56273 247604-247614 56273 247615-247616 56273 56273 247617-247627 56273 247628-247629 56273 247630-247644 56273 247645-247646 56273 56273 247647-247660 56273 247661-247662 56273 247663-247664 56273 56273 247665-247675 56273 217911 247676 56273 247677-247687 56273 56273 247688 56273 56273 247689-247703 56273 247490 247704 56273 247492 247705 56273 247494 247706-247719 56273 247720-247721 56273 217879 247722 56273 247723-247733 56273 247734-247735 56273 56273 247736 56273 56273 247737-247747 56273 247748-247749 56273 56273 247750 56273 56273 247751-247764 56273 247765-247766 56273 56273 247767 56273 56273 247768-247778 56273 247779-247780 56273 247781-247782 56273 56273 247783 56273 56273 247784-247797 56273 247798-247799 56273 247800-247801 56273 247802-247812 56273 56273 247813 56273 56273 247814-247824 56273 56273 247825 56273 56273 247826-247839 56273 247600 247840 56273 56273 247841 56273 56273 247842 56273 56273 247843-247856 56273 247857-247858 56273 56273 247859 56273 56273 247860-247870 56273 247871-247872 56273 56273 247873 56273 56273 247874-247884 56273 247885-247886 56273 247887-247888 56273 56273 247889 56273 56273 247890-247903 56273 247904-247905 56273 247906-247907 56273 56273 247908-247918 56273 247060 247919 56273 247062 247920 56273 247064 247921 56273 247064 247922-247935 56273 247936-247937 56273 247938-247939 56273 56273 247940-247950 56273 247951-247952 56273 247953-247963 56273 56273 247964 56273 56273 247965-247999 56273 248000-248001 56273 248002-248003 56273 248004-248005 56273 248004 248006-248022 56273 248023-248112 56273 248113-248114 56273 248115-248167 56273 248168-248169 56273 248170-248171 56273 248172-248233 56273 248234-248235 56273 248236-248277 248204-248205 248278-248310 56273 248311-248312 56273 56273 248313-248351 56273 248352-248353 56273 248354-248355 56273 217902 248356-248362 56273 248363 248365-248377 56273 248378-248379 56273 56273 248380 56273 56273 248381-248394 56273 56273 248395 56273 56273 248396-248397 56273 248398-248428 56273 247936 248429 56273 247938 248430 56273 56273 248431-248507 56273 248508-248509 56273 248510-251091
+/system_ext/priv-app/SystemUI/oat/arm64/SystemUI.odex 251092-262143 262190-263594
+/system_ext/priv-app/SystemUI/oat/arm64/SystemUI.vdex 263595-263642
+/system_ext/priv-app/TeleService/TeleService.apk 263644-266372 7508-7509 266373-268966 268877 268967 268969-269165 269045-269046 269166-269173 269055 269174-269520 268920-268921 269521-269597 56273 269598 56273 269599 56273 269600-269601 56273 269602 56273 269603-269608 56273 269609-269921
+/system_ext/priv-app/TeleService/oat/arm64/TeleService.odex 269924-269963
+/system_ext/priv-app/TeleService/oat/arm64/TeleService.vdex 269964-269986
+/system_ext/priv-app/Telecom/Telecom.apk 269988-273125
+/system_ext/priv-app/Telecom/oat/arm64/Telecom.odex 273128-277137
+/system_ext/priv-app/Telecom/oat/arm64/Telecom.vdex 277138-277155
+/system_ext/priv-app/TelephonyProvider/TelephonyProvider.apk 277157-278156
+/system_ext/priv-app/TelephonyProvider/oat/arm64/TelephonyProvider.odex 278159-278174 38849 278175
+/system_ext/priv-app/TelephonyProvider/oat/arm64/TelephonyProvider.vdex 278176-278185
+/system_ext/priv-app/VpnDialogs/VpnDialogs.apk 278187-279217 0 279218-279552
+/system_ext/priv-app/VpnDialogs/oat/arm64/VpnDialogs.odex 279555-279570 3014 279571
+/system_ext/priv-app/VpnDialogs/oat/arm64/VpnDialogs.vdex 279572-279579
+/system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk 279581-279611
+/system_ext/priv-app/WallpaperCropper/oat/arm64/WallpaperCropper.odex 279614-279616 4533 279617
+/system_ext/priv-app/WallpaperCropper/oat/arm64/WallpaperCropper.vdex 279618
+/system_ext/priv-app/WfdService/WfdService.apk 279620-279650
+/system_ext/priv-app/WfdService/oat/arm64/WfdService.odex 279655-279658 76094 279659
+/system_ext/priv-app/WfdService/oat/arm64/WfdService.vdex 279660
+/system_ext/priv-app/com.qualcomm.location/com.qualcomm.location.apk 279662-280450
+/system_ext/priv-app/com.qualcomm.location/oat/arm64/com.qualcomm.location.odex 280453-280469 190294 280470
+/system_ext/priv-app/com.qualcomm.location/oat/arm64/com.qualcomm.location.vdex 280471-280477
+/system_ext/priv-app/dpmserviceapp/dpmserviceapp.apk 280479-280487
+/system_ext/priv-app/dpmserviceapp/oat/arm64/dpmserviceapp.odex 280490-280492 4533 280493
+/system_ext/priv-app/dpmserviceapp/oat/arm64/dpmserviceapp.vdex 280494
+/system_ext/priv-app/ims/ims.apk 280496-280784
+/system_ext/priv-app/ims/oat/arm64/ims.odex 280789-280797
+/system_ext/priv-app/ims/oat/arm64/ims.vdex 280798-280799
+/system_ext/priv-app/qcrilmsgtunnel/oat/arm64/qcrilmsgtunnel.odex 280803-280805 4533 280806
+/system_ext/priv-app/qcrilmsgtunnel/oat/arm64/qcrilmsgtunnel.vdex 280807
+/system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk 280808-280829
+/system_ext/priv-app/seccamservice/oat/arm64/seccamservice.odex 280833-280836 76094 280837
+/system_ext/priv-app/seccamservice/oat/arm64/seccamservice.vdex 280838
+/system_ext/priv-app/seccamservice/seccamservice.apk 280839-280843 140518-140524 280844-280847
+/system_ext/xbin/klogd 280849-280967
+/system_ext/xbin/xkit_10 280968-281222

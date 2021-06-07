@@ -1,0 +1,2605 @@
+//init.environ.rc 42
+//init.oppo.rc 43
+//res/images/charger/battery_fail.png 65
+//res/images/charger/battery_scale.png 66
+//system/apex/com.android.apex.cts.shim.apex 72-80 80 80 0 81-98 0 0 0 0 0 0 0 99 101 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 102-116
+//system/apex/com.android.art.release.apex 117-122 0 0 0 0 0 123-124 79-80 80 80 126-20663 0 0 0 0 0 0 0 0 20664-20687
+//system/apex/com.android.i18n.apex 20688-20692 0 0 20693-20694 79-80 80 80 20696-26871 0 0 0 0 0 0 0 0 26872-26882
+//system/apex/com.android.permission.apex 26883-26887 0 26888-26889 79-80 80 80 26891-30049 0 0 0 0 0 0 0 0 30050-30060
+//system/apex/com.android.runtime.apex 30061-30065 0 30066-30067 79-80 80 80 26891 30069-31432 0 0 0 0 0 0 0 0 0 31433-31448
+//system/apex/com.android.vndk.current.apex 31449-31460 0 0 0 0 0 0 0 31461-31462 79-80 80 80 31464-32767 32797-33158 16921 33159-41255 15728 41256-41371 9306-9326 41372-56255 6705 56256-56774 15745-15776 56775-59147 0 0 0 0 0 0 0 0 59148-59167
+//system/apex/com.android.wifi.apex 59168-59172 0 59173-59174 79-80 80 80 26891 59176-60477 0 0 0 0 0 0 0 0 60478-60489
+//system/apex/com.google.android.adbd.apex 60490-60493 0 60494-60495 79-80 80 80 26891 60497-61059 39916-39920 61060-61096 40470-40584 61097-61111 40983-40996 61112-61117 41003-41007 61118-61285 41176 61286-61625 54745-54750 61626-61678 54804 61679 55509-55677 61680-61697 6705 56256-56269 61698-61699 56272-56275 61700-61843 56421-56422 61844-61850 56430 61851-61864 56445 61865-61888 56470 61889-61938 56521 61939-62077 0 0 0 0 0 0 0 62078-62112
+//system/apex/com.google.android.cellbroadcast.apex 62113-62121 79-80 80 80 62122 62124-63816 0 0 0 0 0 0 0 63817-63845
+//system/apex/com.google.android.conscrypt.apex 63846-63850 0 63851-63852 79-80 80 80 26891 63854-64107 40983-40996 64108-64344 42356-42360 64345-64347 42364 64348-64571 61684-61697 6705 56256-56269 61698-61699 56272-56275 61700-61843 56421-56422 61844-61850 56430 61851-61864 56445 61865-61888 56470 61889-61937 64572-64646 58118-58196 64647-64652 0 0 0 0 0 0 0 64653-64681
+//system/apex/com.google.android.extservices.apex 64682-64686 20706 64687-64688 79-80 80 80 64690-65535 65563-65715 0 0 0 0 0 0 0 65716-65740
+//system/apex/com.google.android.ipsec.apex 65741-65746 79-80 80 80 0 65747 65749-65756 62118 65757-65876 0 0 0 0 0 0 0 65877-65892
+//system/apex/com.google.android.media.apex 65893-65897 0 65898-65899 79-80 80 80 26891 65901-66015 63976-64097 66016-66689 54668-54699 66690-66754 64393-64571 61940-61957 66755-66758 57819-57821 66759-66787 0 0 0 0 0 0 0 66788-66816
+//system/apex/com.google.android.media.swcodec.apex 66817-66821 0 0 66822-66823 79-80 80 80 66825-66827 20696 66828-66840 65903-65904 66841-67012 46490 67013-67014 46493 67015-67440 49156 67441-67442 54229-54244 67443-67445 54248-54274 67446-67450 54280-54281 67451 54283 67452 54285-54302 67453-67454 66689 54668-54699 66690-66691 67455-67458 66692-66754 67459-67622 64393-64571 67623-67626 55696-55699 67627-67628 56212 67629-69161 15728 69162-70001 61940-61957 70002 56779-56780 70003-70004 56788-56803 70005 56805 70006-70179 57230-57233 70180 57235 70181-70196 57500 70197-70469 66758 57819-57821 66759 70470-70490 58204-58214 70491 58216 70492-70601 66760-66785 70602-70732 58680-58685 70733-71153 0 0 0 0 0 0 0 71154-71212
+//system/apex/com.google.android.mediaprovider.apex 71213-71217 90 71218-71220 79-80 80 80 71222-72172 0 0 0 0 0 0 0 72173-72200
+//system/apex/com.google.android.neuralnetworks.apex 72201-72204 0 72205-72206 79-80 80 80 26891 72208-72216 29276 72217-73533 0 0 0 0 0 0 0 0 73534-73565
+//system/apex/com.google.android.os.statsd.apex 73566-73569 0 73570-73571 79-80 80 80 26891 73573-73581 59185 73582-73825 16921 60868 73826-73983 0 0 0 0 0 0 0 73984-74004
+//system/apex/com.google.android.permission.apex 74005-74009 26901 74010-74011 26889 79-80 80 80 26892 74013-76143 0 0 0 0 0 0 0 0 76144-76175
+//system/apex/com.google.android.resolv.apex 76176-76180 0 76181-76182 79-80 80 80 26891 76184 61684-61691 62118 61692-61697 6705 56256-56263 76185-76186 56264-56269 61698-61699 56272-56275 61700-61843 56421-56422 61844-61850 56430 61851-61864 56445 61865-61888 56470 61889-61937 76187-76411 64646 58118-58196 64647-64650 76412-76413 0 0 0 0 0 0 0 0 76414-76437
+//system/apex/com.google.android.sdkext.apex 76438-76443 79-80 80 80 0 76444 76446-76516 0 0 0 0 0 0 0 0 76517-76532
+//system/apex/com.google.android.tethering.apex 76533-76535 62116 76536 62118 76537 76539-76540 79-80 80 80 76541-76762 0 0 0 0 0 0 0 76763-76781
+//system/apex/com.google.android.tzdata2.apex 76782-76787 79-80 80 80 0 76788 76790-76797 90 76798-76988 0 0 0 0 0 0 0 76989-77005
+//system/app/Bluetooth/Bluetooth.apk 77008-78764 0 78765-79198
+//system/app/Bluetooth/oat/arm64/Bluetooth.odex 79203-79229
+//system/app/Bluetooth/oat/arm64/Bluetooth.vdex 79230-79240
+//system/app/BluetoothMidiService/BluetoothMidiService.apk 79242-79248
+//system/app/BluetoothMidiService/oat/arm64/BluetoothMidiService.odex 79251-79255
+//system/app/BluetoothMidiService/oat/arm64/BluetoothMidiService.vdex 79256
+//system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-hdpi.apk 79258-79263
+//system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-ldpi.apk 79264-79269
+//system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-mdpi.apk 79270-79275
+//system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-tvdpi.apk 79276-79281
+//system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-xhdpi.apk 79282-79287
+//system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-xxhdpi.apk 79288-79293
+//system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-xxxhdpi.apk 79294-79299
+//system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle.apk 79300-79402
+//system/app/CarrierDefaultApp/CarrierDefaultApp.apk 79404-79434
+//system/app/CarrierDefaultApp/oat/arm64/CarrierDefaultApp.odex 79437-79439 79254 79440
+//system/app/CarrierDefaultApp/oat/arm64/CarrierDefaultApp.vdex 79441
+//system/app/CompanionDeviceManager/CompanionDeviceManager.apk 79443-79457
+//system/app/CompanionDeviceManager/oat/arm64/CompanionDeviceManager.odex 79460-79462 79254 79463
+//system/app/CompanionDeviceManager/oat/arm64/CompanionDeviceManager.vdex 79464
+//system/app/GoogleExtShared/GoogleExtShared.apk 79466-79469
+//system/app/GoogleExtShared/oat/arm64/GoogleExtShared.odex 79472-79474 79254 79475
+//system/app/GoogleExtShared/oat/arm64/GoogleExtShared.vdex 79476
+//system/app/OppoQualityProtect/OppoQualityProtect.apk 79481-79557
+//system/app/OppoQualityProtect/oat/arm64/OppoQualityProtect.odex 79560-79565
+//system/app/OppoQualityProtect/oat/arm64/OppoQualityProtect.vdex 79566-79567
+//system/app/PacProcessor/PacProcessor.apk 79569-79573
+//system/app/PacProcessor/oat/arm64/PacProcessor.odex 79578-79583
+//system/app/PacProcessor/oat/arm64/PacProcessor.vdex 79584
+//system/app/SimAppDialog/SimAppDialog.apk 79586-79669
+//system/app/SimAppDialog/oat/arm64/SimAppDialog.odex 79672-79677
+//system/app/SimAppDialog/oat/arm64/SimAppDialog.vdex 79678
+//system/app/Traceur/Traceur.apk 79680-81397
+//system/app/Traceur/oat/arm64/Traceur.odex 81400-81411
+//system/app/Traceur/oat/arm64/Traceur.vdex 81412-81418
+//system/app/WallpaperBackup/WallpaperBackup.apk 81420-81425
+//system/app/WallpaperBackup/oat/arm64/WallpaperBackup.odex 81428-81438
+//system/app/WallpaperBackup/oat/arm64/WallpaperBackup.vdex 81439
+//system/app/com.facebook.appmanager-vendor-oplus/lib/arm/libbsdiff-jni.so 81443-81465
+//system/app/com.facebook.appmanager-vendor-oplus/lib/arm/libmemalign16.so 81466-81468
+//system/app/com.facebook.appmanager-vendor-oplus/lib/arm/libmemalign16_cpp.so 81469-81471
+//system/app/com.facebook.appmanager-vendor-oplus/lib/arm/libzstd-jni.so 81472-81495
+//system/app/com.facebook.appmanager-vendor-oplus/lib/arm64/libbsdiff-jni.so 81497-81531
+//system/app/com.facebook.appmanager-vendor-oplus/lib/arm64/libmemalign16.so 81532-81534
+//system/app/com.facebook.appmanager-vendor-oplus/lib/arm64/libmemalign16_cpp.so 81535-81537
+//system/app/com.facebook.appmanager-vendor-oplus/lib/arm64/libzstd-jni.so 81538-81575
+//system/bin/abb 81577-81608
+//system/bin/am 81609
+//system/bin/apexd 81610-81638 0 81639-81754
+//system/bin/app_process32 81755-81760
+//system/bin/app_process64 81761-81769
+//system/bin/appops 81770
+//system/bin/appwidget 81771
+//system/bin/atrace 81772-81788
+//system/bin/audioserver 81789-81794
+//system/bin/auditctl 81795-81797
+//system/bin/awk 81798-81831
+//system/bin/bc 81832-81851
+//system/bin/bcc 81852-81862
+//system/bin/blank_screen 81863-81871
+//system/bin/blkid 81872-81876
+//system/bin/bmgr 81877
+//system/bin/bootanimation 81878-81898
+//system/bin/bootstat 81899-81932
+//system/bin/bootstrap/linker 81934-82194
+//system/bin/bootstrap/linker64 82195-82486 30627-30687 82487
+//system/bin/boringssl_self_test32 82488
+//system/bin/boringssl_self_test64 63856-63858
+//system/bin/bpfloader 82489-82491
+//system/bin/bu 82492
+//system/bin/bugreport 82493-82495
+//system/bin/bugreportz 82496-82498
+//system/bin/bzip2 82499-82520
+//system/bin/cameraserver 82521-82522
+//system/bin/charger 82523-82572
+//system/bin/clatd 82573-82585
+//system/bin/cmd 82586-82597
+//system/bin/content 82598
+//system/bin/crash_dump32 82599-82625
+//system/bin/crash_dump64 82626-82661
+//system/bin/credstore 82662-82727
+//system/bin/curl 82728-82844
+//system/bin/debuggerd 82845-82848
+//system/bin/device_config 82849
+//system/bin/dmctl 82850-82871
+//system/bin/dnsmasq 82872-82911
+//system/bin/dpm 82912
+//system/bin/drmserver 82913-82928
+//system/bin/dumpstate 82929-83006 0 0 0 83007-83010
+//system/bin/dumpsys 83011-83021
+//system/bin/e2freefrag 83022-83024
+//system/bin/e2fsck 83025-83083
+//system/bin/e2fsdroid 83084-83091
+//system/bin/flags_health_check 83092-83094
+//system/bin/fsck.f2fs 83095-83157
+//system/bin/fsck_msdos 83158-83168
+//system/bin/fsverity_init 83169-83180
+//system/bin/gatekeeperd 83181-83190
+//system/bin/gpuservice 83191-83193
+//system/bin/gsi_tool 83194-83205
+//system/bin/gsid 83206-83294
+//system/bin/heapprofd 83295-83401
+//system/bin/hid 83402
+//system/bin/hw/android.hidl.allocator@1.0-service 83404-83410
+//system/bin/hw/android.system.suspend@1.0-service 83411-83431
+//system/bin/hwservicemanager 83432-83457
+//system/bin/idmap2 83458-83480
+//system/bin/idmap2d 83481-83494
+//system/bin/ime 83495
+//system/bin/incident 83496-83506
+//system/bin/incident-helper-cmd 83507
+//system/bin/incident_helper 83508-83562
+//system/bin/incidentd 83563-83637
+//system/bin/init 83638-84059
+//system/bin/input 84060
+//system/bin/installd 84061-84156
+//system/bin/iorap.cmd.compiler 84157-84796
+//system/bin/iorap.cmd.maintenance 84797-84933
+//system/bin/iorap.inode2filename 84934-85032
+//system/bin/iorap.prefetcherd 85033-85082
+//system/bin/iorapd 85083-85376
+//system/bin/ip 85377-85475
+//system/bin/iptables 85476-85595
+//system/bin/keystore 85596-85698
+//system/bin/keystore_cli_v2 85699-85717
+//system/bin/ld.mc 85718-85901
+//system/bin/ldd 85902
+//system/bin/librank 85903-85912
+//system/bin/linkerconfig 85913-86143
+//system/bin/lmkd 86144-86158
+//system/bin/locksettings 86159
+//system/bin/logcat 86160-86200
+//system/bin/logd 86201-86245
+//system/bin/logwrapper 86246-86251
+//system/bin/lpdump 86252-86256
+//system/bin/lpdumpd 86257-86264
+//system/bin/lshal 86265-86327
+//system/bin/make_f2fs 86328-86356
+//system/bin/mdnsd 86357-86574
+//system/bin/mediaextractor 86575-86578
+//system/bin/mediametrics 86579-86582
+//system/bin/mediaserver 86583-86584
+//system/bin/migrate_legacy_obb_data.sh 86585
+//system/bin/mini-keyctl 86586-86594
+//system/bin/mke2fs 86595-86612
+//system/bin/monkey 86613
+//system/bin/mtpd 86614-86622
+//system/bin/ndc 86623-86639
+//system/bin/netd 86640-86854
+//system/bin/netutils-wrapper-1.0 86855-86872
+//system/bin/newfs_msdos 86873-86879
+//system/bin/notify_traceur.sh 86880
+//system/bin/perfetto 86881-87033
+//system/bin/ping 87034-87043
+//system/bin/ping6 87044-87054
+//system/bin/pm 87056
+//system/bin/pppd 87057-87119
+//system/bin/procrank 87120-87131
+//system/bin/racoon 87132-87195
+//system/bin/reboot 87196-87198
+//system/bin/recovery-persist 87199-87204
+//system/bin/requestsync 87205
+//system/bin/resize2fs 87206-87220
+//system/bin/rss_hwm_reset 87221-87223
+//system/bin/run-as 87224-87227
+//system/bin/schedtest 87228-87230
+//system/bin/screencap 87231-87234
+//system/bin/screenrecord 87235-87265
+//system/bin/sdcard 87266-87273
+//system/bin/secdiscard 87274-87279
+//system/bin/secilc 87280-87357
+//system/bin/sensorservice 87358-87360
+//system/bin/service 87361-87370
+//system/bin/servicemanager 87371-87386
+//system/bin/set-verity-state 87387-87406
+//system/bin/settings 87407
+//system/bin/sgdisk 87408-87452
+//system/bin/sh 87453-87528
+//system/bin/showmap 87529-87534
+//system/bin/simpleperf 87535-87820
+//system/bin/simpleperf_app_runner 87821-87826
+//system/bin/sload_f2fs 87827-87885
+//system/bin/sm 87886
+//system/bin/snapshotctl 87887-87940
+//system/bin/ss 87941-87958
+//system/bin/storaged 87959-88006
+//system/bin/surfaceflinger 88007-88011
+//system/bin/svc 88012
+//system/bin/tc 88013-88081
+//system/bin/tcpdump 88082-88305
+//system/bin/telecom 88306
+//system/bin/tinycap 88307-88309
+//system/bin/tinymix 88310-88313
+//system/bin/tinypcminfo 88314-88316
+//system/bin/tinyplay 88317-88319
+//system/bin/tombstoned 88320-88348
+//system/bin/toolbox 88349-88377
+//system/bin/toybox 88378-88497
+//system/bin/traced 88498-88500
+//system/bin/traced_perf 88501-88595
+//system/bin/traced_probes 88596 88499 88597
+//system/bin/trigger_perfetto 88598-88665
+//system/bin/tune2fs 88666-88680
+//system/bin/tzdatacheck 88681-88686
+//system/bin/uiautomator 88687-88688
+//system/bin/uncrypt 88689-88698
+//system/bin/usbd 88699-88701
+//system/bin/vdc 88702-88723
+//system/bin/viewcompiler 88724-88785
+//system/bin/vold 88786-89064
+//system/bin/vold_prepare_subdirs 89065-89073
+//system/bin/vpsservice 89074-89086
+//system/bin/vr 89087
+//system/bin/wait_for_keymaster 89088-89094
+//system/bin/watchdogd 89095-89098
+//system/bin/wificond 89099-89196
+//system/bin/wm 89197
+//system/bin/ziptool 89198-89204
+//system/build.prop 89206-89207
+//system/etc/NOTICE.xml.gz 89209-89268
+//system/etc/apns-conf.xml 89269-89439
+//system/etc/apns-version.xml 89440
+//system/etc/audio_effects.conf 89441-89442
+//system/etc/blacklist/systemapp_common_-ID_common.txt 89444
+//system/etc/blacklist/systemapp_common_-IN_common.txt 89445
+//system/etc/blacklist/systemapp_common_-JP_common.txt 89446
+//system/etc/blacklist/systemapp_common_-KH_common.txt 89447
+//system/etc/blacklist/systemapp_common_-MY_common.txt 89448
+//system/etc/blacklist/systemapp_common_-PH_common.txt 89448
+//system/etc/blacklist/systemapp_common_-SG_common.txt 89447
+//system/etc/blacklist/systemapp_common_-TH_common.txt 89449
+//system/etc/blacklist/systemapp_common_-TW_common.txt 89450
+//system/etc/blacklist/systemapp_common_-VN_common.txt 89451
+//system/etc/blacklist/systemapp_common_EUEX_common.txt 89452
+//system/etc/blacklist/systemapp_common_KZ_common.txt 89453
+//system/etc/blacklist/systemapp_common_RU_common.txt 89453
+//system/etc/blacklist/systemapp_common_common_-ALTICE.txt 89454
+//system/etc/blacklist/systemapp_common_common_-BOUYGUE.txt 89455
+//system/etc/blacklist/systemapp_common_common_-CPW.txt 89456
+//system/etc/blacklist/systemapp_common_common_-EE.txt 89457
+//system/etc/blacklist/systemapp_common_common_-KDDI.txt 89458
+//system/etc/blacklist/systemapp_common_common_-M1.txt 89459
+//system/etc/blacklist/systemapp_common_common_-MOVISTAR.txt 89456
+//system/etc/blacklist/systemapp_common_common_-O2.txt 89456
+//system/etc/blacklist/systemapp_common_common_-ORANGE.-ES.txt 89460
+//system/etc/blacklist/systemapp_common_common_-ORANGE.txt 89461
+//system/etc/blacklist/systemapp_common_common_-SINGTEL.txt 89462
+//system/etc/blacklist/systemapp_common_common_-TELCEL.txt 89457
+//system/etc/blacklist/systemapp_common_common_-UQMOBILE.txt 89463
+//system/etc/blacklist/systemapp_common_common_-VODAFONE_EEA.txt 89464
+//system/etc/blacklist/systemapp_common_common_-VODAFONE_EUEX.txt 89456
+//system/etc/blacklist/systemapp_common_common_-VODAFONE_NONEEA.txt 89464
+//system/etc/blacklist/systemapp_common_common_ALTICE.txt 89465
+//system/etc/blacklist/systemapp_common_common_IGNOREOPERATOR.txt 89466
+//system/etc/blacklist/systemapp_common_common_TELSTRA.txt 89465
+//system/etc/blacklist/systemapp_common_common_TELSTRA_POSTPAID.txt 89465
+//system/etc/blacklist/systemapp_common_common_TELSTRA_PREPAID.txt 89465
+//system/etc/bluetooth/bt_did.conf 89468
+//system/etc/bluetooth/bt_stack.conf 89469
+//system/etc/boot-image.bprof 89470-89472
+//system/etc/boot-image.prof 89473-89489
+//system/etc/bpf/clatd.o 89491-89493
+//system/etc/bpf/netd.o 89494-89500
+//system/etc/bpf/offload.o 89501-89502
+//system/etc/bpf/time_in_state.o 89503-89504
+//system/etc/cgroups.json 89505
+//system/etc/compatconfig/documents-ui-compat-config.xml 89507
+//system/etc/compatconfig/framework-platform-compat-config.xml 89508-89510
+//system/etc/compatconfig/libcore-platform-compat-config.xml 89511
+//system/etc/compatconfig/services-platform-compat-config.xml 89512-89513
+//system/etc/dirty-image-objects 89514-89517
+//system/etc/event-log-tags 89518-89525
+//system/etc/fonts.xml 89526-89535
+//system/etc/fs_config_dirs 89536
+//system/etc/fs_config_files 89537
+//system/etc/gps_debug.conf 89538
+//system/etc/hosts 89539
+//system/etc/init/android.hidl.allocator@1.0-service.rc 89541
+//system/etc/init/android.system.suspend@1.0-service.rc 89542
+//system/etc/init/apexd.rc 89543
+//system/etc/init/atrace.rc 89544-89547
+//system/etc/init/audioserver.rc 89548
+//system/etc/init/blank_screen.rc 89549
+//system/etc/init/bootanim.rc 89550
+//system/etc/init/bootstat.rc 89551-89552
+//system/etc/init/bpfloader.rc 89553
+//system/etc/init/cameraserver.rc 89554
+//system/etc/init/credstore.rc 89555
+//system/etc/init/drmserver.rc 89556
+//system/etc/init/dumpstate.rc 89557
+//system/etc/init/flags_health_check.rc 89558
+//system/etc/init/gatekeeperd.rc 89559
+//system/etc/init/gpuservice.rc 89560
+//system/etc/init/gsid.rc 89561
+//system/etc/init/heapprofd.rc 89562
+//system/etc/init/hw/init.at.rc 89564
+//system/etc/init/hw/init.atoll.at.rc 89565-89575
+//system/etc/init/hw/init.holi.at.rc 89576-89590
+//system/etc/init/hw/init.lahaina.at.rc 89591-89600
+//system/etc/init/hw/init.lito.at.rc 89591-89596 89601-89604
+//system/etc/init/hw/init.rc 89605-89622
+//system/etc/init/hw/init.usb.configfs.rc 89623-89624
+//system/etc/init/hw/init.usb.rc 89625-89626
+//system/etc/init/hw/init.wlan.atoll.rc 89627-89635
+//system/etc/init/hw/init.wlan.diag.rc 89636
+//system/etc/init/hw/init.wlan.holi.rc 89637
+//system/etc/init/hw/init.wlan.kona.rc 89627-89635
+//system/etc/init/hw/init.wlan.lahaina.rc 89638-89646
+//system/etc/init/hw/init.wlan.lito.rc 89627-89629 89647-89652
+//system/etc/init/hw/init.wlan.msmnile.rc 89627-89635
+//system/etc/init/hw/init.wlan.rc 89653
+//system/etc/init/hw/init.zygote32.rc 89654
+//system/etc/init/hw/init.zygote64_32.rc 89655
+//system/etc/init/hwservicemanager.rc 89656
+//system/etc/init/idmap2d.rc 89657
+//system/etc/init/incidentd.rc 89658
+//system/etc/init/installd.rc 89659-89660
+//system/etc/init/iorapd.rc 89661
+//system/etc/init/keystore.rc 89662
+//system/etc/init/lmkd.rc 89663
+//system/etc/init/logd.rc 89664
+//system/etc/init/lpdumpd.rc 89665
+//system/etc/init/mdnsd.rc 89666
+//system/etc/init/mediaextractor.rc 89667
+//system/etc/init/mediametrics.rc 89668
+//system/etc/init/mediaserver.rc 89669
+//system/etc/init/mtpd.rc 89670
+//system/etc/init/netd.rc 89671
+//system/etc/init/perfetto.rc 89672
+//system/etc/init/racoon.rc 89673
+//system/etc/init/recovery-persist.rc 89674
+//system/etc/init/rss_hwm_reset.rc 89675
+//system/etc/init/servicemanager.rc 89676
+//system/etc/init/storaged.rc 89677
+//system/etc/init/surfaceflinger.rc 89678
+//system/etc/init/tombstoned.rc 89679
+//system/etc/init/traced_perf.rc 89680
+//system/etc/init/traceur.rc 89681
+//system/etc/init/uncrypt.rc 89682
+//system/etc/init/usbd.rc 89683
+//system/etc/init/vdc.rc 89684
+//system/etc/init/vold.rc 89685
+//system/etc/init/vpsservice.rc 89686
+//system/etc/init/wait_for_keymaster.rc 89687
+//system/etc/init/wifi.rc 89688-89689
+//system/etc/init/wificond.rc 89690
+//system/etc/media_profiles_V1_0.dtd 89691
+//system/etc/mke2fs.conf 89692
+//system/etc/mkshrc 89693
+//system/etc/oppoEuexCountryFeatures/com.oppo.euex.country.ES.xml 89695
+//system/etc/oppoEuexCountryFeatures/com.oppo.euex.country.FR.xml 89696
+//system/etc/oppoEuexCountryFeatures/com.oppo.euex.country.IT.xml 89697
+//system/etc/oppoEuexCountryFeatures/com.oppo.euex.country.NL.xml 89698
+//system/etc/oppoEuexCountryFeatures/com.oppo.euex.country.PL.xml 89699
+//system/etc/oppoEuexCountryFeatures/com.oppo.euex.country.TR.xml 89700
+//system/etc/oppoOperatorFeatures/com.oppo.operator.AU.OPTUS_POSTPAID.xml 89702
+//system/etc/oppoOperatorFeatures/com.oppo.operator.AU.OPTUS_PREPAID.xml 89702
+//system/etc/oppoOperatorFeatures/com.oppo.operator.AU.TELSTRA.xml 89703
+//system/etc/oppoOperatorFeatures/com.oppo.operator.AU.TELSTRA_POSTPAID.xml 89704
+//system/etc/oppoOperatorFeatures/com.oppo.operator.AU.TELSTRA_PREPAID.xml 89705
+//system/etc/oppoOperatorFeatures/com.oppo.operator.AU.VIRGIN_POSTPAID.xml 89706
+//system/etc/oppoOperatorFeatures/com.oppo.operator.AU.VIRGIN_PREPAID.xml 89707
+//system/etc/oppoOperatorFeatures/com.oppo.operator.AU.VODAFONE_POSTPAID.xml 89708
+//system/etc/oppoOperatorFeatures/com.oppo.operator.AU.VODAFONE_PREPAID.xml 89709
+//system/etc/oppoOperatorFeatures/com.oppo.operator.CH.SWISSCOM.xml 89710
+//system/etc/oppoOperatorFeatures/com.oppo.operator.DE.O2.xml 89711
+//system/etc/oppoOperatorFeatures/com.oppo.operator.DE.OPPO.TMOBILE.xml 89712
+//system/etc/oppoOperatorFeatures/com.oppo.operator.DE.VODAFONE_EEA.VODAFONE.xml 89713
+//system/etc/oppoOperatorFeatures/com.oppo.operator.ES.MOVISTAR.xml 89714
+//system/etc/oppoOperatorFeatures/com.oppo.operator.ES.MOVISTAR_LITE.xml 89715
+//system/etc/oppoOperatorFeatures/com.oppo.operator.ES.ORANGE.xml 89716
+//system/etc/oppoOperatorFeatures/com.oppo.operator.ES.TELEFONIA.xml 89717
+//system/etc/oppoOperatorFeatures/com.oppo.operator.ES.VODAFONE_EEA.VODAFONE.xml 89713
+//system/etc/oppoOperatorFeatures/com.oppo.operator.FR.ALTICE.SFR.xml 89718
+//system/etc/oppoOperatorFeatures/com.oppo.operator.FR.ALTICE.xml 89719
+//system/etc/oppoOperatorFeatures/com.oppo.operator.FR.BOUYGUE.xml 89720
+//system/etc/oppoOperatorFeatures/com.oppo.operator.FR.ORANGE.xml 89721
+//system/etc/oppoOperatorFeatures/com.oppo.operator.FR.ORANGE_LITE.xml 89722
+//system/etc/oppoOperatorFeatures/com.oppo.operator.GB.CPW.xml 89723
+//system/etc/oppoOperatorFeatures/com.oppo.operator.GB.EE.xml 89724
+//system/etc/oppoOperatorFeatures/com.oppo.operator.GB.O2.xml 89725
+//system/etc/oppoOperatorFeatures/com.oppo.operator.GB.VODAFONE_EEA.VODAFONE.xml 89726
+//system/etc/oppoOperatorFeatures/com.oppo.operator.IT.TIM.xml 89727
+//system/etc/oppoOperatorFeatures/com.oppo.operator.IT.VODAFONE_EEA.VODAFONE.xml 89713
+//system/etc/oppoOperatorFeatures/com.oppo.operator.IT.VODAFONE_EUEX.xml 89728
+//system/etc/oppoOperatorFeatures/com.oppo.operator.IT.WIND3.xml 89729
+//system/etc/oppoOperatorFeatures/com.oppo.operator.JP.KDDI.xml 89730
+//system/etc/oppoOperatorFeatures/com.oppo.operator.JP.OCN.xml 89731
+//system/etc/oppoOperatorFeatures/com.oppo.operator.JP.RAKUTEN.xml 89732
+//system/etc/oppoOperatorFeatures/com.oppo.operator.JP.SOFTBANK.xml 89733
+//system/etc/oppoOperatorFeatures/com.oppo.operator.JP.UQMOBILE.xml 89734
+//system/etc/oppoOperatorFeatures/com.oppo.operator.JP.YMOBILE.xml 89735
+//system/etc/oppoOperatorFeatures/com.oppo.operator.KE.SAFARICOM.xml 89736
+//system/etc/oppoOperatorFeatures/com.oppo.operator.MX.ATT.xml 89737
+//system/etc/oppoOperatorFeatures/com.oppo.operator.MX.TELCEL.xml 89738
+//system/etc/oppoOperatorFeatures/com.oppo.operator.MY.MYOP.xml 89739
+//system/etc/oppoOperatorFeatures/com.oppo.operator.NL.TMOBILE.xml 89740
+//system/etc/oppoOperatorFeatures/com.oppo.operator.NL.VODAFONE_EUEX.xml 89728
+//system/etc/oppoOperatorFeatures/com.oppo.operator.NZ.2DEGREES.xml 89741
+//system/etc/oppoOperatorFeatures/com.oppo.operator.NZ.NZOP.xml 89742
+//system/etc/oppoOperatorFeatures/com.oppo.operator.NZ.SKINNY.xml 89743
+//system/etc/oppoOperatorFeatures/com.oppo.operator.NZ.SPARK.xml 89744
+//system/etc/oppoOperatorFeatures/com.oppo.operator.NZ.VODAFONE_NZ.xml 89745
+//system/etc/oppoOperatorFeatures/com.oppo.operator.NZ.WAREHOUSE.xml 89746
+//system/etc/oppoOperatorFeatures/com.oppo.operator.PH.GLOBE.xml 89747
+//system/etc/oppoOperatorFeatures/com.oppo.operator.PH.SMART.xml 89748
+//system/etc/oppoOperatorFeatures/com.oppo.operator.PL.ORANGE.xml 89749
+//system/etc/oppoOperatorFeatures/com.oppo.operator.PL.PLAY.xml 89750
+//system/etc/oppoOperatorFeatures/com.oppo.operator.PT.ALTICE.MEO.xml 89718
+//system/etc/oppoOperatorFeatures/com.oppo.operator.PT.VODAFONE_EEA.VODAFONE.xml 89751
+//system/etc/oppoOperatorFeatures/com.oppo.operator.RE.ALTICE.LAREUNION.xml 89718
+//system/etc/oppoOperatorFeatures/com.oppo.operator.SG.M1.xml 89752
+//system/etc/oppoOperatorFeatures/com.oppo.operator.SG.MyRepublic.xml 89753
+//system/etc/oppoOperatorFeatures/com.oppo.operator.SG.SGOP.xml 89754
+//system/etc/oppoOperatorFeatures/com.oppo.operator.SG.SINGTEL.xml 89755
+//system/etc/oppoOperatorFeatures/com.oppo.operator.SG.STARHUB.xml 89752
+//system/etc/oppoOperatorFeatures/com.oppo.operator.SG.TPG.xml 89756
+//system/etc/oppoOperatorFeatures/com.oppo.operator.TR.TURKCELL.xml 89757
+//system/etc/oppoOperatorFeatures/com.oppo.operator.TR.VODAFONE_EUEX.xml 89758
+//system/etc/oppoOperatorFeatures/com.oppo.operator.TW.APT.xml 89759
+//system/etc/oppoOperatorFeatures/com.oppo.operator.TW.FET.xml 89759
+//system/etc/oppoOperatorFeatures/com.oppo.operator.TW.TWM.xml 89759
+//system/etc/oppoOperatorFeatures/com.oppo.operator.TW.TWOP.xml 89760
+//system/etc/oppoOperatorFeatures/com.oppo.operator.US.EX.xml 89761
+//system/etc/oppoOperatorFeatures/com.oppo.operator.group.ALTICE.xml 89762
+//system/etc/oppoOperatorFeatures/com.oppo.operator.group.ORANGE.xml 89763
+//system/etc/oppoOperatorFeatures/com.oppo.operator.group.VODAFONE_EEA.xml 89764
+//system/etc/oppoOperatorFeatures/com.oppo.operator.group.VODAFONE_EUEX.xml 89765
+//system/etc/oppoOperatorFeatures/com.oppo.operator.group.VODAFONE_NONEEA.xml 89766
+//system/etc/oppoOperatorGroupFeatures/com.oppo.operator.group.ALTICE.xml 89762
+//system/etc/oppoOperatorGroupFeatures/com.oppo.operator.group.ORANGE.xml 89763
+//system/etc/oppoOperatorGroupFeatures/com.oppo.operator.group.VODAFONE_EEA.xml 89764
+//system/etc/oppoOperatorGroupFeatures/com.oppo.operator.group.VODAFONE_EUEX.xml 89765
+//system/etc/oppoOperatorGroupFeatures/com.oppo.operator.group.VODAFONE_NONEEA.xml 89766
+//system/etc/oppoRegionFeatures/com.oppo.region.AE.xml 89769
+//system/etc/oppoRegionFeatures/com.oppo.region.AR.xml 89770
+//system/etc/oppoRegionFeatures/com.oppo.region.AU.xml 89771
+//system/etc/oppoRegionFeatures/com.oppo.region.BD.xml 89772
+//system/etc/oppoRegionFeatures/com.oppo.region.BH.xml 89773
+//system/etc/oppoRegionFeatures/com.oppo.region.BR.xml 89774
+//system/etc/oppoRegionFeatures/com.oppo.region.CN.xml 89775
+//system/etc/oppoRegionFeatures/com.oppo.region.CO.xml 89776
+//system/etc/oppoRegionFeatures/com.oppo.region.CZ.xml 89777
+//system/etc/oppoRegionFeatures/com.oppo.region.DE.xml 89778
+//system/etc/oppoRegionFeatures/com.oppo.region.DK.xml 89779
+//system/etc/oppoRegionFeatures/com.oppo.region.DZ.xml 89780
+//system/etc/oppoRegionFeatures/com.oppo.region.EG.xml 89769
+//system/etc/oppoRegionFeatures/com.oppo.region.ES.xml 89781
+//system/etc/oppoRegionFeatures/com.oppo.region.FR.xml 89782
+//system/etc/oppoRegionFeatures/com.oppo.region.GB.xml 89783
+//system/etc/oppoRegionFeatures/com.oppo.region.GR.xml 89784
+//system/etc/oppoRegionFeatures/com.oppo.region.HK.xml 89785
+//system/etc/oppoRegionFeatures/com.oppo.region.HU.xml 89786
+//system/etc/oppoRegionFeatures/com.oppo.region.ID.xml 89787
+//system/etc/oppoRegionFeatures/com.oppo.region.IL.xml 89788
+//system/etc/oppoRegionFeatures/com.oppo.region.IN.xml 89789
+//system/etc/oppoRegionFeatures/com.oppo.region.IR.xml 89790
+//system/etc/oppoRegionFeatures/com.oppo.region.IT.xml 89791
+//system/etc/oppoRegionFeatures/com.oppo.region.JP.xml 89792
+//system/etc/oppoRegionFeatures/com.oppo.region.KE.xml 89769
+//system/etc/oppoRegionFeatures/com.oppo.region.KH.xml 89772
+//system/etc/oppoRegionFeatures/com.oppo.region.KR.xml 89793
+//system/etc/oppoRegionFeatures/com.oppo.region.KW.xml 89794
+//system/etc/oppoRegionFeatures/com.oppo.region.KZ.xml 89795
+//system/etc/oppoRegionFeatures/com.oppo.region.LA.xml 89796
+//system/etc/oppoRegionFeatures/com.oppo.region.LK.xml 89797
+//system/etc/oppoRegionFeatures/com.oppo.region.MA.xml 89798
+//system/etc/oppoRegionFeatures/com.oppo.region.MM.xml 89772
+//system/etc/oppoRegionFeatures/com.oppo.region.MX.xml 89778
+//system/etc/oppoRegionFeatures/com.oppo.region.MY.xml 89772
+//system/etc/oppoRegionFeatures/com.oppo.region.NG.xml 89799
+//system/etc/oppoRegionFeatures/com.oppo.region.NL.xml 89800
+//system/etc/oppoRegionFeatures/com.oppo.region.NO.xml 89801
+//system/etc/oppoRegionFeatures/com.oppo.region.NP.xml 89772
+//system/etc/oppoRegionFeatures/com.oppo.region.NZ.xml 89802
+//system/etc/oppoRegionFeatures/com.oppo.region.OC.xml 89803
+//system/etc/oppoRegionFeatures/com.oppo.region.OM.xml 89804
+//system/etc/oppoRegionFeatures/com.oppo.region.PH.xml 89805
+//system/etc/oppoRegionFeatures/com.oppo.region.PK.xml 89805
+//system/etc/oppoRegionFeatures/com.oppo.region.PL.xml 89806
+//system/etc/oppoRegionFeatures/com.oppo.region.PT.xml 89778
+//system/etc/oppoRegionFeatures/com.oppo.region.QA.xml 89807
+//system/etc/oppoRegionFeatures/com.oppo.region.RO.xml 89791
+//system/etc/oppoRegionFeatures/com.oppo.region.RU.xml 89769
+//system/etc/oppoRegionFeatures/com.oppo.region.SA.xml 89808
+//system/etc/oppoRegionFeatures/com.oppo.region.SE.xml 89809
+//system/etc/oppoRegionFeatures/com.oppo.region.SG.xml 89810
+//system/etc/oppoRegionFeatures/com.oppo.region.TH.xml 89811
+//system/etc/oppoRegionFeatures/com.oppo.region.TN.xml 89812
+//system/etc/oppoRegionFeatures/com.oppo.region.TR.xml 89791
+//system/etc/oppoRegionFeatures/com.oppo.region.TW.xml 89813
+//system/etc/oppoRegionFeatures/com.oppo.region.UA.xml 89814
+//system/etc/oppoRegionFeatures/com.oppo.region.US.xml 89815
+//system/etc/oppoRegionFeatures/com.oppo.region.VN.xml 89797
+//system/etc/oppoRegionFeatures/com.oppo.region.ZA.xml 89778
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.AU.xml 89817
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.EG.xml 89818
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.EUEX.xml 89819
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.ID.xml 89820
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.IN.xml 89821
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.JP.xml 89822
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.KE.xml 89823
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.MY.xml 89820
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.NZ.xml 89817
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.PH.xml 89820
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.RU.xml 89824
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.TH.xml 89825
+//system/etc/oppoRegionMarkFeatures/com.oppo.regionmark.TW.xml 89826
+//system/etc/permissions/GoogleCellBroadcast_permissions.xml 89828
+//system/etc/permissions/GoogleDocumentsUI_permissions.xml 89829
+//system/etc/permissions/GoogleExtServices_permissions.xml 89830
+//system/etc/permissions/GoogleMediaProvider_permissions.xml 89831
+//system/etc/permissions/GoogleNetworkStack_permissions.xml 89832
+//system/etc/permissions/GooglePermissionController_permissions.xml 89833
+//system/etc/permissions/GoogleTethering_permissions.xml 89834
+//system/etc/permissions/android.software.webview.xml 89835
+//system/etc/permissions/android.test.base.xml 89836
+//system/etc/permissions/android.test.mock.xml 89837
+//system/etc/permissions/android.test.runner.xml 89838
+//system/etc/permissions/com.android.future.usb.accessory.xml 89839
+//system/etc/permissions/com.android.location.provider.xml 89840
+//system/etc/permissions/com.android.media.remotedisplay.xml 89841
+//system/etc/permissions/com.android.mediadrm.signer.xml 89842
+//system/etc/permissions/com.android.nfc_extras.xml 89843
+//system/etc/permissions/com.nxp.nfc.nq.xml 89844
+//system/etc/permissions/com.oppo.exp.xml 89845
+//system/etc/permissions/javax.obex.xml 89846
+//system/etc/permissions/org.apache.http.legacy.xml 89847
+//system/etc/permissions/platform-oplus.xml 89848
+//system/etc/permissions/platform.xml 89849-89852
+//system/etc/permissions/privapp-permissions-google-system.xml 89853
+//system/etc/permissions/privapp-permissions-oppo.xml 89854-89866
+//system/etc/permissions/privapp-permissions-platform.xml 89867-89873
+//system/etc/permissions/privapp-permissions-qti.xml 89874-89875
+//system/etc/ppp/ip-up-vpn 89877-89879
+//system/etc/preloaded-classes 89880-90010
+//system/etc/prop.default 90011
+//system/etc/protolog.conf.json.gz 90012-90014
+//system/etc/public.libraries-qti.txt 90015
+//system/etc/public.libraries.txt 90016
+//system/etc/sanitizer.libraries.txt 90017
+//system/etc/seccomp_policy/code_coverage.arm.policy 90019
+//system/etc/seccomp_policy/code_coverage.arm64.policy 65903
+//system/etc/seccomp_policy/crash_dump.arm.policy 90020
+//system/etc/seccomp_policy/crash_dump.arm64.policy 65904
+//system/etc/seccomp_policy/mediacodec.policy 90021
+//system/etc/seccomp_policy/mediaextractor.policy 65905
+//system/etc/security/cacerts/00673b5b.0 90024-90025
+//system/etc/security/cacerts/04f60c28.0 90026
+//system/etc/security/cacerts/0d69c7e1.0 90027
+//system/etc/security/cacerts/10531352.0 90028-90029
+//system/etc/security/cacerts/111e6273.0 90030-90031
+//system/etc/security/cacerts/12d55845.0 90032-90033
+//system/etc/security/cacerts/1dcd6f4c.0 90034-90035
+//system/etc/security/cacerts/1df5a75f.0 90036-90037
+//system/etc/security/cacerts/1e1eab7c.0 90038-90039
+//system/etc/security/cacerts/1e8e7201.0 90040-90041
+//system/etc/security/cacerts/1eb37bdf.0 90042-90044
+//system/etc/security/cacerts/1f58a078.0 90045-90046
+//system/etc/security/cacerts/219d9499.0 90047-90048
+//system/etc/security/cacerts/23f4c490.0 90049-90050
+//system/etc/security/cacerts/27af790d.0 90051
+//system/etc/security/cacerts/2add47b6.0 90052
+//system/etc/security/cacerts/2d9dafe4.0 90053-90054
+//system/etc/security/cacerts/2fa87019.0 90055-90056
+//system/etc/security/cacerts/302904dd.0 90057-90058
+//system/etc/security/cacerts/304d27c3.0 90059-90060
+//system/etc/security/cacerts/31188b5e.0 90061-90062
+//system/etc/security/cacerts/33ee480d.0 90063-90064
+//system/etc/security/cacerts/343eb6cb.0 90065-90066
+//system/etc/security/cacerts/35105088.0 90067-90068
+//system/etc/security/cacerts/399e7759.0 90069-90070
+//system/etc/security/cacerts/3a3b02ce.0 90071-90072
+//system/etc/security/cacerts/3ad48a91.0 90073-90074
+//system/etc/security/cacerts/3c58f906.0 90075-90076
+//system/etc/security/cacerts/3c6676aa.0 90077-90078
+//system/etc/security/cacerts/3c860d51.0 90079-90080
+//system/etc/security/cacerts/3c899c73.0 90081
+//system/etc/security/cacerts/3c9a4d3b.0 90082-90084
+//system/etc/security/cacerts/3d441de8.0 90085-90086
+//system/etc/security/cacerts/3e7271e8.0 90087-90088
+//system/etc/security/cacerts/40dc992e.0 90089-90090
+//system/etc/security/cacerts/455f1b52.0 90091-90092
+//system/etc/security/cacerts/48a195d8.0 90093-90094
+//system/etc/security/cacerts/4be590e0.0 90095-90096
+//system/etc/security/cacerts/5046c355.0 90097-90098
+//system/etc/security/cacerts/524d9b43.0 90099-90100
+//system/etc/security/cacerts/52b525c7.0 90101-90102
+//system/etc/security/cacerts/583d0756.0 90103-90104
+//system/etc/security/cacerts/5a250ea7.0 90105-90106
+//system/etc/security/cacerts/5a3f0ff8.0 90107-90108
+//system/etc/security/cacerts/5acf816d.0 90109
+//system/etc/security/cacerts/5cf9d536.0 90110-90111
+//system/etc/security/cacerts/5e4e69e7.0 90112
+//system/etc/security/cacerts/5f47b495.0 90113-90114
+//system/etc/security/cacerts/60afe812.0 90115-90116
+//system/etc/security/cacerts/6187b673.0 90117-90118
+//system/etc/security/cacerts/63a2c897.0 90119-90120
+//system/etc/security/cacerts/67495436.0 90121-90122
+//system/etc/security/cacerts/69105f4f.0 90123-90124
+//system/etc/security/cacerts/6b03dec0.0 90125
+//system/etc/security/cacerts/75680d2e.0 90126-90127
+//system/etc/security/cacerts/76579174.0 90128-90129
+//system/etc/security/cacerts/7892ad52.0 90130
+//system/etc/security/cacerts/7999be0d.0 90131-90132
+//system/etc/security/cacerts/7a7c655d.0 90133
+//system/etc/security/cacerts/7a819ef2.0 90134-90135
+//system/etc/security/cacerts/7c302982.0 90136-90137
+//system/etc/security/cacerts/7d453d8f.0 90138-90139
+//system/etc/security/cacerts/81b9768f.0 90140-90141
+//system/etc/security/cacerts/82223c44.0 90142-90143
+//system/etc/security/cacerts/85cde254.0 90144-90145
+//system/etc/security/cacerts/86212b19.0 90146-90147
+//system/etc/security/cacerts/869fbf79.0 90148
+//system/etc/security/cacerts/87753b0d.0 90149-90150
+//system/etc/security/cacerts/882de061.0 90151-90152
+//system/etc/security/cacerts/88950faa.0 90153
+//system/etc/security/cacerts/89c02a45.0 90154
+//system/etc/security/cacerts/8d6437c3.0 90155-90156
+//system/etc/security/cacerts/91739615.0 90157-90158
+//system/etc/security/cacerts/9282e51c.0 90159-90160
+//system/etc/security/cacerts/9339512a.0 90161-90162
+//system/etc/security/cacerts/9479c8c3.0 90163
+//system/etc/security/cacerts/9576d26b.0 90164-90165
+//system/etc/security/cacerts/95aff9e3.0 90166-90167
+//system/etc/security/cacerts/9685a493.0 90168-90169
+//system/etc/security/cacerts/9772ca32.0 90170-90171
+//system/etc/security/cacerts/985c1f52.0 90172-90173
+//system/etc/security/cacerts/9d6523ce.0 90174-90175
+//system/etc/security/cacerts/9f533518.0 90176-90178
+//system/etc/security/cacerts/a2c66da8.0 90179-90180
+//system/etc/security/cacerts/a3896b44.0 90181-90182
+//system/etc/security/cacerts/a7605362.0 90183-90184
+//system/etc/security/cacerts/a7d2cf64.0 90185
+//system/etc/security/cacerts/a81e292b.0 90186-90187
+//system/etc/security/cacerts/ab5346f4.0 90188-90189
+//system/etc/security/cacerts/ab59055e.0 90190-90191
+//system/etc/security/cacerts/aeb67534.0 90192-90193
+//system/etc/security/cacerts/b0ed035a.0 90194-90195
+//system/etc/security/cacerts/b0f3e76e.0 90196-90197
+//system/etc/security/cacerts/b3fb433b.0 90198
+//system/etc/security/cacerts/b74d2bd5.0 90199
+//system/etc/security/cacerts/b7db1890.0 90200-90201
+//system/etc/security/cacerts/b872f2b4.0 90202-90203
+//system/etc/security/cacerts/b936d1c6.0 90204-90205
+//system/etc/security/cacerts/bc3f2570.0 90206-90207
+//system/etc/security/cacerts/bd43e1dd.0 90208-90209
+//system/etc/security/cacerts/bdacca6f.0 90210-90211
+//system/etc/security/cacerts/bf64f35b.0 90212-90213
+//system/etc/security/cacerts/c2c1704e.0 90214-90215
+//system/etc/security/cacerts/c491639e.0 90216
+//system/etc/security/cacerts/c51c224c.0 90217-90218
+//system/etc/security/cacerts/c559d742.0 90219-90220
+//system/etc/security/cacerts/c7e2a638.0 90221-90222
+//system/etc/security/cacerts/c907e29b.0 90223-90224
+//system/etc/security/cacerts/c90bc37d.0 90225-90226
+//system/etc/security/cacerts/cb156124.0 90227-90228
+//system/etc/security/cacerts/cb1c3204.0 90229-90230
+//system/etc/security/cacerts/ccc52f49.0 90231
+//system/etc/security/cacerts/cf701eeb.0 90232-90233
+//system/etc/security/cacerts/d06393bb.0 90234-90235
+//system/etc/security/cacerts/d0cddf45.0 90236-90237
+//system/etc/security/cacerts/d16a5865.0 90238-90239
+//system/etc/security/cacerts/d18e9066.0 90240-90241
+//system/etc/security/cacerts/d41b5e2a.0 90242
+//system/etc/security/cacerts/d4c339cb.0 90243-90244
+//system/etc/security/cacerts/d59297b8.0 90245-90246
+//system/etc/security/cacerts/d7746a63.0 90247-90248
+//system/etc/security/cacerts/da7377f6.0 90249-90250
+//system/etc/security/cacerts/dbc54cab.0 90251-90252
+//system/etc/security/cacerts/dbff3a01.0 90253-90254
+//system/etc/security/cacerts/dc99f41e.0 90255-90256
+//system/etc/security/cacerts/dfc0fe80.0 90257-90258
+//system/etc/security/cacerts/e442e424.0 90259-90260
+//system/etc/security/cacerts/e48193cf.0 90261-90262
+//system/etc/security/cacerts/e775ed2d.0 90263-90264
+//system/etc/security/cacerts/e8651083.0 90265-90266
+//system/etc/security/cacerts/ed39abd0.0 90267
+//system/etc/security/cacerts/f013ecaf.0 90268-90269
+//system/etc/security/cacerts/f0cd152c.0 90270-90271
+//system/etc/security/cacerts/f459871d.0 90272-90273
+//system/etc/security/cacerts/facacbc6.0 90274-90275
+//system/etc/security/cacerts/fb5fa911.0 90276-90277
+//system/etc/security/cacerts/fd08c599.0 90278-90279
+//system/etc/security/cacerts/fde84897.0 90280-90281
+//system/etc/security/fsverity/fsverity-release.x509.der 90283
+//system/etc/security/otacerts.zip 90284
+//system/etc/selinux/mapping/26.0.cil 90287-90297
+//system/etc/selinux/mapping/26.0.compat.cil 90298
+//system/etc/selinux/mapping/27.0.cil 90299-90318
+//system/etc/selinux/mapping/27.0.compat.cil 90298
+//system/etc/selinux/mapping/28.0.cil 90319-90341
+//system/etc/selinux/mapping/28.0.compat.cil 90298
+//system/etc/selinux/mapping/29.0.cil 90342-90368
+//system/etc/selinux/mapping/29.0.compat.cil 90369
+//system/etc/selinux/mapping/30.0.cil 90370-90410
+//system/etc/selinux/plat_file_contexts 90411-90419
+//system/etc/selinux/plat_hwservice_contexts 90420-90422
+//system/etc/selinux/plat_mac_permissions.xml 90423-90424
+//system/etc/selinux/plat_property_contexts 90425-90436
+//system/etc/selinux/plat_seapp_contexts 90437
+//system/etc/selinux/plat_sepolicy.cil 90438-90823
+//system/etc/selinux/plat_sepolicy_and_mapping.sha256 90824
+//system/etc/selinux/plat_service_contexts 90825-90829
+//system/etc/storage_health_info.xml 90830
+//system/etc/storage_healthinfo_item.xml 90831
+//system/etc/sys_sensor_config.xml 90832
+//system/etc/sysconfig/framework-sysconfig.xml 90834
+//system/etc/sysconfig/hiddenapi-package-whitelist.xml 90835
+//system/etc/sysconfig/preinstalled-packages-platform-full-base.xml 90836
+//system/etc/sysconfig/preinstalled-packages-platform.xml 90837-90838
+//system/etc/sysconfig/qti_whitelist.xml 90839-90840
+//system/etc/task_profiles.json 90841-90844
+//system/etc/textclassifier/actions_suggestions.universal.model 90846-90881
+//system/etc/textclassifier/lang_id.model 90882-90972
+//system/etc/textclassifier/textclassifier.en.model 90973-91113
+//system/etc/textclassifier/textclassifier.universal.model 91114-91161
+//system/etc/ueventd.rc 91162
+//system/etc/updatable-bcp-packages.txt 91163
+//system/etc/vintf/compatibility_matrix.1.xml 91165-91182
+//system/etc/vintf/compatibility_matrix.2.xml 91183-91201
+//system/etc/vintf/compatibility_matrix.3.xml 91202-91224
+//system/etc/vintf/compatibility_matrix.4.xml 91225-91252
+//system/etc/vintf/compatibility_matrix.5.xml 91253-91283
+//system/etc/vintf/compatibility_matrix.device.xml 91284-91292
+//system/etc/vintf/compatibility_matrix.legacy.xml 91293-91310
+//system/etc/vintf/manifest/android.frameworks.stats@1.0-service.xml 91312
+//system/etc/vintf/manifest/android.hidl.allocator@1.0-service.xml 91313
+//system/etc/vintf/manifest/android.system.suspend@1.0-service.xml 91314
+//system/etc/vintf/manifest/manifest_android.frameworks.cameraservice.service@2.1.xml 91315
+//system/etc/vintf/manifest/manifest_media_c2_software.xml 91316
+//system/etc/vintf/manifest.xml 91317-91318
+//system/etc/vndkcorevariant.libraries.txt 91319
+//system/etc/wifi/xwificonfig_exands.bin 91321-91322
+//system/fonts/AndroidClock.ttf 91324-91325
+//system/fonts/CarroisGothicSC-Regular.ttf 91326-91335
+//system/fonts/ComingSoon.ttf 91336-91350
+//system/fonts/CutiveMono.ttf 91351-91367
+//system/fonts/DancingScript-Bold.ttf 91368-91396
+//system/fonts/DancingScript-Regular.ttf 91397-91425
+//system/fonts/DroidSansFallback.ttf 91426-92387
+//system/fonts/DroidSansMono.ttf 92388-92414
+//system/fonts/FZZWXBTOT_Uni.ttf 92415-92479
+//system/fonts/MyanmarZg.ttf 92480-92488
+//system/fonts/NotoColorEmoji.ttf 92489-94861
+//system/fonts/NotoNaskhArabic-Bold.ttf 94862-94890
+//system/fonts/NotoNaskhArabic-Regular.ttf 94891-94919
+//system/fonts/NotoNaskhArabicUI-Bold.ttf 94920-94949
+//system/fonts/NotoNaskhArabicUI-Regular.ttf 94950-94979
+//system/fonts/NotoSansAdlam-VF.ttf 94980-95005
+//system/fonts/NotoSansAhom-Regular.otf 95006-95009
+//system/fonts/NotoSansAnatolianHieroglyphs-Regular.otf 95010-95042
+//system/fonts/NotoSansArmenian-Bold.otf 95043-95046
+//system/fonts/NotoSansArmenian-Medium.otf 95047-95050
+//system/fonts/NotoSansArmenian-Regular.otf 95051-95054
+//system/fonts/NotoSansAvestan-Regular.ttf 95055-95057
+//system/fonts/NotoSansBalinese-Regular.ttf 95058-95065
+//system/fonts/NotoSansBamum-Regular.ttf 95066-95098
+//system/fonts/NotoSansBassaVah-Regular.otf 95099-95100
+//system/fonts/NotoSansBatak-Regular.ttf 95101-95104
+//system/fonts/NotoSansBengali-Bold.otf 95105-95125
+//system/fonts/NotoSansBengali-Medium.otf 95126-95147
+//system/fonts/NotoSansBengali-Regular.otf 95148-95167
+//system/fonts/NotoSansBengaliUI-Bold.otf 95168-95187
+//system/fonts/NotoSansBengaliUI-Medium.otf 95188-95209
+//system/fonts/NotoSansBengaliUI-Regular.otf 95210-95229
+//system/fonts/NotoSansBhaiksuki-Regular.otf 95230-95254
+//system/fonts/NotoSansBrahmi-Regular.ttf 95255-95260
+//system/fonts/NotoSansBuginese-Regular.ttf 95261-95262
+//system/fonts/NotoSansBuhid-Regular.ttf 95263-95264
+//system/fonts/NotoSansCJK-Regular.ttc 95265-98303 98333-100257
+//system/fonts/NotoSansCanadianAboriginal-Regular.ttf 100258-100269
+//system/fonts/NotoSansCarian-Regular.ttf 100270-100271
+//system/fonts/NotoSansChakma-Regular.otf 100272-100279
+//system/fonts/NotoSansCham-Bold.ttf 100280-100285
+//system/fonts/NotoSansCham-Regular.ttf 100286-100291
+//system/fonts/NotoSansCherokee-Regular.ttf 100292-100306
+//system/fonts/NotoSansCoptic-Regular.ttf 100307-100312
+//system/fonts/NotoSansCuneiform-Regular.ttf 100313-100435
+//system/fonts/NotoSansCypriot-Regular.ttf 100436-100437
+//system/fonts/NotoSansDeseret-Regular.ttf 100438-100440
+//system/fonts/NotoSansDevanagari-Bold.otf 100441-100469
+//system/fonts/NotoSansDevanagari-Medium.otf 100470-100500
+//system/fonts/NotoSansDevanagari-Regular.otf 100501-100529
+//system/fonts/NotoSansDevanagariUI-Bold.otf 100530-100556
+//system/fonts/NotoSansDevanagariUI-Medium.otf 100557-100584
+//system/fonts/NotoSansDevanagariUI-Regular.otf 100585-100610
+//system/fonts/NotoSansEgyptianHieroglyphs-Regular.ttf 100611-100734
+//system/fonts/NotoSansElbasan-Regular.otf 100735-100737
+//system/fonts/NotoSansEthiopic-Bold.ttf 100738-100773
+//system/fonts/NotoSansEthiopic-Regular.ttf 100774-100808
+//system/fonts/NotoSansGeorgian-VF.ttf 100809-100825
+//system/fonts/NotoSansGlagolitic-Regular.ttf 100826-100829
+//system/fonts/NotoSansGothic-Regular.ttf 100830-100831
+//system/fonts/NotoSansGujarati-Bold.ttf 100832-100860
+//system/fonts/NotoSansGujarati-Regular.ttf 100861-100890
+//system/fonts/NotoSansGujaratiUI-Bold.ttf 100891-100918
+//system/fonts/NotoSansGujaratiUI-Regular.ttf 100919-100947
+//system/fonts/NotoSansGunjalaGondi-Regular.otf 100948-100955
+//system/fonts/NotoSansGurmukhi-Bold.ttf 100956-100963
+//system/fonts/NotoSansGurmukhi-Regular.ttf 100964-100971
+//system/fonts/NotoSansGurmukhiUI-Bold.ttf 100972-100979
+//system/fonts/NotoSansGurmukhiUI-Regular.ttf 100980-100987
+//system/fonts/NotoSansHanifiRohingya-Regular.otf 100988-100991
+//system/fonts/NotoSansHanunoo-Regular.ttf 100992-100993
+//system/fonts/NotoSansHatran-Regular.otf 100994-100995
+//system/fonts/NotoSansHebrew-Bold.ttf 100996-101000
+//system/fonts/NotoSansHebrew-Regular.ttf 101001-101005
+//system/fonts/NotoSansImperialAramaic-Regular.ttf 101006-101007
+//system/fonts/NotoSansInscriptionalPahlavi-Regular.ttf 101008-101009
+//system/fonts/NotoSansInscriptionalParthian-Regular.ttf 101010-101011
+//system/fonts/NotoSansJavanese-Regular.otf 101012-101033
+//system/fonts/NotoSansKaithi-Regular.ttf 101034-101048
+//system/fonts/NotoSansKannada-Bold.ttf 101049-101068
+//system/fonts/NotoSansKannada-Regular.ttf 101069-101089
+//system/fonts/NotoSansKannadaUI-Bold.ttf 101090-101109
+//system/fonts/NotoSansKannadaUI-Regular.ttf 101110-101129
+//system/fonts/NotoSansKayahLi-Regular.ttf 101130-101131
+//system/fonts/NotoSansKharoshthi-Regular.ttf 101132-101137
+//system/fonts/NotoSansKhmer-VF.ttf 101138-101173
+//system/fonts/NotoSansKhmerUI-Bold.ttf 101174-101182
+//system/fonts/NotoSansKhmerUI-Regular.ttf 101183-101192
+//system/fonts/NotoSansKhojki-Regular.otf 101193-101199
+//system/fonts/NotoSansLao-Bold.ttf 101200-101207
+//system/fonts/NotoSansLao-Regular.ttf 101208-101215
+//system/fonts/NotoSansLaoUI-Bold.ttf 101216-101223
+//system/fonts/NotoSansLaoUI-Regular.ttf 101224 101209-101213 101225-101226
+//system/fonts/NotoSansLepcha-Regular.ttf 101227-101251
+//system/fonts/NotoSansLimbu-Regular.ttf 101252-101254
+//system/fonts/NotoSansLinearA-Regular.otf 101255-101263
+//system/fonts/NotoSansLinearB-Regular.ttf 101264-101278
+//system/fonts/NotoSansLisu-Regular.ttf 101279-101280
+//system/fonts/NotoSansLycian-Regular.ttf 101281-101282
+//system/fonts/NotoSansLydian-Regular.ttf 101283-101284
+//system/fonts/NotoSansMalayalam-Bold.otf 101285-101296
+//system/fonts/NotoSansMalayalam-Medium.otf 101297-101310
+//system/fonts/NotoSansMalayalam-Regular.otf 101311-101322
+//system/fonts/NotoSansMalayalamUI-Bold.otf 101323-101334
+//system/fonts/NotoSansMalayalamUI-Medium.otf 101335-101348
+//system/fonts/NotoSansMalayalamUI-Regular.otf 101349-101360
+//system/fonts/NotoSansMandaic-Regular.ttf 101361-101364
+//system/fonts/NotoSansManichaean-Regular.otf 101365-101369
+//system/fonts/NotoSansMarchen-Regular.otf 101370-101385
+//system/fonts/NotoSansMasaramGondi-Regular.otf 101386-101391
+//system/fonts/NotoSansMiao-Regular.otf 101402-101407
+//system/fonts/NotoSansMeeteiMayek-Regular.ttf 101393-101396
+//system/fonts/NotoSansMeroitic-Regular.otf 101397-101401
+//system/fonts/NotoSansMongolian-Regular.ttf 101408-101435
+//system/fonts/NotoSansMro-Regular.otf 101436-101437
+//system/fonts/NotoSansMultani-Regular.otf 101438-101439
+//system/fonts/NotoSansMyanmar-Bold.otf 101440-101466
+//system/fonts/NotoSansMyanmar-Medium.otf 101467-101495
+//system/fonts/NotoSansMyanmar-Regular.otf 101496-101522
+//system/fonts/NotoSansMyanmarUI-Bold.otf 101523-101550
+//system/fonts/NotoSansMyanmarUI-Medium.otf 101551-101579
+//system/fonts/NotoSansMyanmarUI-Regular.otf 101580-101607
+//system/fonts/NotoSansNKo-Regular.ttf 101608-101612
+//system/fonts/NotoSansNabataean-Regular.otf 101613-101614
+//system/fonts/NotoSansNewTaiLue-Regular.ttf 101615-101618
+//system/fonts/NotoSansNewa-Regular.otf 101619-101635
+//system/fonts/NotoSansOgham-Regular.ttf 101636-101637
+//system/fonts/NotoSansOlChiki-Regular.ttf 101638-101639
+//system/fonts/NotoSansOldItalic-Regular.ttf 101640-101641
+//system/fonts/NotoSansOldNorthArabian-Regular.otf 101642-101643
+//system/fonts/NotoSansOldPermic-Regular.otf 101644-101646
+//system/fonts/NotoSansOldPersian-Regular.ttf 101647-101650
+//system/fonts/NotoSansOldSouthArabian-Regular.ttf 101651-101652
+//system/fonts/NotoSansOldTurkic-Regular.ttf 101653-101654
+//system/fonts/NotoSansOriya-Bold.ttf 101655-101675
+//system/fonts/NotoSansOriya-Regular.ttf 101676-101696
+//system/fonts/NotoSansOriyaUI-Bold.ttf 101697-101716
+//system/fonts/NotoSansOriyaUI-Regular.ttf 101717-101736
+//system/fonts/NotoSansOsage-Regular.ttf 101737-101739
+//system/fonts/NotoSansOsmanya-Regular.ttf 101740-101741
+//system/fonts/NotoSansPahawhHmong-Regular.otf 101742-101745
+//system/fonts/NotoSansPalmyrene-Regular.otf 101746-101748
+//system/fonts/NotoSansPauCinHau-Regular.otf 101749-101751
+//system/fonts/NotoSansPhagsPa-Regular.ttf 101752-101758
+//system/fonts/NotoSansPhoenician-Regular.ttf 101759-101760
+//system/fonts/NotoSansRejang-Regular.ttf 101761-101762
+//system/fonts/NotoSansRunic-Regular.ttf 101763-101765
+//system/fonts/NotoSansSamaritan-Regular.ttf 101766-101768
+//system/fonts/NotoSansSaurashtra-Regular.ttf 101769-101773
+//system/fonts/NotoSansSharada-Regular.otf 101774-101780
+//system/fonts/NotoSansShavian-Regular.ttf 101781-101782
+//system/fonts/NotoSansSinhala-Bold.otf 101783-101803
+//system/fonts/NotoSansSinhala-Medium.otf 101804-101826
+//system/fonts/NotoSansSinhala-Regular.otf 101827-101847
+//system/fonts/NotoSansSinhalaUI-Bold.otf 101848-101868
+//system/fonts/NotoSansSinhalaUI-Medium.otf 101869-101891
+//system/fonts/NotoSansSinhalaUI-Regular.otf 101892-101912
+//system/fonts/NotoSansSoraSompeng-Regular.otf 101913-101914
+//system/fonts/NotoSansSundanese-Regular.ttf 101915-101917
+//system/fonts/NotoSansSylotiNagri-Regular.ttf 101918-101921
+//system/fonts/NotoSansSymbols-Regular-Subsetted.ttf 101922-102095
+//system/fonts/NotoSansSymbols-Regular-Subsetted2.ttf 102096-102104
+//system/fonts/NotoSansSyriacEastern-Regular.ttf 102105-102117
+//system/fonts/NotoSansSyriacEstrangela-Regular.ttf 102118-102129
+//system/fonts/NotoSansSyriacWestern-Regular.ttf 102130-102142
+//system/fonts/NotoSansTagalog-Regular.ttf 102143-102144
+//system/fonts/NotoSansTagbanwa-Regular.ttf 102145-102146
+//system/fonts/NotoSansTaiLe-Regular.ttf 102147-102149
+//system/fonts/NotoSansTaiTham-Regular.ttf 102150-102161
+//system/fonts/NotoSansTaiViet-Regular.ttf 102162-102165
+//system/fonts/NotoSansTamil-Bold.otf 102166-102173
+//system/fonts/NotoSansTamil-Medium.otf 102174-102182
+//system/fonts/NotoSansTamil-Regular.otf 102183-102190
+//system/fonts/NotoSansTamilUI-Bold.otf 102191-102198
+//system/fonts/NotoSansTamilUI-Medium.otf 102199-102207
+//system/fonts/NotoSansTamilUI-Regular.otf 102208-102215
+//system/fonts/NotoSansTelugu-Bold.ttf 102216-102242
+//system/fonts/NotoSansTelugu-Regular.ttf 102243-102270
+//system/fonts/NotoSansTeluguUI-Bold.ttf 102271-102298
+//system/fonts/NotoSansTeluguUI-Regular.ttf 102299-102326
+//system/fonts/NotoSansThaana-Bold.ttf 102327-102330
+//system/fonts/NotoSansThaana-Regular.ttf 102331-102334
+//system/fonts/NotoSansThai-Bold.ttf 102335-102339
+//system/fonts/NotoSansThai-Regular.ttf 102340-102345
+//system/fonts/NotoSansThaiUI-Bold.ttf 102346-102350
+//system/fonts/NotoSansThaiUI-Regular.ttf 102351-102356
+//system/fonts/NotoSansTibetan-Bold.ttf 102357-102448
+//system/fonts/NotoSansTibetan-Regular.ttf 102449-102547
+//system/fonts/NotoSansTifinagh-Regular.otf 102548-102554
+//system/fonts/NotoSansUgaritic-Regular.ttf 102555-102556
+//system/fonts/NotoSansVai-Regular.ttf 102557-102572
+//system/fonts/NotoSansWancho-Regular.otf 102573-102576
+//system/fonts/NotoSansWarangCiti-Regular.otf 102577-102582
+//system/fonts/NotoSansYi-Regular.ttf 102583-102613
+//system/fonts/NotoSerif-Bold.ttf 102614-102674
+//system/fonts/NotoSerif-BoldItalic.ttf 102675-102739
+//system/fonts/NotoSerif-Italic.ttf 102740-102800
+//system/fonts/NotoSerif-Regular.ttf 102801-102861
+//system/fonts/NotoSerifArmenian-Bold.otf 102862-102864
+//system/fonts/NotoSerifArmenian-Regular.otf 102865-102868
+//system/fonts/NotoSerifBengali-Bold.ttf 102869-102897
+//system/fonts/NotoSerifBengali-Regular.ttf 102898-102926
+//system/fonts/NotoSerifCJK-Regular.ttc 102927-108975
+//system/fonts/NotoSerifDevanagari-Bold.ttf 108976-108995
+//system/fonts/NotoSerifDevanagari-Regular.ttf 108996-109015
+//system/fonts/NotoSerifEthiopic-Bold.otf 109016-109047
+//system/fonts/NotoSerifEthiopic-Regular.otf 109048-109075
+//system/fonts/NotoSerifGeorgian-VF.ttf 109076-109095
+//system/fonts/NotoSerifGujarati-Bold.ttf 109096-109111
+//system/fonts/NotoSerifGujarati-Regular.ttf 109112-109127
+//system/fonts/NotoSerifGurmukhi-Bold.otf 109128-109135
+//system/fonts/NotoSerifGurmukhi-Regular.otf 109136-109142
+//system/fonts/NotoSerifHebrew-Bold.ttf 109143-109147
+//system/fonts/NotoSerifHebrew-Regular.ttf 109148-109152
+//system/fonts/NotoSerifKannada-Bold.ttf 109153-109175
+//system/fonts/NotoSerifKannada-Regular.ttf 109176-109198
+//system/fonts/NotoSerifKhmer-Bold.otf 109199-109210
+//system/fonts/NotoSerifKhmer-Regular.otf 109211-109220
+//system/fonts/NotoSerifLao-Bold.ttf 109221-109228
+//system/fonts/NotoSerifLao-Regular.ttf 109229-109236
+//system/fonts/NotoSerifMalayalam-Bold.ttf 109237-109249
+//system/fonts/NotoSerifMalayalam-Regular.ttf 109250-109262
+//system/fonts/NotoSerifMyanmar-Bold.otf 109263-109296
+//system/fonts/NotoSerifMyanmar-Regular.otf 109298-109331
+//system/fonts/NotoSerifSinhala-Bold.otf 109332-109352
+//system/fonts/NotoSerifSinhala-Regular.otf 109353-109371
+//system/fonts/NotoSerifTamil-Bold.otf 109372-109379
+//system/fonts/NotoSerifTamil-Regular.otf 109380-109387
+//system/fonts/NotoSerifTelugu-Bold.ttf 109388-109424
+//system/fonts/NotoSerifTelugu-Regular.ttf 109425-109461
+//system/fonts/NotoSerifThai-Bold.ttf 109462-109466
+//system/fonts/NotoSerifThai-Regular.ttf 109467-109471
+//system/fonts/OplusOSUI-XThin.ttf 109472-109473
+//system/fonts/Roboto-Black.ttf 109474-109548
+//system/fonts/Roboto-BlackItalic.ttf 109549-109629
+//system/fonts/Roboto-Bold.ttf 109630-109685 109530-109537 109686-109696
+//system/fonts/Roboto-BoldItalic.ttf 109697-109778
+//system/fonts/Roboto-Italic.ttf 109779-109859
+//system/fonts/Roboto-Light.ttf 109860-109934
+//system/fonts/Roboto-LightItalic.ttf 109935-110016
+//system/fonts/Roboto-Medium.ttf 110017-110091
+//system/fonts/Roboto-MediumItalic.ttf 110092-110172
+//system/fonts/Roboto-Regular.ttf 110173-110247
+//system/fonts/Roboto-Thin.ttf 110248-110323
+//system/fonts/Roboto-ThinItalic.ttf 110324-110404
+//system/fonts/RobotoCondensed-Bold.ttf 110405-110479
+//system/fonts/RobotoCondensed-BoldItalic.ttf 110480-110560
+//system/fonts/RobotoCondensed-Italic.ttf 110561-110641
+//system/fonts/RobotoCondensed-Light.ttf 110642-110715
+//system/fonts/RobotoCondensed-LightItalic.ttf 110716-110797
+//system/fonts/RobotoCondensed-Medium.ttf 110798-110872
+//system/fonts/RobotoCondensed-MediumItalic.ttf 110873-110953
+//system/fonts/RobotoCondensed-Regular.ttf 110954-111027
+//system/fonts/SourceSansPro-Bold.ttf 111028-111099
+//system/fonts/SourceSansPro-BoldItalic.ttf 111100-111125
+//system/fonts/SourceSansPro-Italic.ttf 111126-111151
+//system/fonts/SourceSansPro-Regular.ttf 111152-111154 111031-111032 111155-111221
+//system/fonts/SourceSansPro-SemiBold.ttf 111222-111224 111031-111032 111225-111291
+//system/fonts/SourceSansPro-SemiBoldItalic.ttf 111292-111317
+//system/fonts/SysSans-En-Regular.ttf 111318-111398
+//system/fonts/SysSans-Hans-Regular.ttf 111399-111403 111323 111404-116791
+//system/fonts/SysSans-Hant-Regular.ttf 116792-119418
+//system/fonts/XType-Bold.otf 119419-119482
+//system/fonts/XType-Regular.otf 119483-119536
+//system/framework/QPerformance.jar 119538-119542
+//system/framework/QXPerformance.jar 119543
+//system/framework/UxPerformance.jar 119544-119546
+//system/framework/WfdCommon.jar 119547-119572
+//system/framework/am.jar 119573-119705
+//system/framework/android.hidl.base-V1.0-java.jar 119706-119709
+//system/framework/android.hidl.manager-V1.0-java.jar 119710-119717
+//system/framework/android.test.base.jar 119718-119726
+//system/framework/android.test.mock.jar 119727-119777
+//system/framework/android.test.runner.jar 119778-119804
+//system/framework/appwidget.jar 119805-119806
+//system/framework/arm/boot-QPerformance.art 119808-119810
+//system/framework/arm/boot-QPerformance.oat 119811-119818
+//system/framework/arm/boot-UxPerformance.art 119819-119820
+//system/framework/arm/boot-UxPerformance.oat 119821-119827
+//system/framework/arm/boot-WfdCommon.art 119828-119837
+//system/framework/arm/boot-WfdCommon.oat 119838-119842
+//system/framework/arm/boot-coloros-support-wrapper.art 119843-119853
+//system/framework/arm/boot-coloros-support-wrapper.oat 119854-119858
+//system/framework/arm/boot-ext.art 119859-119880
+//system/framework/arm/boot-ext.oat 119881-119907
+//system/framework/arm/boot-framework-atb-backward-compatibility.art 119908-119909
+//system/framework/arm/boot-framework-atb-backward-compatibility.oat 119910-119914
+//system/framework/arm/boot-framework.art 119915-120877
+//system/framework/arm/boot-framework.oat 120878-123453
+//system/framework/arm/boot-ifaamanager.art 123454-123455
+//system/framework/arm/boot-ifaamanager.oat 123456-123461
+//system/framework/arm/boot-ims-common.art 123462-123474
+//system/framework/arm/boot-ims-common.oat 123475-123479
+//system/framework/arm/boot-oplus-framework.art 123480-123502
+//system/framework/arm/boot-oplus-framework.oat 123503-123524
+//system/framework/arm/boot-qcom.fmradio.art 123525-123529
+//system/framework/arm/boot-qcom.fmradio.oat 123530-123535
+//system/framework/arm/boot-tcmiface.art 123536 1025
+//system/framework/arm/boot-tcmiface.oat 123537-123541
+//system/framework/arm/boot-telephony-common.art 123542-123670
+//system/framework/arm/boot-telephony-common.oat 123671-123682
+//system/framework/arm/boot-telephony-ext.art 123683-123687
+//system/framework/arm/boot-telephony-ext.oat 123688-123692
+//system/framework/arm/boot-voip-common.art 123693-123736
+//system/framework/arm/boot-voip-common.oat 123737-123745
+//system/framework/arm64/boot-QPerformance.art 123747-123749
+//system/framework/arm64/boot-QPerformance.oat 123750-123758
+//system/framework/arm64/boot-UxPerformance.art 123759-123760
+//system/framework/arm64/boot-UxPerformance.oat 123761-123767
+//system/framework/arm64/boot-WfdCommon.art 123768-123777
+//system/framework/arm64/boot-WfdCommon.oat 123778-123782
+//system/framework/arm64/boot-coloros-support-wrapper.art 123783-123793
+//system/framework/arm64/boot-coloros-support-wrapper.oat 123794-123798
+//system/framework/arm64/boot-ext.art 123799-123820
+//system/framework/arm64/boot-ext.oat 123821-123851
+//system/framework/arm64/boot-framework-atb-backward-compatibility.art 123852-123853
+//system/framework/arm64/boot-framework-atb-backward-compatibility.oat 123854-123858
+//system/framework/arm64/boot-framework.art 123859-124854
+//system/framework/arm64/boot-framework.oat 124855-124856 120880-120955 124857-127879
+//system/framework/arm64/boot-ifaamanager.art 127880-127881
+//system/framework/arm64/boot-ifaamanager.oat 127882-127887
+//system/framework/arm64/boot-ims-common.art 127888-127900
+//system/framework/arm64/boot-ims-common.oat 127901-127905
+//system/framework/arm64/boot-oplus-framework.art 127906-127929
+//system/framework/arm64/boot-oplus-framework.oat 127930-127954
+//system/framework/arm64/boot-qcom.fmradio.art 127955-127959
+//system/framework/arm64/boot-qcom.fmradio.oat 127960-127965
+//system/framework/arm64/boot-tcmiface.art 127966 1025
+//system/framework/arm64/boot-tcmiface.oat 127967-127971
+//system/framework/arm64/boot-telephony-common.art 127972-128103
+//system/framework/arm64/boot-telephony-common.oat 128104-128105 123673-123679 128106-128108
+//system/framework/arm64/boot-telephony-ext.art 128109-128113
+//system/framework/arm64/boot-telephony-ext.oat 128114-128118
+//system/framework/arm64/boot-voip-common.art 128119-128164
+//system/framework/arm64/boot-voip-common.oat 128165-128166 123739 128167-128172
+//system/framework/bmgr.jar 128173-128180
+//system/framework/boot-QPerformance.vdex 128181
+//system/framework/boot-UxPerformance.vdex 128182
+//system/framework/boot-WfdCommon.vdex 128183
+//system/framework/boot-coloros-support-wrapper.vdex 128184
+//system/framework/boot-ext.vdex 128185
+//system/framework/boot-framework-atb-backward-compatibility.vdex 128186
+//system/framework/boot-framework.vdex 128187-128197
+//system/framework/boot-ifaamanager.vdex 128198
+//system/framework/boot-ims-common.vdex 128199
+//system/framework/boot-oplus-framework.vdex 128200
+//system/framework/boot-qcom.fmradio.vdex 128201
+//system/framework/boot-tcmiface.vdex 128202
+//system/framework/boot-telephony-common.vdex 128203
+//system/framework/boot-telephony-ext.vdex 128204
+//system/framework/boot-voip-common.vdex 128205
+//system/framework/bu.jar 128206-128207
+//system/framework/coloros-internal-services.jar 128208-128284
+//system/framework/coloros-support-wrapper.jar 128285-128326
+//system/framework/com.android.future.usb.accessory.jar 128327-128328
+//system/framework/com.android.location.provider.jar 128329-128333
+//system/framework/com.android.media.remotedisplay.jar 128334-128336
+//system/framework/com.android.mediadrm.signer.jar 128337
+//system/framework/com.android.nfc_extras.jar 128338-128339
+//system/framework/com.nxp.nfc.nq.jar 128340-128353
+//system/framework/content.jar 128354-128358
+//system/framework/dpm.jar 128359-128361
+//system/framework/ethernet-service.jar 128362-128372
+//system/framework/ext.jar 128373-128915
+//system/framework/framework-atb-backward-compatibility.jar 128916
+//system/framework/framework-res.apk 128917-131071 131099-134183 29276 134184-134233 29276 134235-134280 29276 134281-134314 29276 134315-134360 29276 134361-134371 134326 134372 134328 134373-134381 134338 134382-134403 29276 134404-134449 29276 134450-134495 29276 134496-134541 29276 134542-134587 29276 134588-134621 29276 134622-134667 29276 134668-134713 29276 134714-134747 134222-134223 134748 134225 134749-134756 29276 134757 134236 134758-134766 134246 134767 134248 134768-134776 134258 134777 134260 134778-134785 134269 134786 134271-134272 134787-134794 29276 134795-134840 29276 134841-134874 29276 134875-134884 134417 134885-134893 134427 134894-134916 29276 134917-134999 134507 135000 29276 135001-135035 29276 135036-135075 29276 135076-135114 29276 135115-135169 29276 135170-135178 29276 135179-135186 29276 135187-135196 29276 135197-135204 29276 135205-135214 29276 135215-135222 29276 135223-135232 29276 135233-135240 29276 135241-135250 29276 135251-135258 29276 135259-135268 29276 135269-135276 29276 135277-135284 29276 135285 29276 135286-135293 29276 135294-135301 29276 135302 29276 135303-135310 29276 135311-135316 29276 135317 29276 135318 29276 29276 135319 29276 135320-135324 29276 135325-135332 29276 135333-135342 29276 135343-135350 29276 135351-135358 29276 135359-135368 29276 135369-135376 29276 135377-135384 29276 135385-135394 29276 135395-135402 29276 135403-135410 29276 135411-135420 29276 135421-135428 29276 135429-135436 29276 135437-135446 29276 135447-135454 29276 135455-135462 29276 135463-135472 29276 135473-135480 29276 135481-135490 29276 135491-135498 29276 135499-135508 29276 135509-135516 29276 135517-135526 29276 135527-135534 29276 135535-135544 29276 135545-135552 29276 135553-135562 29276 135563-135570 29276 135571-135580 29276 135581-135588 29276 135589-135598 29276 135599-135606 29276 135607-135616 29276 135617-135624 29276 135625-135634 29276 135635-135642 29276 135643-135650 135177 135651 29276 135179 135652 135181 135653 135183 135654 135185 135655 29276 135187 135656 135189 135657 135191 135658 135193 135659 135195 135660 29276 135197 135661 135199 135662 135201 135663 135203 135664 29276 135205 135665 135207 135666 135209 135667 135211 135668 135213 135669 29276 135215 135670 135217 135671 135219 135672 135221 135673 29276 135223 135674 135225 135675 135227 135676 135229 135677 135231 135678 29276 135233 135679 135235 135680 135237 135681 135239 135682 29276 135241 135683 135243 135684 135245 135685 135247 135686 135249 135687 29276 135251 135688 135253 135689 135255 135690 135257 135691 29276 135259 135692 135261 135693 135263 135694 135265 135695 135267 135696 29276 135269 135697 135271 135698 29276 135699 29276 135700 29276 135701-135702 29276 135703 29276 135704 29276 135705 29276 135706 29276 29276 135707 29276 135708 29276 135709 29276 135710 29276 135711-135712 29276 135713 29276 135714 29276 135715 29276 135716 29276 29276 135717 29276 135719 29276 135720 29276 135721 29276 135722-135723 29276 135724 29276 135725 29276 135726 29276 135727 29276 29276 135728 29276 135729 29276 135730 29276 135731 29276 135471 135732 29276 135733 29276 135734 29276 135735 29276 135736 29276 29276 135737 29276 135738 29276 135739 29276 135740 29276 135489 135741 29276 135742 29276 135743 29276 135744 29276 135745 29276 29276 135746 29276 135747 29276 135748 29276 135749 29276 135507 135750 29276 135751 29276 135752 29276 135753 29276 135754 29276 29276 135755 29276 135756 29276 135757 29276 135758 29276 135525 135759 29276 135760 29276 135761 29276 135762 29276 135763 29276 29276 135764 29276 135765 29276 135766 29276 135767 29276 135543 135768 29276 135769 29276 135770-135772 29276 135773 29276 135774-135781 29276 135782-135789 29276 135790-135797 29276 135798 29276 135799-135806 29276 135807-135814 29276 135815-135822 29276 135823 29276 135824-135831 29276 135832-135839 29276 135840-135847 29276 135848 29276 135849-135856 29276 135857-135864 29276 135865-135872 29276 135873 29276 135874-135881 29276 135882-135889 29276 135890-135897 29276 135898 29276 135899-135906 29276 135907-135914 29276 135915-135922 29276 135923 29276 135924-135931 29276 135932-135939 29276 135940-135947 29276 135948 29276 135949-135956 29276 135957-135964 29276 135965-135972 29276 135973 29276 135974-135981 29276 135982-135989 29276 135990-135997 29276 135998 29276 135999-136006 29276 136007-136014 29276 136015-136022 135267 136023 29276 136024-136031 29276 136032-136039 29276 136040-136043 29276 136044 29276 136045 29276 136046 29276 29276 136047 29276 136048 29276 136049 29276 136050 29276 136051-136052 29276 136053 29276 136054 29276 136055 29276 136056 29276 29276 136057 29276 136058 29276 136059 29276 136060 29276 136061-136062 29276 136063 29276 136064 29276 136065 29276 136066 29276 29276 136067 29276 136068 29276 136069 29276 136070 29276 136071-136072 29276 136073 29276 136074 29276 136075 29276 136076 29276 29276 136077 29276 136078 29276 136079 29276 136080 29276 136081-136082 29276 136083 29276 136084 29276 136085 29276 136086 29276 29276 136087 29276 136088 29276 136089 29276 136090 29276 136091-136092 29276 136093 29276 136094 29276 136095 29276 136096 29276 29276 136097 29276 136098 29276 136099 29276 136100 29276 135701 136101 29276 136102 29276 136103 29276 136104 29276 136105 29276 29276 136106 29276 136107 29276 136108 29276 136109 29276 135711 136110 29276 136111 29276 136112 29276 136113 29276 136115 29276 29276 136116 29276 136117 29276 136118 29276 136119 29276 135722 136120 29276 136121 29276 136122 29276 136123 29276 136124 29276 29276 136125 29276 136126 29276 136127 29276 136128 29276 135471 136129 29276 136130 29276 136131 29276 136132 29276 136133 29276 29276 136134 29276 136135 29276 136136 29276 136137 29276 135489 136138 29276 136139 29276 136140 29276 136141 29276 136142 29276 29276 136143 29276 136144 29276 136145 29276 136146 29276 135507 136147 29276 136148 29276 136149 29276 136150 29276 136151 29276 29276 136152 29276 136153 29276 136154 29276 136155 29276 135525 136156 29276 136157 29276 136158 29276 136159 29276 136160 29276 29276 136161 29276 136162 29276 136163 29276 136164 29276 135543 136165 29276 136166 29276 136167 29276 136168 29276 136169 29276 29276 136170 29276 136171 29276 136172 29276 136173 29276 135561 136174 29276 136175 29276 136176 29276 136177 29276 136178 29276 29276 136179 29276 136180 29276 136181 29276 136182 29276 135579 136183 29276 136184 29276 136185 29276 136186 29276 136187 29276 29276 136188 29276 136189 29276 136190 29276 136191 29276 135597 136192 29276 136193 29276 136194 29276 136195 29276 136196 29276 29276 136197 29276 136198 29276 136199 29276 136200 29276 135615 136201 29276 136202 29276 136203 29276 136204 29276 136205 29276 29276 136206 29276 136207 29276 136208 29276 136209 29276 135633 136210 29276 136211 29276 136212 29276 136213 29276 136214 135464 29276 136215 29276 136216 29276 136217 29276 136218 29276 135177 136219 29276 136220 29276 136221 29276 136222 29276 136223-136224 29276 136225 29276 136226 29276 136227 29276 136228 29276 135195 136229 29276 136230 29276 136231 29276 136232 29276 136233 135500 29276 136234 29276 136235 29276 136236 29276 136237 29276 135213 136238 29276 136239 29276 136240 29276 136241 29276 136242-136243 29276 136244 29276 136245 29276 136246 29276 136247 29276 135231 136248 29276 136249 29276 136250 29276 136251 29276 136252-136253 29276 136254 29276 136255 29276 136256 29276 136257 29276 135249 136258 29276 136259 29276 136260 29276 136261 29276 136262-136263 29276 136264 29276 136265 29276 136266 29276 136267 29276 135267 136268 29276 136269 29276 136270 29276 136271 29276 135275 136272 29276 136274 29276 136275 29276 136276 29276 136277 29276 29276 136278 29276 136279 29276 136280 29276 136281 29276 135292 136282 29276 136283 29276 136284 29276 136285 29276 136286 29276 29276 136287 29276 136288 29276 136289 29276 136290 29276 135309 136291 29276 136292 29276 136293 29276 136294 29276 136295 29276 29276 136296 29276 136297 29276 136298 29276 136299 29276 136300-136301 29276 136302 29276 136303 29276 136304 29276 136305 29276 29276 136306 29276 136307 29276 136308 29276 136309 29276 136310-136311 29276 136312 29276 136313 29276 136314 29276 136315 29276 29276 136316 29276 136317 29276 136318 29276 136319 29276 136051 136320 29276 136321 29276 136322 29276 136323 29276 136324 29276 29276 136325 29276 136326 29276 136327 29276 136328 29276 136061 136329 29276 136330 29276 136331 29276 136332 29276 136333 29276 29276 136334 29276 136335 29276 136336 29276 136337 29276 136071 136338 29276 136339 29276 136340 29276 136341 29276 136342 29276 29276 136343 29276 136344 29276 136345 29276 136346 29276 136081 136347 29276 136348 29276 136349 29276 136350 29276 136351 29276 29276 136352 29276 136353 29276 136354 29276 136355 29276 136091 136356 29276 136357 29276 136358 29276 136359 29276 136360 29276 29276 136361 29276 136362 29276 136363 29276 136364 29276 135701 136365 29276 136366 29276 136367 29276 136368 29276 136369 29276 29276 136370 29276 136371 29276 136372 29276 136373 29276 135711 136374 29276 136375 29276 136376 29276 136377 29276 136378 29276 29276 136379 29276 136380 29276 136381 29276 136382 29276 135722 136383 29276 136384 29276 136385 29276 136386 29276 136387 29276 29276 136388 29276 136389 29276 136390 29276 136391 29276 135471 136392 29276 136393 29276 136394 29276 136395 29276 136396 29276 29276 136397 29276 136398 29276 136399 29276 136400 29276 135489 136401 29276 136402 29276 136403 29276 136404 29276 136405 29276 29276 136406 29276 136407 29276 136408 29276 136409 29276 135507 136410 29276 136411 29276 136412 29276 136413 29276 136414 29276 29276 136415 29276 136416 29276 136417 29276 136418 29276 135525 136419 29276 136420 29276 136421 29276 136422 29276 136423 29276 29276 136424 29276 136425 29276 136426 29276 136427 29276 135543 136428 29276 136429 29276 136432 29276 136433 29276 136434 29276 29276 136435 29276 136436 29276 136437 29276 136438 29276 135561 136439 29276 136440 29276 136441 29276 136442 29276 136443 29276 29276 136444 29276 136445 29276 136446 29276 136447 29276 135579 136448 29276 136449 29276 136450 29276 136451 29276 136452 29276 29276 136453 29276 136454 29276 136455 29276 136456 29276 135597 136457 29276 136458 29276 136459 29276 136460 29276 136461 29276 29276 136462 29276 136463 29276 136464 29276 136465 29276 135615 136466 29276 136467 29276 136468 29276 136469 29276 136470 29276 29276 136471 29276 136472 29276 136473 29276 136474 29276 135633 136475 29276 136476 29276 136477 29276 136478 29276 136479 135464 29276 136480 29276 136481 29276 136482 29276 136483 29276 135177 136484 29276 136485 29276 136486 29276 136487 29276 136488 135482 29276 136489 29276 136490 29276 136491 29276 136492 29276 135195 136493 29276 136494 29276 136495 29276 136496 29276 136497 135500 29276 136498 29276 136499 29276 136500 29276 136501 29276 135213 136502 29276 136503 29276 136504 29276 136505 29276 136506-136507 29276 136508 29276 136509 29276 136510 29276 136511 29276 135231 136512 29276 136513 29276 136514 29276 136515 29276 136516-136517 29276 136518 29276 136519 29276 136520 29276 136521 29276 135249 136522 29276 136523 29276 136524 29276 136525 29276 136262 136526 29276 136527 29276 136528 29276 136529 29276 136530 29276 135267 136531 29276 136532 29276 136533 29276 136534 29276 135275 136535 29276 136536 135415 136537 135417 136538 135419 136539 29276 135421 136540 135423 136541 135425 136542 135427 136543 29276 135429 136544 135431 136545 135433 136546 135435 136547 29276 136548-136549 135439 136550 135441 136551 135443 136552 135445 136553 29276 135447 136554 135449 136555 135451 136556 135453 136557 29276 135455 136558 135457 136559 135459 136560 135461 136561 29276 136562 135500 136563-136570 29276 136571-136578 29276 136579-136586 29276 136587 135482 136588-136595 29276 136596-136603 29276 136604-136611 29276 136612 135464 136613-136620 29276 136621-136628 29276 136629-136634 135771 136635 29276 136636 29276 135774 136637 135776 136638 135778 136639 135780 136640 29276 135782 136641 135784 136642 135786 136643 29276 136644 29276 136081 136645 29276 136646 29276 136647 29276 136648 29276 136649 29276 29276 136650 29276 136652 29276 136653 29276 136654 29276 136091 136655 29276 136656 29276 136657 29276 136658 29276 136659 29276 29276 136660 29276 136661 29276 136662 29276 136663 29276 135701 136664 29276 136665 29276 136666 29276 136667 29276 136668 29276 29276 136669 29276 136670 29276 136671 29276 136672 29276 135711 136673 29276 136674 29276 136675 29276 136676 29276 136677 29276 29276 136678 29276 136679 29276 136680 29276 136681 29276 135722 136682 29276 136683 29276 136684 29276 136685 29276 136686 29276 29276 136687 29276 136688 29276 136689 29276 136690 29276 135471 136691 29276 136692 29276 136693 29276 136694 29276 136695 29276 29276 136696 29276 136697 29276 136698 29276 136699 29276 135489 136700 29276 136701 29276 136702 29276 136703 29276 136704 29276 29276 136705 29276 136706 29276 136707 29276 136708 29276 135507 136709 29276 136710 29276 136711 29276 136712 29276 136713 29276 136714-136721 29276 136722-136729 29276 136730-136739 29276 136740-136747 29276 136748-136755 29276 136756 29276 136757-136764 29276 136765-136772 29276 136773 135464 136774-136781 29276 136782-136789 29276 136790-136799 29276 136800-136807 29276 136808-136815 29276 136816 29276 136817-136824 29276 136825-136832 29276 136833-136842 29276 136843-136850 29276 135815 136851 135817 136852 135819 136853 135821 136854 29276 136855 29276 135824 136856 135826 136857 135828 136858 135830 136859 29276 135832 136860 135834 136861 135836 136862 135838 136863 29276 135840 136864 135842 136865 135844 136866 135846 136867 29276 136868 29276 135849 136869 135851 136870 135853 136871 135855 136872 29276 135857 136873 135859 136874 135861 136875 135863 136876 29276 135865 136877 135867 136878 135869 136879 135871 136880 29276 136881 29276 135874 136882 135876 136883 135878 136884 135880 136885 29276 135882 136886 135884 136887 135886 136888 135888 136889 29276 135890 136890 135892 136891 135894 136892 135896 136893 29276 136894 29276 135899 136895 135901 136896 135903 136897 135905 136898 29276 135907 136899 135909 136900 135911 136901 135913 136902 29276 135915 136903 135917 136904 135919 136905 135921 136906 29276 136907 29276 135924 136908 135926 136909 135928 136910 135930 136911 29276 135932 136912 135934 136913 135936 136914 135938 136915 29276 135940 136916 135942 136917 135944 136918 135946 136919 29276 136920 29276 135949 136921 135722 136922 29276 136923 29276 136925 29276 135543 136926 29276 136927 29276 136928 29276 136929 29276 136930 29276 29276 136931 29276 136932 29276 136933 29276 136934 29276 135561 136935 29276 136936 29276 136937 29276 136938 29276 136939 29276 29276 136940 29276 136941 29276 136942 29276 136943 29276 135579 136944 29276 136945 29276 136946 29276 136947 29276 136948 29276 29276 136949 29276 136950 29276 136951 29276 136952 29276 135597 136953 29276 136954 29276 136955 29276 136956 29276 136957 29276 29276 136958 29276 136959 29276 136960 29276 136961 29276 135615 136962 29276 136963 29276 136964 29276 136965 29276 136966 29276 29276 136967 29276 136968 29276 136969 29276 136970 29276 135633 136971 29276 136972 29276 136973 29276 136974 29276 136975 135464 29276 136976 29276 136977 29276 136978 29276 136979 29276 135177 136980 29276 136981 29276 136982 29276 136983 29276 136984 135482 29276 136985 29276 136986 29276 136987 29276 136988 29276 135195 136989 29276 136990 29276 136991 135357 136992 29276 136993-136994 135361 136995 135363 136996 135365 136997 135367 136998 29276 135369 136999 135371 137000 135373 137001 135375 137002 29276 135377 137003 135379 137004 135381 137005 135383 137006 29276 137007-137008 135387 137009 135389 137010 135391 137011 135393 137012 29276 135395 137013 135397 137014 135399 137015 135401 137016 29276 135403 137017 135405 137018 135407 137019 135409 137020 29276 137021-137022 135413 137023 135415 137024 135417 137025 135419 137026 29276 135421 137027 135423 137028 135425 137029 135427 137030 29276 135429 137031 135431 137032 135433 137033 135435 137034 29276 137035-137036 135439 137037 135441 137038 135443 137039 135445 137040 29276 135447 137041 135449 137042 135451 137043 135453 137044 29276 135455 137045 135457 137046 135459 137047 135461 137048 29276 137049 135500 136563 137050 136565 137051 136567 137052 136569 137053 29276 136571 137054 136573 137055 136575 137056 136577 137057 29276 136579 137058 136581 137059 136583 137060 136585 137061 29276 137062 135482 136588 137063 136590 137064 136592 137065 136594 137066 29276 29276 137067 29276 137068 29276 137069 29276 137070 29276 136310 137071 29276 137072 29276 137073 29276 137074 29276 137075 29276 29276 137076 29276 137077 29276 137078 29276 137079 29276 136051 137080 29276 137081 29276 137082 29276 137084 29276 137085 29276 29276 137086 29276 137087 29276 137088 29276 137089 29276 136061 137090 29276 137091 29276 137092 29276 137093 29276 137094 29276 29276 137095 29276 137096 29276 137097 29276 137098 29276 136071 137099 29276 137100 29276 137101 29276 137102 29276 137103 29276 29276 137104 29276 137105 29276 137106 29276 137107 29276 136081 137108 29276 137109 29276 137110 29276 137111 29276 137112 29276 29276 137113 29276 137114 29276 137115 29276 137116 29276 136091 137117 29276 137118 29276 137119 29276 137120 29276 137121 29276 29276 137122 29276 137123 29276 137124 29276 137125 29276 135701 137126 29276 137127 29276 137128 29276 137129 29276 137130 29276 29276 137131 29276 137132 29276 137133 29276 137134 29276 135711 137135 135296 137136 135298 137137 135300 137138 29276 137139 29276 135303 137140 135305 137141 135307 137142 135309 137143 29276 135311 137144 135313 137145 135315 137146-137148 29276 137149 29276 137150-137155 136300 137156 29276 137157-137164 29276 137165 29276 137166-137171 136310 137172 29276 137173-137180 29276 137181 29276 137182-137187 136051 137188 29276 137189-137196 29276 137197 29276 137198-137203 136061 137204 29276 137205-137212 29276 137213 29276 137214-137219 136071 137220 29276 137221-137228 29276 137229 29276 137230-137235 136081 137236 29276 137237-137244 29276 137245 29276 137246-137251 136091 137252 29276 135579 137253 29276 137254 29276 137255 29276 137256 29276 137257 29276 29276 137258 29276 137259 29276 137260 29276 137261 29276 135597 137262 29276 137263 29276 137264 29276 137265 29276 137266 29276 29276 137267 29276 137268 29276 137269 29276 137270 29276 135615 137271 29276 137272 29276 137273 29276 137274 29276 137275 29276 29276 137276 29276 137277 29276 137278 29276 137279 29276 135633 137280 29276 137281 29276 137282 29276 137283 29276 137284 135464 29276 137285 29276 137286 29276 137287 29276 137288 29276 135177 137289 29276 137290 29276 137291 29276 137292 29276 137293 135482 29276 137294 29276 137295 29276 137296 29276 137297 29276 135195 137298 29276 137299 29276 137300 29276 137301 29276 137302 135500 29276 137303 29276 137304 29276 137305 29276 137306 29276 135213 137307 29276 137308 29276 137309 29276 137310 29276 137311-137312 29276 137313 29276 137314 29276 137315 29276 137316 29276 135231 137317 29276 137318 29276 137319 29276 137321 29276 137322-137323 135413 137324 135415 137325 135417 137326 135419 137327 29276 135421 137328 135423 137329 135425 137330 135427 137331 29276 135429 137332 135431 137333 135433 137334 135435 137335 29276 137336-137337 135439 137338 135441 137339 135443 137340 135445 137341 29276 135447 137342 135449 137343 135451 137344 135453 137345 29276 135455 137346 135457 137347 135459 137348 135461 137349 29276 137350 135500 136563 137351 136565 137352 136567 137353 136569 137354 29276 136571 137355 136573 137356 136575 137357 136577 137358 29276 136579 137359 136581 137360 136583 137361 136585 137362 29276 137363 135482 136588 137364 136590 137365 136592 137366 136594 137367 29276 136596 137368 136598 137369 136600 137370 136602 137371 29276 136604 137372 136606 137373 136608 137374 136610 137375 29276 137376 135464 136613 137377 136615 137378 136617 137379 136619 137380 29276 136621 137381 136623 137382 136625 137383 136627 137384 29276 136629 137385 136631 137386 136633 137387 135771 137388 29276 137389 29276 135774 137390 135776 137391 135778 137392 135780 137393 29276 135782 137394 135784 137395-137670 29276 137671-137691 134702 137692-137702 134161 137703-137716 29276 137717-137728 137232 29276 137729 29276 137730 29276 137731 29276 137732-137733 29276 137734-138350
+//system/framework/framework.jar 138351-146571
+//system/framework/hid.jar 146572-146577
+//system/framework/ifaamanager.jar 146578-146581
+//system/framework/ims-common.jar 146582-146647
+//system/framework/incident-helper-cmd.jar 146648-146651
+//system/framework/input.jar 146652-146655
+//system/framework/javax.obex.jar 146656-146670
+//system/framework/locksettings.jar 146671
+//system/framework/monkey.jar 146672-146700
+//system/framework/oat/arm/am.odex 146703-146708
+//system/framework/oat/arm/am.vdex 146709
+//system/framework/oat/arm/android.hidl.base-V1.0-java.odex 146710-146714
+//system/framework/oat/arm/android.hidl.base-V1.0-java.vdex 146715
+//system/framework/oat/arm/android.hidl.manager-V1.0-java.odex 146716-146718 146713 146719
+//system/framework/oat/arm/android.hidl.manager-V1.0-java.vdex 146720
+//system/framework/oat/arm/android.test.base.odex 146721-146723 146713 146724
+//system/framework/oat/arm/android.test.base.vdex 146725
+//system/framework/oat/arm/android.test.mock.odex 146726-146728 146713 146729
+//system/framework/oat/arm/android.test.mock.vdex 146730
+//system/framework/oat/arm/android.test.runner.odex 146731-146733 146713 146734
+//system/framework/oat/arm/android.test.runner.vdex 146735
+//system/framework/oat/arm/appwidget.odex 146736-146738 146713 146739
+//system/framework/oat/arm/appwidget.vdex 146740
+//system/framework/oat/arm/bmgr.odex 146741-146743 146713 146744
+//system/framework/oat/arm/bmgr.vdex 146745
+//system/framework/oat/arm/bu.odex 146746-146748 146713 146749
+//system/framework/oat/arm/bu.vdex 146750
+//system/framework/oat/arm/com.android.future.usb.accessory.odex 146751-146753 146713 146754
+//system/framework/oat/arm/com.android.future.usb.accessory.vdex 146755
+//system/framework/oat/arm/com.android.location.provider.odex 146756-146765
+//system/framework/oat/arm/com.android.location.provider.vdex 146766
+//system/framework/oat/arm/com.android.media.remotedisplay.odex 146767-146769 146713 146770
+//system/framework/oat/arm/com.android.media.remotedisplay.vdex 146771
+//system/framework/oat/arm/com.android.mediadrm.signer.odex 146772-146774 146713 146775
+//system/framework/oat/arm/com.android.mediadrm.signer.vdex 146776
+//system/framework/oat/arm/com.android.nfc_extras.odex 146777-146779 146713 146780
+//system/framework/oat/arm/com.android.nfc_extras.vdex 146781
+//system/framework/oat/arm/com.nxp.nfc.nq.odex 146782-146784 146713 146785
+//system/framework/oat/arm/com.nxp.nfc.nq.vdex 146786
+//system/framework/oat/arm/content.odex 146787-146789 146713 146790
+//system/framework/oat/arm/content.vdex 146791
+//system/framework/oat/arm/dpm.odex 146792-146794 146713 146795
+//system/framework/oat/arm/dpm.vdex 146796
+//system/framework/oat/arm/hid.odex 146797-146802
+//system/framework/oat/arm/hid.vdex 146803
+//system/framework/oat/arm/incident-helper-cmd.odex 146804-146806 146713 146807
+//system/framework/oat/arm/incident-helper-cmd.vdex 146808
+//system/framework/oat/arm/input.odex 146809-146811 146713 146812
+//system/framework/oat/arm/input.vdex 146813
+//system/framework/oat/arm/javax.obex.odex 146814-146816 146713 146817
+//system/framework/oat/arm/javax.obex.vdex 146818
+//system/framework/oat/arm/locksettings.odex 146819-146821 146713 146822
+//system/framework/oat/arm/locksettings.vdex 146823
+//system/framework/oat/arm/monkey.odex 146824-146826 146713 146827
+//system/framework/oat/arm/monkey.vdex 146828
+//system/framework/oat/arm/org.apache.http.legacy.odex 146829-146902
+//system/framework/oat/arm/org.apache.http.legacy.vdex 146903-146904
+//system/framework/oat/arm/requestsync.odex 146905-146907 146713 146908
+//system/framework/oat/arm/requestsync.vdex 146909
+//system/framework/oat/arm/service-blobstore.odex 146910-146912 146713 146913
+//system/framework/oat/arm/service-blobstore.vdex 146914
+//system/framework/oat/arm/service-jobscheduler.odex 146915-146920
+//system/framework/oat/arm/service-jobscheduler.vdex 146921-146922
+//system/framework/oat/arm/sm.odex 146923-146925 146713 146926
+//system/framework/oat/arm/sm.vdex 146927
+//system/framework/oat/arm/svc.odex 146928-146930 146713 146931
+//system/framework/oat/arm/svc.vdex 146932
+//system/framework/oat/arm/telecom.odex 146933-146935 146713 146936
+//system/framework/oat/arm/telecom.vdex 146937
+//system/framework/oat/arm/uiautomator.odex 146938-146942 146919 146943
+//system/framework/oat/arm/uiautomator.vdex 146944
+//system/framework/oat/arm/vr.odex 146945-146947 146713 146948
+//system/framework/oat/arm/vr.vdex 146949
+//system/framework/oat/arm64/am.odex 146951-146952 146705 146953 79676 146954
+//system/framework/oat/arm64/am.vdex 146709
+//system/framework/oat/arm64/android.hidl.base-V1.0-java.odex 146956-146958 79254 146959
+//system/framework/oat/arm64/android.hidl.base-V1.0-java.vdex 146715
+//system/framework/oat/arm64/android.hidl.manager-V1.0-java.odex 146960-146962 79254 146963
+//system/framework/oat/arm64/android.hidl.manager-V1.0-java.vdex 146720
+//system/framework/oat/arm64/android.test.base.odex 146964-146966 79254 146967
+//system/framework/oat/arm64/android.test.base.vdex 146725
+//system/framework/oat/arm64/android.test.mock.odex 146968-146970 79254 146971
+//system/framework/oat/arm64/android.test.mock.vdex 146730
+//system/framework/oat/arm64/android.test.runner.odex 146972-146974 79254 146975
+//system/framework/oat/arm64/android.test.runner.vdex 146735
+//system/framework/oat/arm64/appwidget.odex 146976-146978 79254 146979
+//system/framework/oat/arm64/appwidget.vdex 146740
+//system/framework/oat/arm64/bmgr.odex 146980-146982 79254 146983
+//system/framework/oat/arm64/bmgr.vdex 146745
+//system/framework/oat/arm64/bu.odex 146984-146986 79254 146987
+//system/framework/oat/arm64/bu.vdex 146750
+//system/framework/oat/arm64/coloros-internal-services.odex 146988-147134
+//system/framework/oat/arm64/coloros-internal-services.vdex 147135
+//system/framework/oat/arm64/com.android.future.usb.accessory.odex 147136-147138 79254 147139
+//system/framework/oat/arm64/com.android.future.usb.accessory.vdex 146755
+//system/framework/oat/arm64/com.android.location.provider.odex 147140-147148 81437 147149
+//system/framework/oat/arm64/com.android.location.provider.vdex 146766
+//system/framework/oat/arm64/com.android.media.remotedisplay.odex 147150-147152 79254 147153
+//system/framework/oat/arm64/com.android.media.remotedisplay.vdex 146771
+//system/framework/oat/arm64/com.android.mediadrm.signer.odex 147154-147156 79254 147157
+//system/framework/oat/arm64/com.android.mediadrm.signer.vdex 146776
+//system/framework/oat/arm64/com.android.nfc_extras.odex 147158-147160 79254 147161
+//system/framework/oat/arm64/com.android.nfc_extras.vdex 146781
+//system/framework/oat/arm64/com.nxp.nfc.nq.odex 147162-147164 79254 147165
+//system/framework/oat/arm64/com.nxp.nfc.nq.vdex 146786
+//system/framework/oat/arm64/content.odex 147166-147168 79254 147169
+//system/framework/oat/arm64/content.vdex 146791
+//system/framework/oat/arm64/dpm.odex 147170-147172 79254 147173
+//system/framework/oat/arm64/dpm.vdex 146796
+//system/framework/oat/arm64/ethernet-service.odex 147174-147195
+//system/framework/oat/arm64/ethernet-service.vdex 147196
+//system/framework/oat/arm64/hid.odex 147197-147200 79582 147201
+//system/framework/oat/arm64/hid.vdex 146803
+//system/framework/oat/arm64/incident-helper-cmd.odex 147202-147204 79254 147205
+//system/framework/oat/arm64/incident-helper-cmd.vdex 146808
+//system/framework/oat/arm64/input.odex 147206-147208 79254 147209
+//system/framework/oat/arm64/input.vdex 146813
+//system/framework/oat/arm64/javax.obex.odex 147210-147212 79254 147213
+//system/framework/oat/arm64/javax.obex.vdex 146818
+//system/framework/oat/arm64/locksettings.odex 147214-147216 79254 147217
+//system/framework/oat/arm64/locksettings.vdex 146823
+//system/framework/oat/arm64/monkey.odex 147218-147220 79254 147221
+//system/framework/oat/arm64/monkey.vdex 146828
+//system/framework/oat/arm64/oplus-service-jobscheduler.odex 147222-147287
+//system/framework/oat/arm64/oplus-service-jobscheduler.vdex 147288
+//system/framework/oat/arm64/oplus-services.odex 147289-149127
+//system/framework/oat/arm64/oplus-services.vdex 149128-149138
+//system/framework/oat/arm64/org.apache.http.legacy.odex 149139-149223
+//system/framework/oat/arm64/org.apache.http.legacy.vdex 146903-146904
+//system/framework/oat/arm64/requestsync.odex 149224-149226 79254 149227
+//system/framework/oat/arm64/requestsync.vdex 146909
+//system/framework/oat/arm64/service-blobstore.odex 149228-149230 79254 149231
+//system/framework/oat/arm64/service-blobstore.vdex 146914
+//system/framework/oat/arm64/service-jobscheduler.odex 149232-149233 146917 149234 79564 149235
+//system/framework/oat/arm64/service-jobscheduler.vdex 146921-146922
+//system/framework/oat/arm64/services.art 149237-149750
+//system/framework/oat/arm64/services.odex 149751-158551
+//system/framework/oat/arm64/services.vdex 158552-158588
+//system/framework/oat/arm64/sm.odex 158589-158591 79254 158592
+//system/framework/oat/arm64/sm.vdex 146927
+//system/framework/oat/arm64/svc.odex 158593-158595 79254 158596
+//system/framework/oat/arm64/svc.vdex 146932
+//system/framework/oat/arm64/telecom.odex 158597-158599 79254 158600
+//system/framework/oat/arm64/telecom.vdex 146937
+//system/framework/oat/arm64/uiautomator.odex 158601-158602 146940-146941 158603 79564 158604
+//system/framework/oat/arm64/uiautomator.vdex 146944
+//system/framework/oat/arm64/vr.odex 158606-158608 79254 158609
+//system/framework/oat/arm64/vr.vdex 146949
+//system/framework/oplus-framework.jar 158610-158735
+//system/framework/oplus-service-jobscheduler.jar 158736-158773
+//system/framework/oplus-services.jar 158774-159749
+//system/framework/org.apache.http.legacy.jar 159750-159869
+//system/framework/org.apache.http.legacy.jar.prof 159870
+//system/framework/qcom.fmradio.jar 159871-159888
+//system/framework/requestsync.jar 159889-159892
+//system/framework/service-blobstore.jar 159893-159919
+//system/framework/service-jobscheduler.jar 159920-160039
+//system/framework/services.jar 160040-163839 163869-164504
+//system/framework/services.jar.bprof 164505-164506
+//system/framework/services.jar.prof 164507-164514
+//system/framework/sm.jar 164515-164517
+//system/framework/svc.jar 164518-164520
+//system/framework/tcmclient.jar 164521-164522
+//system/framework/tcmiface.jar 164523
+//system/framework/telecom.jar 164524-164527
+//system/framework/telephony-common.jar 164528-165448
+//system/framework/telephony-ext.jar 165449-165462
+//system/framework/uiautomator.jar 165463-165552
+//system/framework/voip-common.jar 165553-165753
+//system/framework/vr.jar 165754-165755
+//system/lib/android.frameworks.bufferhub@1.0.so 165757-165778
+//system/lib/android.frameworks.cameraservice.common@2.0.so 165779-165780
+//system/lib/android.frameworks.cameraservice.device@2.0.so 165781 31531-31560 165782-165784
+//system/lib/android.frameworks.cameraservice.service@2.0.so 165785 31565-31586 165786-165787 31589
+//system/lib/android.frameworks.cameraservice.service@2.1.so 165788 31591-31612 165789-165791
+//system/lib/android.frameworks.schedulerservice@1.0.so 165792 31646-31656 165793-165794
+//system/lib/android.frameworks.sensorservice@1.0.so 165795 31660-31693 165796-165799
+//system/lib/android.frameworks.stats@1.0.so 165800 31699-31714 165801-165803
+//system/lib/android.frameworks.vr.composer@2.0.so 165804-165834 15728
+//system/lib/android.hardware.audio.common-util.so 165835-165836
+//system/lib/android.hardware.audio.common@2.0-util.so 165837-165839
+//system/lib/android.hardware.audio.common@2.0.so 165840 31733
+//system/lib/android.hardware.audio.common@4.0-util.so 165841 165838 165842
+//system/lib/android.hardware.audio.common@4.0.so 165843 31733
+//system/lib/android.hardware.audio.common@5.0-util.so 165844 165838 165845
+//system/lib/android.hardware.audio.common@5.0.so 165846 31736 165847 31738
+//system/lib/android.hardware.audio.common@6.0-util.so 165848-165850
+//system/lib/android.hardware.audio.common@6.0.so 165851 31740 165852 31738
+//system/lib/android.hardware.audio.effect@2.0.so 165853 31743-31947 165854-165865
+//system/lib/android.hardware.audio.effect@4.0.so 165866 31961-32164 165867-165878
+//system/lib/android.hardware.audio.effect@5.0.so 165879 32178-32381 165880-165891
+//system/lib/android.hardware.audio.effect@6.0.so 165892 32395-32598 165893-165904
+//system/lib/android.hardware.audio@2.0.so 165905 32612-32710 165906-165911 32717
+//system/lib/android.hardware.audio@4.0.so 165912 32719-32767 32797-32852 165913-165920
+//system/lib/android.hardware.audio@5.0.so 165921 32862-32967 165922-165928
+//system/lib/android.hardware.audio@6.0.so 165929 32976-33094 165930-165937
+//system/lib/android.hardware.biometrics.fingerprint@2.1.so 165938 33450-33474 165939-165940 33477
+//system/lib/android.hardware.bluetooth@1.0.so 165941 33567-33585 165942-165944
+//system/lib/android.hardware.broadcastradio@1.0.so 165945 33647-33685 165946-165949
+//system/lib/android.hardware.broadcastradio@1.1.so 165950 33691-33735 165951-165954
+//system/lib/android.hardware.camera.common@1.0.so 165955-165956
+//system/lib/android.hardware.camera.device@1.0.so 165957 33798-33841 165958-165961
+//system/lib/android.hardware.camera.device@3.2.so 165962 33847-33877 165963-165965 33881
+//system/lib/android.hardware.camera.device@3.3.so 165966 33883-33896 165967-165968
+//system/lib/android.hardware.camera.device@3.4.so 165969 33900-33923 165970-165972
+//system/lib/android.hardware.camera.device@3.5.so 165973 33928-33965 165974-165977
+//system/lib/android.hardware.camera.device@3.6.so 165978 33971-34007 165979-165982
+//system/lib/android.hardware.camera.provider@2.4.so 165983 34017-34038 165984-165986
+//system/lib/android.hardware.camera.provider@2.5.so 165987 34043-34055 165988-165989
+//system/lib/android.hardware.camera.provider@2.6.so 165990 34059-34082 165991-165992
+//system/lib/android.hardware.cas.native@1.0.so 165993 34086-34097 165994-165995 34100
+//system/lib/android.hardware.cas@1.0.so 165996 34102-34137 165997-165999
+//system/lib/android.hardware.common-V1-ndk_platform.so 166000-166001
+//system/lib/android.hardware.configstore-utils.so 166002-166003
+//system/lib/android.hardware.configstore@1.0.so 166004 34214-34230 166005-166007
+//system/lib/android.hardware.configstore@1.1.so 166008 34235-34249 166009-166010
+//system/lib/android.hardware.contexthub@1.0.so 166011 34276-34298 166012-166013
+//system/lib/android.hardware.drm@1.0.so 166014 34318-34375 166015-166018
+//system/lib/android.hardware.drm@1.1.so 166019 34381-34419 166020-166023
+//system/lib/android.hardware.drm@1.2.so 166024 34425-34484 166025-166029
+//system/lib/android.hardware.drm@1.3.so 166030 34491-34512 166031-166032
+//system/lib/android.hardware.gnss.measurement_corrections@1.0.so 166033 34576-34593 166034-166036
+//system/lib/android.hardware.gnss.measurement_corrections@1.1.so 166037 34598-34609 166038-166039
+//system/lib/android.hardware.gnss.visibility_control@1.0.so 166040 34613-34631 166041-166042
+//system/lib/android.hardware.gnss@1.0.so 166043 34635-34790 166044-166051
+//system/lib/android.hardware.gnss@1.1.so 166052 34800-34851 166053-166056
+//system/lib/android.hardware.gnss@2.0.so 166057 34857-34964 166058-166062
+//system/lib/android.hardware.gnss@2.1.so 166063 34971-35053 166064-166067
+//system/lib/android.hardware.graphics.allocator@2.0.so 166068 35059-35069 166069-166070
+//system/lib/android.hardware.graphics.allocator@3.0.so 166071 35073-35083 166072-166073
+//system/lib/android.hardware.graphics.allocator@4.0.so 166074 35087-35097 166075-166076
+//system/lib/android.hardware.graphics.bufferqueue@1.0.so 166077 35102-35133 166078-166080
+//system/lib/android.hardware.graphics.bufferqueue@2.0.so 166081 35138-35165 166082-166084
+//system/lib/android.hardware.graphics.common-V1-ndk_platform.so 166085 35170 166086-166087
+//system/lib/android.hardware.graphics.common@1.0.so 166088
+//system/lib/android.hardware.graphics.common@1.1.so 166089
+//system/lib/android.hardware.graphics.common@1.2.so 166090
+//system/lib/android.hardware.graphics.composer@2.1.so 166091 35177-35216 166092-166094
+//system/lib/android.hardware.graphics.composer@2.2.so 166095 35221-35253 166096-166098
+//system/lib/android.hardware.graphics.composer@2.3.so 166099 35258-35299 166100-166103
+//system/lib/android.hardware.graphics.composer@2.4.so 166104 35305-35357 166105-166109
+//system/lib/android.hardware.graphics.mapper@2.0.so 166110 35364-35376 166111-166112
+//system/lib/android.hardware.graphics.mapper@2.1.so 166113 35380-35392 166114-166116
+//system/lib/android.hardware.graphics.mapper@3.0.so 166117 35397-35410 166118-166120
+//system/lib/android.hardware.graphics.mapper@4.0.so 166121 35415-35433 166122-166123
+//system/lib/android.hardware.input.classifier@1.0.so 166124 35545-35555 166125-166126
+//system/lib/android.hardware.input.common@1.0.so 166127-166128
+//system/lib/android.hardware.ir@1.0.so 166129 35561-35571 166130-166131
+//system/lib/android.hardware.keymaster@3.0.so 166132 35577-35596 166133-166135
+//system/lib/android.hardware.keymaster@4.0.so 166136 35601-35624 166137-166139
+//system/lib/android.hardware.keymaster@4.1.so 166140 35629-35645 166141-166143
+//system/lib/android.hardware.light@2.0.so 166144 35656-35665 166145-166146
+//system/lib/android.hardware.media.bufferpool@2.0.so 166147 35697-35727 166148-166150
+//system/lib/android.hardware.media.c2@1.0.so 166151 35732-35816 166152-166156
+//system/lib/android.hardware.media.c2@1.1.so 166157 35823-35849 166158-166160
+//system/lib/android.hardware.media.omx@1.0.so 166161 35854-35916 166162-166167
+//system/lib/android.hardware.media@1.0.so 166168
+//system/lib/bootstrap/libc.so 30691-30939
+//system/lib/bootstrap/libdl.so 30940-30941
+//system/lib/bootstrap/libdl_android.so 30942
+//system/lib/bootstrap/libm.so 30943-30973
+//system/lib/android.hardware.memtrack@1.0.so 166170 35925-35934 166171-166172
+//system/lib/android.hardware.power-V1-cpp.so 166173-166178
+//system/lib/android.hardware.power.stats@1.0.so 166179 36224-36238 166180-166181
+//system/lib/android.hardware.power@1.0.so 166182 36242-36253 166183-166184
+//system/lib/android.hardware.power@1.1.so 166185 36257-36268 166186-166188
+//system/lib/android.hardware.power@1.2.so 166189 36273-36285 166190-166191
+//system/lib/android.hardware.power@1.3.so 166192 36289-36302 166193-166194
+//system/lib/android.hardware.radio.config@1.0.so 166195 36306-36331 166196-166197
+//system/lib/android.hardware.radio.deprecated@1.0.so 166198 36396-36420 166199-166201
+//system/lib/android.hardware.radio@1.0.so 166202 36425-36635 166203-166215
+//system/lib/android.hardware.radio@1.1.so 166216 36650-36794 166217-166228
+//system/lib/android.hardware.radio@1.2.so 166229 36808-36969 166230-166241
+//system/lib/android.hardware.radio@1.3.so 166242 36983-37133 166243-166254
+//system/lib/android.hardware.radio@1.4.so 166255 37147-37323 166256-166268
+//system/lib/android.hardware.renderscript@1.0.so 166269 37568-37619 166270-166273
+//system/lib/android.hardware.secure_element@1.0.so 166274 37625-37645 166275-166276
+//system/lib/android.hardware.secure_element@1.1.so 166277 37649-37669 166278-166279
+//system/lib/android.hardware.sensors@1.0.so 166280 37690-37704 166281-166282 37707
+//system/lib/android.hardware.sensors@2.0-ScopedWakelock.so 166283-166284
+//system/lib/android.hardware.sensors@2.0.so 166285 37709-37730 166286-166288
+//system/lib/android.hardware.sensors@2.1.so 166289 37735-37757 166290-166292
+//system/lib/android.hardware.thermal@1.0.so 166293 37907-37918 166294-166295
+//system/lib/android.hardware.thermal@2.0.so 166296 37943-37964 166297-166299
+//system/lib/android.hardware.tv.cec@1.0.so 166300 37969-37990 166301-166303
+//system/lib/android.hardware.tv.input@1.0.so 166304 38023-38040 166305-166307
+//system/lib/android.hardware.vibrator-V1-cpp.so 166308-166318
+//system/lib/android.hardware.vibrator@1.0.so 166319 38317-38328 166320-166321
+//system/lib/android.hardware.vibrator@1.1.so 166322 38332-38343 166323-166324
+//system/lib/android.hardware.vibrator@1.2.so 166325 38347-38359 166326-166327
+//system/lib/android.hardware.vibrator@1.3.so 166328 38363-38377 166329-166330
+//system/lib/android.hardware.vr@1.0.so 166331 38381-38390 166332-166333
+//system/lib/android.hidl.allocator@1.0.so 166334 39521-39531 166335-166336
+//system/lib/android.hidl.memory.token@1.0.so 166337 39536-39545 166338-166339
+//system/lib/android.hidl.memory@1.0.so 166340 39549-39566 166341-166343
+//system/lib/android.hidl.safe_union@1.0.so 166344
+//system/lib/android.hidl.token@1.0-utils.so 166345-166346 39573
+//system/lib/android.hidl.token@1.0.so 166347 39575-39586 166348-166349
+//system/lib/android.system.suspend@1.0.so 166350 39621-39636 166351-166353
+//system/lib/capture_state_listener-aidl-V1-cpp.so 166355-166359
+//system/lib/com.dsi.ant@1.0.so 166360-166382
+//system/lib/drm/libfwdlockengine.so 166384-166396
+//system/lib/heapprofd_client.so 166397-166407
+//system/lib/hw/android.hidl.memory@1.0-impl.so 166409 39657 166410-166411
+//system/lib/hw/audio.a2dp.default.so 166412-166420
+//system/lib/hw/vendor.qti.hardware.qccsyshal@1.0-impl.so 166421-166423
+//system/lib/ld-android.so 166424
+//system/lib/libEGL.so 166425-166459
+//system/lib/libETC1.so 166460-166462
+//system/lib/libFFTEm.so 166463-166523
+//system/lib/libGLESv1_CM.so 166524-166529
+//system/lib/libGLESv2.so 166530-166546
+//system/lib/libGLESv3.so 166547 166531-166540 166548 166542-166544 166549 166551
+//system/lib/libOpenMAXAL.so 166552-166553
+//system/lib/libOpenSLES.so 166554-166555
+//system/lib/libRS.so 166556-166567
+//system/lib/libRSCacheDir.so 166568-166569
+//system/lib/libRSCpuRef.so 166570 39661-39754 166571-166573
+//system/lib/libRSDriver.so 166574-166613
+//system/lib/libRS_internal.so 166614-166670
+//system/lib/libRScpp.so 166671-166726
+//system/lib/libSurfaceFlingerProp.so 166727-166747
+//system/lib/lib_oppo_security.so 166748-166749
+//system/lib/libaaudio.so 166750-166752
+//system/lib/libaaudio_internal.so 166753-166794
+//system/lib/libadbd_auth.so 166795-166836
+//system/lib/libadbd_fs.so 166837-166841
+//system/lib/libamidi.so 166842-166847
+//system/lib/libandroid.so 166848-166873
+//system/lib/libandroid_net.so 166874-166875
+//system/lib/libandroid_runtime.so 166876-167181
+//system/lib/libandroid_runtime_lazy.so 167182-167183
+//system/lib/libandroid_servers.so 167184-167327
+//system/lib/libandroidfw.so 167328-167409
+//system/lib/libapolloxmlparser.so 167410-167413
+//system/lib/libappfuse.so 167414-167423
+//system/lib/libartpalette-system.so 167424-167426
+//system/lib/libasyncio.so 167427
+//system/lib/libaudio-resampler.so 167428-167432
+//system/lib/libaudioclient.so 167433-167552
+//system/lib/libaudioeffect_jni.so 167553-167561
+//system/lib/libaudiofoundation.so 167562-167575
+//system/lib/libaudiohal.so 167576-167577
+//system/lib/libaudiohal@2.0.so 167578-167600
+//system/lib/libaudiohal@4.0.so 167601-167626
+//system/lib/libaudiohal@5.0.so 167627-167652
+//system/lib/libaudiohal@6.0.so 167653-167679
+//system/lib/libaudiohal_deathhandler.so 167680-167683
+//system/lib/libaudiomanager.so 167684-167687
+//system/lib/libaudiopolicy.so 167688-167691
+//system/lib/libaudioutils.so 167692 39863-39884 167693-167694
+//system/lib/libavservices_minijail.so 167695-167697
+//system/lib/libbacktrace.so 167698-167724
+//system/lib/libbase.so 167725 39915-39953 167726-167728
+//system/lib/libbcinfo.so 167729 39958-40153 167730-167742
+//system/lib/libbinder.so 167743-167862
+//system/lib/libbinder_ndk.so 167863-167874
+//system/lib/libblas.so 167875 40262-40461 167876-167880
+//system/lib/libbpf.so 167881-167887
+//system/lib/libbpf_android.so 167888-167897
+//system/lib/libbufferhub.so 167898-167908
+//system/lib/libbufferhubqueue.so 167909-167929
+//system/lib/libc++.so 61096 40470-40584 61097-61101
+//system/lib/libcamera2ndk.so 167930-167960
+//system/lib/libcamera_client.so 167961-168031
+//system/lib/libcamera_metadata.so 168032 40591-40597 168033
+//system/lib/libcameraservice.so 168034-168052 6705 168053-168404
+//system/lib/libcap.so 168405 40600 168406
+//system/lib/libcert_parse.so 168407-168430
+//system/lib/libcgrouprc.so 168431-168433
+//system/lib/libchrome.so 168434-168653
+//system/lib/libclang_rt.asan-arm-android.so 168654-168832 0 168833-169113
+//system/lib/libclcore.bc 169114-169186
+//system/lib/libclcore_debug.bc 169187-169265
+//system/lib/libclcore_debug_g.bc 169266-169495
+//system/lib/libclcore_g.bc 169496-169756
+//system/lib/libclcore_neon.bc 169757-169830
+//system/lib/libcodec2.so 169831
+//system/lib/libcodec2_client.so 169832-169857
+//system/lib/libcodec2_hidl_client@1.0.so 169858-169877
+//system/lib/libcodec2_hidl_client@1.1.so 169878
+//system/lib/libcodec2_vndk.so 169879-169987
+//system/lib/libcompiler_rt.so 169988 40965-40970 169989 40972
+//system/lib/libcomputefusion.so 169990-170022
+//system/lib/libcomputefusion_module_histogram_skel.so 170023-170026
+//system/lib/libcomputefusion_skel.so 170027-170038
+//system/lib/libcrypto.so 170039 40974-41166 170040-170047
+//system/lib/libcurl.so 170048 41178-41236 170049-170051
+//system/lib/libcutils.so 170052-170064
+//system/lib/libdataloader.so 170065-170076
+//system/lib/libdatasource.so 170077-170088
+//system/lib/libdebuggerd_client.so 170089-170096
+//system/lib/libdexfile_support.so 170097-170098
+//system/lib/libdng_sdk.so 170099-170238
+//system/lib/libdrm.so 170239-170252
+//system/lib/libdrmframework.so 170254-170277
+//system/lib/libdrmframework_jni.so 170278-170284
+//system/lib/libdynamic_depth.so 170285-170335
+//system/lib/libevent.so 170336 41263-41327 170337-170339
+//system/lib/libexif.so 170340 41332-41368 170341-170342
+//system/lib/libexpat.so 9305-9328
+//system/lib/libfdtrack.so 170343-170389
+//system/lib/libfilterfw.so 170390-170422
+//system/lib/libfilterpack_imageproc.so 170423-170424
+//system/lib/libfmq.so 170425 41375 170426
+//system/lib/libft2.so 170427-170568
+//system/lib/libgatekeeper.so 170569 41378 170570-170571
+//system/lib/libgralloctypes.so 170572 41382-41391 170573-170574
+//system/lib/libgraphicsenv.so 170575-170584
+//system/lib/libgui.so 170585-170762
+//system/lib/libguobiv5_jni.so 170763-170809
+//system/lib/libhardware.so 170810-170811
+//system/lib/libhardware_legacy.so 170812 41568-41569 170813
+//system/lib/libharfbuzz_ng.so 170814-170989
+//system/lib/libheif.so 170990-170997
+//system/lib/libhidl-gen-utils.so 170998-171007
+//system/lib/libhidlallocatorutils.so 171008 41572
+//system/lib/libhidlbase.so 171009-171015 41580-41609 171016 41611 171017 171019-171100
+//system/lib/libhidlmemory.so 171101 41696-41697 171102
+//system/lib/libhidltransport.so 171103
+//system/lib/libhwbinder.so 171104
+//system/lib/libhwui.so 171105-171123 6705 171124-172567 172567-172647
+//system/lib/libimage_io.so 172648-172677
+//system/lib/libimg_utils.so 172678-172691
+//system/lib/libincfs.so 172692-172715
+//system/lib/libinput.so 172716-172761
+//system/lib/libinputflinger.so 172762-172827
+//system/lib/libinputflinger_base.so 172828-172833
+//system/lib/libinputreader.so 172834-172906
+//system/lib/libinputreporter.so 172907-172908
+//system/lib/libinputservice.so 172909-172921
+//system/lib/libion.so 172922-172923
+//system/lib/libiprouteutil.so 172924-172942
+//system/lib/libjnigraphics.so 172943-172946
+//system/lib/libjpeg.so 172947 41702-41768 172948-172950
+//system/lib/libkeymaster4_1support.so 172951-172971
+//system/lib/libkeymaster4support.so 172972-172988
+//system/lib/libkeystore-attestation-application-id.so 172989-172998
+//system/lib/libkeystore_aidl.so 172999-173025
+//system/lib/libkeystore_binder.so 173026-173044
+//system/lib/libkeystore_parcelables.so 173045-173049
+//system/lib/liblayers_proto.so 173050-173087
+//system/lib/libldacBT_abr.so 173088-173089
+//system/lib/libldacBT_enc.so 173090 41797-41805 173091
+//system/lib/liblhdc.so 173092-173155
+//system/lib/liblhdcBT_enc.so 173156-173158
+//system/lib/liblog.so 173159-173171
+//system/lib/liblogwrap.so 173172-173174
+//system/lib/liblz4.so 173175 41808-41827 173176-173177
+//system/lib/liblzma.so 173178 41831-41854 173179-173180
+//system/lib/libmdnssd.so 173181-173186
+//system/lib/libmedia.so 173187-173274
+//system/lib/libmedia_codeclist.so 173275-173283
+//system/lib/libmedia_helper.so 173284 41858-41871 173285-173286
+//system/lib/libmedia_jni.so 173287-173385
+//system/lib/libmedia_jni_utils.so 173386-173387
+//system/lib/libmedia_omx.so 173388 41875-41897 173389-173391
+//system/lib/libmedia_omx_client.so 173392-173394
+//system/lib/libmediadrm.so 173395-173427
+//system/lib/libmediadrmmetrics_consumer.so 173428-173432
+//system/lib/libmediadrmmetrics_full.so 173433-173458
+//system/lib/libmediadrmmetrics_lite.so 173459-173479
+//system/lib/libmediametrics.so 173480-173492
+//system/lib/libmediandk.so 173493-173519
+//system/lib/libmediandk_utils.so 173520
+//system/lib/libmediaplayerservice.so 173521-173705
+//system/lib/libmediautils.so 173706-173741
+//system/lib/libmeminfo.so 173742-173751
+//system/lib/libmemtrack.so 173752-173753 41903
+//system/lib/libmemunreachable.so 173754-173786
+//system/lib/libminijail.so 173787 41905-41930 173788 41932
+//system/lib/libminikin.so 173789-173820
+//system/lib/libminui.so 173821-173860
+//system/lib/libmonitor_tool.so 173861-173869
+//system/lib/libmtp.so 173870-173904
+//system/lib/libnativebridge_lazy.so 173905-173906
+//system/lib/libnativedisplay.so 173907-173920
+//system/lib/libnativeloader_lazy.so 173921-173922
+//system/lib/libnativewindow.so 173923-173927
+//system/lib/libnbaio.so 173928-173933
+//system/lib/libnblog.so 173934-173968
+//system/lib/libnetd_client.so 173969-173973
+//system/lib/libnetdbpf.so 173974-173991
+//system/lib/libnetdutils.so 173992-174005
+//system/lib/libnetlink.so 174006-174010
+//system/lib/libnetutils.so 174011 41935-41938 174012
+//system/lib/libneuralnetworks_packageinfo.so 174013-174014
+//system/lib/libnl.so 174015 41941-41959 174016-174017
+//system/lib/liboplus-eap-aka.so 174018-174019
+//system/lib/liboplusbpf.so 174020-174038
+//system/lib/libpackagelistparser.so 174039-174040
+//system/lib/libpcre2.so 174041 41963-41971 41971-42023 174042-174043
+//system/lib/libpdfium.so 174044-174073 6705 6705 174074-174234 0 0 174235 174237-174247 0 0 0 0 0 0 0 0 0 174248-174535 174535-174536 174535 174535 174535 174535 174535 174535 174535 174535 174535 174537-174539 174535 174535 174535 174535 174540-174541 174535 174535 174535 174542-175139 175139 175139-175157
+//system/lib/libpdx_default_transport.so 175158-175185
+//system/lib/libpiex.so 175186 42027-42041 175187-175188
+//system/lib/libpng.so 175189 42045-42080 175190-175191
+//system/lib/libpower.so 175192 42084 175193-175194
+//system/lib/libpowermanager.so 175195-175207
+//system/lib/libprocessgroup.so 175208-175211 42091-42093 175212-175249
+//system/lib/libprocinfo.so 175250-175252
+//system/lib/libprotobuf-cpp-full.so 175253-175272 6705 175273-175646
+//system/lib/libprotobuf-cpp-lite.so 175647-175732
+//system/lib/libprotoutil.so 175733-175740
+//system/lib/libpsi.so 175741-175742
+//system/lib/libradio_metadata.so 175743-175744
+//system/lib/libresourcemanagerservice.so 175745-175756
+//system/lib/librs_jni.so 175757-175768
+//system/lib/librtp_jni.so 175769-175807
+//system/lib/libschedulerservicehidl.so 175808-175810
+//system/lib/libselinux.so 175811-175828
+//system/lib/libsensor.so 175829-175845
+//system/lib/libsensorprivacy.so 175846-175853
+//system/lib/libsensorservice.so 175854-175917
+//system/lib/libsensorservicehidl.so 175918-175927
+//system/lib/libsfplugin_ccodec.so 175928-176024
+//system/lib/libsfplugin_ccodec_utils.so 176025-176074
+//system/lib/libsigchain.so 176075-176078
+//system/lib/libsonic.so 176079-176081
+//system/lib/libsonivox.so 176082-176214
+//system/lib/libsoundpool.so 176215-176229
+//system/lib/libspeexresampler.so 176230 42138-42139 176231
+//system/lib/libsqlite.so 176232-176445
+//system/lib/libssl.so 176446 42353-42403 176447-176451
+//system/lib/libstagefright.so 176452-176464 6705 176465-176704
+//system/lib/libstagefright_amrnb_common.so 176705-176719
+//system/lib/libstagefright_bufferpool@2.0.1.so 176720-176721 42411-42421 176722-176740
+//system/lib/libstagefright_bufferqueue_helper.so 176741-176755
+//system/lib/libstagefright_codecbase.so 176756-176760
+//system/lib/libstagefright_foundation.so 176761-176791
+//system/lib/libstagefright_framecapture_utils.so 176792-176825
+//system/lib/libstagefright_http_support.so 176826-176827
+//system/lib/libstagefright_httplive.so 176828-176891 41234 176892-176896
+//system/lib/libstagefright_omx.so 176897 42521-42565 176898-176900
+//system/lib/libstagefright_omx_utils.so 176901 42570 176902
+//system/lib/libstagefright_xmlparser.so 176903 42573-42575 176904-176917
+//system/lib/libstatshidl.so 176918-176921
+//system/lib/libstatslog.so 176922-176931
+//system/lib/libstdc++.so 176932-176934
+//system/lib/libsurfaceflinger.so 176935-177374
+//system/lib/libsync.so 177375-177376
+//system/lib/libsystemwapi_cert.so 177377-177379
+//system/lib/libsysutils.so 177380 42591-42596 177381 42598
+//system/lib/libtextclassifier.so 177382-177947
+//system/lib/libtextclassifier_hash.so 177948-177951
+//system/lib/libtflite.so 177952-177962 6705 177963-178400
+//system/lib/libtimeinstate.so 178401-178409
+//system/lib/libtimestats.so 178411-178427
+//system/lib/libtimestats_proto.so 178428-178443
+//system/lib/libtinyalsa.so 178444 42600-42602 178445 42604
+//system/lib/libtinyxml2.so 178446 42606-42615 178447 42617
+//system/lib/libtombstoned_client.so 178448-178451
+//system/lib/libui.so 178452-178505
+//system/lib/libunwindstack.so 178506-178588
+//system/lib/libusbhost.so 178589 42754 178590-178591
+//system/lib/libutils.so 178592 42758-42775 178593-178594
+//system/lib/libutilscallstack.so 178595 42779-42780 178596
+//system/lib/libvibrator.so 178597-178604
+//system/lib/libvintf.so 178605-178703
+//system/lib/libvndksupport.so 178704-178705
+//system/lib/libvppsession.so 178706-178724
+//system/lib/libvpsclient.so 178725-178734
+//system/lib/libvpsextension.so 178735-178743
+//system/lib/libvulkan.so 178744-178773
+//system/lib/libwebviewchromium_loader.so 178774-178775
+//system/lib/libwebviewchromium_plat_support.so 178776-178778
+//system/lib/libwilhelm.so 178779-178824
+//system/lib/libxml2.so 178825-179041
+//system/lib/libyuv.so 179042 43005-43054 179043-179044 43057
+//system/lib/libz.so 179045 43059-43078 179046-179047
+//system/lib/libziparchive.so 179048 43082-43089 179049-179050
+//system/lib/server_configurable_flags.so 179051-179053
+//system/lib/service.incremental.so 179054-179230
+//system/lib/suspend_control_aidl_interface-V1-cpp.so 179231-179238
+//system/lib/vendor.nxp.nxpnfc@1.0.so 179239-179251
+//system/lib/vendor.nxpnq330.nxpese@1.0.so 179252-179264
+//system/lib/vendor.qti.hardware.secureprocessor.common@1.0-helper.so 179265-179268
+//system/lib64/android.frameworks.bufferhub@1.0.so 179270-179300
+//system/lib64/android.frameworks.cameraservice.common@2.0.so 179301 43117 179302
+//system/lib64/android.frameworks.cameraservice.device@2.0.so 179303 43120-43163 179304-179306
+//system/lib64/android.frameworks.cameraservice.service@2.0.so 179307 43168-43198 179308-179310
+//system/lib64/android.frameworks.cameraservice.service@2.1.so 179311 43203-43234 179312-179314
+//system/lib64/android.frameworks.displayservice@1.0.so 179315 43239-43275 179316-179317 43278
+//system/lib64/android.frameworks.schedulerservice@1.0.so 179318 43280-43296 179319-179320
+//system/lib64/android.frameworks.sensorservice@1.0.so 179321 43300-43348 179322-179325
+//system/lib64/android.frameworks.stats@1.0.so 179326 43354-43378 179327-179329
+//system/lib64/android.frameworks.vr.composer@2.0.so 179330-179371
+//system/lib64/android.hardware.atrace@1.0.so 179372-179396
+//system/lib64/android.hardware.audio.common-util.so 179397-179401
+//system/lib64/android.hardware.audio.common@2.0-util.so 179402-179407
+//system/lib64/android.hardware.audio.common@2.0.so 179408-179411
+//system/lib64/android.hardware.audio.common@4.0-util.so 179412-179417
+//system/lib64/android.hardware.audio.common@4.0.so 179418 179409 179419-179420
+//system/lib64/android.hardware.audio.common@5.0-util.so 179421-179422 179414-179415 179423-179424
+//system/lib64/android.hardware.audio.common@5.0.so 179425-179431
+//system/lib64/android.hardware.audio.common@6.0-util.so 179432-179437
+//system/lib64/android.hardware.audio.common@6.0.so 179438-179439 179427 179440 179429 179441 179443
+//system/lib64/android.hardware.audio.effect@2.0.so 179444-179826
+//system/lib64/android.hardware.audio.effect@4.0.so 179827-180165 179784-179786 180166-180205
+//system/lib64/android.hardware.audio.effect@5.0.so 180206-180225 179847 180226-180284 179907-179909 180285 180287-180292 179917 180293-180540 179784-179786 180541-180551 180177-180179 180552 180181 180553-180576
+//system/lib64/android.hardware.audio.effect@6.0.so 180577-180596 179847 180597-180635 180265 180636 180638-180914 179784-179786 180541-180543 180915-180922 180177-180179 180552 180181 180923-180945
+//system/lib64/android.hardware.audio@2.0.so 180946-181135
+//system/lib64/android.hardware.audio@4.0.so 181136-181337
+//system/lib64/android.hardware.audio@5.0.so 181338-181521 181319 181522-181527 181326 181528 181530-181539
+//system/lib64/android.hardware.audio@6.0.so 181540-181766
+//system/lib64/android.hardware.biometrics.fingerprint@2.1.so 181767-181815
+//system/lib64/android.hardware.bluetooth@1.0.so 181816-181855
+//system/lib64/android.hardware.boot@1.0.so 181856-181884
+//system/lib64/android.hardware.boot@1.1.so 181885-181911
+//system/lib64/android.hardware.broadcastradio@1.0.so 181912-181989
+//system/lib64/android.hardware.broadcastradio@1.1.so 181990-182077
+//system/lib64/android.hardware.camera.common@1.0.so 182078-182081
+//system/lib64/android.hardware.camera.device@1.0.so 182082-182163
+//system/lib64/android.hardware.camera.device@3.2.so 182164-182224
+//system/lib64/android.hardware.camera.device@3.3.so 182225-182252
+//system/lib64/android.hardware.camera.device@3.4.so 182253-182298
+//system/lib64/android.hardware.camera.device@3.5.so 182299-182369
+//system/lib64/android.hardware.camera.device@3.6.so 182370-182438
+//system/lib64/android.hardware.camera.provider@2.4.so 182439-182482
+//system/lib64/android.hardware.camera.provider@2.5.so 182483-182510
+//system/lib64/android.hardware.camera.provider@2.6.so 182511-182555
+//system/lib64/android.hardware.cas.native@1.0.so 182556-182581
+//system/lib64/android.hardware.cas@1.0.so 182582-182652
+//system/lib64/android.hardware.common-V1-ndk_platform.so 182653-182656
+//system/lib64/android.hardware.configstore-utils.so 182657-182660
+//system/lib64/android.hardware.configstore@1.0.so 182661-182696
+//system/lib64/android.hardware.configstore@1.1.so 182697-182726
+//system/lib64/android.hardware.confirmationui@1.0.so 182727-182762
+//system/lib64/android.hardware.contexthub@1.0.so 182763-182806
+//system/lib64/android.hardware.drm@1.0.so 182807-182914
+//system/lib64/android.hardware.drm@1.1.so 182915-182987
+//system/lib64/android.hardware.drm@1.2.so 182988-183096
+//system/lib64/android.hardware.drm@1.3.so 183097-183136
+//system/lib64/android.hardware.dumpstate@1.0.so 183137-183157
+//system/lib64/android.hardware.dumpstate@1.1.so 183158-183183
+//system/lib64/android.hardware.gatekeeper@1.0.so 183184-183210
+//system/lib64/android.hardware.gnss.measurement_corrections@1.0.so 183211-183246
+//system/lib64/android.hardware.gnss.measurement_corrections@1.1.so 183247-183272
+//system/lib64/android.hardware.gnss.visibility_control@1.0.so 183273-183309
+//system/lib64/android.hardware.gnss@1.0.so 183310-183608
+//system/lib64/android.hardware.gnss@1.1.so 183609-183707
+//system/lib64/android.hardware.gnss@2.0.so 183708-183911
+//system/lib64/android.hardware.gnss@2.1.so 183912-184067
+//system/lib64/android.hardware.graphics.allocator@2.0.so 184068-184092
+//system/lib64/android.hardware.graphics.allocator@3.0.so 184093-184113 184089 184114-184116
+//system/lib64/android.hardware.graphics.allocator@4.0.so 184117-184139
+//system/lib64/android.hardware.graphics.bufferqueue@1.0.so 184140-184201
+//system/lib64/android.hardware.graphics.bufferqueue@2.0.so 184202-184256
+//system/lib64/android.hardware.graphics.common-V1-ndk_platform.so 184257-184263
+//system/lib64/android.hardware.graphics.common@1.0.so 184264-184267
+//system/lib64/android.hardware.graphics.common@1.1.so 184268 184265 184269-184270
+//system/lib64/android.hardware.graphics.common@1.2.so 184271-184274
+//system/lib64/android.hardware.graphics.composer@2.1.so 184275-184351
+//system/lib64/android.hardware.graphics.composer@2.2.so 184352-184413
+//system/lib64/android.hardware.graphics.composer@2.3.so 184414-184490
+//system/lib64/android.hardware.graphics.composer@2.4.so 184491-184588
+//system/lib64/android.hardware.graphics.mapper@2.0.so 184589-184615
+//system/lib64/android.hardware.graphics.mapper@2.1.so 184616-184643
+//system/lib64/android.hardware.graphics.mapper@3.0.so 184644-184673
+//system/lib64/android.hardware.graphics.mapper@4.0.so 184674-184710
+//system/lib64/android.hardware.health.storage@1.0.so 184711-184745
+//system/lib64/android.hardware.health@1.0.so 184746-184771
+//system/lib64/android.hardware.health@2.0.so 184772-184821
+//system/lib64/android.hardware.health@2.1.so 184822-184869
+//system/lib64/bootstrap/libc.so 31016-31306
+//system/lib64/bootstrap/libdl.so 31307-31310
+//system/lib64/bootstrap/libdl_android.so 31311-31313
+//system/lib64/bootstrap/libm.so 31314-31368
+//system/lib64/android.hardware.identity-support-lib.so 184871-184914
+//system/lib64/android.hardware.input.classifier@1.0.so 184915-184937
+//system/lib64/android.hardware.input.common@1.0.so 184938-184941
+//system/lib64/android.hardware.ir@1.0.so 184942-184964
+//system/lib64/android.hardware.keymaster@3.0.so 184965-185004
+//system/lib64/android.hardware.keymaster@4.0.so 185005-185051
+//system/lib64/android.hardware.keymaster@4.1.so 185052-185085
+//system/lib64/android.hardware.light@2.0.so 185086-185107
+//system/lib64/android.hardware.media.bufferpool@2.0.so 185108-185168
+//system/lib64/android.hardware.media.c2@1.0.so 185169-185333
+//system/lib64/android.hardware.media.c2@1.1.so 185334-185388
+//system/lib64/android.hardware.media.omx@1.0.so 185389-185513
+//system/lib64/android.hardware.media@1.0.so 185514-185517
+//system/lib64/android.hardware.memtrack@1.0.so 185518-185538
+//system/lib64/android.hardware.power-V1-cpp.so 185539-185548
+//system/lib64/android.hardware.power.stats@1.0.so 185549-185578
+//system/lib64/android.hardware.power@1.0.so 185579-185604
+//system/lib64/android.hardware.power@1.1.so 185605-185631
+//system/lib64/android.hardware.power@1.2.so 185632-185658
+//system/lib64/android.hardware.power@1.3.so 185659-185687
+//system/lib64/android.hardware.radio.config@1.0.so 185688-185738
+//system/lib64/android.hardware.radio.deprecated@1.0.so 185739-185789
+//system/lib64/android.hardware.radio@1.0.so 185790-186230
+//system/lib64/android.hardware.radio@1.1.so 186231-186536
+//system/lib64/android.hardware.radio@1.2.so 186537-186872
+//system/lib64/android.hardware.radio@1.3.so 186873-187187
+//system/lib64/android.hardware.radio@1.4.so 187188-187551
+//system/lib64/android.hardware.renderscript@1.0.so 187552-187644
+//system/lib64/android.hardware.secure_element@1.0.so 187645-187686
+//system/lib64/android.hardware.secure_element@1.1.so 187687-187727
+//system/lib64/android.hardware.sensors@1.0.so 187728-187759
+//system/lib64/android.hardware.sensors@2.0-ScopedWakelock.so 187760-187763
+//system/lib64/android.hardware.sensors@2.0.so 187764-187808
+//system/lib64/android.hardware.sensors@2.1.so 187809-187854
+//system/lib64/android.hardware.thermal@1.0.so 187855-187880
+//system/lib64/android.hardware.thermal@2.0.so 187881-187925
+//system/lib64/android.hardware.tv.cec@1.0.so 187926-187971
+//system/lib64/android.hardware.tv.input@1.0.so 187972-188009
+//system/lib64/android.hardware.usb.gadget@1.0.so 188010-188047
+//system/lib64/android.hardware.vibrator-V1-cpp.so 188048-188067
+//system/lib64/android.hardware.vibrator@1.0.so 188068-188093
+//system/lib64/android.hardware.vibrator@1.1.so 188094-188118
+//system/lib64/android.hardware.vibrator@1.2.so 188119-188145
+//system/lib64/android.hardware.vibrator@1.3.so 188146-188175
+//system/lib64/android.hardware.vr@1.0.so 188176-188196
+//system/lib64/android.hidl.allocator@1.0.so 188197 54208-54223 188198-188199
+//system/lib64/android.hidl.memory.token@1.0.so 188200 54229-54244 188201-188202
+//system/lib64/android.hidl.memory@1.0.so 188203 54248-54274 188204-188205
+//system/lib64/android.hidl.safe_union@1.0.so 67448 46490 67449
+//system/lib64/android.hidl.token@1.0-utils.so 188206 54280-54281 188207 54283
+//system/lib64/android.hidl.token@1.0.so 188208 54285-54302 188209-188210
+//system/lib64/android.system.net.netd@1.0.so 188211 54306-54321 188212-188213
+//system/lib64/android.system.net.netd@1.1.so 188214 54325-54344 188215-188216
+//system/lib64/android.system.suspend@1.0.so 188217 54348-54372 188218-188219
+//system/lib64/android.system.wifi.keystore@1.0.so 188220 54376-54393 188221-188222
+//system/lib64/apex_aidl_interface-V1-cpp.so 188223-188237
+//system/lib64/capture_state_listener-aidl-V1-cpp.so 188239-188247
+//system/lib64/com.dsi.ant@1.0.so 188248-188280
+//system/lib64/dnsresolver_aidl_interface-V6-cpp.so 188281-188293
+//system/lib64/drm/libfwdlockengine.so 188295-188314
+//system/lib64/gsi_aidl_interface-V1-cpp.so 188315-188338
+//system/lib64/heapprofd_client.so 188339-188354
+//system/lib64/hw/android.hidl.memory@1.0-impl.so 188356 54398-54400 188357 54402
+//system/lib64/hw/audio.a2dp.default.so 188358-188370
+//system/lib64/hw/vendor.qti.hardware.qccsyshal@1.0-impl.so 188371-188377
+//system/lib64/ld-android.so 188378-188380
+//system/lib64/libEGL.so 188381-188431
+//system/lib64/libETC1.so 188432-188435
+//system/lib64/libFFTEm.so 188436-188520
+//system/lib64/libGLESv1_CM.so 188521-188529
+//system/lib64/libGLESv2.so 188530-188556
+//system/lib64/libGLESv3.so 188557 188531-188540 188558 188542-188554 188559 188561
+//system/lib64/libLLVM_android.so 188562-188664 6705 6705 6705 6705 6705 6705 6705 188666-189483 0 0 189484-193103 0 193104-193105 193105 193105 193105 193105 193105 193105 193105 193105 193105 193105 193105 193105 193105 193105 193105 193105-193181
+//system/lib64/libOpenMAXAL.so 193182-193185
+//system/lib64/libOpenSLES.so 193186-193189
+//system/lib64/libRS.so 193190-193207
+//system/lib64/libRSCacheDir.so 193208-193210
+//system/lib64/libRSCpuRef.so 193211 54404-54523 193212-193214
+//system/lib64/libRSDriver.so 193215 54528-54530 193216-193259 54575 193260 193262-193263
+//system/lib64/libRS_internal.so 193264 54580-54584 193265-193321 54642 193322 193324-193326 54647-54652 193327 54654 193328-193329
+//system/lib64/libRScpp.so 193330-193400
+//system/lib64/libSurfaceFlingerProp.so 193401-193428
+//system/lib64/lib_oppo_security.so 193429-193431
+//system/lib64/libaaudio.so 193432-193439
+//system/lib64/libaaudio_internal.so 193440-193506 31239 193507-193515
+//system/lib64/libaaudioservice.so 193516-193572
+//system/lib64/libadbd_auth.so 193573-193636
+//system/lib64/libadbd_fs.so 193637-193643
+//system/lib64/libamidi.so 193644-193652
+//system/lib64/libandroid.so 193653-193688
+//system/lib64/libandroid_net.so 193689-193691
+//system/lib64/libandroid_runtime.so 193692-194107 194107 194107 194107-194122
+//system/lib64/libandroid_runtime_lazy.so 194123-194125
+//system/lib64/libandroid_servers.so 194126-194317
+//system/lib64/libandroidfw.so 194318-194429
+//system/lib64/libapolloxmlparser.so 194430-194435
+//system/lib64/libappfuse.so 194436-194449
+//system/lib64/libartpalette-system.so 194450-194454
+//system/lib64/libasyncio.so 194455-194457
+//system/lib64/libaudio-resampler.so 194458-194465
+//system/lib64/libaudioclient.so 194466-194679
+//system/lib64/libaudioeffect_jni.so 194680-194691
+//system/lib64/libaudioflinger.so 194692-194995
+//system/lib64/libaudiofoundation.so 194996-195018
+//system/lib64/libaudiohal.so 195019-195023
+//system/lib64/libaudiohal@2.0.so 195024-195068
+//system/lib64/libaudiohal@4.0.so 195069-195120
+//system/lib64/libaudiohal@5.0.so 195121-195172
+//system/lib64/libaudiohal@6.0.so 195173-195225
+//system/lib64/libaudiohal_deathhandler.so 195226-195231
+//system/lib64/libaudiomanager.so 195232-195236
+//system/lib64/libaudiopolicy.so 195237-195242
+//system/lib64/libaudiopolicyenginedefault.so 195243-195388
+//system/lib64/libaudiopolicymanager.so 195389-195430
+//system/lib64/libaudiopolicymanagerdefault.so 195431-195666
+//system/lib64/libaudiopolicyservice.so 195667-195726
+//system/lib64/libaudioprocessing.so 195727-195849
+//system/lib64/libaudiospdif.so 195850-195855
+//system/lib64/libaudioutils.so 195856 54668-54699 195857-195858
+//system/lib64/libavservices_minijail.so 195859-195863
+//system/lib64/libbacktrace.so 195864-195903
+//system/lib64/libbase.so 195904 54743-54800 195905-195908
+//system/lib64/libbcc.so 195910-195978
+//system/lib64/libbcinfo.so 195979 54806-55076 195980-195990
+//system/lib64/libbinder.so 195991-196163
+//system/lib64/libbinder_ndk.so 196164-196182
+//system/lib64/libblas.so 196183 55223-55500 196184-196187
+//system/lib64/libbluetooth-binder.so 196188-196201
+//system/lib64/libbluetooth_qti_jni.so 196202-196321
+//system/lib64/libbootloader_message.so 196322-196367
+//system/lib64/libbpf.so 196368-196377
+//system/lib64/libbpf_android.so 196378-196390
+//system/lib64/libbufferhub.so 196391-196405
+//system/lib64/libbufferhubqueue.so 196406-196434
+//system/lib64/libc++.so 61679 55509-55677 61680-61683
+//system/lib64/libc_scudo.so 67623-67625
+//system/lib64/libcamera2ndk.so 196435-196497
+//system/lib64/libcamera_client.so 196498-196607 196635-196646
+//system/lib64/libcamera_metadata.so 196647 55683-55692 196648-196649
+//system/lib64/libcameraservice.so 196650-197217 197217-197230
+//system/lib64/libcap.so 67626 55696-55699 67627
+//system/lib64/libcert_parse.so 197231-197274
+//system/lib64/libcgrouprc.so 197275-197278
+//system/lib64/libchrome.so 197279-197302 6705 197303-197574 197574-197580
+//system/lib64/libclang_rt.asan-aarch64-android.so 197581-197760 0 197761-197762 0 197763-198072
+//system/lib64/libclang_rt.ubsan_standalone-aarch64-android.so 55959-56047 0 56048-56049 0 56050-56206
+//system/lib64/libclcore.bc 198073-198153
+//system/lib64/libclcore_debug.bc 198154-198240
+//system/lib64/libclcore_debug_g.bc 198241-198503
+//system/lib64/libclcore_g.bc 198504-198778
+//system/lib64/libclcore_neon.bc 198779-198860
+//system/lib64/libcodec2.so 67628 56212 67629
+//system/lib64/libcodec2_client.so 198861-198898
+//system/lib64/libcodec2_hidl_client@1.0.so 198899-198928
+//system/lib64/libcodec2_hidl_client@1.1.so 198929 184265 198930-198931
+//system/lib64/libcodec2_vndk.so 198932-199084
+//system/lib64/libcompiler_rt.so 199085 56215-56239 199086 56241
+//system/lib64/libcomputefusion.so 199087-199098
+//system/lib64/libcredstore_aidl.so 199099-199128
+//system/lib64/libcrypto.so 199129 56243-56255 6705 56256-56513 199130 199132-199136
+//system/lib64/libcrypto_utils.so 61938 56521 61939
+//system/lib64/libcurl.so 199137 56524-56609 199138-199139
+//system/lib64/libcutils.so 199140-199141 61942 199142-199156
+//system/lib64/libdataloader.so 199157-199172
+//system/lib64/libdatasource.so 199173-199192
+//system/lib64/libdebuggerd_client.so 199193-199203
+//system/lib64/libdexfile_support.so 199204-199207
+//system/lib64/libdiskconfig.so 199208 56631-56633 199209
+//system/lib64/libdisplayservicehidl.so 199210-199218
+//system/lib64/libdng_sdk.so 199219-199409
+//system/lib64/libdrm.so 199410-199430
+//system/lib64/libdrmframework.so 199431-199465
+//system/lib64/libdrmframework_jni.so 199466-199476
+//system/lib64/libdumpstateaidl.so 199477-199487
+//system/lib64/libdumpstateutil.so 199488 56636-56640 199489 56642
+//system/lib64/libdumputils.so 199490-199494
+//system/lib64/libdynamic_depth.so 199495-199562
+//system/lib64/libeffectsconfig.so 199563-199571
+//system/lib64/libevent.so 199572 56644-56715 199573-199574 56718
+//system/lib64/libexif.so 199575 56720-56771 199576-199577
+//system/lib64/libexpat.so 15744-15779
+//system/lib64/libext2_blkid.so 199578-199591
+//system/lib64/libext2_com_err.so 199592-199595
+//system/lib64/libext2_e2p.so 199596-199604
+//system/lib64/libext2_misc.so 199605-199609
+//system/lib64/libext2_quota.so 199610-199625
+//system/lib64/libext2_uuid.so 199626-199630
+//system/lib64/libext2fs.so 199631-199717
+//system/lib64/libext4_utils.so 199718-199721
+//system/lib64/libf2fs_sparseblock.so 199722-199726
+//system/lib64/libfdtrack.so 199727-199794
+//system/lib64/libfec.so 199795-199816
+//system/lib64/libfilterfw.so 199817-199862
+//system/lib64/libfilterpack_imageproc.so 199863-199865
+//system/lib64/libfmq.so 199866 56779-56780 199867
+//system/lib64/libfruit.so 199868-199925
+//system/lib64/libfs_mgr.so 199926-200082
+//system/lib64/libfs_mgr_binder.so 200083-200263
+//system/lib64/libfscrypt.so 200264-200273
+//system/lib64/libft2.so 200274-200422
+//system/lib64/libgatekeeper.so 200423-200429
+//system/lib64/libgatekeeper_aidl.so 200430-200440
+//system/lib64/libgfxstats.so 200441-200451
+//system/lib64/libgpuservice.so 200452-200459
+//system/lib64/libgralloctypes.so 200460 56788-56803 200461 56805
+//system/lib64/libgraphicsenv.so 200462-200475
+//system/lib64/libgsi.so 200476-200479
+//system/lib64/libgui.so 200480-200730
+//system/lib64/libhardware.so 70006-70008
+//system/lib64/libhardware_legacy.so 200731 57051-57054 200732
+//system/lib64/libharfbuzz_ng.so 200733-200915
+//system/lib64/libheif.so 200916-200929
+//system/lib64/libhidcommand_jni.so 200930-200934
+//system/lib64/libhidl-gen-hash.so 200935-200964
+//system/lib64/libhidl-gen-utils.so 200965-200979
+//system/lib64/libhidlallocatorutils.so 200980 57057 200981
+//system/lib64/libhidlbase.so 200982-200991 57069-57107 200992-201112
+//system/lib64/libhidlmemory.so 201113 57230-57233 201114 57235
+//system/lib64/libhidltransport.so 201115 56212 201116
+//system/lib64/libhwbinder.so 201117 56212 201118
+//system/lib64/libhwui.so 201119-201146 6705 201147-203039 203039 203039 203041-203107
+//system/lib64/libidmap2.so 203108-203141
+//system/lib64/libidmap2_policies.so 203142-203144
+//system/lib64/libimage_io.so 203145-203185
+//system/lib64/libimg_utils.so 203186-203215
+//system/lib64/libincfs.so 203216-203248
+//system/lib64/libincident.so 203249-203252
+//system/lib64/libincidentpriv.so 203253-203279
+//system/lib64/libinput.so 203280-203341
+//system/lib64/libinputflinger.so 203342-203427
+//system/lib64/libinputflinger_base.so 203428-203436
+//system/lib64/libinputreader.so 203437-203531
+//system/lib64/libinputreporter.so 203532-203534
+//system/lib64/libinputservice.so 203535-203552
+//system/lib64/libion.so 203553 57237 203554
+//system/lib64/libiprouteutil.so 203555-203583
+//system/lib64/libjni_pacprocessor.so 203584-203587
+//system/lib64/libjnigraphics.so 203588-203593
+//system/lib64/libjpeg.so 203594 57240-57314 203595-203596 57317
+//system/lib64/libjsoncpp.so 203597 57319-57347 203598-203599
+//system/lib64/libkeymaster4_1support.so 203600-203633
+//system/lib64/libkeymaster4support.so 203634-203659
+//system/lib64/libkeymaster_messages.so 203660-203683
+//system/lib64/libkeymaster_portable.so 203684-203767
+//system/lib64/libkeystore-attestation-application-id.so 203768-203783
+//system/lib64/libkeystore-engine.so 203784-203801
+//system/lib64/libkeystore_aidl.so 203802-203852
+//system/lib64/libkeystore_binder.so 203853-203880
+//system/lib64/libkeystore_parcelables.so 203881-203888
+//system/lib64/libkeyutils.so 203889-203891
+//system/lib64/liblayers_proto.so 203892-203943
+//system/lib64/libldacBT_abr.so 203944 57351 203945
+//system/lib64/libldacBT_enc.so 203946 57354-57363 203947
+//system/lib64/liblhdc.so 203948-204004
+//system/lib64/liblhdcBT_enc.so 204005-204009
+//system/lib64/liblog.so 204010-204027
+//system/lib64/liblogwrap.so 204028-204032
+//system/lib64/liblp.so 204033-204072
+//system/lib64/liblpdump.so 204073-204113
+//system/lib64/liblpdump_interface-V1-cpp.so 204114-204123
+//system/lib64/liblz4.so 204124 57366-57394 204125
+//system/lib64/liblzma.so 204126 57397-57431 204127-204128
+//system/lib64/libmdnssd.so 204129-204137
+//system/lib64/libmedia.so 204138-204296
+//system/lib64/libmedia_codeclist.so 204297-204312
+//system/lib64/libmedia_helper.so 204313-204338
+//system/lib64/libmedia_jni.so 204339-204473
+//system/lib64/libmedia_jni_utils.so 204474-204476
+//system/lib64/libmedia_omx.so 204477-204524
+//system/lib64/libmedia_omx_client.so 204525-204531
+//system/lib64/libmediadrm.so 204532-204578
+//system/lib64/libmediadrmmetrics_consumer.so 204579-204586
+//system/lib64/libmediadrmmetrics_full.so 204587-204622
+//system/lib64/libmediadrmmetrics_lite.so 204623-204652
+//system/lib64/libmediametrics.so 204675-204695
+//system/lib64/libmediaextractorservice.so 204654-204660
+//system/lib64/libmedialogservice.so 204661-204674
+//system/lib64/libmediametricsservice.so 204696-204789
+//system/lib64/libmediandk.so 204790-204841
+//system/lib64/libmediandk_utils.so 204842-204845
+//system/lib64/libmediaplayerservice.so 204846-205182
+//system/lib64/libmediautils.so 205183-205238
+//system/lib64/libmeminfo.so 205239-205251
+//system/lib64/libmemtrack.so 205252 57496 205253
+//system/lib64/libmemunreachable.so 205254-205303
+//system/lib64/libminijail.so 205304 57499-57535 205305-205306
+//system/lib64/libminikin.so 205307-205349
+//system/lib64/libminui.so 205350-205407
+//system/lib64/libmonitor_tool.so 205408-205419
+//system/lib64/libmtp.so 205420-205480
+//system/lib64/libnativebridge_lazy.so 205481-205484
+//system/lib64/libnativedisplay.so 205485-205504
+//system/lib64/libnativeloader_lazy.so 205505-205507
+//system/lib64/libnativewindow.so 205508-205514
+//system/lib64/libnbaio.so 205515-205524
+//system/lib64/libnblog.so 205525-205575
+//system/lib64/libnetd_client.so 205576-205584
+//system/lib64/libnetdbpf.so 205585-205625
+//system/lib64/libnetdutils.so 205626-205645
+//system/lib64/libnetlink.so 205646-205652
+//system/lib64/libnetutils.so 205653-205662
+//system/lib64/libneuralnetworks_packageinfo.so 205663-205665
+//system/lib64/libnl.so 205666 57551-57581 205667 57583
+//system/lib64/liboplus-eap-aka.so 205668-205670
+//system/lib64/liboplusbpf.so 205671-205713
+//system/lib64/libpackagelistparser.so 205714-205716
+//system/lib64/libpcap.so 205717-205798
+//system/lib64/libpcre2.so 205799 57585-57595 41971 57596-57660 205800 57662
+//system/lib64/libpdfium.so 205802-205845 6705 6705 6705 205846 205848-206009 0 206010-206013 0 0 206014-206025 0 0 0 0 0 0 0 0 0 206026-206313 174535 174535 206314 174535 174535 174535 174535 174535 174535 174535 174535 174535 206315-206317 174535 174535 174535 174535 206318-206319 174535 174535 174535 206320-206968 206968 206968 206968 206968 206968-206982
+//system/lib64/libpdx_default_transport.so 206983-207021
+//system/lib64/libperfetto.so 207022-207283
+//system/lib64/libperfetto_android_internal.so 207284-207291
+//system/lib64/libpiex.so 207292 57664-57686 207293-207294
+//system/lib64/libpng.so 207295 57690-57740 207296-207297
+//system/lib64/libpower.so 207298 57744-57746 207299
+//system/lib64/libpowermanager.so 207300-207318
+//system/lib64/libprocessgroup.so 207319-207324 57754-57755 207325-207346 57778 207347 207349-207350 57782 207351-207363 57796 207364-207372 57806-57807 207373-207375
+//system/lib64/libprocessgroup_setup.so 207376-207382
+//system/lib64/libprocinfo.so 207383 57812-57813 207384
+//system/lib64/libprotobuf-cpp-full.so 207385-207414 6705 207415-207922 207922 207922 207924-207932
+//system/lib64/libprotobuf-cpp-lite.so 61958-62076
+//system/lib64/libprotoutil.so 207933-207943
+//system/lib64/libpsi.so 207944-207946
+//system/lib64/libpuresoftkeymasterdevice.so 207947-207958
+//system/lib64/libqtaguid.so 207959-207961
+//system/lib64/libradio_metadata.so 207962 57816 207963
+//system/lib64/librs_jni.so 207964-207981
+//system/lib64/librtp_jni.so 207982-208032
+//system/lib64/libschedulerservicehidl.so 208033-208036
+//system/lib64/libselinux.so 208037-208061
+//system/lib64/libsensor.so 208062-208085
+//system/lib64/libsensorprivacy.so 208086-208097
+//system/lib64/libsensorservice.so 208098-208184
+//system/lib64/libsensorservicehidl.so 208185-208197
+//system/lib64/libservices.so 208198-208209
+//system/lib64/libsfplugin_ccodec.so 208210-208360
+//system/lib64/libsfplugin_ccodec_utils.so 208361-208365 70398-70401 208366-208377 70414 208378 70416 208380-208425 70463 208426-208431
+//system/lib64/libsigchain.so 208432-208436
+//system/lib64/libsoft_attestation_cert.so 208437-208441
+//system/lib64/libsoftkeymasterdevice.so 208442-208493
+//system/lib64/libsonic.so 208494-208499
+//system/lib64/libsonivox.so 208500-208643
+//system/lib64/libsoundpool.so 208644-208665
+//system/lib64/libsparse.so 208666-208675
+//system/lib64/libspeexresampler.so 66758 57819-57821 66759
+//system/lib64/libsqlite.so 208676-208973
+//system/lib64/libsquashfs_utils.so 208974-208976
+//system/lib64/libssl.so 64646 58118-58196 64647-64650
+//system/lib64/libstagefright.so 208977-209417 209417-209427
+//system/lib64/libstagefright_amrnb_common.so 209428-209447
+//system/lib64/libstagefright_bufferpool@2.0.1.so 209448-209490
+//system/lib64/libstagefright_bufferqueue_helper.so 209491-209514
+//system/lib64/libstagefright_codecbase.so 209515-209523
+//system/lib64/libstagefright_foundation.so 209524 70603-70610 209525 70612-70651 209526 209528-209529
+//system/lib64/libstagefright_framecapture_utils.so 209530-209573
+//system/lib64/libstagefright_http_support.so 209574-209577
+//system/lib64/libstagefright_httplive.so 209578-209711
+//system/lib64/libstagefright_omx.so 209712-209792
+//system/lib64/libstagefright_omx_utils.so 209793-209797
+//system/lib64/libstagefright_xmlparser.so 209798-209819
+//system/lib64/libstatshidl.so 209820-209825
+//system/lib64/libstatslog.so 209826-209843
+//system/lib64/libstdc++.so 209844-209847
+//system/lib64/libsurfaceflinger.so 209848-210440 210440-210465
+//system/lib64/libsuspend.so 210466-210470
+//system/lib64/libsync.so 70655-70657
+//system/lib64/libsystemwapi_cert.so 210471-210475
+//system/lib64/libsysutils.so 210476 58448-58457 210477-210478
+//system/lib64/libtextclassifier.so 210479-211261
+//system/lib64/libtextclassifier_hash.so 211262-211265
+//system/lib64/libtflite.so 211266-211871 211871-211885
+//system/lib64/libtimeinstate.so 211886-211897
+//system/lib64/libtimestats.so 211898-211920
+//system/lib64/libtimestats_proto.so 211921-211941
+//system/lib64/libtinyalsa.so 211942 58461-58466 211943 58468
+//system/lib64/libtinyxml2.so 211944-211969
+//system/lib64/libtombstoned_client.so 211970-211975
+//system/lib64/libui.so 211976-211977 58491-58492 211978 70663-70682 211979 70684 211981-211988 58524 211989-211993 58530 211994-212010 58548-58549 212011-212014 58554 212015-212019
+//system/lib64/libunwindstack.so 212020-212132
+//system/lib64/libusbhost.so 212133 58672-58674 212134
+//system/lib64/libutils.so 212135 58677-58703 212136-212137 58706
+//system/lib64/libutilscallstack.so 212138 58708-58711 212139
+//system/lib64/libvibrator.so 212140-212151
+//system/lib64/libvintf.so 212152-212292
+//system/lib64/libvkjson.so 212293-212344
+//system/lib64/libvndksupport.so 212345-212347
+//system/lib64/libvppsession.so 212348-212375
+//system/lib64/libvpsclient.so 212376-212393
+//system/lib64/libvpsextension.so 212394-212410
+//system/lib64/libvulkan.so 212411-212453
+//system/lib64/libwebviewchromium_loader.so 212454-212456
+//system/lib64/libwebviewchromium_plat_support.so 212457-212461
+//system/lib64/libwifi-system-iface.so 212462 58714-58716 212463
+//system/lib64/libwifikeystorehalext.so 212464-212469
+//system/lib64/libwilhelm.so 212470-212534
+//system/lib64/libxml2.so 212535-212845
+//system/lib64/libyuv.so 212846 59032-59106 212847-212848
+//system/lib64/libz.so 212849 59110-59129 212850 59131
+//system/lib64/libziparchive.so 212851-212867
+//system/lib64/netd_aidl_interface-V4-cpp.so 212868-212985
+//system/lib64/netd_event_listener_interface-V1-cpp.so 212986-212995
+//system/lib64/oemnetd_aidl_interface-V1-cpp.so 212996-213010
+//system/lib64/pppol2tp-android.so 213011-213013
+//system/lib64/pppopptp-android.so 213014-213016
+//system/lib64/server_configurable_flags.so 213017-213021
+//system/lib64/service.incremental.so 213022-213272
+//system/lib64/slicer.so 213273-213340
+//system/lib64/suspend_control_aidl_interface-V1-cpp.so 213341-213352
+//system/lib64/vendor.nxp.nxpnfc@1.0.so 213353-213371
+//system/lib64/vendor.nxpnq330.nxpese@1.0.so 213372-213390
+//system/lib64/vendor.oplus.hardware.lmvibrator@1.0.so 213391-213413
+//system/lib64/vendor.qti.hardware.secureprocessor.common@1.0-helper.so 213414-213420
+//system/media/audio/alarms/Dynamic_Weather.ogg 213424-213592
+//system/media/audio/alarms/Rise.ogg 213593-213759
+//system/media/audio/notifications/notification_000.ogg 213761-213768
+//system/media/audio/notifications/notification_001.ogg 213769-213776
+//system/media/audio/notifications/notification_002.ogg 213777-213780
+//system/media/audio/notifications/notification_003.ogg 213781-213787
+//system/media/audio/notifications/notification_004.ogg 213788-213792
+//system/media/audio/notifications/notification_005.ogg 213793-213799
+//system/media/audio/notifications/notification_006.ogg 213800-213811
+//system/media/audio/notifications/notification_007.ogg 213812-213817
+//system/media/audio/notifications/notification_008.ogg 213818-213823
+//system/media/audio/notifications/notification_009.ogg 213824-213830
+//system/media/audio/notifications/notification_010.ogg 213831-213840
+//system/media/audio/notifications/notification_011.ogg 213841-213845
+//system/media/audio/notifications/notification_012.ogg 213846-213856
+//system/media/audio/notifications/notification_013.ogg 213857-213878
+//system/media/audio/notifications/notification_014.ogg 213879-213897
+//system/media/audio/notifications/notification_015.ogg 213898-213902
+//system/media/audio/notifications/notification_016.ogg 213903-213917
+//system/media/audio/ringtones/ringtone_000.ogg 213919-214041
+//system/media/audio/ringtones/ringtone_0001.ogg 213761 214042-214132
+//system/media/audio/ringtones/ringtone_001.ogg 214133-214313
+//system/media/audio/ringtones/ringtone_002.ogg 214314-214531
+//system/media/audio/ringtones/ringtone_003.ogg 214532-214710
+//system/media/audio/ringtones/ringtone_004.ogg 214711-214784
+//system/media/audio/ringtones/ringtone_005.ogg 214785-214960
+//system/media/audio/ringtones/ringtone_006.ogg 214961-215024
+//system/media/audio/ringtones/ringtone_007.ogg 215025-215130
+//system/media/audio/ringtones/ringtone_008.ogg 215131-215256
+//system/media/audio/ringtones/ringtone_009.ogg 215257-215268
+//system/media/audio/ringtones/ringtone_010.ogg 215269-215397
+//system/media/audio/ringtones/ringtone_011.ogg 215398-215540
+//system/media/audio/ringtones/ringtone_012.ogg 215541-215694
+//system/media/audio/ringtones/ringtone_013.ogg 215695-215801
+//system/media/audio/ringtones/ringtone_014.ogg 215802-215924
+//system/media/audio/ringtones/ringtone_015.ogg 215925-216085
+//system/media/audio/ringtones/ringtone_016.ogg 216086-216236
+//system/media/audio/ringtones/ringtone_017.ogg 216237-216308
+//system/media/audio/ringtones/ringtone_018.ogg 216309-216449
+//system/media/audio/ringtones/ringtone_019.ogg 216450-216562
+//system/media/audio/ringtones/ringtone_020.ogg 216563-216660
+//system/media/audio/ringtones/ringtone_021.ogg 216661-216697
+//system/media/audio/ringtones/ringtone_022.ogg 216698-216864
+//system/media/audio/ringtones/ringtone_023.ogg 216865-216956
+//system/media/audio/ringtones/ringtone_024.ogg 216957-217174
+//system/media/audio/ringtones/ringtone_025.ogg 217175-217317
+//system/media/audio/ringtones/ringtone_026.ogg 217318-217588
+//system/media/audio/ringtones/ringtone_027.ogg 217589-217780
+//system/media/audio/ringtones/ringtone_028.ogg 217781-217830
+//system/media/themeInner/1-Simplicity.theme 217832-220427
+//system/priv-app/AppPlatform/AppPlatform.apk 220430-221845 0 221846-221995 137173 221996-222281
+//system/priv-app/AppPlatform/oat/arm64/AppPlatform.odex 222284-222303
+//system/priv-app/AppPlatform/oat/arm64/AppPlatform.vdex 222304-222315
+//system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk 222317-222368
+//system/priv-app/BackupRestoreConfirmation/oat/arm64/BackupRestoreConfirmation.odex 222371-222373 79254 222374
+//system/priv-app/BackupRestoreConfirmation/oat/arm64/BackupRestoreConfirmation.vdex 222375
+//system/priv-app/CalendarProvider/CalendarProvider.apk 222377-222847
+//system/priv-app/CalendarProvider/oat/arm/CalendarProvider.odex 222850-222862
+//system/priv-app/CalendarProvider/oat/arm/CalendarProvider.vdex 222863-222865
+//system/priv-app/CalendarProvider/oat/arm64/CalendarProvider.odex 222867-222868 222852-222856 222869-222874
+//system/priv-app/CalendarProvider/oat/arm64/CalendarProvider.vdex 222863-222865
+//system/priv-app/CallLogBackup/CallLogBackup.apk 222876-222884
+//system/priv-app/CallLogBackup/oat/arm/CallLogBackup.odex 222887-222889 146713 222890
+//system/priv-app/CallLogBackup/oat/arm/CallLogBackup.vdex 222891
+//system/priv-app/CallLogBackup/oat/arm64/CallLogBackup.odex 222893-222895 79254 222896
+//system/priv-app/CallLogBackup/oat/arm64/CallLogBackup.vdex 222891
+//system/priv-app/CellBroadcastLegacyApp/CellBroadcastLegacyApp.apk 222898-223246
+//system/priv-app/CellBroadcastLegacyApp/oat/arm64/CellBroadcastLegacyApp.odex 223249-223256
+//system/priv-app/CellBroadcastLegacyApp/oat/arm64/CellBroadcastLegacyApp.vdex 223257-223260
+//system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-hdpi.apk 223262-223275
+//system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-ldpi.apk 223276-223292
+//system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-mdpi.apk 223293-223306
+//system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-tvdpi.apk 223262-223263 223307-223325
+//system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-xhdpi.apk 223326-223340
+//system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-xxhdpi.apk 223341-223357
+//system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-xxxhdpi.apk 223358-223374
+//system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk 223375-224639
+//system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk 224641-224671
+//system/priv-app/DynamicSystemInstallationService/oat/arm64/DynamicSystemInstallationService.odex 224674-224676 79254 224677
+//system/priv-app/DynamicSystemInstallationService/oat/arm64/DynamicSystemInstallationService.vdex 224678
+//system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk 224680-224693
+//system/priv-app/ExternalStorageProvider/oat/arm64/ExternalStorageProvider.odex 224696-224698 79254 224699
+//system/priv-app/ExternalStorageProvider/oat/arm64/ExternalStorageProvider.vdex 224700
+//system/priv-app/FusedLocation/FusedLocation.apk 224702-224709
+//system/priv-app/FusedLocation/oat/arm64/FusedLocation.odex 224712-224719
+//system/priv-app/FusedLocation/oat/arm64/FusedLocation.vdex 224720
+//system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk 224722-225503
+//system/priv-app/GooglePackageInstaller/oat/arm64/GooglePackageInstaller.odex 225506-225516
+//system/priv-app/GooglePackageInstaller/oat/arm64/GooglePackageInstaller.vdex 225517-225521
+//system/priv-app/InputDevices/InputDevices.apk 225523-225575
+//system/priv-app/InputDevices/oat/arm64/InputDevices.odex 225578-225581 79582 225582
+//system/priv-app/InputDevices/oat/arm64/InputDevices.vdex 225583
+//system/priv-app/LocalTransport/LocalTransport.apk 225585-225591
+//system/priv-app/LocalTransport/oat/arm64/LocalTransport.odex 225594-225596 79254 225597
+//system/priv-app/LocalTransport/oat/arm64/LocalTransport.vdex 225598
+//system/priv-app/ManagedProvisioning/ManagedProvisioning.apk 225600-226661 0 0 0 0 0 0 226662-226699 29276 29276 29276 29276 29276 29276 226701 29276 29276 29276 29276 29276 29276 226702-226703 29276 29276 29276 29276 29276 29276 226704 29276 29276 29276 29276 29276 29276 226705 29276 29276 29276 29276 29276 29276 29276 226706 29276 29276 29276 29276 29276 29276 226707 29276 29276 29276 29276 29276 29276 226708-226709 29276 29276 29276 29276 29276 29276 226710 29276 29276 29276 29276 29276 29276 226711-226712 29276 29276 29276 29276 29276 29276 226713 29276 29276 29276 29276 29276 29276 226714 29276 29276 29276 29276 29276 29276 29276 226715 29276 29276 29276 29276 29276 29276 226716 29276 29276 29276 29276 29276 29276 226717-227938
+//system/priv-app/ManagedProvisioning/oat/arm64/ManagedProvisioning.odex 227941-227952
+//system/priv-app/ManagedProvisioning/oat/arm64/ManagedProvisioning.vdex 227953-227958
+//system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk 227960-228378
+//system/priv-app/MediaProviderLegacy/oat/arm64/MediaProviderLegacy.odex 228381-228389 225515 228390
+//system/priv-app/MediaProviderLegacy/oat/arm64/MediaProviderLegacy.vdex 228391-228395
+//system/priv-app/MtpService/MtpService.apk 228397-228777
+//system/priv-app/MtpService/oat/arm64/MtpService.odex 228780-228787
+//system/priv-app/MtpService/oat/arm64/MtpService.vdex 228788-228792
+//system/priv-app/NetworkPermissionConfigGoogle/NetworkPermissionConfigGoogle-hdpi.apk 228794-228798
+//system/priv-app/NetworkPermissionConfigGoogle/NetworkPermissionConfigGoogle-ldpi.apk 228799-228803
+//system/priv-app/NetworkPermissionConfigGoogle/NetworkPermissionConfigGoogle-mdpi.apk 228804-228808
+//system/priv-app/NetworkPermissionConfigGoogle/NetworkPermissionConfigGoogle-tvdpi.apk 228809-228813
+//system/priv-app/NetworkPermissionConfigGoogle/NetworkPermissionConfigGoogle-xhdpi.apk 228814-228818
+//system/priv-app/NetworkPermissionConfigGoogle/NetworkPermissionConfigGoogle-xxhdpi.apk 228819-228823
+//system/priv-app/NetworkPermissionConfigGoogle/NetworkPermissionConfigGoogle-xxxhdpi.apk 228824-228828
+//system/priv-app/NetworkPermissionConfigGoogle/NetworkPermissionConfigGoogle.apk 228829-228841
+//system/priv-app/NetworkStackGoogle/NetworkStackGoogle-arm64_v8a.apk 228843 76651-76713 0 76714-76717 228844-228896
+//system/priv-app/NetworkStackGoogle/NetworkStackGoogle-hdpi.apk 228897-228901
+//system/priv-app/NetworkStackGoogle/NetworkStackGoogle-ldpi.apk 228902-228906
+//system/priv-app/NetworkStackGoogle/NetworkStackGoogle-mdpi.apk 228907-228911
+//system/priv-app/NetworkStackGoogle/NetworkStackGoogle-tvdpi.apk 228912-228916
+//system/priv-app/NetworkStackGoogle/NetworkStackGoogle-xhdpi.apk 228917-228921
+//system/priv-app/NetworkStackGoogle/NetworkStackGoogle-xxhdpi.apk 228922-228926
+//system/priv-app/NetworkStackGoogle/NetworkStackGoogle-xxxhdpi.apk 228927-228931
+//system/priv-app/NetworkStackGoogle/NetworkStackGoogle.apk 228932-229145
+//system/priv-app/ONS/ONS.apk 229146-229158
+//system/priv-app/ONS/oat/arm64/ONS.odex 229159-229161 79254 229162
+//system/priv-app/ONS/oat/arm64/ONS.vdex 229163
+//system/priv-app/ProxyHandler/ProxyHandler.apk 229164-229169
+//system/priv-app/ProxyHandler/oat/arm64/ProxyHandler.odex 229170-229172 79254 229173
+//system/priv-app/ProxyHandler/oat/arm64/ProxyHandler.vdex 229174
+//system/priv-app/SharedStorageBackup/SharedStorageBackup.apk 229175-229179
+//system/priv-app/SharedStorageBackup/oat/arm64/SharedStorageBackup.odex 229180-229182 79254 229183
+//system/priv-app/SharedStorageBackup/oat/arm64/SharedStorageBackup.vdex 229184
+//system/priv-app/Shell/Shell.apk 229185-229277
+//system/priv-app/Shell/oat/arm64/Shell.odex 229278-229281 79564 229282
+//system/priv-app/Shell/oat/arm64/Shell.vdex 229283-229284
+//system/priv-app/SoundPicker/SoundPicker.apk 229285-229375 229418-229688
+//system/priv-app/SoundPicker/oat/arm64/SoundPicker.odex 229691-229696 223255 229697
+//system/priv-app/SoundPicker/oat/arm64/SoundPicker.vdex 229698-229701
+//system/priv-app/StatementService/StatementService.apk 229703-229717
+//system/priv-app/StatementService/oat/arm64/StatementService.odex 229720-229722 79254 229723
+//system/priv-app/StatementService/oat/arm64/StatementService.vdex 229724
+//system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk 229726-229734
+//system/priv-app/UserDictionaryProvider/oat/arm64/UserDictionaryProvider.odex 229737-229739 79254 229740
+//system/priv-app/UserDictionaryProvider/oat/arm64/UserDictionaryProvider.vdex 229741
+//system/priv-app/com.altice.android.myapps-vendor-oplus/lib/arm/libsqlcipher.so 229745-230191 0 230192-230214
+//system/priv-app/com.altice.android.myapps-vendor-oplus/lib/arm64/libsqlcipher.so 230216-230962
+//system/priv-app/com.kddi.android.cmail-vendor-oplus/lib/arm/libcomlib.so 230966-234634 0 234635-234642 0 234643-234644 0 234645-234648 0 234649 234651-234874
+//system/priv-app/com.kddi.android.cmail-vendor-oplus/lib/arm/libconscrypt_jni.so 234875-235171
+//system/priv-app/com.kddi.android.cmail-vendor-oplus/lib/arm/libkryptonite-lib.so 235172-235230
+//system/priv-app/com.kddi.android.cmail-vendor-oplus/lib/arm/libpl_droidsonroids_gif.so 235231-235239
+//system/priv-app/com.kddi.android.cmail-vendor-oplus/lib/arm64/libcomlib.so 235241-241535
+//system/priv-app/com.kddi.android.cmail-vendor-oplus/lib/arm64/libconscrypt_jni.so 241536-242030 242030-242034
+//system/priv-app/com.kddi.android.cmail-vendor-oplus/lib/arm64/libkryptonite-lib.so 242035-242119
+//system/priv-app/com.kddi.android.cmail-vendor-oplus/lib/arm64/libpl_droidsonroids_gif.so 242120-242130
+//system/priv-app/com.kddi.cs.app001-vendor-oplus/lib/arm/libaSTCore_acorelib.so 242134-242288
+//system/priv-app/com.kddi.cs.app001-vendor-oplus/lib/arm/libacorelibKSL1.so 242289-242480
+//system/priv-app/com.kddi.cs.app001-vendor-oplus/lib/arm/libacorelibKSL2.so 242481-242685
+//system/priv-app/com.kddi.cs.app001-vendor-oplus/lib/arm64/libaSTCore_acorelib.so 242687-242980
+//system/priv-app/com.kddi.cs.app001-vendor-oplus/lib/arm64/libacorelibKSL1.so 242981-243239
+//system/priv-app/com.kddi.cs.app001-vendor-oplus/lib/arm64/libacorelibKSL2.so 243240-243500
+//system/priv-app/com.sfr.android.sfrjeux-vendor-oplus/lib/arm/libsqlcipher.so 243504-243949 0 0 243950-243972
+//system/priv-app/com.sfr.android.sfrjeux-vendor-oplus/lib/arm64/libsqlcipher.so 243974-244712 230958 244713 230960 244714 244716
+//system/priv-app/fr.bouyguestelecom.agent.custo-vendor-oplus/lib/arm/libcomm.so 244720-245694
+//system/usr/hyphen-data/hyph-as.hyb 245700
+//system/usr/hyphen-data/hyph-as.lic.txt 245701
+//system/usr/hyphen-data/hyph-be.hyb 245702-245703
+//system/usr/hyphen-data/hyph-be.lic.txt 245704
+//system/usr/hyphen-data/hyph-bg.hyb 245705
+//system/usr/hyphen-data/hyph-bg.lic.txt 245706
+//system/usr/hyphen-data/hyph-bn.hyb 245700
+//system/usr/hyphen-data/hyph-bn.lic.txt 245707
+//system/usr/hyphen-data/hyph-cu.hyb 245708-245720
+//system/usr/hyphen-data/hyph-cu.lic.txt 245721
+//system/usr/hyphen-data/hyph-cy.hyb 245722-245730
+//system/usr/hyphen-data/hyph-cy.lic.txt 245731
+//system/usr/hyphen-data/hyph-da.hyb 245732-245733
+//system/usr/hyphen-data/hyph-da.lic.txt 245734
+//system/usr/hyphen-data/hyph-de-1901.hyb 245735-245764
+//system/usr/hyphen-data/hyph-de-1901.lic.txt 245765
+//system/usr/hyphen-data/hyph-de-1996.hyb 245766-245795
+//system/usr/hyphen-data/hyph-de-1996.lic.txt 245796
+//system/usr/hyphen-data/hyph-de-ch-1901.hyb 245797-245826
+//system/usr/hyphen-data/hyph-de-ch-1901.lic.txt 245827
+//system/usr/hyphen-data/hyph-en-gb.hyb 245828-245839
+//system/usr/hyphen-data/hyph-en-gb.lic.txt 245840
+//system/usr/hyphen-data/hyph-en-us.hyb 245841-245855
+//system/usr/hyphen-data/hyph-en-us.lic.txt 245856
+//system/usr/hyphen-data/hyph-es.hyb 245857-245860
+//system/usr/hyphen-data/hyph-es.lic.txt 245861
+//system/usr/hyphen-data/hyph-et.hyb 245862-245867
+//system/usr/hyphen-data/hyph-et.lic.txt 245868
+//system/usr/hyphen-data/hyph-eu.hyb 245869
+//system/usr/hyphen-data/hyph-eu.lic.txt 245870
+//system/usr/hyphen-data/hyph-fr.hyb 245871-245872
+//system/usr/hyphen-data/hyph-fr.lic.txt 245873
+//system/usr/hyphen-data/hyph-ga.hyb 245874-245882
+//system/usr/hyphen-data/hyph-ga.lic.txt 245883
+//system/usr/hyphen-data/hyph-gu.hyb 245884
+//system/usr/hyphen-data/hyph-gu.lic.txt 245885
+//system/usr/hyphen-data/hyph-hi.hyb 245886
+//system/usr/hyphen-data/hyph-hi.lic.txt 245887
+//system/usr/hyphen-data/hyph-hr.hyb 245888
+//system/usr/hyphen-data/hyph-hr.lic.txt 245889
+//system/usr/hyphen-data/hyph-hu.hyb 245890-245967
+//system/usr/hyphen-data/hyph-hu.lic.txt 245968
+//system/usr/hyphen-data/hyph-hy.hyb 245969
+//system/usr/hyphen-data/hyph-hy.lic.txt 245970
+//system/usr/hyphen-data/hyph-kn.hyb 245971
+//system/usr/hyphen-data/hyph-kn.lic.txt 245972
+//system/usr/hyphen-data/hyph-la.hyb 245973
+//system/usr/hyphen-data/hyph-la.lic.txt 245974-245975
+//system/usr/hyphen-data/hyph-ml.hyb 245976
+//system/usr/hyphen-data/hyph-ml.lic.txt 245977
+//system/usr/hyphen-data/hyph-mn-cyrl.hyb 245978-245979
+//system/usr/hyphen-data/hyph-mn-cyrl.lic.txt 245980
+//system/usr/hyphen-data/hyph-mr.hyb 245886
+//system/usr/hyphen-data/hyph-mr.lic.txt 245981
+//system/usr/hyphen-data/hyph-nb.hyb 245982-246017
+//system/usr/hyphen-data/hyph-nb.lic.txt 246018
+//system/usr/hyphen-data/hyph-nn.hyb 245982-246016 246019
+//system/usr/hyphen-data/hyph-nn.lic.txt 246020
+//system/usr/hyphen-data/hyph-or.hyb 246021
+//system/usr/hyphen-data/hyph-or.lic.txt 246022
+//system/usr/hyphen-data/hyph-pa.hyb 246023
+//system/usr/hyphen-data/hyph-pa.lic.txt 246024
+//system/usr/hyphen-data/hyph-pt.hyb 246025
+//system/usr/hyphen-data/hyph-pt.lic.txt 246026-246027
+//system/usr/hyphen-data/hyph-sl.hyb 246028-246029
+//system/usr/hyphen-data/hyph-sl.lic.txt 246030
+//system/usr/hyphen-data/hyph-ta.hyb 246031
+//system/usr/hyphen-data/hyph-ta.lic.txt 246032
+//system/usr/hyphen-data/hyph-te.hyb 246033
+//system/usr/hyphen-data/hyph-te.lic.txt 246034
+//system/usr/hyphen-data/hyph-tk.hyb 246035
+//system/usr/hyphen-data/hyph-tk.lic.txt 246036
+//system/usr/hyphen-data/hyph-und-ethi.hyb 246037
+//system/usr/hyphen-data/hyph-und-ethi.lic.txt 246038
+//system/usr/idc/AVRCP.idc 246040
+//system/usr/idc/qwerty.idc 246041
+//system/usr/idc/qwerty2.idc 246042
+//system/usr/keychars/Generic.kcm 246044-246047
+//system/usr/keychars/Vendor_18d1_Product_0200.kcm 246048
+//system/usr/keychars/Vendor_18d1_Product_5018.kcm 246049-246051
+//system/usr/keychars/Virtual.kcm 246052-246055
+//system/usr/keychars/qwerty.kcm 246056-246059
+//system/usr/keychars/qwerty2.kcm 246060-246063
+//system/usr/keylayout/AVRCP.kl 246065
+//system/usr/keylayout/Generic.kl 246066-246068
+//system/usr/keylayout/Vendor_0079_Product_0011.kl 246069
+//system/usr/keylayout/Vendor_0079_Product_18d4.kl 246070
+//system/usr/keylayout/Vendor_044f_Product_b326.kl 246071
+//system/usr/keylayout/Vendor_045e_Product_028e.kl 246072
+//system/usr/keylayout/Vendor_045e_Product_028f.kl 246073
+//system/usr/keylayout/Vendor_045e_Product_02a1.kl 246074
+//system/usr/keylayout/Vendor_045e_Product_02d1.kl 246075
+//system/usr/keylayout/Vendor_045e_Product_02dd.kl 246076
+//system/usr/keylayout/Vendor_045e_Product_02e0.kl 246077
+//system/usr/keylayout/Vendor_045e_Product_02e3.kl 246078
+//system/usr/keylayout/Vendor_045e_Product_02ea.kl 246079
+//system/usr/keylayout/Vendor_045e_Product_02fd.kl 246080
+//system/usr/keylayout/Vendor_045e_Product_0b12.kl 246081
+//system/usr/keylayout/Vendor_046d_Product_b501.kl 246082
+//system/usr/keylayout/Vendor_046d_Product_c216.kl 246083
+//system/usr/keylayout/Vendor_046d_Product_c219.kl 246084
+//system/usr/keylayout/Vendor_046d_Product_c21d.kl 246085
+//system/usr/keylayout/Vendor_046d_Product_c21e.kl 246086
+//system/usr/keylayout/Vendor_046d_Product_c21f.kl 246087
+//system/usr/keylayout/Vendor_046d_Product_c242.kl 246088
+//system/usr/keylayout/Vendor_046d_Product_c294.kl 246089
+//system/usr/keylayout/Vendor_046d_Product_c299.kl 246090
+//system/usr/keylayout/Vendor_046d_Product_c532.kl 246091
+//system/usr/keylayout/Vendor_054c_Product_0268.kl 246092
+//system/usr/keylayout/Vendor_054c_Product_0268_Version_8000.kl 246093
+//system/usr/keylayout/Vendor_054c_Product_0268_Version_8100.kl 246093
+//system/usr/keylayout/Vendor_054c_Product_0268_Version_8111.kl 246094
+//system/usr/keylayout/Vendor_054c_Product_05c4.kl 246095
+//system/usr/keylayout/Vendor_054c_Product_05c4_Version_8000.kl 246096
+//system/usr/keylayout/Vendor_054c_Product_05c4_Version_8100.kl 246096
+//system/usr/keylayout/Vendor_054c_Product_05c4_Version_8111.kl 246097
+//system/usr/keylayout/Vendor_054c_Product_09cc.kl 246095
+//system/usr/keylayout/Vendor_054c_Product_09cc_Version_8000.kl 246096
+//system/usr/keylayout/Vendor_054c_Product_09cc_Version_8100.kl 246096
+//system/usr/keylayout/Vendor_054c_Product_09cc_Version_8111.kl 246097
+//system/usr/keylayout/Vendor_054c_Product_0ba0.kl 246098
+//system/usr/keylayout/Vendor_054c_Product_0ba0_Version_8111.kl 246099
+//system/usr/keylayout/Vendor_056e_Product_2004.kl 246100
+//system/usr/keylayout/Vendor_057e_Product_2009.kl 246101
+//system/usr/keylayout/Vendor_0583_Product_2060.kl 246102
+//system/usr/keylayout/Vendor_05ac_Product_0239.kl 246103
+//system/usr/keylayout/Vendor_06a3_Product_f51a.kl 246104
+//system/usr/keylayout/Vendor_0738_Product_4716.kl 246105
+//system/usr/keylayout/Vendor_0738_Product_4718.kl 246106
+//system/usr/keylayout/Vendor_0738_Product_4726.kl 246107
+//system/usr/keylayout/Vendor_0738_Product_4736.kl 246108
+//system/usr/keylayout/Vendor_0738_Product_4740.kl 246109
+//system/usr/keylayout/Vendor_0738_Product_9871.kl 246110
+//system/usr/keylayout/Vendor_0738_Product_b726.kl 246111
+//system/usr/keylayout/Vendor_0738_Product_beef.kl 246112
+//system/usr/keylayout/Vendor_0738_Product_cb02.kl 246113
+//system/usr/keylayout/Vendor_0738_Product_cb03.kl 246114
+//system/usr/keylayout/Vendor_0738_Product_cb29.kl 246115
+//system/usr/keylayout/Vendor_0738_Product_f738.kl 246116
+//system/usr/keylayout/Vendor_07ff_Product_ffff.kl 246117
+//system/usr/keylayout/Vendor_0b05_Product_4500.kl 246118
+//system/usr/keylayout/Vendor_0e6f_Product_0113.kl 246119
+//system/usr/keylayout/Vendor_0e6f_Product_011f.kl 246120
+//system/usr/keylayout/Vendor_0e6f_Product_0131.kl 246121
+//system/usr/keylayout/Vendor_0e6f_Product_0133.kl 246122
+//system/usr/keylayout/Vendor_0e6f_Product_0139.kl 246123
+//system/usr/keylayout/Vendor_0e6f_Product_013a.kl 246124
+//system/usr/keylayout/Vendor_0e6f_Product_0146.kl 246125
+//system/usr/keylayout/Vendor_0e6f_Product_0147.kl 246126
+//system/usr/keylayout/Vendor_0e6f_Product_0161.kl 246124
+//system/usr/keylayout/Vendor_0e6f_Product_0162.kl 246124
+//system/usr/keylayout/Vendor_0e6f_Product_0163.kl 246124
+//system/usr/keylayout/Vendor_0e6f_Product_0164.kl 246127
+//system/usr/keylayout/Vendor_0e6f_Product_0165.kl 246128
+//system/usr/keylayout/Vendor_0e6f_Product_0201.kl 246129
+//system/usr/keylayout/Vendor_0e6f_Product_0213.kl 246130
+//system/usr/keylayout/Vendor_0e6f_Product_021f.kl 246131
+//system/usr/keylayout/Vendor_0e6f_Product_0246.kl 246132
+//system/usr/keylayout/Vendor_0e6f_Product_02a4.kl 246133
+//system/usr/keylayout/Vendor_0e6f_Product_02a6.kl 246134
+//system/usr/keylayout/Vendor_0e6f_Product_02ab.kl 246135
+//system/usr/keylayout/Vendor_0e6f_Product_0301.kl 246136
+//system/usr/keylayout/Vendor_0e6f_Product_0346.kl 246137
+//system/usr/keylayout/Vendor_0e6f_Product_0401.kl 246136
+//system/usr/keylayout/Vendor_0e6f_Product_0413.kl 246119
+//system/usr/keylayout/Vendor_0e6f_Product_0501.kl 246138
+//system/usr/keylayout/Vendor_0e6f_Product_f900.kl 246139
+//system/usr/keylayout/Vendor_0f0d_Product_000a.kl 246140
+//system/usr/keylayout/Vendor_0f0d_Product_000c.kl 246141
+//system/usr/keylayout/Vendor_0f0d_Product_0067.kl 246142
+//system/usr/keylayout/Vendor_1038_Product_1412.kl 246143
+//system/usr/keylayout/Vendor_1038_Product_1430.kl 246144
+//system/usr/keylayout/Vendor_1038_Product_1431.kl 246144
+//system/usr/keylayout/Vendor_11c9_Product_55f0.kl 246145
+//system/usr/keylayout/Vendor_12ab_Product_0301.kl 246146
+//system/usr/keylayout/Vendor_12bd_Product_d015.kl 246147
+//system/usr/keylayout/Vendor_1430_Product_4748.kl 246148
+//system/usr/keylayout/Vendor_1430_Product_f801.kl 246149
+//system/usr/keylayout/Vendor_146b_Product_0601.kl 246150
+//system/usr/keylayout/Vendor_1532_Product_0037.kl 246151
+//system/usr/keylayout/Vendor_1532_Product_0900.kl 246152
+//system/usr/keylayout/Vendor_1532_Product_0a03.kl 246153
+//system/usr/keylayout/Vendor_15e4_Product_3f00.kl 246154
+//system/usr/keylayout/Vendor_15e4_Product_3f0a.kl 246155
+//system/usr/keylayout/Vendor_15e4_Product_3f10.kl 246156
+//system/usr/keylayout/Vendor_162e_Product_beef.kl 246157
+//system/usr/keylayout/Vendor_1689_Product_fd00.kl 246158
+//system/usr/keylayout/Vendor_1689_Product_fd01.kl 246159
+//system/usr/keylayout/Vendor_1689_Product_fe00.kl 246160
+//system/usr/keylayout/Vendor_18d1_Product_0200.kl 246161
+//system/usr/keylayout/Vendor_18d1_Product_2c40.kl 246162
+//system/usr/keylayout/Vendor_18d1_Product_5018.kl 246163
+//system/usr/keylayout/Vendor_1949_Product_0401.kl 246164
+//system/usr/keylayout/gpio-keys.kl 246203
+//system/usr/keylayout/Vendor_1bad_Product_0002.kl 246166
+//system/usr/keylayout/Vendor_1bad_Product_f016.kl 246167
+//system/usr/keylayout/Vendor_1bad_Product_f021.kl 246168
+//system/usr/keylayout/Vendor_1bad_Product_f023.kl 246169
+//system/usr/keylayout/Vendor_1bad_Product_f025.kl 246170
+//system/usr/keylayout/Vendor_1bad_Product_f027.kl 246171
+//system/usr/keylayout/Vendor_1bad_Product_f028.kl 246172
+//system/usr/keylayout/Vendor_1bad_Product_f036.kl 246173
+//system/usr/keylayout/Vendor_1bad_Product_f038.kl 246174
+//system/usr/keylayout/Vendor_1bad_Product_f501.kl 246175
+//system/usr/keylayout/Vendor_1bad_Product_f506.kl 246176
+//system/usr/keylayout/Vendor_1bad_Product_f900.kl 246177
+//system/usr/keylayout/Vendor_1bad_Product_f901.kl 246178
+//system/usr/keylayout/Vendor_1bad_Product_f903.kl 246179
+//system/usr/keylayout/Vendor_1bad_Product_f904.kl 246180
+//system/usr/keylayout/Vendor_1bad_Product_fa01.kl 246181
+//system/usr/keylayout/Vendor_1bad_Product_fd00.kl 246182
+//system/usr/keylayout/Vendor_1bad_Product_fd01.kl 246183
+//system/usr/keylayout/Vendor_1d79_Product_0009.kl 246184
+//system/usr/keylayout/Vendor_22b8_Product_093d.kl 246185
+//system/usr/keylayout/Vendor_2378_Product_1008.kl 246186
+//system/usr/keylayout/Vendor_2378_Product_100a.kl 246187
+//system/usr/keylayout/Vendor_24c6_Product_5300.kl 246188
+//system/usr/keylayout/Vendor_24c6_Product_5303.kl 246155
+//system/usr/keylayout/Vendor_24c6_Product_530a.kl 246189
+//system/usr/keylayout/Vendor_24c6_Product_531a.kl 246190
+//system/usr/keylayout/Vendor_24c6_Product_5397.kl 246191
+//system/usr/keylayout/Vendor_24c6_Product_541a.kl 246192
+//system/usr/keylayout/Vendor_24c6_Product_542a.kl 246193
+//system/usr/keylayout/Vendor_24c6_Product_543a.kl 246194
+//system/usr/keylayout/Vendor_24c6_Product_5500.kl 246195
+//system/usr/keylayout/Vendor_24c6_Product_5501.kl 246196
+//system/usr/keylayout/Vendor_24c6_Product_5506.kl 246197
+//system/usr/keylayout/Vendor_24c6_Product_550d.kl 246198
+//system/usr/keylayout/Vendor_24c6_Product_551a.kl 246199
+//system/usr/keylayout/Vendor_24c6_Product_561a.kl 246200
+//system/usr/keylayout/Vendor_24c6_Product_5b02.kl 246201
+//system/usr/keylayout/Vendor_24c6_Product_5d04.kl 246151
+//system/usr/keylayout/Vendor_24c6_Product_fafe.kl 246131
+//system/usr/keylayout/Vendor_28de_Product_1102.kl 246202
+//system/usr/keylayout/qwerty.kl 246204
+//system/usr/share/bmd/RFFspeed_501.bmd 246207-246210
+//system/usr/share/bmd/RFFstd_501.bmd 246211-246215
+//system/usr/share/zoneinfo/tz_version 246217
+//system/usr/share/zoneinfo/tzdata 246218-246342

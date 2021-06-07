@@ -1,0 +1,2613 @@
+/vendor/app/CACertService/CACertService.apk 38-48
+/vendor/app/CACertService/oat/arm64/CACertService.odex 51-56
+/vendor/app/CACertService/oat/arm64/CACertService.vdex 57
+/vendor/app/CneApp/CneApp.apk 59-138
+/vendor/app/CneApp/oat/arm64/CneApp.odex 145-151
+/vendor/app/CneApp/oat/arm64/CneApp.vdex 152
+/vendor/app/IWlanService/IWlanService.apk 154-398
+/vendor/app/IWlanService/oat/arm64/IWlanService.odex 401-406
+/vendor/app/IWlanService/oat/arm64/IWlanService.vdex 407
+/vendor/app/TimeService/TimeService.apk 409-413
+/vendor/app/TimeService/oat/arm64/TimeService.odex 416-420
+/vendor/app/TimeService/oat/arm64/TimeService.vdex 421
+/vendor/app/com.qualcomm.qti.gpudrivers.msmnile.api30/com.qualcomm.qti.gpudrivers.msmnile.api30.apk 423-425
+/vendor/app/com.qualcomm.qti.improvetouch.service/com.qualcomm.qti.improvetouch.service.apk 427-436
+/vendor/app/com.qualcomm.qti.improvetouch.service/oat/arm64/com.qualcomm.qti.improvetouch.service.odex 439-442 55 443
+/vendor/app/com.qualcomm.qti.improvetouch.service/oat/arm64/com.qualcomm.qti.improvetouch.service.vdex 444
+/vendor/app/pasrservice/oat/arm64/pasrservice.odex 448-450 419 451
+/vendor/app/pasrservice/oat/arm64/pasrservice.vdex 452
+/vendor/app/pasrservice/pasrservice.apk 453-465
+/vendor/bin/ATFWD-daemon 467-476
+/vendor/bin/KmInstallKeybox 477-491
+/vendor/bin/PktRspTest 492-494
+/vendor/bin/TrustedUISampleTest 495-574
+/vendor/bin/adpl 575-593
+/vendor/bin/adsprpcd 594-596
+/vendor/bin/applypatch 597-665
+/vendor/bin/athdiag 666-673
+/vendor/bin/audioflacapp 674-677
+/vendor/bin/awk 678-711
+/vendor/bin/boringssl_self_test32 712
+/vendor/bin/boringssl_self_test64 713-715
+/vendor/bin/ccid_daemon 716-722
+/vendor/bin/cdsprpcd 723-725
+/vendor/bin/chre 726-736
+/vendor/bin/cnd 737-749
+/vendor/bin/cnss-daemon 750-773
+/vendor/bin/cnss_diag 774-820 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 821-822
+/vendor/bin/cplay 823-826
+/vendor/bin/diag_callback_sample 827-830
+/vendor/bin/diag_dci_sample 831-838
+/vendor/bin/diag_klog 839-841
+/vendor/bin/diag_mdlog 842-852
+/vendor/bin/diag_socket_log 853-860
+/vendor/bin/diag_uart_log 861-865
+/vendor/bin/dpmQmiMgr 866-885
+/vendor/bin/dspservice 886-892
+/vendor/bin/dumpsys 893-903
+/vendor/bin/e_loop 904-906
+/vendor/bin/embmsslServer 907-923
+/vendor/bin/fm_qsoc_patches 924-932
+/vendor/bin/fmconfig 933-941
+/vendor/bin/fmfactorytest 942-944
+/vendor/bin/fmfactorytestserver 945-951
+/vendor/bin/fstman 952-996
+/vendor/bin/ftm_flows_test 997-1004
+/vendor/bin/ftmdaemon 1005-1044
+/vendor/bin/ftmtest 1045-1052
+/vendor/bin/garden_app 1053-1079
+/vendor/bin/hal_proxy_daemon 1080-1130
+/vendor/bin/hdcp1prov 1131-1133
+/vendor/bin/hdcp2p2prov 1134-1136
+/vendor/bin/host_manager_11ad 1137-1474
+/vendor/bin/hostapd_cli 1475-1496
+/vendor/bin/hvdcp_opti 1497-1558
+/vendor/bin/hw/android.hardware.atrace@1.0-service 1560-1566
+/vendor/bin/hw/android.hardware.audio.service 1567-1569
+/vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti 1570 0 1571-1572
+/vendor/bin/hw/android.hardware.camera.provider@2.4-service_64 1573-1575
+/vendor/bin/hw/android.hardware.cas@1.2-service 1576-1585
+/vendor/bin/hw/android.hardware.contexthub@1.0-service 1586-1588
+/vendor/bin/hw/android.hardware.drm@1.3-service.clearkey 1589-1629
+/vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti 1630-1632
+/vendor/bin/hw/android.hardware.gnss@2.1-service-qti 1633-1635
+/vendor/bin/hw/android.hardware.graphics.composer@2.4-service 1636-1674
+/vendor/bin/hw/android.hardware.health@2.1-service 1675-1690
+/vendor/bin/hw/android.hardware.keymaster@3.0-service-qti 1691-1693
+/vendor/bin/hw/android.hardware.keymaster@4.0-service-qti 1694-1696
+/vendor/bin/hw/android.hardware.keymaster@4.0-strongbox-service-qti 1697-1699
+/vendor/bin/hw/android.hardware.keymaster@4.1-service-qti 1700-1702
+/vendor/bin/hw/android.hardware.lights-service.qti 1703-1708
+/vendor/bin/hw/android.hardware.media.omx@1.0-service 1709-1711
+/vendor/bin/hw/android.hardware.memtrack@1.0-service 1712 1692 1713
+/vendor/bin/hw/android.hardware.neuralnetworks@1.3-service-qti 1714-2316
+/vendor/bin/hw/android.hardware.nfc@1.2-service 2317-2324
+/vendor/bin/hw/android.hardware.power-service 2325-2331
+/vendor/bin/hw/android.hardware.sensors@2.0-service.multihal 2332-2355
+/vendor/bin/hw/android.hardware.thermal@2.0-service.qti 2356-2386
+/vendor/bin/hw/android.hardware.wifi@1.0-service 2387-2500
+/vendor/bin/hw/capabilityconfigstoretest 2501-2503
+/vendor/bin/hw/hostapd 2504-2785
+/vendor/bin/hw/qcrild 2786-2788
+/vendor/bin/hw/vendor.display.color@1.0-service 2789-2802
+/vendor/bin/hw/vendor.qti.hardware.alarm@1.0-service 2803-2805
+/vendor/bin/hw/vendor.qti.hardware.capabilityconfigstore@1.0-service 2806-2808
+/vendor/bin/hw/vendor.qti.hardware.cryptfshw@1.0-service-qti 2809-2811
+/vendor/bin/hw/vendor.qti.hardware.display.allocator-service 2812-2820
+/vendor/bin/hw/vendor.qti.hardware.factory@1.0-service 2821-2828
+/vendor/bin/hw/vendor.qti.hardware.iop@2.0-service 2829-2833
+/vendor/bin/hw/vendor.qti.hardware.perf@2.2-service 2834-2842
+/vendor/bin/hw/vendor.qti.hardware.qccvndhal@1.0-service 2843-2845
+/vendor/bin/hw/vendor.qti.hardware.qseecom@1.0-service 2846-2848
+/vendor/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service 2849-2851
+/vendor/bin/hw/vendor.qti.hardware.seccam@1.0-service-qti 2852-2857
+/vendor/bin/hw/vendor.qti.hardware.sensorscalibrate@1.0-service 2858 1587 2859
+/vendor/bin/hw/vendor.qti.hardware.servicetracker@1.2-service 2860-2862
+/vendor/bin/hw/vendor.qti.hardware.soter@1.0-service 2863-2865
+/vendor/bin/hw/vendor.qti.hardware.trustedui@1.0-service-qti 2866-2868
+/vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti 2869-2876
+/vendor/bin/hw/vendor.qti.media.c2@1.0-service 2877-2878
+/vendor/bin/hw/vendor.qti.power.pasrmanager@1.0-service 2879-2883
+/vendor/bin/hw/wpa_supplicant 2884-3679 0 3680-3701
+/vendor/bin/ims_rtp_daemon 3702-3740
+/vendor/bin/imsdatadaemon 3741-3790
+/vendor/bin/imsqmidaemon 3791-3823
+/vendor/bin/imsrcsd 3824-3829
+/vendor/bin/init.class_main.sh 3830-3831
+/vendor/bin/init.crda.sh 3832
+/vendor/bin/init.mdm.sh 3833
+/vendor/bin/init.qcom.class_core.sh 3834-3835
+/vendor/bin/init.qcom.coex.sh 3836
+/vendor/bin/init.qcom.early_boot.sh 3837-3841
+/vendor/bin/init.qcom.efs.sync.sh 3842
+/vendor/bin/init.qcom.post_boot.sh 3843-3911
+/vendor/bin/init.qcom.sdio.sh 3912
+/vendor/bin/init.qcom.sensors.sh 3913
+/vendor/bin/init.qcom.sh 3914-3917
+/vendor/bin/init.qcom.usb.sh 3918-3920
+/vendor/bin/init.qti.chg_policy.sh 3921
+/vendor/bin/init.qti.dcvs.sh 3922
+/vendor/bin/init.qti.qcv.sh 3923
+/vendor/bin/install-recovery.sh 3924
+/vendor/bin/ipacm 3925-4083
+/vendor/bin/ipacm-diag 4084-4086
+/vendor/bin/irsc_util 4087-4089
+/vendor/bin/ks 4090-4100
+/vendor/bin/loadalgo 4101-4108
+/vendor/bin/loc_launcher 4109-4133
+/vendor/bin/logwrapper 4134-4139
+/vendor/bin/lowi-server 4140-4341 0 4342-4348
+/vendor/bin/mdm_helper 4349-4356
+/vendor/bin/mdm_helper_proxy 4357 4350-4351 4358-4359 4354 4360 4356
+/vendor/bin/mlid 4362-4377
+/vendor/bin/mm-vidc-omx-test 4378-4465
+/vendor/bin/mmid 4466-4475
+/vendor/bin/msm_irqbalance 4476-4484
+/vendor/bin/mutualex 4485-4502
+/vendor/bin/myftm 4503-4558
+/vendor/bin/netmgrd 4559-5091
+/vendor/bin/nqnfcinfo 5092-5095
+/vendor/bin/pd-mapper 5096-5103
+/vendor/bin/pktlogconf 5104-5107
+/vendor/bin/pm-proxy 5108-5110
+/vendor/bin/pm-service 5111-5124
+/vendor/bin/port-bridge 5125-5137
+/vendor/bin/power_off_alarm 5138-5140
+/vendor/bin/ppd 5141-5143
+/vendor/bin/qca6234-service.sh 5144
+/vendor/bin/qcc-trd 5145-5192
+/vendor/bin/qdcmss 5193-5204
+/vendor/bin/qmi-framework-tests/qmi_test_mt_client_init_instance 5206-5209
+/vendor/bin/qrtr-cfg 5210-5212
+/vendor/bin/qrtr-lookup 5213-5217
+/vendor/bin/qrtr-ns 5218-5223
+/vendor/bin/qseecomd 5224-5228
+/vendor/bin/qti 5229-5261
+/vendor/bin/qtigetprop 5262
+/vendor/bin/qtisetprop 5263
+/vendor/bin/rmt_storage 5264-5278
+/vendor/bin/secure_ui_sample_client 5279-5288
+/vendor/bin/sensors.qti 5289-5303
+/vendor/bin/sh 5305-5382
+/vendor/bin/shell_11ad 5383-5430
+/vendor/bin/shsusrd 5431-5506
+/vendor/bin/sigma_dut 5507-5727
+/vendor/bin/spdaemon 5728-5732
+/vendor/bin/spectraltool 5733-5741
+/vendor/bin/sscrpcd 5742-5744
+/vendor/bin/ssgqmigd 5745-5765
+/vendor/bin/ssgtzd 5766-5798
+/vendor/bin/ssr_diag 5799-5801
+/vendor/bin/ssr_setup 5802-5804
+/vendor/bin/subsystem_ramdump 5805-5814
+/vendor/bin/test_diag 5815-5819
+/vendor/bin/tftp_server 5820-5848
+/vendor/bin/thermal-engine 5849-5899 0 0 5900-5901 0 0 5902-5903 0 0 0 5904-5905 0 0 5906 5908 0 0 5909-5910 0 0 0 5911-5912 0 0 5913-5914 0 0 5915-5916 0 0 0 5917-5918 0 0 5919-5920 0 0 5921-5922 0 0 0 5923-5924 0 0 5925-5926 0 0 5927-5928 0 0 0 5929-5930 0 0 5931-5932 0 0 5933-5934 0 0 0 5935-5936 0 0 5937-5938 0 0 5939-5940 0 0 0 5941 0 0 0 5942-5943 0 0 5944-5945 0 0 0 5946 0 0 0 5947-5948 0 0 5949-5950 0 0 0 5951 0 0 0 5952-5953 0 0 5954-5955 0 0 0 5956 0 0 0 5957-5958 0 0 5959-5960 0 0 0 5961 0 0 0 5962-5963 0 0 5964-5965 0 0 0 5966 0 0 0 5967-5968 0 0 5969-5970 0 0 5971-5972 0 0 0 5973-5974 0 0 5975-5976 0 0 5977-5979 0 0 5980-5981 0 0 5982-5983 0 0 5984-5985 0 0 0 5986-5987 0 0 5988-5989 0 0 5990-5991 0 0 0 5992-5993 0 0 5994-5995 0 0 5996-5997 0 0 0 5998-5999 0 0 6000-6001 0 0 6002-6003 0 0 0 6004-6005 0 0 6006-6007 0 0 6008-6009 0 0 0 6010 0 0 0 6011-6012 0 0 6013-6014 0 0 0 6015 0 0 0 6016-6017 0 0 6018-6019 0 0 0 6020 0 0 0 6021-6022 0 0 6023-6024 0 0 0 6025 0 0 0 6026-6027 0 0 6028-6029 0 0 0 6030 0 0 0 6031-6032 0 0 6033-6034 0 0 0 6035 0 0 0 6036-6037 0 0 6038-6039 0 0 6040-6042 0 0 6043-6044 0 0 6045-6046 0 0 6047-6048 0 0 0 6049-6050 0 0 6051-6052 0 0 6053-6054 0 0 0 6055-6056 0 0 6057-6058 0 0 6059-6060 0 0 0 6061-6062 0 0 6063-6064 0 0 6065-6067 0 0 6068-6069 0 0 6070-6071 0 0 6072-6073 0 0 0 6074-6075 0 0 6076-6077 0 0 6078-6079 0 0 0 6080 0 0 0 6081-6082 0 0 6083-6084 0 0 0 6085 0 0 0 6086-6087 0 0 6088-6089 0 0 0 6090 0 0 0 6091-6092 0 0 6093-6094 0 0 0 6095 0 0 0 6096-6097 0 0 6098-6099 0 0 0 6100 0 0 0 6101-6102 0 0 6103-6104 0 0 6105-6106 0 0 0 6107-6108 0 0 6109-6110 0 0 6111-6112 0 0 0 6113-6114 0 0 6115-6116 0 0 6117-6118 0 0 0 6119-6120 0 0 6121-6122 0 0 6123-6124 0 0 0 6125-6126 0 0 6127-6128 0 0 6129-6130 0 0 0 6131-6132 0 0 6133-6134 0 0 6135-6136 0 0 0 6137-6138 0 0 6139-6140 0 0 6141-6142 0 0 0 6143-6144 0 0 6145-6146 0 0 6147-6148 0 0 0 6149 0 0 0 6150-6151 0 0 6152-6153 0 0 0 6154 0 0 0 6155-6156 0 0 6157-6158 0 0 0 6159 0 0 0 6160-6161 0 0 6162-6163 0 0 0 6164 0 0 0 6165-6166 0 0 6167-6168 0 0 0 6169 0 0 0 6170-6171 0 0 6172-6173 0 0 6174-6176 0 0 6177-6178 0 0 6179-6180 0 0 6181-6182 0 0 0 6183-6184 0 0 6185-6186 0 0 6187-6189 0 0 6190-6191 0 0 6192-6193 0 0 6194-6195 0 0 0 6196-6197 0 0 6198-6199 0 0 6200-6201 0 0 0 6202-6203 0 0 6204-6205 0 0 6206-6207 0 0 0 6208-6209 0 0 6210-6211 0 0 6212-6213 0 0 0 6214-6215 0 0 6216-6217 0 0 6218-6219 0 0 0 6220 0 0 0 6221-6222 0 0 6223-6224 0 0 0 6225 0 0 0 6226-6227 0 0 6228-6229 0 0 0 6230 0 0 0 6231-6232 0 0 6233-6234 0 0 0 6235 0 0 0 6236-6237 0 0 6238-6239 0 0 0 6240 0 0 0 6241-6242 0 0 6243-6244 0 0 6245-6246 0 0 0 6247-6248 0 0 6249-6250 0 0 6251-6252 0 0 0 6253-6254 0 0 6255-6256 0 0 6257-6258 0 0 0 6259-6260 0 0 6261-6262 0 0 6263-6264 0 0 0 6265-6266 0 0 6267-6268 0 0 6269-6271 0 0 6272-6273 0 0 6274-6275 0 0 6276-6277 0 0 0 6278-6279 0 0 6280-6281 0 0 6282-6283 0 0 0 6284-6285 0 0 6286-6287 0 0 6288-6289 0 0 0 6290 0 0 0 6291-6292 0 0 6293-6294 0 0 0 6295 0 0 0 6296-6297 0 0 6298-6299 0 0 0 6300 0 0 0 6301-6302 0 0 6303-6304 0 0 0 6305 0 0 0 6306-6307 0 0 6308-6309 0 0 0 6310 0 0 0 6311-6312 0 0 6313-6314 0 0 6315-6316 0 0 0 6317-6318 0 0 6319-6320 0 0 6321-6322 0 0 0 6323-6324 0 0 6325-6326 0 0 6327-6328 0 0 0 6329-6330 0 0 6331-6332 0 0 6333-6334 0 0 0 6335-6336 0 0 6337-6338 0 0 6339-6340 0 0 0 6341-6342 0 0 6343-6344 0 0 6345-6346 0 0 0 6347-6348 0 0 6349-6350 0 0 6351-6352 0 0 0 6353 0 0 0 6354-6355 0 0 6356-6357 0 0 0 6358 0 0 0 6359-6360 0 0 6361-6362 0 0 0 6363 0 0 0 6364-6365 0 0 6366-6367 0 0 0 6368 0 0 0 6369-6370 0 0 6371-6372 0 0 0 6373 0 0 0 6374-6375 0 0 6376-6377 0 0 0 6378-6379 0 0 6380 5899 0 0 5900 6381 0 0 5902 6382 0 0 0 6383-6384 0 0 5906 6385 0 0 5909 6386-6387 0 0 6388-6389 0 0 6390-6391 0 0 6392-6394 0 0 6395-6396 0 0 6397-6399 0 6400-6402 0 0 6403-6404 0 0 6405-6406 0 0 6407-6409 0 0 6410-6411 0 0 5931 6412 0 0 5933 6413 0 0 0 6414-6415 0 0 5937 6416 0 0 6417-6418 0 0 0 6419 0 0 0 6420-6421 0 0 5944 6422 0 0 0 6423 0 0 0 6424-6425 0 0 5949 6426 0 0 0 6427 0 0 0 6428-6429 0 0 5954 6430 0 0 0 6431 0 0 0 6432-6433 0 0 5959 6434 0 0 0 6435 0 0 0 6436-6437 0 0 5964 6438 0 0 0 6439 0 0 0 6440-6441 0 0 5969 6442 0 0 5971 6443 0 0 0 6444-6445 0 0 5975 6446 0 0 5977 6447 0 0 0 6448-6449 0 0 5982 6450 0 0 5984 6451 0 0 0 6452-6453 0 0 5988 6454 0 0 5990 6455 0 0 0 6456-6457 0 0 5994 6458 0 0 5996 6459 0 0 0 6460-6461 0 0 6000 6462 0 0 6002 6463 0 0 0 6464-6465 0 0 6006 6466 0 0 6008 6468 0 0 0 6469 0 0 0 6470-6471 0 0 6013 6472 0 0 0 6473 0 0 0 6474-6475 0 0 6018 6476 0 0 0 6477 0 0 0 6478-6479 0 0 6023 6480 0 0 0 6481 0 0 0 6482 6027 0 0 6028 6483 0 0 0 6484-6485 0 0 6486-6487 0 0 0 6488 0 0 0 6489-6490 0 0 6486 6491 0 0 0 6492 0 0 0 6493-6494 0 0 6495-6496 0 0 0 6497-6498 0 0 0 6499 0 0 0 6500 0 0 0 0 6501 0 0 0 6502 0 0 0 6503 0 0 0 0 6504 0 0 0 6505 0 0 0 6506 0 0 0 0 6507 0 0 0 6508 0 0 0 6509 0 0 0 0 6510 0 0 0 6511 0 0 0 6512 0 0 0 0 6513 0 0 0 6514 0 0 0 6515 0 0 0 6516-6517 0 0 0 6518 0 0 0 6519 0 0 0 6520 0 0 0 0 6521 0 0 0 6522 0 0 0 6523 0 0 0 0 6524 0 0 0 6525 0 0 0 6526 0 0 0 0 6527 0 0 0 6528 0 0 0 6529 0 0 0 0 6530 0 0 0 6531 0 0 0 6532 0 0 0 0 6533 0 0 0 6534 0 0 0 6535 0 0 0 0 6536 0 0 0 6537 0 0 0 6538 0 0 0 0 6539 0 0 0 6540 0 0 0 6541 0 0 0 0 6542 0 0 0 6543 0 0 0 6544 0 0 0 0 6545 0 0 0 6546 0 0 0 6547 0 0 0 0 6548 0 0 0 6549 0 0 0 6550 0 0 0 0 6551 0 0 0 6552 0 0 0 6553 0 0 0 6554-6555 0 0 0 6556 0 0 0 6557 0 0 0 6558 0 0 0 0 6559 0 0 0 6560 0 0 0 6561 0 0 0 0 6562 0 0 0 6563 0 0 0 6564 0 0 0 0 6565 0 0 0 6566 0 0 0 6567 0 0 0 0 6568 0 0 0 6569 0 0 0 6570 0 0 0 0 6571 0 0 0 6572 0 0 0 6573 0 0 0 0 6574 0 0 0 6575 0 0 0 6576 0 0 0 0 6577 0 0 0 6578 0 0 0 6579 0 0 0 0 6580 0 0 0 6581 0 0 0 6582 0 0 0 0 6583 0 0 0 6584 0 0 0 6585-6587
+/vendor/bin/time_daemon 6588-6598
+/vendor/bin/tloc_daemon 6599-6612
+/vendor/bin/toolbox 6613-6643
+/vendor/bin/toybox_vendor 6644-6763
+/vendor/bin/vendor.qti.hardware.soter@1.0-provision 6764-6769
+/vendor/bin/vendor_cmd_tool 6770-6777
+/vendor/bin/vndservice 6778-6787
+/vendor/bin/vndservicemanager 6788-6802
+/vendor/bin/vppservice 6803-6819
+/vendor/bin/wdsdaemon 6820-6824
+/vendor/bin/wfdhdcphalservice 6825-6842
+/vendor/bin/wfdvndservice 6843-6844
+/vendor/bin/wifidisplayhalservice 6845-6848
+/vendor/bin/wififtm 6849
+/vendor/bin/wififtmtest 6850
+/vendor/bin/wifihwftm 6851
+/vendor/bin/wifilearner 6852-6860
+/vendor/bin/wifisar 6861
+/vendor/bin/wifistopftmtest 6862
+/vendor/bin/wigig_wiburn 6863-6893
+/vendor/bin/wigighalsvc 6894-6909
+/vendor/bin/wigignpt 6910-6922
+/vendor/bin/wpa_cli 6923-6968
+/vendor/bin/xtra-daemon 6969-7060
+/vendor/bin/xtwifi-client 7061-7334
+/vendor/bin/xtwifi-inet-agent 7335-7367
+/vendor/build.prop 7369-7370
+/vendor/default.prop 7371
+/vendor/etc/IPACM_cfg.xml 7373-7374
+/vendor/etc/NOTICE.xml.gz 7375-7398
+/vendor/etc/OPPO_OLED_19081_AD_calib.cfg 7399-7401
+/vendor/etc/OPPO_OLED_AD_calib.cfg 7402-7403 7401
+/vendor/etc/Oppo_QC_LTM_Commercial_SM8250_2020_01_15.pfm 7404
+/vendor/etc/a2dp_audio_policy_configuration.xml 7405
+/vendor/etc/acdbdata/CDP/CDP_Bluetooth_cal.acdb 7406-7428
+/vendor/etc/acdbdata/CDP/CDP_Codec_cal.acdb 7429-7431
+/vendor/etc/acdbdata/CDP/CDP_General_cal.acdb 7432-7439
+/vendor/etc/acdbdata/CDP/CDP_Global_cal.acdb 7440-7449
+/vendor/etc/acdbdata/CDP/CDP_Handset_cal.acdb 7450-7503 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7504-7564
+/vendor/etc/acdbdata/CDP/CDP_Hdmi_cal.acdb 7565-7566
+/vendor/etc/acdbdata/CDP/CDP_Headset_cal.acdb 7567-7619
+/vendor/etc/acdbdata/CDP/CDP_Speaker_cal.acdb 7620-7715
+/vendor/etc/acdbdata/CDP/CDP_workspaceFile.qwsp 7716-7766
+/vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb 7767-7789
+/vendor/etc/acdbdata/MTP/MTP_Codec_cal.acdb 7790-7792
+/vendor/etc/acdbdata/MTP/MTP_General_cal.acdb 7793-7800
+/vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb 7801-7810
+/vendor/etc/acdbdata/MTP/MTP_Handset_cal.acdb 7811-7881 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7882 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7883-7938
+/vendor/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb 7939-7940
+/vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb 7941-7995
+/vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb 7996-8105
+/vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp 8106-8163
+/vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb 8164-8170 7774 8171-8184
+/vendor/etc/acdbdata/QRD/QRD_Codec_cal.acdb 8185-8186
+/vendor/etc/acdbdata/QRD/QRD_General_cal.acdb 8187-8192 7799 8193
+/vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb 8194-8203
+/vendor/etc/acdbdata/QRD/QRD_Handset_cal.acdb 8204-8254 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8255-8326
+/vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb 8327-8328
+/vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb 8329-8387
+/vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb 8388-8500
+/vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp 8501-8554
+/vendor/etc/acdbdata/adsp_avs_config.acdb 8555
+/vendor/etc/apdr.conf 8556-8557
+/vendor/etc/audio/audio_policy_configuration.xml 8558-8565
+/vendor/etc/audio_configs.xml 8566-8567
+/vendor/etc/audio_configs_stock.xml 8568
+/vendor/etc/audio_effects.conf 8569-8571
+/vendor/etc/audio_effects.xml 8572-8573
+/vendor/etc/audio_io_policy.conf 8574-8575
+/vendor/etc/audio_platform_info.xml 8576-8586
+/vendor/etc/audio_platform_info_qrd.xml 8587 8577-8586
+/vendor/etc/audio_policy_configuration.xml 8588-8592
+/vendor/etc/audio_policy_volumes.xml 8593-8596
+/vendor/etc/audio_tuning_mixer.txt 8597
+/vendor/etc/audio_tuning_mixer_tavil.txt 8597
+/vendor/etc/bluetooth_qti_audio_policy_configuration.xml 8598
+/vendor/etc/cacert_location.pem 8599-8606
+/vendor/etc/camera/Charming.cng 8607-8624 0 8625
+/vendor/etc/camera/M_Attribute_Gender_Age_1.0.model.hardcode 8626-8628
+/vendor/etc/camera/M_Verify_Faster_Common_4.0.0_wp.model 8629-8854
+/vendor/etc/camera/arc_golden.bin 8855
+/vendor/etc/camera/arc_golden_front.bin 8856
+/vendor/etc/camera/distortionParams.bin 8857
+/vendor/etc/camera/faceTpl0.rgb32 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8860-8913 8858 8858 8858 8858 8858 8858 8914-8937 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858
+/vendor/etc/camera/faceTpl1.rgb32 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8860-8913 8858 8858 8858 8858 8858 8858 8914-8937 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858 8858
+/vendor/etc/camera/rmtStereoParams.bin 8939
+/vendor/etc/camera/rmwStereoParams.bin 8940
+/vendor/etc/camera/skinSeg.model 8941-9131
+/vendor/etc/camera/tonemap/tonemap_lut_0 9132-9143
+/vendor/etc/camera/tonemap/tonemap_lut_1 9144-9155
+/vendor/etc/camera/tonemap/tonemap_lut_10 9156-9167
+/vendor/etc/camera/tonemap/tonemap_lut_2 9168-9179
+/vendor/etc/camera/tonemap/tonemap_lut_3 9180-9191
+/vendor/etc/camera/tonemap/tonemap_lut_4 9192-9203
+/vendor/etc/camera/tonemap/tonemap_lut_5 9204-9215
+/vendor/etc/camera/tonemap/tonemap_lut_6 9216-9227
+/vendor/etc/camera/tonemap/tonemap_lut_7 9228-9239
+/vendor/etc/camera/tonemap/tonemap_lut_8 9240-9251
+/vendor/etc/camera/tonemap/tonemap_lut_9 9252-9263
+/vendor/etc/charger_fstab.qti 9264
+/vendor/etc/cne/profileSlm.xml 9265-9267
+/vendor/etc/cne/slm.conf 9268
+/vendor/etc/cne/wqeclient/ATT/ATT_profile1.xml 9269-9271
+/vendor/etc/cne/wqeclient/ATT/ATT_profile2.xml 9272-9274
+/vendor/etc/cne/wqeclient/ATT/ATT_profile3.xml 9275-9277
+/vendor/etc/cne/wqeclient/ATT/ATT_profile4.xml 9275 9278-9279
+/vendor/etc/cne/wqeclient/ATT/ATT_profile5.xml 9280-9282
+/vendor/etc/cne/wqeclient/ATT/ATT_profile6.xml 9283-9285
+/vendor/etc/cne/wqeclient/ROW/ROW_profile1.xml 9286-9288
+/vendor/etc/cne/wqeclient/ROW/ROW_profile15.xml 9289-9291
+/vendor/etc/cne/wqeclient/ROW/ROW_profile16.xml 9292-9294
+/vendor/etc/cne/wqeclient/ROW/ROW_profile17.xml 9295-9297
+/vendor/etc/cne/wqeclient/ROW/ROW_profile18.xml 9298 9266-9267
+/vendor/etc/cne/wqeclient/ROW/ROW_profile19.xml 9299-9301
+/vendor/etc/cne/wqeclient/ROW/ROW_profile2.xml 9269 9302-9303
+/vendor/etc/cne/wqeclient/ROW/ROW_profile20.xml 9304-9306
+/vendor/etc/cne/wqeclient/ROW/ROW_profile21.xml 9307-9309
+/vendor/etc/cne/wqeclient/ROW/ROW_profile3.xml 9310-9312
+/vendor/etc/cne/wqeclient/ROW/ROW_profile32.xml 9313-9315
+/vendor/etc/cne/wqeclient/ROW/ROW_profile4.xml 9275-9277
+/vendor/etc/cne/wqeclient/ROW/ROW_profile5.xml 9316-9318
+/vendor/etc/cne/wqeclient/ROW/ROW_profile6.xml 9280-9281 9319
+/vendor/etc/cne/wqeclient/ROW/ROW_profile7.xml 9283-9284 9320
+/vendor/etc/cne/wqeclient/VZW/VZW_profile1.xml 9321-9323
+/vendor/etc/cne/wqeclient/VZW/VZW_profile2.xml 9324-9326
+/vendor/etc/cne/wqeclient/VZW/VZW_profile3.xml 9269 9302 9312
+/vendor/etc/cne/wqeclient/VZW/VZW_profile4.xml 9286-9287 9327
+/vendor/etc/cne/wqeclient/VZW/VZW_profile5.xml 9275 9328 9277
+/vendor/etc/cne/wqeclient/VZW/VZW_profile6.xml 9310-9311 9329
+/vendor/etc/configstore/vpp.configstore.xml 9330
+/vendor/etc/configstore/wigig.xml 9331
+/vendor/etc/data/dsi_config.xml 9332-9344
+/vendor/etc/data/netmgr_config.xml 9345-9381
+/vendor/etc/default-permissions/com.qualcomm.qti.cne.xml 9382
+/vendor/etc/default_volume_tables.xml 9383-9384
+/vendor/etc/excluded-input-devices.xml 9385
+/vendor/etc/flp.conf 9386
+/vendor/etc/fs_config_files 9387
+/vendor/etc/fstab-wlan.qcom 9388-9389
+/vendor/etc/fstab.qcom 9390
+/vendor/etc/ftm_test_config 9391-9400
+/vendor/etc/ftm_test_config_qrd 9401-9410
+/vendor/etc/gnss_antenna_info.conf 9411-9412
+/vendor/etc/gpfspath_oem_config.xml 9413
+/vendor/etc/gps.conf 9414-9416
+/vendor/etc/graphite_ipc_platform_info.xml 9417
+/vendor/etc/group 9418
+/vendor/etc/hbtp/hbtpcfg_sdm855_801s_4k.dat 9419-9606
+/vendor/etc/hbtp/loader.cfg 9607-9609
+/vendor/etc/hbtp/qtc801s.bin 9610-9625
+/vendor/etc/hostapd/hostapd.accept 9626
+/vendor/etc/hostapd/hostapd.deny 9627
+/vendor/etc/hostapd/hostapd_default.conf 9628-9650
+/vendor/etc/init/android.hardware.atrace@1.0-service.rc 9651
+/vendor/etc/init/android.hardware.audio.service.rc 9652
+/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc 9653
+/vendor/etc/init/android.hardware.camera.provider@2.4-service_64.rc 9654
+/vendor/etc/init/android.hardware.cas@1.2-service.rc 9655
+/vendor/etc/init/android.hardware.contexthub@1.0-service.rc 9656
+/vendor/etc/init/android.hardware.drm@1.1-service.wfdhdcp.rc 9657
+/vendor/etc/init/android.hardware.drm@1.3-service.clearkey.rc 9658
+/vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc 9659
+/vendor/etc/init/android.hardware.gnss@2.1-service-qti.rc 9660
+/vendor/etc/init/android.hardware.graphics.composer@2.4-service.rc 9661
+/vendor/etc/init/android.hardware.health@2.1-service.rc 9662
+/vendor/etc/init/android.hardware.keymaster@4.0-service-qti.rc 9663
+/vendor/etc/init/android.hardware.lights-qti.rc 9664
+/vendor/etc/init/android.hardware.media.omx@1.0-service.rc 9665
+/vendor/etc/init/android.hardware.memtrack@1.0-service.rc 9666
+/vendor/etc/init/android.hardware.neuralnetworks@1.3-service-qti.rc 9667
+/vendor/etc/init/android.hardware.nfc@1.2-service.rc 9668
+/vendor/etc/init/android.hardware.power-service.rc 9669
+/vendor/etc/init/android.hardware.sensors@2.0-service-multihal.rc 9670
+/vendor/etc/init/android.hardware.thermal@2.0-service.qti.rc 9671
+/vendor/etc/init/android.hardware.wifi.supplicant-service.rc 9672
+/vendor/etc/init/android.hardware.wifi@1.0-service.rc 9673
+/vendor/etc/init/boringssl_self_test.rc 9674
+/vendor/etc/init/cnd.rc 9675
+/vendor/etc/init/com.qualcomm.qti.wifidisplayhal@1.0-service.rc 9676
+/vendor/etc/init/dataadpl.rc 9677
+/vendor/etc/init/dataqti.rc 9678
+/vendor/etc/init/dpmQmiMgr.rc 9679
+/vendor/etc/init/hostapd.android.rc 9680
+/vendor/etc/init/hw/init.oppo.display.rc 9681
+/vendor/etc/init/hw/init.oppo.vendor.motor.rc 9682
+/vendor/etc/init/hw/init.oppo.vendor.touchpress.rc 9683
+/vendor/etc/init/hw/init.qcom.factory.rc 9684-9685
+/vendor/etc/init/hw/init.qcom.rc 9686-9695
+/vendor/etc/init/hw/init.qcom.usb.rc 9696-9721
+/vendor/etc/init/hw/init.qti.ufs.rc 9722
+/vendor/etc/init/hw/init.target.rc 9723-9725
+/vendor/etc/init/hw/init.wlan.qcom.rc 9726-9736
+/vendor/etc/init/hw/init.wlan.target.rc 9737-9739
+/vendor/etc/init/ims_rtp_daemon.rc 9740
+/vendor/etc/init/imsdatadaemon.rc 9741
+/vendor/etc/init/imsqmidaemon.rc 9742
+/vendor/etc/init/imsrcsd.rc 9743
+/vendor/etc/init/init-qcril-data.rc 9744
+/vendor/etc/init/init.embmssl_server.rc 9745
+/vendor/etc/init/init.qdmastats.rc 9746
+/vendor/etc/init/init.qti.fm.rc 9747
+/vendor/etc/init/init.qti.qcv.rc 9748
+/vendor/etc/init/init.spdaemon.rc 9749
+/vendor/etc/init/init.time_daemon.rc 9750
+/vendor/etc/init/init.vendor.sensors.rc 9751
+/vendor/etc/init/init_thermal-engine.rc 9752
+/vendor/etc/init/ipa_fws.rc 9753
+/vendor/etc/init/ipacm-diag.rc 9754
+/vendor/etc/init/ipacm.rc 9755
+/vendor/etc/init/mutualex.rc 9756
+/vendor/etc/init/netmgrd.rc 9757
+/vendor/etc/init/port-bridge.rc 9758
+/vendor/etc/init/qcrild.rc 9759
+/vendor/etc/init/qdcmss.rc 9760
+/vendor/etc/init/qseecomd.rc 9761
+/vendor/etc/init/shsusrd.rc 9762
+/vendor/etc/init/ssgtzd.rc 9763
+/vendor/etc/init/tloc_daemon.rc 9764
+/vendor/etc/init/vendor.display.color@1.0-service.rc 9765
+/vendor/etc/init/vendor.qti.adsprpc-service.rc 9766
+/vendor/etc/init/vendor.qti.cdsprpc-service.rc 9767
+/vendor/etc/init/vendor.qti.hardware.alarm@1.0-service.rc 9768
+/vendor/etc/init/vendor.qti.hardware.capabilityconfigstore@1.0-service.rc 9769
+/vendor/etc/init/vendor.qti.hardware.charger_monitor@1.0-service.rc 9770
+/vendor/etc/init/vendor.qti.hardware.cryptfshw@1.0-service-qti.rc 9771
+/vendor/etc/init/vendor.qti.hardware.display.allocator-service.rc 9772
+/vendor/etc/init/vendor.qti.hardware.dsp@1.0-service.rc 9773
+/vendor/etc/init/vendor.qti.hardware.factory@1.0-service.rc 9774
+/vendor/etc/init/vendor.qti.hardware.fstman@1.0-service.rc 9775
+/vendor/etc/init/vendor.qti.hardware.iop@2.0-service.rc 9776
+/vendor/etc/init/vendor.qti.hardware.perf@2.2-service.rc 9777
+/vendor/etc/init/vendor.qti.hardware.qccvndhal@1.0-service.rc 9778
+/vendor/etc/init/vendor.qti.hardware.qseecom@1.0-service.rc 9779
+/vendor/etc/init/vendor.qti.hardware.qteeconnector@1.0-service.rc 9780
+/vendor/etc/init/vendor.qti.hardware.seccam@1.0-service-qti.rc 9781
+/vendor/etc/init/vendor.qti.hardware.sensorscalibrate@1.0-service.rc 9782
+/vendor/etc/init/vendor.qti.hardware.servicetracker@1.2-service.rc 9783
+/vendor/etc/init/vendor.qti.hardware.soter@1.0-service.rc 9784
+/vendor/etc/init/vendor.qti.hardware.trustedui@1.0-service-qti.rc 9785
+/vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc 9786
+/vendor/etc/init/vendor.qti.hardware.wifi.wifilearner@1.0-service.rc 9787
+/vendor/etc/init/vendor.qti.hardware.wigig.supptunnel@1.0-service.rc 9788
+/vendor/etc/init/vendor.qti.media.c2@1.0-service.rc 9789
+/vendor/etc/init/vendor.qti.power.pasrmanager@1.0-service.rc 9790
+/vendor/etc/init/vendor.qti.rmt_storage.rc 9791
+/vendor/etc/init/vendor.qti.tftp.rc 9792
+/vendor/etc/init/vendor.sensors.qti.rc 9793
+/vendor/etc/init/vendor.sensors.sscrpcd.rc 9794
+/vendor/etc/init/vendor_flash_recovery.rc 9795
+/vendor/etc/init/vndservicemanager.rc 9796
+/vendor/etc/init/vppservice.rc 9797
+/vendor/etc/init/wfdvndservice.rc 9798
+/vendor/etc/init.qti.fm.sh 9799
+/vendor/etc/izat.conf 9800-9801
+/vendor/etc/libnfc-nci.conf 9802-9803
+/vendor/etc/listen_platform_info.xml 9804
+/vendor/etc/lm/AdaptLaunchFeature.xml 9805
+/vendor/etc/lm/AppClassifierFeature.xml 9806
+/vendor/etc/lm/GameOptimizationFeature.xml 9807-9808
+/vendor/etc/lowi.conf 9809
+/vendor/etc/ltm_config_samsung_AMS678UW01_dsc_cmd_mode_panel.xml 9810
+/vendor/etc/ltm_config_samsung_amb655uv01_amoled_fhd+_panel_with_DSC.xml 9810
+/vendor/etc/media_codecs.xml 9811-9817
+/vendor/etc/media_codecs_c2.xml 9818-9822
+/vendor/etc/media_codecs_google_audio.xml 9823-9824
+/vendor/etc/media_codecs_google_c2.xml 9825
+/vendor/etc/media_codecs_google_c2_audio.xml 9826-9827
+/vendor/etc/media_codecs_google_c2_video.xml 9828-9830
+/vendor/etc/media_codecs_google_telephony.xml 9831
+/vendor/etc/media_codecs_google_video.xml 9832-9833
+/vendor/etc/media_codecs_google_video_le.xml 9834-9835
+/vendor/etc/media_codecs_performance.xml 9836-9839
+/vendor/etc/media_codecs_vendor.xml 9811 9840-9845
+/vendor/etc/media_codecs_vendor_audio.xml 9846
+/vendor/etc/media_profiles.xml 9847-9854
+/vendor/etc/media_profiles_vendor.xml 9855-9869
+/vendor/etc/mixer_paths_pahu.xml 9870-9893
+/vendor/etc/mixer_paths_tavil.xml 9894-9925
+/vendor/etc/mkshrc 9926
+/vendor/etc/msm_irqbalance.conf 9927
+/vendor/etc/oplus_avb.pubkey 9928
+/vendor/etc/passwd 9929
+/vendor/etc/perf/commonresourceconfigs.xml 9930-9934
+/vendor/etc/perf/perfboostsconfig.xml 9935-9937
+/vendor/etc/perf/perfconfigstore.xml 9938
+/vendor/etc/perf/targetconfig.xml 9939
+/vendor/etc/perf/targetresourceconfigs.xml 9940-9941
+/vendor/etc/permissions/android.hardware.audio.low_latency.xml 9942
+/vendor/etc/permissions/android.hardware.bluetooth.xml 9943
+/vendor/etc/permissions/android.hardware.bluetooth_le.xml 9944
+/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml 9945
+/vendor/etc/permissions/android.hardware.camera.front.xml 9946
+/vendor/etc/permissions/android.hardware.camera.full.xml 9947
+/vendor/etc/permissions/android.hardware.camera.raw.xml 9948
+/vendor/etc/permissions/android.hardware.light.xml 9949
+/vendor/etc/permissions/android.hardware.location.gps.xml 9950
+/vendor/etc/permissions/android.hardware.opengles.aep.xml 9951
+/vendor/etc/permissions/android.hardware.sensor.accelerometer.xml 9952
+/vendor/etc/permissions/android.hardware.sensor.ambient_temperature.xml 9953
+/vendor/etc/permissions/android.hardware.sensor.barometer.xml 9954
+/vendor/etc/permissions/android.hardware.sensor.compass.xml 9955
+/vendor/etc/permissions/android.hardware.sensor.gyroscope.xml 9956
+/vendor/etc/permissions/android.hardware.sensor.hifi_sensors.xml 9957
+/vendor/etc/permissions/android.hardware.sensor.light.xml 9958
+/vendor/etc/permissions/android.hardware.sensor.proximity.xml 9959
+/vendor/etc/permissions/android.hardware.sensor.relative_humidity.xml 9960
+/vendor/etc/permissions/android.hardware.sensor.stepcounter.xml 9961
+/vendor/etc/permissions/android.hardware.sensor.stepdetector.xml 9962
+/vendor/etc/permissions/android.hardware.telephony.cdma.xml 9963
+/vendor/etc/permissions/android.hardware.telephony.gsm.xml 9964
+/vendor/etc/permissions/android.hardware.telephony.ims.xml 9965
+/vendor/etc/permissions/android.hardware.touchscreen.multitouch.jazzhand.xml 9966
+/vendor/etc/permissions/android.hardware.usb.accessory.xml 9967
+/vendor/etc/permissions/android.hardware.usb.host.xml 9968
+/vendor/etc/permissions/android.hardware.vulkan.compute-0.xml 9969
+/vendor/etc/permissions/android.hardware.vulkan.level-1.xml 9970
+/vendor/etc/permissions/android.hardware.vulkan.version-1_1.xml 9971
+/vendor/etc/permissions/android.hardware.wifi.aware.xml 9972
+/vendor/etc/permissions/android.hardware.wifi.direct.xml 9973
+/vendor/etc/permissions/android.hardware.wifi.passpoint.xml 9974
+/vendor/etc/permissions/android.hardware.wifi.rtt.xml 9975
+/vendor/etc/permissions/android.hardware.wifi.xml 9976
+/vendor/etc/permissions/android.software.ipsec_tunnels.xml 9977
+/vendor/etc/permissions/android.software.midi.xml 9978
+/vendor/etc/permissions/android.software.sip.voip.xml 9979
+/vendor/etc/permissions/android.software.verified_boot.xml 9980
+/vendor/etc/permissions/android.software.vulkan.deqp.level.xml 9981
+/vendor/etc/permissions/handheld_core_hardware.xml 9982-9983
+/vendor/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml 9984
+/vendor/etc/permissions/vendor.qti.hardware.factory.xml 9985
+/vendor/etc/powerhint.xml 9986-9989
+/vendor/etc/public.libraries.txt 9990
+/vendor/etc/qdcm_calib_data_boe_nt36672c_fhd_ltps_tft_lcd_panel_with_DSC.xml 9991-10050 10049-10050 10049 10051-10053 10052-10053 10052 10055-10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121-10122 10121 10123 10121 10123 10121 10124-10130 10121 10121 10121 10121 10131-10189 10121 10190 10121 10190 10121 10191-10193 10192-10193 10192 10194-10258 10257-10258 10257 10259-10261 10260-10261 10260 10262-10325 10121 10326 10121 10326 10121 10327-10329 10328-10329 10328 10330-10393 10121 10394 10121 10394 10121 10395-10397 10396-10397 10396 10398-10403
+/vendor/etc/qdcm_calib_data_boe_nt37800_amoled_fhd+_panel_with_DSC.xml 10404-10462 10121 10463 10121 10463 10121 10465-10467 10466-10467 10466 10468 10121 10121 10121 10469-10529 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10530-10532 10531-10532 10531 10533-10539 10121 10121 10121 10121 10540-10541 10121 10121 10542-10546 10544 10547 10121 10121 10121 10548
+/vendor/etc/qdcm_calib_data_jdi_nt36672c_fhd_ltps_tft_lcd_panel_with_DSC.xml 10549 9992-10050 10049-10050 10049 10051-10053 10052-10053 10052 10055 10551-10615 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10616 10121 10617 10121 10617 10121 10124-10127 10618-10620 10121 10121 10121 10121 10621 10132-10189 10121 10190 10121 10190 10121 10191-10193 10192-10193 10192 10622-10626 10199-10258 10257-10258 10257 10259-10261 10260-10261 10260 10262 10627-10631 10268-10325 10121 10326 10121 10326 10121 10327-10329 10328-10329 10328 10632-10637 10336-10393 10121 10394 10121 10394 10121 10395-10397 10396-10397 10396 10638-10643
+/vendor/etc/qdcm_calib_data_samsung_AMS678UW01_dsc_cmd_mode_panel.xml 10644-10703 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10705-10707 10706-10707 10706 10708-10714 10121 10121 10121 10121 10715-10719 10717 10720 10121 10121 10121 10721-10780 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10781 10121 10782 10121 10782 10121 10783-10789 10121 10121 10121 10790-10797 10121 10121 10121 10798-10857 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10858-10860 10859-10860 10859 10861-10867 10121 10121 10121 10121 10868-10872 10870 10873 10121 10121 10121 10874-10933 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10934 10121 10935 10121 10935 10121 10936-10942 10121 10121 10121 10943-10950 10121 10121 10121 10951-11010 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 11011-11013 11012-11013 11012 11014-11020 10121 10121 10121 10121 11021-11025 11023 11026 10121 10121 10121 11027-11085 10121 11086 10121 11086 10121 11087-11089 11088-11089 11088 11090 10121 10121 10121 11091-11096 11094 11097 10121 10121 10121 11098-11157 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 11158-11160 11159-11160 11159 11161-11167 10121 10121 10121 10121 11168-11169 10121 10121 11170-11177 10121 10121 11178-11179
+/vendor/etc/qdcm_calib_data_samsung_amb655uv01_amoled_fhd+_panel_with_DSC.xml 11180-11239 11238-11239 11238 11240-11242 11241-11242 11241 11244-11245 10121 10121 10121 11246-11253 10121 10121 11254-11314 11313-11314 11313 11315-11317 11316-11317 11316 11318 10121 10121 10121 10121 11319-11320 10544 11321-11322 10544 11323 10121 10121 10121 11324-11382 10121 11383 10121 11383 10121 11384-11386 11385-11386 11385 11387 10121 10121 10121 10121 11388-11392 11390 11393 10121 10121 10121 11394-11452 10121 11453 10121 11453 10121 11454-11456 11455-11456 11455 11457 10121 10121 10121 11458-11465 10121 10121 11466-11526 11525-11526 11525 11527-11529 11528-11529 11528 11530-11531 10121 10121 10121 11532-11591 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 11592 10121 11593 10121 11593 10121 11594-11600 10121 10121 10121 10121 11601-11602 10121 10121 11603-11604 11462 11605-11606 11462 11607 10121 10121 10121 11608-11666 10121 11667 10121 11667 10121 11668-11670 11669-11670 11669 11671 10121 10121 10121 11672-11675 11094 11676-11678 10121 10121 11679-11739 11738-11739 11738 11740-11742 11741-11742 11741 11743-11744 10121 10121 10121 11745-11748 11462 11749-11751 10121 10121 11752-11812 11811-11812 11811 11813-11815 11814-11815 11814 11816 10121 10121 10121 10121 11817-11818 10717 11819-11820 10717 11821 10121 10121 10121 11822-11880 10121 11881 10121 11881 10121 11882-11884 11883-11884 11883 11885 10121 10121 10121 11886-11889 10794 11890 11462 11891 10121 10121 10121 11892
+/vendor/etc/qdcm_calib_data_samsung_s6e3fc2x01_amoled_fhd+_panel_with_DSC.xml 11893-11952 11951-11952 11951 11953-11955 11954-11955 11954 11957-11959 10121 10121 11960-12020 12019-12020 12019 12021-12023 12022-12023 12022 12024-12025 10121 10121 10121 12026-12084 10121 12085 10121 12085 10121 12086-12088 12087-12088 12087 12089-12090 10121 10121 12091-12151 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 12152-12154 12153-12154 12153 12155-12161 10121 10121 10121 10121 12162-12163 10121 10121 12164-12223 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 12224 10121 12225 10121 12225 10121 12226-12232 10121 10121 10121 12233-12293 12292-12293 12292 12294-12296 12295-12296 12295 12297-12298 10121 10121 10121 12299-12359 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 12360 10121 12361 10121 12361 10121 12362-12364 12363-12364 12363 12365 10121 10121 10121 10121 12366-12367 10121 10121 12368-12427 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 12428-12430 12429-12430 12429 12431-12433 12432-12433 12432 12434 10121 10121 10121 10121 12435-12436 10121 10121 12437-12496 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 12497 10121 12498 10121 12498 10121 12499-12501 12500-12501 12500 12502 10121 10121 10121 12503-12505 10121 12506-12507
+/vendor/etc/qdcm_calib_data_samsung_sofef03f_m_amoled_fhd+_panel_with_DSC.xml 12508-12567 12566-12567 12566 12568-12570 12569-12570 12569 12572-12573 10121 10121 10121 12574-12634 12633-12634 12633 12635-12637 12636-12637 12636 12638-12639 10121 10121 10121 12640-12698 10121 12699 10121 12699 10121 12700-12702 12701-12702 12701 12703-12704 10121 10121 12705-12765 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 12766-12768 12767-12768 12767 12769-12775 10121 10121 10121 10121 12776-12777 10121 10121 12778-12837 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 10121 12838 10121 12839 10121 12839 10121 12840-12846 10121 10121 10121 12847-12907 12906-12907 12906 12908-12910 12909-12910 12909 12911-12912 10121 10121 10121 12913-12971 10121 12972 10121 12972 10121 12973-12975 12974-12975 12974 12976 10121 10121 10121 10121 12977 10132-10188 12978 10121 10190 10121 10190 10121 10191-10193 10192-10193 10192 12979 10121 10121 10121 12980-13040 13039-13040 13039 13041-13043 13042-13043 13042 13044-13046 10121 10121 13047
+/vendor/etc/r_submix_audio_policy_configuration.xml 13048
+/vendor/etc/sap.conf 13049-13050
+/vendor/etc/sec_config 13051-13054
+/vendor/etc/seccomp_policy/atfwd@2.0.policy 13055
+/vendor/etc/seccomp_policy/codec2.vendor.base.policy 13056
+/vendor/etc/seccomp_policy/codec2.vendor.ext.policy 13057
+/vendor/etc/seccomp_policy/imsrtp.policy 13058
+/vendor/etc/seccomp_policy/mediacodec.policy 13059
+/vendor/etc/seccomp_policy/qti-systemd.policy 13060
+/vendor/etc/seccomp_policy/vendor.qti.hardware.dsp.policy 13061
+/vendor/etc/seccomp_policy/wfdhdcphalservice.policy 13062
+/vendor/etc/seccomp_policy/wfdvndservice.policy 13063
+/vendor/etc/seccomp_policy/wifidisplayhalservice.policy 13064
+/vendor/etc/selinux/plat_pub_versioned.cil 13065-13296
+/vendor/etc/selinux/plat_pub_versioned_debug.cil 13065-13080 13297-13520
+/vendor/etc/selinux/plat_sepolicy_vers.txt 13521
+/vendor/etc/selinux/selinux_denial_metadata 13522
+/vendor/etc/selinux/vendor_file_contexts 13523-13553
+/vendor/etc/selinux/vendor_hwservice_contexts 13554-13557
+/vendor/etc/selinux/vendor_mac_permissions.xml 13558-13559
+/vendor/etc/selinux/vendor_property_contexts 13560-13566
+/vendor/etc/selinux/vendor_seapp_contexts 13567
+/vendor/etc/selinux/vendor_sepolicy.cil 13568-13816
+/vendor/etc/selinux/vendor_sepolicy_debug.cil 13568-13596 13817-14036
+/vendor/etc/selinux/vendor_service_contexts 14037
+/vendor/etc/selinux/vndservice_contexts 14038
+/vendor/etc/sensors/config/ak991x_dri_0.json 14039
+/vendor/etc/sensors/config/ak991x_polling_0.json 14040
+/vendor/etc/sensors/config/alsps.json 14041
+/vendor/etc/sensors/config/bmi160_0.json 14042
+/vendor/etc/sensors/config/default_sensors.json 14043
+/vendor/etc/sensors/config/devinfo_0.json 14044
+/vendor/etc/sensors/config/lsm6ds3c_0.json 14045
+/vendor/etc/sensors/config/lsm6dsm_0.json 14046
+/vendor/etc/sensors/config/lsm6dsm_0_16g.json 14047
+/vendor/etc/sensors/config/lsm6dsm_0_8g.json 14048
+/vendor/etc/sensors/config/mmc5603nj_0.json 14049
+/vendor/etc/sensors/config/msmnile_ak991x.json 14050
+/vendor/etc/sensors/config/msmnile_alsps.json 14051
+/vendor/etc/sensors/config/msmnile_irq.json 14052
+/vendor/etc/sensors/config/msmnile_lsm6ds3c.json 14053-14054
+/vendor/etc/sensors/config/msmnile_lsm6dsm.json 14055-14056
+/vendor/etc/sensors/config/msmnile_mmc5603nj.json 14057-14058
+/vendor/etc/sensors/config/msmnile_power_0.json 14059-14061
+/vendor/etc/sensors/config/msmnile_stk2x2x.json 14062
+/vendor/etc/sensors/config/msmnile_stk2x3x.json 14063
+/vendor/etc/sensors/config/msmnile_stk3331.json 14064
+/vendor/etc/sensors/config/msmnile_sx932x.json 14065
+/vendor/etc/sensors/config/sns_amd.json 14066
+/vendor/etc/sensors/config/sns_amd_sw_disabled.json 14067
+/vendor/etc/sensors/config/sns_amd_sw_enabled.json 14068
+/vendor/etc/sensors/config/sns_aont.json 14069
+/vendor/etc/sensors/config/sns_basic_gestures.json 14070
+/vendor/etc/sensors/config/sns_bring_to_ear.json 14071
+/vendor/etc/sensors/config/sns_ccd.json 14072-14073
+/vendor/etc/sensors/config/sns_ccd_v2_walk.json 14074
+/vendor/etc/sensors/config/sns_ccd_v3_1_walk.json 14075
+/vendor/etc/sensors/config/sns_ccd_v3_walk.json 14076
+/vendor/etc/sensors/config/sns_cm.json 14077
+/vendor/etc/sensors/config/sns_dae.json 14078
+/vendor/etc/sensors/config/sns_device_orient.json 14079
+/vendor/etc/sensors/config/sns_diag_filter.json 14080-14081
+/vendor/etc/sensors/config/sns_distance_bound.json 14082
+/vendor/etc/sensors/config/sns_dpc.json 14083
+/vendor/etc/sensors/config/sns_facing.json 14084
+/vendor/etc/sensors/config/sns_fmv.json 14085
+/vendor/etc/sensors/config/sns_fmv_legacy.json 14086
+/vendor/etc/sensors/config/sns_geomag_rv.json 14087
+/vendor/etc/sensors/config/sns_gyro_cal.json 14088
+/vendor/etc/sensors/config/sns_heart_rate.json 14089
+/vendor/etc/sensors/config/sns_mag_cal.json 14090
+/vendor/etc/sensors/config/sns_mag_cal_legacy.json 14091
+/vendor/etc/sensors/config/sns_multishake.json 14092
+/vendor/etc/sensors/config/sns_pedometer.json 14093
+/vendor/etc/sensors/config/sns_rmd.json 14094
+/vendor/etc/sensors/config/sns_rotv.json 14095
+/vendor/etc/sensors/config/sns_smd.json 14096
+/vendor/etc/sensors/config/sns_tilt.json 14097
+/vendor/etc/sensors/config/sns_tilt_sw_disabled.json 14098
+/vendor/etc/sensors/config/sns_tilt_sw_enabled.json 14099
+/vendor/etc/sensors/config/sns_tilt_to_wake.json 14100
+/vendor/etc/sensors/config/sns_wrist_pedo.json 14101
+/vendor/etc/sensors/config/stk2x2x_0.json 14102
+/vendor/etc/sensors/config/stk2x3x_0.json 14103
+/vendor/etc/sensors/config/stk3331_0.json 14104
+/vendor/etc/sensors/config/sx932x_0.json 14105
+/vendor/etc/sensors/config/tcs3701.json 14106
+/vendor/etc/sensors/hals.conf 14107
+/vendor/etc/sensors/proto/descriptor.proto 14108-14116
+/vendor/etc/sensors/proto/nanopb.proto 14117
+/vendor/etc/sensors/proto/qti_gravity.proto 14118
+/vendor/etc/sensors/proto/sns_accel.proto 14119-14120
+/vendor/etc/sensors/proto/sns_accel_cal.proto 14121
+/vendor/etc/sensors/proto/sns_activity_recognition.proto 14122
+/vendor/etc/sensors/proto/sns_ambient_light.proto 14123
+/vendor/etc/sensors/proto/sns_ambient_temperature.proto 14124
+/vendor/etc/sensors/proto/sns_amd.proto 14125
+/vendor/etc/sensors/proto/sns_aont.proto 14126
+/vendor/etc/sensors/proto/sns_async_com_port.proto 14127-14128
+/vendor/etc/sensors/proto/sns_basic_gestures.proto 14129
+/vendor/etc/sensors/proto/sns_bring_to_ear.proto 14130
+/vendor/etc/sensors/proto/sns_cal.proto 14131
+/vendor/etc/sensors/proto/sns_ccd_ttw.proto 14132
+/vendor/etc/sensors/proto/sns_ccd_walk.proto 14133
+/vendor/etc/sensors/proto/sns_client.proto 14134-14135
+/vendor/etc/sensors/proto/sns_cmc.proto 14136
+/vendor/etc/sensors/proto/sns_cmd.proto 14137
+/vendor/etc/sensors/proto/sns_da_test.proto 14138
+/vendor/etc/sensors/proto/sns_dae.proto 14139-14141
+/vendor/etc/sensors/proto/sns_data_acquisition_engine.proto 14142
+/vendor/etc/sensors/proto/sns_device_mode.proto 14143
+/vendor/etc/sensors/proto/sns_device_orient.proto 14144
+/vendor/etc/sensors/proto/sns_diag.proto 14145-14147
+/vendor/etc/sensors/proto/sns_diag_sensor.proto 14148
+/vendor/etc/sensors/proto/sns_distance_bound.proto 14149-14150
+/vendor/etc/sensors/proto/sns_dpc.proto 14151
+/vendor/etc/sensors/proto/sns_ext_svc.proto 14152
+/vendor/etc/sensors/proto/sns_facing.proto 14153
+/vendor/etc/sensors/proto/sns_fmv.proto 14154
+/vendor/etc/sensors/proto/sns_formatter.proto 14155-14156
+/vendor/etc/sensors/proto/sns_fw.proto 14157
+/vendor/etc/sensors/proto/sns_game_rv.proto 14158
+/vendor/etc/sensors/proto/sns_geomag_rv.proto 14159
+/vendor/etc/sensors/proto/sns_gravity.proto 14160
+/vendor/etc/sensors/proto/sns_gyro.proto 14161
+/vendor/etc/sensors/proto/sns_gyro_cal.proto 14162
+/vendor/etc/sensors/proto/sns_gyro_rot_matrix.proto 14163
+/vendor/etc/sensors/proto/sns_hall.proto 14164
+/vendor/etc/sensors/proto/sns_heart_beat.proto 14165
+/vendor/etc/sensors/proto/sns_heart_rate.proto 14166
+/vendor/etc/sensors/proto/sns_hinge_angle.proto 14167
+/vendor/etc/sensors/proto/sns_humidity.proto 14168
+/vendor/etc/sensors/proto/sns_interrupt.proto 14169-14170
+/vendor/etc/sensors/proto/sns_mag.proto 14171
+/vendor/etc/sensors/proto/sns_mag_cal.proto 14172
+/vendor/etc/sensors/proto/sns_mcmd.proto 14173
+/vendor/etc/sensors/proto/sns_motion_detect.proto 14174
+/vendor/etc/sensors/proto/sns_multishake.proto 14175
+/vendor/etc/sensors/proto/sns_oem1.proto 14176
+/vendor/etc/sensors/proto/sns_offbody_detect.proto 14177
+/vendor/etc/sensors/proto/sns_pedometer.proto 14178
+/vendor/etc/sensors/proto/sns_pedometer_wrist.proto 14179
+/vendor/etc/sensors/proto/sns_physical_sensor_test.proto 14180
+/vendor/etc/sensors/proto/sns_pose_6dof.proto 14181
+/vendor/etc/sensors/proto/sns_ppg.proto 14182
+/vendor/etc/sensors/proto/sns_pressure.proto 14183
+/vendor/etc/sensors/proto/sns_proximity.proto 14184-14185
+/vendor/etc/sensors/proto/sns_psmd.proto 14186
+/vendor/etc/sensors/proto/sns_registry.proto 14187
+/vendor/etc/sensors/proto/sns_remote_proc_state.proto 14188
+/vendor/etc/sensors/proto/sns_resampler.proto 14189
+/vendor/etc/sensors/proto/sns_rgb.proto 14190
+/vendor/etc/sensors/proto/sns_rmd.proto 14191
+/vendor/etc/sensors/proto/sns_rotv.proto 14192
+/vendor/etc/sensors/proto/sns_sar.proto 14193-14194
+/vendor/etc/sensors/proto/sns_sensor_temperature.proto 14195
+/vendor/etc/sensors/proto/sns_sig_motion.proto 14196
+/vendor/etc/sensors/proto/sns_signal_sensor.proto 14197
+/vendor/etc/sensors/proto/sns_sim.proto 14198
+/vendor/etc/sensors/proto/sns_sim_legacy.proto 14199
+/vendor/etc/sensors/proto/sns_std.proto 14200-14201
+/vendor/etc/sensors/proto/sns_std_event_gated_sensor.proto 14202
+/vendor/etc/sensors/proto/sns_std_sensor.proto 14203-14206
+/vendor/etc/sensors/proto/sns_std_type.proto 14207
+/vendor/etc/sensors/proto/sns_step_detect.proto 14208
+/vendor/etc/sensors/proto/sns_suid.proto 14209
+/vendor/etc/sensors/proto/sns_thermopile.proto 14210
+/vendor/etc/sensors/proto/sns_threshold.proto 14211
+/vendor/etc/sensors/proto/sns_tilt.proto 14212
+/vendor/etc/sensors/proto/sns_tilt_to_wake.proto 14213
+/vendor/etc/sensors/proto/sns_timer.proto 14214-14215
+/vendor/etc/sensors/proto/sns_ultra_violet.proto 14216
+/vendor/etc/sensors/proto/sns_wrist_tilt_gesture.proto 14217
+/vendor/etc/sensors/sns_reg_config 14218
+/vendor/etc/sound_trigger_mixer_paths.xml 14219-14222
+/vendor/etc/sound_trigger_mixer_paths_wcd9340.xml 14223-14227
+/vendor/etc/sound_trigger_mixer_paths_wcd9340_qrd.xml 14228 14224 14229-14231
+/vendor/etc/sound_trigger_platform_info.xml 14232-14236
+/vendor/etc/ssg/ta_config.json 14237
+/vendor/etc/ssg/tz_whitelist.json 14238
+/vendor/etc/system_properties.xml 14239
+/vendor/etc/thermal-engine.conf 14240
+/vendor/etc/tunings.txt 14241
+/vendor/etc/usb_audio_policy_configuration.xml 14242
+/vendor/etc/vintf/compatibility_matrix.xml 14243
+/vendor/etc/vintf/manifest/android.hardware.atrace@1.0-service.xml 14244
+/vendor/etc/vintf/manifest/android.hardware.cas@1.2-service.xml 14245
+/vendor/etc/vintf/manifest/android.hardware.gnss@2.1-service-qti.xml 14246
+/vendor/etc/vintf/manifest/android.hardware.graphics.composer-qti-display.xml 14247
+/vendor/etc/vintf/manifest/android.hardware.graphics.mapper-impl-qti-display.xml 14248
+/vendor/etc/vintf/manifest/android.hardware.health@2.1.xml 14249
+/vendor/etc/vintf/manifest/android.hardware.lights-qti.xml 14250
+/vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-qti-hta.xml 14251
+/vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-qti.xml 14252
+/vendor/etc/vintf/manifest/android.hardware.sensors@2.0-multihal.xml 14253
+/vendor/etc/vintf/manifest/android.hardware.thermal@2.0-service.qti.xml 14254
+/vendor/etc/vintf/manifest/android.hardware.wifi.hostapd.xml 14255
+/vendor/etc/vintf/manifest/android.hardware.wifi@1.0-service.xml 14256
+/vendor/etc/vintf/manifest/manifest.xml 14257
+/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.clearkey.xml 14258
+/vendor/etc/vintf/manifest/oplus_wifi_supplicant_device.xml 14259
+/vendor/etc/vintf/manifest/power.xml 14260
+/vendor/etc/vintf/manifest/vendor.qti.gnss@4.0-service.xml 14261
+/vendor/etc/vintf/manifest/vendor.qti.hardware.display.allocator-service.xml 14262
+/vendor/etc/vintf/manifest/vendor.qti.hardware.servicetracker@1.2-service.xml 14263
+/vendor/etc/vintf/manifest.xml 14264-14269
+/vendor/etc/wfdconfig.xml 14270-14276
+/vendor/etc/wifi/WCNSS_qcom_cfg.ini 14277-14279
+/vendor/etc/wifi/aoa_cldb_falcon.bin 14280-14485
+/vendor/etc/wifi/aoa_cldb_swl14.bin 14486-14691
+/vendor/etc/wifi/fstman.ini 14692
+/vendor/etc/wifi/icm.conf 14693
+/vendor/etc/wifi/p2p_supplicant_overlay.conf 14694
+/vendor/etc/wifi/sar-vendor-cmd.xml 14695
+/vendor/etc/wifi/wigig_p2p_supplicant.conf 14696
+/vendor/etc/wifi/wigig_supplicant.conf 14697
+/vendor/etc/wifi/wpa_supplicant.conf 14698
+/vendor/etc/wifi/wpa_supplicant_overlay.conf 14699
+/vendor/etc/xtra_root_cert.pem 14700
+/vendor/etc/xtwifi.conf 14701
+/vendor/firmware/CAMERA_ICP.elf 14702 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14703-14752 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14753-14754 0 14755-14756 0 0 0 14757 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14759-15053 0 0 15054-15055
+/vendor/firmware/a612_rgmu.bin 15056
+/vendor/firmware/a618_gmu.bin 15057-15061
+/vendor/firmware/a630_gmu.bin 15062-15066
+/vendor/firmware/a630_sqe.fw 15067-15074
+/vendor/firmware/a640_gmu.bin 15075-15084
+/vendor/firmware/a640_zap.b00 15085
+/vendor/firmware/a640_zap.b01 15086-15087
+/vendor/firmware/a640_zap.b02 15088
+/vendor/firmware/a640_zap.elf 15085-15088
+/vendor/firmware/a640_zap.mdt 15089-15090
+/vendor/firmware/aw8697_About_School_RTP_17.bin 15091-15092 0 15093-15104 0 15105-15107 0 15108-15142
+/vendor/firmware/aw8697_About_School_RTP_17_234Hz.bin 15143-15144 0 15145-15150 0 15151-15155 0 15156-15158 0 15159 15161 0 15162 0 15163-15165 0 15166-15189 0 15190
+/vendor/firmware/aw8697_Appear_channel_RTP_coloros7_123.bin 15191
+/vendor/firmware/aw8697_Appear_channel_RTP_coloros7_123_234Hz.bin 15192
+/vendor/firmware/aw8697_Bliss_RTP_coloros7_138.bin 15193-15201 0 0 15202-15209 0 0 15210-15217 0 0 0 15218-15229 0 0 15230 15232-15241 0 15242-15270 0 15271-15279 0 15280-15281 0 15282-15293 0 15294-15302 0 0 15303-15304 0 0 15305-15307 0 0 15308-15310 0 0 15311-15314 0 0 15315-15316
+/vendor/firmware/aw8697_Bliss_RTP_coloros7_138_234Hz.bin 15317-15325 0 0 15326-15333 0 0 15334-15341 0 0 0 15342-15353 0 0 15354 15356-15365 0 15366-15394 0 15395-15403 0 15404-15405 0 15406-15417 0 15418-15426 0 0 15427-15428 0 0 15429-15431 0 0 15432-15434 0 0 15435-15438 0 0 15439-15440
+/vendor/firmware/aw8697_Bright_channel_RTP_coloros7_128.bin 15441
+/vendor/firmware/aw8697_Bright_channel_RTP_coloros7_128_234Hz.bin 15442
+/vendor/firmware/aw8697_Childhood_RTP_19.bin 0 15443 0 15444-15445 0 15446-15450 0 15451-15458 0 15459 15461-15465 0 0 0 15466-15472 0 0 15473 0 15474-15476 0 15477-15482 0 15483-15484 0 15485-15495 0 15496-15497 0 15498-15509 0 15510-15521 0 15522-15527
+/vendor/firmware/aw8697_Childhood_RTP_19_234Hz.bin 0 15528 0 15529-15530 0 15531-15535 0 15536-15543 0 15544 15546-15550 0 0 0 15551-15557 0 0 15558 0 15559-15561 0 15562-15567 0 15568-15569 0 15570-15571 0 15572-15574 0 15575-15578 0 15579-15580 0 15581-15584 0 15585-15591 0 15592-15598 0 15599-15602 0 15603-15607
+/vendor/firmware/aw8697_Classical_ring_RTP_coloros7_135.bin 15608-15614
+/vendor/firmware/aw8697_Classical_ring_RTP_coloros7_135_234Hz.bin 15615-15622
+/vendor/firmware/aw8697_Commuting_RTP_20.bin 15623-15632 0 15633-15640 0 15641-15642 0 15643-15645 0 0 15646 15648-15661 0 0 15662-15668 0 15669-15670 0 15671-15673 0 0 15674-15684 0 15685-15687 0 0 15688-15701 0 0 15702-15709 0 15710-15711 0 15712-15714 0 0 15715-15724 0 15725-15727 0 0 0 15728-15745
+/vendor/firmware/aw8697_Commuting_RTP_20_234Hz.bin 15746-15747 0 15748-15754 0 15755-15762 0 15763-15764 0 15765 15767-15768 0 0 15769-15783 0 0 15784-15790 0 15791-15792 0 15793-15795 0 0 15796-15806 0 15807-15809 0 0 15810-15823 0 0 15824-15831 0 15832-15833 0 15834-15836 0 0 15837-15846 0 15847-15849 0 0 0 15850-15867
+/vendor/firmware/aw8697_Dream_RTP_coloros7_139.bin 15868-15874 0 15875-15876 0 15877-15879 0 0 15880 0 0 15881 0 15883-15890 0 15891 0 0 15892-15894 0 0 15895 0 0 15896 0 0 15897-15903 0 15904 0 0 15905-15907 0 0 15908 0 0 15909 0 15910-15915 0 0 15916-15917 0 15918-15919 0 15920-15925 0 0 0 0 0 0 0 15926-15933
+/vendor/firmware/aw8697_Dream_RTP_coloros7_139_234Hz.bin 15934-15940 0 15941-15942 0 15943-15945 0 0 15946 0 0 15947 0 15949-15956 0 15957 0 0 15958-15960 0 0 15961 0 0 15962 0 0 15963-15969 0 15970 0 0 15971-15973 0 0 15974 0 0 15975 0 15976-15981 0 0 15982-15983 0 15984-15985 0 15986-15991 0 0 0 0 0 0 0 15992-15999
+/vendor/firmware/aw8697_Firefly_RTP_22.bin 16000-16009 0 0 0 16010-16020 0 16021-16029 0 0 16030-16050
+/vendor/firmware/aw8697_Firefly_RTP_22_234Hz.bin 16051-16060 0 0 0 16061-16071 0 16072-16080 0 0 16081-16101
+/vendor/firmware/aw8697_Fun_channel_RTP_coloros7_129.bin 16102-16104
+/vendor/firmware/aw8697_Fun_channel_RTP_coloros7_129_234Hz.bin 16105-16107
+/vendor/firmware/aw8697_Gaze_RTP_24.bin 0 16108-16113 0 16114-16120 0 16121-16126 0 16127-16130 0 0 0 16131 16133-16138 0 16139-16152 0 16153-16155 0 16156-16158
+/vendor/firmware/aw8697_Gaze_RTP_24_234Hz.bin 0 16159-16164 0 16165-16171 0 16172-16177 0 16178 15952-15953 16180 0 0 0 16181-16187 0 16188-16201 0 16202-16204 0 16205-16207
+/vendor/firmware/aw8697_Glittering_channel_RTP_coloros7_130.bin 16208-16210 0 16211
+/vendor/firmware/aw8697_Glittering_channel_RTP_coloros7_130_234Hz.bin 16212-16214 0 16215
+/vendor/firmware/aw8697_Granules_channel_RTP_9.bin 16216-16221
+/vendor/firmware/aw8697_Granules_channel_RTP_9_234Hz.bin 16222-16227
+/vendor/firmware/aw8697_Harp_channel_RTP_coloros7_131.bin 16228-16230
+/vendor/firmware/aw8697_Harp_channel_RTP_coloros7_131_234Hz.bin 16231-16233
+/vendor/firmware/aw8697_Impression_channel_RTP_11.bin 16234-16238
+/vendor/firmware/aw8697_Ingenious_channel_RTP_12.bin 16239-16241
+/vendor/firmware/aw8697_Ingenious_channel_RTP_12_234Hz.bin 16242-16244
+/vendor/firmware/aw8697_Instant_channel_RTP_2.bin 16245-16248
+/vendor/firmware/aw8697_Instant_channel_RTP_2_234Hz.bin 16249-16252
+/vendor/firmware/aw8697_Joy_channel_RTP_13.bin 16253-16256
+/vendor/firmware/aw8697_Joy_channel_RTP_13_234Hz.bin 16257-16259
+/vendor/firmware/aw8697_Joy_channel_RTP_coloros7_141.bin 16260-16267 0 16268-16270 0 16271 0 0 0 0 16272-16277 0 0 16278 0 16280-16283 0 0 0 16284-16290 0 16291-16293 0 16294 0 0 16295 0 16296-16307 0 0 16308-16309 0 0 16310-16315 0 16316 0 16317-16318 0 16319-16322 0 0 16323-16328 0 0 16329-16333
+/vendor/firmware/aw8697_Joy_channel_RTP_coloros7_141_234Hz.bin 0 0 16334 0 16335-16339 0 16340-16345 0 0 0 16346 0 16347 16349 0 16350-16354 0 16355-16359 0 0 16360-16363 0 16364-16366 0 16367-16368 0 0 16369-16371 0 16372 0 0 16373 0 16374-16376 0 0 16377-16380 0 0 16381 0 16382-16389 0 16390-16393 0 0 16394 0 0 16395 0 16396 0 16397-16403
+/vendor/firmware/aw8697_Lakeside_RTP_25.bin 0 16404-16415 0 0 0 0 0 0 0 0 0 16416-16427 0 0 0 0 0 0 0 0 0 16428-16444 0 0 0 0 16445-16459
+/vendor/firmware/aw8697_Lakeside_RTP_25_234Hz.bin 0 16460-16471 0 0 0 0 0 0 0 0 0 16472-16475 0 16476 0 16477-16481 0 0 0 0 0 0 0 0 0 16482 16484-16499 0 0 0 0 16500-16514
+/vendor/firmware/aw8697_Lifestyle_RTP_26.bin 16515-16534 0 16535-16601
+/vendor/firmware/aw8697_Long_for_RTP_coloros7_136.bin 0 16602-16605 0 16606-16615 0 16616-16619 0 16620-16625 0 16626 16628-16635 0 16636-16637 0 16638-16643 0 16644-16650 0 16651-16657 0 16658-16664 0 16665-16683 0 16684-16689 0 16690-16696 0 16697-16703 0 16704-16705 0 16706-16709 0 16710-16713 0 16714-16720 0 16721-16727 0 16728-16731 0 16732
+/vendor/firmware/aw8697_Long_for_RTP_coloros7_136_234Hz.bin 0 16733-16736 0 16737-16746 0 16747-16750 0 16751-16756 0 16757 16759-16766 0 16767-16768 0 16769-16774 0 16775-16781 0 16782-16788 0 16789-16795 0 16796-16797 0 16798-16813 0 16814-16819 0 16820-16826 0 16827-16833 0 16834-16835 0 16836-16839 0 16840-16843 0 16844-16850 0 16851-16857 0 16858-16861 0 16862
+/vendor/firmware/aw8697_Memories_RTP_27.bin 16863-16880 0 16881 0 16882-16883 0 16884-16891 0 16892 0 16894 0 16895-16905 0 16906 0 16907-16914 0 16915-16941 0 16942-16955 0 16956-16973
+/vendor/firmware/aw8697_Memories_RTP_27_234Hz.bin 16974-16991 0 16992 0 16993-16994 0 16995-17002 0 17003 0 17005 0 17006-17016 0 17017 0 17018-17025 0 17026-17029 0 17030-17051 0 17052-17057 0 17058-17064 0 17065-17082
+/vendor/firmware/aw8697_Messy_RTP_28.bin 17083-17089 0 17090-17094 0 17095-17097 0 17098 0 17099 17101 0 17102-17106 0 17107-17111 0 17112-17114 0 17115 0 17116-17117 0 17118-17130 0 17131 0 17132-17136 0 17137-17139 0 17140 0 17141-17146 0 17147-17153
+/vendor/firmware/aw8697_Messy_RTP_28_234Hz.bin 17154-17160 0 17161-17165 0 17166-17168 0 17169 0 17170 17172 0 17173-17177 0 17178-17182 0 17183-17185 0 17186 0 17187-17188 0 17189-17201 0 17202 0 17203-17207 0 17208-17210 0 17211 0 17212-17217 0 17218-17224
+/vendor/firmware/aw8697_Miss_RTP_coloros7_124.bin 0 17225-17235 0 17236 0 17237 0 17238-17246 0 17247 17249 0 0 17250 0 17251 0 17252-17260 0 17261-17262 0 17263 0 17264 0 17265-17273 0 17274-17276 0 17277 0 17278 0 17279 0 17280-17282 0 0 17283
+/vendor/firmware/aw8697_Miss_RTP_coloros7_124_234Hz.bin 0 17284-17290 0 0 17291-17292 0 17293 0 17294 0 0 17295 17297-17303 0 17304-17305 0 0 17306 0 17307 0 0 17308 0 17309-17314 0 17315-17316 0 17317 0 17318 0 0 17319-17320 0 17321-17325 0 17326-17328
+/vendor/firmware/aw8697_Music_channel_RTP_coloros7_125.bin 17329-17330
+/vendor/firmware/aw8697_Music_channel_RTP_coloros7_125_234Hz.bin 17331-17332
+/vendor/firmware/aw8697_Night_RTP_29.bin 17333-17334 0 17335-17342 0 17343-17346 0 17347-17348 0 17349 17351-17352 0 17353-17356 0 17357-17358 0 17359-17361 0 17362-17364 0 17365-17369 0 17370-17371 0 17372
+/vendor/firmware/aw8697_Night_RTP_29_234Hz.bin 17373-17374 0 17375-17382 0 17383-17386 0 17387-17388 0 17389 17391-17392 0 17393-17396 0 17397-17398 0 17399-17405 0 17406-17410 0 17411-17412 0 17413
+/vendor/firmware/aw8697_Overtone_channel_RTP_coloros7_132.bin 17414-17416
+/vendor/firmware/aw8697_Overtone_channel_RTP_coloros7_132_234Hz.bin 17417-17419
+/vendor/firmware/aw8697_Passionate_Dance_RTP_30.bin 17420-17435 0 17436-17439 0 0 17440 0 17441-17453 0 17454 17456-17464 0 17465-17468 0 0 0 17469 0 17470-17480 0 17481-17490 0 17491-17497 0 17498-17505
+/vendor/firmware/aw8697_Passionate_Dance_RTP_30_234Hz.bin 17506-17521 0 17522-17525 0 0 17526 0 17527-17539 0 17540 17542-17550 0 17551-17554 0 0 0 17555 0 17556-17566 0 17567-17576 0 17577-17583 0 17584-17591
+/vendor/firmware/aw8697_Percussion_channel_RTP_coloros7_126.bin 17592
+/vendor/firmware/aw8697_Percussion_channel_RTP_coloros7_126_234Hz.bin 17593-17594
+/vendor/firmware/aw8697_Playground_RTP_31.bin 17595-17612 0 0 0 0 0 0 0 0 0 17613-17628 0 17629-17630 0 17631-17650 0 17651 17653-17656 0 17657-17673
+/vendor/firmware/aw8697_Playground_RTP_31_234Hz.bin 17674-17675 0 17676-17678 16198 17679-17689 0 0 0 0 0 0 0 0 0 17690 17692-17706 0 17707-17708 0 17709-17714 16053 17715-17727 0 17728-17732 0 17733-17749
+/vendor/firmware/aw8697_Pure_RTP_49.bin 17750-17759 0 17760-17762 0 17763-17768 0 0 0 0 0 0 0 0 0 0 0 17769-17785 0 17786 17788-17789
+/vendor/firmware/aw8697_Pure_RTP_49_234Hz.bin 17790-17798 0 0 17799-17800 0 0 17801-17806 0 0 0 0 0 0 0 0 0 0 0 17807-17816 0 17817 17819 0 0 17820-17825
+/vendor/firmware/aw8697_Receive_channel_RTP_15.bin 17826-17831 0 17832-17835 0 17836 0 17837
+/vendor/firmware/aw8697_Receive_channel_RTP_15_234Hz.bin 17838-17843 0 17844-17847 0 17848 0 17849
+/vendor/firmware/aw8697_Relax_RTP_32.bin 17850-17863 0 17864-17865 0 17866-17873 0 17874 0 17875 0 17877-17883 0 17884-17891
+/vendor/firmware/aw8697_Relax_RTP_32_234Hz.bin 17892-17905 0 17906-17907 0 17908-17915 0 17916 0 17917 0 17919-17924 17396 0 17925-17932
+/vendor/firmware/aw8697_Relax_RTP_coloros7_140.bin 17933-17937 0 17938-17939 0 0 17940-17944 0 17945-17946 0 0 17947 17949-17951 0 17952-17953 0 0 17954-17955 0 17956-17958 0 17959-17960 0 0 17961-17963 0 17964 0 17965-17966 0 0 17967-17978 0 17979 0 17980-17992 0 0 17993-18000 0 0 18001-18007 0 18008-18013 0 18014-18015 0 18016-18025 0 0 18026-18033 0 0 18034-18051 0 18052-18058 0 18059-18062
+/vendor/firmware/aw8697_Relax_RTP_coloros7_140_234Hz.bin 18063-18065 0 18066 0 18067 0 0 0 18068-18070 0 18071 0 18073 0 0 0 18074-18076 0 0 18077-18078 0 18079 0 18080-18088 0 18089-18090 0 0 18091 0 18092-18094 0 18095-18099 0 18100-18107 0 0 18108-18110 0 18111-18112 0 0 18113 0 18114-18116 0 18117-18118 0 0 18119 0 18120-18122 0 18123 0 0 18124-18129 0 18130 0 0 18131-18135 0 16509 18136-18137 0 0 18138-18139 0 15354 0 18140-18145 0 0 18146-18147 0 18148-18153 0 18154-18166 0 18167-18176
+/vendor/firmware/aw8697_Reminiscence_RTP_33.bin 18177-18179 0 18180 0 18181-18184 0 18185-18186 0 0 18187 0 18189-18190 0 18191-18195 0 18196-18202 0 18203 0 0 18204-18205 0 18206-18210 0 18211-18214 0 18215-18216 0 0 18217 0 18218 0 0 18219-18221 0 18222 0 18223-18226 0 18227-18228 0 18229-18230 0 18231-18234 0 0 18235
+/vendor/firmware/aw8697_Ripple_channel_RTP_coloros7_127.bin 18236-18238
+/vendor/firmware/aw8697_Ripple_channel_RTP_coloros7_127_234Hz.bin 18239-18241
+/vendor/firmware/aw8697_Romantic_RTP_coloros7_137.bin 18242-18247 0 18248 0 0 18249-18257 0 18258-18266 0 18267 18269-18276 0 18277-18278 0 18279-18284 0 0 18285-18290 0 18291 0 0 0 18292-18297 0 18298 0 0 18299-18307 0 0 18308-18316 0 18317-18318 0 18319-18324 0 0 18325-18342 0 0 0 18343-18348 0 18349 0 0 18350-18355
+/vendor/firmware/aw8697_Romantic_RTP_coloros7_137_234Hz.bin 18356-18369 0 18370-18378 0 18379 0 18380-18382 0 18383 18385-18386 0 18387-18391 17555 18392-18395 0 18396-18402 0 18403 0 18404-18407 0 0 18408-18411 0 0 18412-18415 0 18416-18417 0 18418-18422 0 18423-18428 0 18429-18433 0 18434-18441 0 18442-18446 0 18447-18460 0 18461-18468 0 18469
+/vendor/firmware/aw8697_Scenic_RTP_121.bin 18470-18601 0 18602-18641
+/vendor/firmware/aw8697_Scenic_RTP_121_234Hz.bin 18642-18655 0 18656-18772 0 18773-18812
+/vendor/firmware/aw8697_Seine_past_RTP_coloros7_134.bin 18813-18815 0 18816-18817 0 18818-18824 0 18825-18829 0 18830 18832-18839 0 18840-18842 0 18843-18852 0 18853-18857 0 18858-18860 0 18861-18863 0 18864-18868 0 18869-18881 0 18882-18890 0 18891-18893 0 0 18894-18895 0 18896-18897 0 18898-18901 0 18902-18910 0 18911 0 18912-18914 0 18915-18916 0 18917 0 18918 0 18919-18926 0 0 18927 0 18928 0 0 18929 0 0 18930
+/vendor/firmware/aw8697_Seine_past_RTP_coloros7_134_234Hz.bin 18931-18935 0 0 18936-18937 0 18938 0 18939-18943 0 18944 18946 0 18947 0 0 18948-18950 0 0 18951 0 0 17931 0 0 18952-18955 0 18956-18960 0 18961-18965 0 18966-18974 0 18975-18980 0 18981-18982 0 0 18983-18988 0 18989-18993 0 0 18994-18996 0 18997-18999 0 19000 0 19001-19011 0 19012-19013 0 0 0 19014-19016 0 19017-19018 0 19019-19021 0 19022-19024 0 19025-19028 0 0 19029
+/vendor/firmware/aw8697_Silence_From_Afar_RTP_34.bin 0 0 19030-19032 0 0 19033-19035 0 19036 0 0 19037-19046 0 0 19047 19049-19051 0 0 19052-19053 0 19054-19061 0 19062-19063 0 19064-19066 0 19067-19071 0 19072-19075 0 0 19076-19080 0 0 19081-19085 0 19086-19090 0 19091 0 19092-19095 0 19096-19112 0 19113-19123 0 19124-19129 0 19130-19144
+/vendor/firmware/aw8697_Silence_From_Afar_RTP_34_234Hz.bin 0 0 19145-19147 0 0 19148-19150 0 19151 0 0 19152-19155 0 0 19156 19158-19160 0 0 0 19161-19163 0 0 19164-19165 0 19166-19173 0 0 0 0 19174-19176 0 19177-19178 0 19179-19180 0 19181-19184 0 0 19185-19189 0 0 19190-19191 0 0 19192 0 19193-19196 0 0 19197 0 0 19198-19200 0 19201-19205 0 19206-19216 0 0 19217-19225 0 0 19226-19231 0 19232-19239 0 19240-19244
+/vendor/firmware/aw8697_Silence_RTP_35.bin 19245-19250 0 19251-19263 0 19264 0 19265-19268 0 19269 19271-19275 0 19276 0 19277 0 19278-19289 0 19290 0 19291-19294 0 19295-19308 0 19309 0 19310 0 19311-19322 0 19323 0 19324-19327 0 19328-19333 0 19334 0 19335 0 19336-19367 0 0 0 19368
+/vendor/firmware/aw8697_Silence_RTP_35_234Hz.bin 19369-19374 0 19375-19387 0 19388 0 19389-19392 0 19393 19395-19399 0 19400 0 19401 0 19402-19413 0 19414 0 19415-19418 0 19419-19432 0 19433 0 19434 0 19435-19446 0 19447 0 19448-19451 0 19452-19457 0 19458 0 19459 0 19460-19477 15342 19478-19480 0 19481-19489 0 0 0 19490
+/vendor/firmware/aw8697_Simple_channel_RTP_coloros7_133.bin 19491-19492
+/vendor/firmware/aw8697_Simple_channel_RTP_coloros7_133_234Hz.bin 19493-19494
+/vendor/firmware/aw8697_Splash_channel_RTP_16.bin 19495-19499
+/vendor/firmware/aw8697_haptic.bin 20423-20424
+/vendor/firmware/aw8697_Splash_channel_RTP_16_234Hz.bin 19500-19504
+/vendor/firmware/aw8697_Stars_RTP_36.bin 19505-19515 0 19516-19528 0 0 0 19529-19539 0 19540-19542 0 19543 19545-19553 0 0 19554-19564 0 19565-19575 0 19576-19582 0 19583-19591 0 19592-19594 0 19595-19596 0 19597-19611
+/vendor/firmware/aw8697_Stars_RTP_36_234Hz.bin 19612-19617 0 19618-19621 0 19622-19634 0 0 0 19635-19645 0 19646 19648 19395 0 19649-19658 0 0 19659-19669 0 19670-19680 0 19681-19687 0 19688-19689 0 19690-19695 0 19696-19698 0 19699-19700 0 19701-19715
+/vendor/firmware/aw8697_Summer_RTP_37.bin 19716-19719 0 0 19720-19729 0 0 19730-19734 0 19735-19737 0 19738 19740-19746 0 19747-19751 0 19752-19761 0 0 0 19762-19768 0 0 19769-19774 0 19775 0 19776-19781
+/vendor/firmware/aw8697_Summer_RTP_37_234Hz.bin 19782-19785 0 0 19786-19795 0 0 19796-19800 0 19801-19803 0 19804 19806-19812 0 19813-19817 0 19818-19827 0 0 0 19828-19834 0 0 19835-19840 0 19841 0 19842-19847
+/vendor/firmware/aw8697_Toys_RTP_38.bin 19848-19856 0 0 19857-19860 0 0 19861-19872 0 19873-19896 0 0 19897 19899-19921 0 19922-19946
+/vendor/firmware/aw8697_Toys_RTP_38_234Hz.bin 19947-19955 0 0 19956-19959 0 0 19960-19963 0 19964-19970 0 19971 19973-19983 0 19984-19990 0 19991-19993 0 0 19994-19998 0 19999-20016 0 20017-20028 0 20029-20033 19629 20034-20039
+/vendor/firmware/aw8697_Vision_RTP_40.bin 20040-20171 0 20172-20211
+/vendor/firmware/aw8697_Vision_RTP_40_170.bin 20212-20225 20076 20226-20342 0 20343-20382
+/vendor/firmware/aw8697_clock_channel_RTP_43.bin 20383 0 20384 0 0 0 0 20385-20388 0 0 0 0 20389-20392
+/vendor/firmware/aw8697_clock_channel_RTP_43_234Hz.bin 20393 0 20394 0 0 0 0 20395-20398 0 0 0 0 20399-20402
+/vendor/firmware/aw8697_cut_channel_RTP_42.bin 20403-20405 0 20406-20408 0 20409-20411
+/vendor/firmware/aw8697_cut_channel_RTP_42_234Hz.bin 20412-20414 0 20415-20417 0 20418-20420
+/vendor/firmware/aw8697_desk_7_RTP_54.bin 20421
+/vendor/firmware/aw8697_desk_7_RTP_54_234Hz.bin 20422
+/vendor/firmware/aw8697_haptic_170.bin 20425-20426
+/vendor/firmware/aw8697_haptic_235.bin 20427-20428
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160Hz.bin 20429-20431 0 20432
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162Hz.bin 20433-20435 0 20436
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_164Hz.bin 20437-20439 0 20440
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_166Hz.bin 20441-20443 0 20444
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_168Hz.bin 20445-20447 0 20448
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_170Hz.bin 20449-20451 0 20452
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_172Hz.bin 20453-20455 0 20456
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_174Hz.bin 20457-20459 0 20460
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_176Hz.bin 20461-20463 0 20444
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_178Hz.bin 20464-20466 0 20467
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_180Hz.bin 20468-20470 0 20471
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_225Hz.bin 20472-20480
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_226Hz.bin 20472-20480
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_227Hz.bin 20472-20480
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_228Hz.bin 20481-20489
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_229Hz.bin 20481-20489
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_230Hz.bin 20481-20489
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_231Hz.bin 20481-20489
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_232Hz.bin 20481-20489
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_233Hz.bin 20490-20498
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_234Hz.bin 20490-20498
+/vendor/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_235Hz.bin 20490-20498
+/vendor/firmware/aw8697_honor_fisrt_kill_RTP_60.bin 20499
+/vendor/firmware/aw8697_honor_fisrt_kill_RTP_60_234Hz.bin 20500
+/vendor/firmware/aw8697_honor_five_kill_RTP_64.bin 20501-20505
+/vendor/firmware/aw8697_honor_five_kill_RTP_64_234Hz.bin 20506-20510
+/vendor/firmware/aw8697_honor_four_continu_kill_RTP_66.bin 20511-20513
+/vendor/firmware/aw8697_honor_four_continu_kill_RTP_66_234Hz.bin 20514-20516
+/vendor/firmware/aw8697_honor_four_kill_RTP_63.bin 20517-20519
+/vendor/firmware/aw8697_honor_four_kill_RTP_63_234Hz.bin 20520-20522
+/vendor/firmware/aw8697_honor_lengendary_RTP_69.bin 20523-20528
+/vendor/firmware/aw8697_honor_lengendary_RTP_69_234Hz.bin 20529-20534
+/vendor/firmware/aw8697_honor_thousands_kill_RTP_68.bin 20535-20538
+/vendor/firmware/aw8697_honor_thousands_kill_RTP_68_234Hz.bin 20539-20542
+/vendor/firmware/aw8697_honor_three_continu_kill_RTP_65.bin 20543-20545
+/vendor/firmware/aw8697_honor_three_continu_kill_RTP_65_234Hz.bin 20546-20548
+/vendor/firmware/aw8697_honor_three_kill_RTP_62.bin 20549-20551
+/vendor/firmware/aw8697_honor_three_kill_RTP_62_234Hz.bin 20552-20553
+/vendor/firmware/aw8697_honor_two_kill_RTP_61.bin 20554
+/vendor/firmware/aw8697_honor_two_kill_RTP_61_234Hz.bin 20555
+/vendor/firmware/aw8697_honor_unstoppable_RTP_67.bin 20556-20559
+/vendor/firmware/aw8697_honor_unstoppable_RTP_67_234Hz.bin 20560-20562
+/vendor/firmware/aw8697_kill_program_RTP_47.bin 20563-20564
+/vendor/firmware/aw8697_kill_program_RTP_47_234Hz.bin 20565-20566
+/vendor/firmware/aw8697_listen_pop_53.bin 20567-20572
+/vendor/firmware/aw8697_listen_pop_53_230Hz.bin 20573-20578
+/vendor/firmware/aw8697_long_sound_channel_RTP_44.bin 20579-20584 0 0 0 0 0 20585-20591 0 0 0 0 0 20592-20598
+/vendor/firmware/aw8697_long_sound_channel_RTP_44_230Hz.bin 20599-20604 0 0 0 0 0 20605-20611 0 0 0 0 0 20612-20618
+/vendor/firmware/aw8697_long_sound_channel_RTP_44_234Hz.bin 20619-20624 0 0 0 0 0 20625-20631 0 0 0 0 0 20632-20638
+/vendor/firmware/aw8697_nfc_10_RTP_55.bin 20639-20642
+/vendor/firmware/aw8697_nfc_10_RTP_55_234Hz.bin 20643-20646
+/vendor/firmware/aw8697_old_steady_test_RTP_52_160Hz.bin 20647-20658
+/vendor/firmware/aw8697_old_steady_test_RTP_52_162Hz.bin 20659-20670
+/vendor/firmware/aw8697_old_steady_test_RTP_52_164Hz.bin 20671-20682
+/vendor/firmware/aw8697_old_steady_test_RTP_52_166Hz.bin 20683-20694
+/vendor/firmware/aw8697_old_steady_test_RTP_52_168Hz.bin 20695-20706
+/vendor/firmware/aw8697_old_steady_test_RTP_52_170Hz.bin 20707-20718
+/vendor/firmware/aw8697_old_steady_test_RTP_52_172Hz.bin 20719-20730
+/vendor/firmware/aw8697_old_steady_test_RTP_52_174Hz.bin 20731-20742
+/vendor/firmware/aw8697_old_steady_test_RTP_52_176Hz.bin 20743-20754
+/vendor/firmware/aw8697_old_steady_test_RTP_52_178Hz.bin 20755-20766
+/vendor/firmware/aw8697_old_steady_test_RTP_52_180Hz.bin 20767-20778
+/vendor/firmware/aw8697_old_steady_test_RTP_52_225Hz.bin 20779-20783 20779-20783 20779 20784
+/vendor/firmware/aw8697_old_steady_test_RTP_52_226Hz.bin 20785-20796
+/vendor/firmware/aw8697_old_steady_test_RTP_52_227Hz.bin 20797-20808
+/vendor/firmware/aw8697_realme_its_realme_RTP_500.bin 20905 0 20906 0 20907 0 0 20908 0 20909 0 20911-20914 0 0 0 20915 0 20916 0 0 20917 0 20918 0 20919-20922 0 20923 0 20924-20927 0 20928 0 20929-20935 0 0 20936 0 20937 0 0 20938 0 20939-20946 0 20947 0 20948 0 0 20949 0 20950-20955 0 0 0 20956 0 20957 0 0 20958 0 20959-20966 0 20967-20970 0 20971-20979 0 0 20980-20983 0 20984-20992
+/vendor/firmware/aw8697_old_steady_test_RTP_52_228Hz.bin 20809-20820
+/vendor/firmware/aw8697_old_steady_test_RTP_52_229Hz.bin 20821-20832
+/vendor/firmware/aw8697_old_steady_test_RTP_52_230Hz.bin 20833-20844
+/vendor/firmware/aw8697_old_steady_test_RTP_52_231Hz.bin 20845-20856
+/vendor/firmware/aw8697_old_steady_test_RTP_52_232Hz.bin 20857-20868
+/vendor/firmware/aw8697_old_steady_test_RTP_52_233Hz.bin 20869-20880
+/vendor/firmware/aw8697_old_steady_test_RTP_52_234Hz.bin 20881-20892
+/vendor/firmware/aw8697_old_steady_test_RTP_52_235Hz.bin 20893-20904
+/vendor/firmware/aw8697_realme_jingle_RTP_502.bin 20993-20996
+/vendor/firmware/aw8697_realme_tune_RTP_501.bin 20997-21003 0 0 21004-21005 0 21006-21008 0 21009-21010 0 0 0 0 0 0 21011 21013-21028 0 0 21029 0 21030 0 21031-21044 0 21045-21070 0 0 21071 0 21072 0 21073-21083 0 21084-21085 0 21086-21088 0 21089-21091 0 21092-21093
+/vendor/firmware/aw8697_rtp_lighthouse.bin 21094-21446
+/vendor/firmware/aw8697_short_channel_RTP_45.bin 21447-21473
+/vendor/firmware/aw8697_short_channel_RTP_45_234Hz.bin 21474-21500
+/vendor/firmware/aw8697_soldier_fifth_kill_RTP_104.bin 21501-21505
+/vendor/firmware/aw8697_soldier_fifth_kill_RTP_104_234Hz.bin 21506-21509
+/vendor/firmware/aw8697_soldier_first_kill_RTP_100.bin 21510-21511
+/vendor/firmware/aw8697_soldier_first_kill_RTP_100_234Hz.bin 21512
+/vendor/firmware/aw8697_soldier_fourth_kill_RTP_103.bin 21513-21516
+/vendor/firmware/aw8697_soldier_fourth_kill_RTP_103_234Hz.bin 21517-21519
+/vendor/firmware/aw8697_soldier_second_kill_RTP_101.bin 21520-21521
+/vendor/firmware/aw8697_soldier_second_kill_RTP_101_234Hz.bin 21522-21523
+/vendor/firmware/aw8697_soldier_third_kill_RTP_102.bin 21524-21526
+/vendor/firmware/aw8697_soldier_third_kill_RTP_102_234Hz.bin 21527-21528
+/vendor/firmware/aw8697_two_error_remaind_RTP_46.bin 21529-21530
+/vendor/firmware/aw8697_two_error_remaind_RTP_46_234Hz.bin 21531-21532
+/vendor/firmware/aw8697_vibrator_remain_12_RTP_56.bin 21533-21534
+/vendor/firmware/aw8697_vibrator_remain_12_RTP_56_234Hz.bin 21535-21536
+/vendor/firmware/aw8697_waltz_channel_RTP_41.bin 21537-21538 0 21539 0 21540-21543 0 21544-21546 0 21547
+/vendor/firmware/aw8697_waltz_channel_RTP_41_234Hz.bin 21549-21550 0 21551 0 21552-21555 0 21556-21558 0 21559
+/vendor/firmware/aw8697_weather_cloudy_RTP_coloros7_143.bin 0 0 0 0 0 0 21561-21581 0 21582-21593 0 21594-21601 0 21602-21622 0 21623 21625-21635 0 21636-21649 0 21650-21651 0 21652-21662
+/vendor/firmware/aw8697_weather_cloudy_RTP_coloros7_143_234Hz.bin 0 0 0 0 0 0 21663-21683 0 21684-21704 0 21705-21717 21676 21718 21720-21725 0 21726-21729 15352 21730-21736 0 21737-21749 21727 0 21750-21751 0 21752-21761
+/vendor/firmware/aw8697_weather_default_RTP_coloros7_145.bin 0 0 0 0 0 0 0 0 0 21762-21764 0 0 21765-21767 0 21768-21772 0 0 21773-21777 0 0 21778 21780-21782 0 21783-21787 0 0 0 0 0 21788-21790 0 21791-21793 0 0 21794 0 21795 0 21796-21799 0 21800 0 21801 0 0 21802-21805 0 21806 0 21807 0 21808-21811 0 21812-21814 0 21815-21818 0 21819-21823 0 0 21824-21827 0 21828 0 21829-21832 0 21833-21837 0 0 0 0 0 21838-21840 0 21841-21843 0 0 21844 0 21845 0 21846-21849 0 21850-21853 0 0 0 0 0 0 21854-21857
+/vendor/firmware/aw8697_weather_default_RTP_coloros7_145_234Hz.bin 0 0 0 0 0 0 0 0 0 21858-21860 0 0 21861-21863 0 21864-21868 0 0 21869-21873 0 0 21874 21876-21878 0 21879-21883 0 0 0 0 0 21884-21886 0 21887-21889 0 0 21890 0 21891 0 21892-21895 0 21896 0 21897 0 0 21898-21901 0 21902 0 21903 0 21904-21907 0 21908-21910 0 21911-21914 0 21915-21919 0 0 21920-21923 0 21924 0 21925-21928 0 21929-21933 0 0 0 0 0 21934-21936 0 21937-21939 0 0 21940 0 21941 0 21942-21945 0 21946-21950 0 0 0 0 0 21951-21954
+/vendor/firmware/aw8697_weather_rain_RTP_coloros7_149.bin 0 0 0 21955-21957 0 21958-21960 0 21961-21962 0 0 21963-21964 0 21965 21967-21974 0 0 21975-21977 0 21978 0 21979-21984 0 21985-21987 0 0 21988-21990 0 21991 0 21992-22000 0 0 22001-22003 0 22004 0 22005-22013
+/vendor/firmware/aw8697_weather_rain_RTP_coloros7_149_234Hz.bin 0 0 0 22014-22016 0 22017-22019 0 22020-22021 0 0 22022-22023 0 22024 22026-22033 0 0 22034-22036 0 22037 0 22038-22043 0 22044-22046 0 0 22047-22049 0 22050 0 22051-22059 0 0 22060-22062 0 22063 0 22064-22072
+/vendor/firmware/aw8697_weather_smog_RTP_coloros7_147.bin 0 0 0 0 22073-22076 0 22077 0 22078-22080 0 0 0 22081-22083 0 22084 22086-22088 0 0 22089-22095 0 22096-22099 0 22100-22102 0 0 22103-22106 0 22107 0 22108-22110 0 22111-22113 0 0 22114-22116 0 22117 0 22118-22120 0 22121-22122 0 0 22123-22129
+/vendor/firmware/aw8697_weather_smog_RTP_coloros7_147_234Hz.bin 0 0 0 0 22130-22133 0 22134 0 22135-22137 0 0 0 22138-22140 0 22141 22143-22145 0 0 22146-22152 0 22153-22156 0 22157-22159 0 0 22160-22163 0 22164 0 22165-22167 0 22168-22170 0 0 22171-22173 0 22174 0 22175-22177 0 22178-22179 0 0 22180-22185
+/vendor/firmware/aw8697_weather_snow_RTP_coloros7_148.bin 22186 0 22187 0 22188 0 22189-22192 0 0 0 22193 22195-22196 0 22197-22198 0 22199 0 22200 0 22201 0 22202-22205 0 0 0 22206 0 22207-22212 0 22213-22217 0 22218 0 0 0 0 22219 0 22220-22224 0 22225-22228 0 0 0 0 0 22229-22236 0 22237 0 22238-22239 0 0 0 22240 0 22241
+/vendor/firmware/aw8697_weather_snow_RTP_coloros7_148_234Hz.bin 22242 0 22243 0 22244 0 22245-22248 0 0 0 22249 22251-22252 0 22253-22254 0 22255 0 22256 0 22257 0 22258-22261 0 0 0 22262 0 22263-22268 0 22269-22273 0 22274-22275 0 0 0 22276 0 22277-22281 0 22282-22285 0 0 0 0 0 22286-22293 0 22294 0 22295-22296 0 0 0 22297 0 22298
+/vendor/firmware/aw8697_weather_sunny_RTP_coloros7_146.bin 0 0 0 22299-22300 0 22301-22302 0 22303-22309 0 0 0 0 0 22310-22313 0 0 0 0 0 0 0 0 0 0 22314 22316 0 22317-22318 0 22319-22325 0 0 0 0 0 0 0 22326-22328 0 22329-22332 0 0 0 0 0 22333-22336 0 0 0 0 0 22337-22339 0 22340-22344 0 0 22345-22347 0 0 0 22348-22359
+/vendor/firmware/aw8697_weather_sunny_RTP_coloros7_146_234Hz.bin 0 0 0 22360-22361 0 22362-22363 0 22364-22370 0 0 0 0 0 22371-22374 0 0 0 0 0 0 0 0 0 0 22375 22377 0 22378-22379 0 22380-22386 0 0 0 0 0 0 0 22387-22394 0 0 0 0 0 22395-22398 0 0 0 0 0 22399-22401 0 22402-22406 0 0 22407-22409 0 0 0 22410-22420
+/vendor/firmware/aw8697_weather_thunderstorm_RTP_coloros7_144.bin 0 0 22421-22424 0 0 22425 0 0 0 0 22426-22427 0 22428 0 22429 0 0 0 0 22431-22434 0 0 22435 0 0 0 22436-22437 0 0 22438-22441 0 0 22442-22446 0 22447 0 0 0 0 0 22448 0 0 0 22449-22452 0 0 22453-22455 0 0 22456-22457 0 0 22458-22460 0 0 0 22461
+/vendor/firmware/aw8697_weather_thunderstorm_RTP_coloros7_144_234Hz.bin 0 0 22462-22465 0 0 22466 0 0 0 0 22467-22468 0 22469 0 22470 0 0 0 0 22472-22475 0 0 22476 0 0 0 22477-22478 0 0 22479-22481 0 0 0 22482-22484 0 22485 0 22486 0 0 0 0 0 22487 0 0 0 22488-22490 0 0 0 22491-22493 0 0 22494-22495 0 0 22496-22497 16774 0 0 0 22498
+/vendor/firmware/aw8697_weather_wind_RTP_coloros7_142.bin 0 22499-22607
+/vendor/firmware/aw8697_weather_wind_RTP_coloros7_142_234Hz.bin 0 22608-22615 0 0 22616 0 22617-22624 0 0 0 22625 0 22626 22628-22629 0 22630-22631 0 22632-22633 0 22634-22635 0 0 0 0 22636-22638 0 0 0 22639-22640 0 22641 0 0 22642-22648 0 22649-22650 0 22651-22653 0 0 0 22654-22655 0 0 0 0 22656-22657 0 0 0 0 22658-22660
+/vendor/firmware/image/oppoeid.b00 22661
+/vendor/firmware/image/oppoeid.b01 22662-22663
+/vendor/firmware/image/oppoeid.b02 22664-22725
+/vendor/firmware/image/oppoeid.b03 22726
+/vendor/firmware/image/oppoeid.b04 22727-22730
+/vendor/firmware/image/oppoeid.b05 22731
+/vendor/firmware/image/oppoeid.b06 22732
+/vendor/firmware/image/oppoeid.b07 22733-22742
+/vendor/firmware/image/oppoeid.mdt 22743-22744
+/vendor/firmware/ipa_fws.b00 22745
+/vendor/firmware/ipa_fws.b01 22746-22747
+/vendor/firmware/ipa_fws.b02 22748-22753
+/vendor/firmware/ipa_fws.b03 22754
+/vendor/firmware/ipa_fws.b04 22755
+/vendor/firmware/ipa_fws.elf 22745-22755
+/vendor/firmware/ipa_fws.mdt 22756-22757
+/vendor/firmware/ipa_uc.b00 22758
+/vendor/firmware/ipa_uc.b01 22759 15087
+/vendor/firmware/ipa_uc.b02 22760-22769
+/vendor/firmware/ipa_uc.elf 22758-22759 15087 22760-22769
+/vendor/firmware/ipa_uc.mdt 22770 15090
+/vendor/firmware/ois_bu63169.coeff 22771
+/vendor/firmware/ois_bu63169.prog 22772-22773
+/vendor/firmware/ois_bu63169_sec.coeff 22774
+/vendor/firmware/ois_bu63169_sec.prog 22775-22776
+/vendor/firmware/sem1215s.bin 22777-22784
+/vendor/firmware/sem1215s_dvt4g.bin 22785-22792
+/vendor/firmware/sem1215s_dvt5g.bin 22793-22800
+/vendor/firmware/sem1215s_fixgyro.bin 22801-22808
+/vendor/firmware/sem1215s_ois_19710_dvt5g.bin 22809-22816
+/vendor/firmware/wigig/wigig.ini 22817-22818
+/vendor/lib/android.hardware.audio.common-util.so 22819-22820
+/vendor/lib/android.hardware.audio.common@2.0-util.so 22821-22824
+/vendor/lib/android.hardware.audio.common@4.0-util.so 22825 22822 22826 22824
+/vendor/lib/android.hardware.audio.common@5.0-util.so 22827 22822 22828 22824
+/vendor/lib/android.hardware.audio.common@6.0-util.so 22829-22832
+/vendor/lib/android.hardware.automotive.vehicle@2.0-manager-lib.so 22833-22865
+/vendor/lib/android.hardware.camera.provider@2.4-external.so 22866-22887
+/vendor/lib/android.hardware.camera.provider@2.4-legacy.so 22888-22925
+/vendor/lib/android.hardware.sensors@2.0-ScopedWakelock.so 22926-22927
+/vendor/lib/btaudio_offload_if.so 22928-22935
+/vendor/lib/camera/com.qti.sensor.gc2375h.so 22936-22937
+/vendor/lib/camera/com.qti.sensor.gc8054.so 22938
+/vendor/lib/camera/com.qti.sensor.hi846.so 22939-22940
+/vendor/lib/camera/com.qti.sensor.imx471.so 22941-22942
+/vendor/lib/camera/com.qti.sensor.imx616.so 22943-22944
+/vendor/lib/camera/com.qti.sensor.ov08a10.so 22945-22946
+/vendor/lib/camera/com.qti.sensor.ov32a1q.so 22947-22948
+/vendor/lib/camera/com.qti.sensor.s5k3m5sx.so 22949-22950
+/vendor/lib/camera/com.qti.sensor.s5kgw1.so 22951-22953
+/vendor/lib/camera/components/com.oppo.node.drawafinfo.so 22954-22971
+/vendor/lib/camera/components/com.oppo.node.oppoengmode.so 22972-22980
+/vendor/lib/camera/components/com.oppo.node.sstabdefer.so 22981-23004
+/vendor/lib/camera/components/com.oppo.node.sstabrealt.so 23005-23027
+/vendor/lib/camera/components/com.qti.camx.chiiqutils.so 23028-23034
+/vendor/lib/camera/components/com.qti.eisv2.so 23035-23051
+/vendor/lib/camera/components/com.qti.eisv3.so 23052-23088
+/vendor/lib/camera/components/com.qti.hvx.addconstant.so 23089-23090
+/vendor/lib/camera/components/com.qti.hvx.binning.so 23091-23092
+/vendor/lib/camera/components/com.qti.node.depth.so 23093-23095
+/vendor/lib/camera/components/com.qti.node.dummyrtb.so 23096-23098
+/vendor/lib/camera/components/com.qti.node.dummysat.so 23099-23102
+/vendor/lib/camera/components/com.qti.node.eisv2.so 23103-23114
+/vendor/lib/camera/components/com.qti.node.eisv3.so 23115-23127
+/vendor/lib/camera/components/com.qti.node.fcv.so 23128-23131
+/vendor/lib/camera/components/com.qti.node.gpu.so 23132-23144
+/vendor/lib/camera/components/com.qti.node.memcpy.so 23145-23148
+/vendor/lib/camera/components/com.qti.node.remosaic.so 23149-23153
+/vendor/lib/camera/components/com.qti.node.stich.so 23154-23156
+/vendor/lib/camera/components/com.qti.node.swregistration.so 23157-23159
+/vendor/lib/camera/components/com.qti.stats.aec.so 23160-23259
+/vendor/lib/camera/components/com.qti.stats.aecwrapper.so 23260-23262
+/vendor/lib/camera/components/com.qti.stats.af.so 23263-23318
+/vendor/lib/camera/components/com.qti.stats.afd.so 23319-23332
+/vendor/lib/camera/components/com.qti.stats.afwrapper.so 23333-23335
+/vendor/lib/camera/components/com.qti.stats.asd.so 23336-23341
+/vendor/lib/camera/components/com.qti.stats.awb.so 23342-23403
+/vendor/lib/camera/components/com.qti.stats.awbwrapper.so 23404-23407
+/vendor/lib/camera/components/com.qti.stats.haf.so 23408-23469
+/vendor/lib/camera/components/com.qti.stats.hafoverride.so 23470-23473
+/vendor/lib/camera/components/com.qti.stats.localhistogram.so 23474-23480
+/vendor/lib/camera/components/com.qti.stats.pdlib.so 23481-23566
+/vendor/lib/camera/components/com.qti.stats.pdlibsony.so 23567-23572
+/vendor/lib/camera/components/com.qti.stats.pdlibwrapper.so 23573-23574
+/vendor/lib/camera/components/com.qtistatic.stats.aec.so 23575-23577
+/vendor/lib/camera/components/com.qtistatic.stats.af.so 23578-23580
+/vendor/lib/camera/components/com.qtistatic.stats.awb.so 23581-23584
+/vendor/lib/camera/components/com.qtistatic.stats.pdlib.so 23585-23586
+/vendor/lib/camera/components/libdepthmapwrapper.so 23587-23588
+/vendor/lib/camera.device@1.0-impl.so 23589-23623
+/vendor/lib/camera.device@3.2-impl.so 23624-23669
+/vendor/lib/camera.device@3.3-impl.so 23670-23676
+/vendor/lib/camera.device@3.4-external-impl.so 23677-23752
+/vendor/lib/camera.device@3.4-impl.so 23753-23783
+/vendor/lib/camera.device@3.5-external-impl.so 23784-23814
+/vendor/lib/camera.device@3.5-impl.so 23815-23851
+/vendor/lib/camera.device@3.6-external-impl.so 23852-23896
+/vendor/lib/carwatchdog_aidl_interface-V2-ndk_platform.so 23897-23908
+/vendor/lib/com.dsi.ant@1.0.so 23909-23931
+/vendor/lib/com.qualcomm.qti.bluetooth_audio@1.0.so 23932-23961
+/vendor/lib/com.qualcomm.qti.dpm.api@1.0.so 23962-23999
+/vendor/lib/com.qualcomm.qti.imscmservice@1.0.so 24000-24045
+/vendor/lib/com.qualcomm.qti.imscmservice@2.0.so 24046-24093
+/vendor/lib/com.qualcomm.qti.imscmservice@2.1.so 24094-24140
+/vendor/lib/com.qualcomm.qti.imscmservice@2.2.so 24141-24173
+/vendor/lib/com.qualcomm.qti.uceservice@2.0.so 24174-24244
+/vendor/lib/com.qualcomm.qti.uceservice@2.1.so 24245-24310
+/vendor/lib/com.qualcomm.qti.uceservice@2.2.so 24311-24373
+/vendor/lib/egl/eglSubDriverAndroid.so 24374-24384
+/vendor/lib/egl/libEGL_adreno.so 24385-24390
+/vendor/lib/egl/libGLESv1_CM_adreno.so 24391-24436
+/vendor/lib/egl/libGLESv2_adreno.so 24437-25165
+/vendor/lib/egl/libq3dtools_adreno.so 25166-25206
+/vendor/lib/egl/libq3dtools_esx.so 25207-25440
+/vendor/lib/ese_client.so 25441-25450
+/vendor/lib/ese_spi_nxp_nq330.so 25451-25474
+/vendor/lib/ftm_fm_lib.so 25475-25486
+/vendor/lib/hal_libnfc.so 25487-25549
+/vendor/lib/hw/android.hardware.audio.effect@2.0-impl.so 25550-25601
+/vendor/lib/hw/android.hardware.audio.effect@4.0-impl.so 25602-25653
+/vendor/lib/hw/android.hardware.audio.effect@5.0-impl.so 25654-25685 25634-25650 25686-25688
+/vendor/lib/hw/android.hardware.audio.effect@6.0-impl.so 25689-25740
+/vendor/lib/hw/android.hardware.audio@2.0-impl.so 25741-25776
+/vendor/lib/hw/android.hardware.audio@4.0-impl.so 25777-25813
+/vendor/lib/hw/android.hardware.audio@5.0-impl.so 25814-25850
+/vendor/lib/hw/android.hardware.audio@6.0-impl.so 25851-25889
+/vendor/lib/hw/android.hardware.bluetooth.audio@2.0-impl.so 25890-25907
+/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so 25908-25972
+/vendor/lib/hw/android.hardware.broadcastradio@1.0-impl.so 25973-25979
+/vendor/lib/hw/android.hardware.camera.provider@2.4-impl.so 25980-25983
+/vendor/lib/hw/android.hardware.contexthub@1.0-impl.generic.so 25984-25998
+/vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so 25999-26005
+/vendor/lib/hw/android.hardware.gnss@2.1-impl-qti.so 26006-26074
+/vendor/lib/hw/android.hardware.graphics.mapper@3.0-impl-qti-display.so 26075-26083
+/vendor/lib/hw/android.hardware.graphics.mapper@4.0-impl-qti-display.so 26084-26098
+/vendor/lib/hw/android.hardware.health@2.0-impl-2.1-qti.so 26099-26113
+/vendor/lib/hw/android.hardware.health@2.0-impl-2.1.so 26114-26127
+/vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so 26128-26150
+/vendor/lib/hw/android.hardware.memtrack@1.0-impl.so 26151-26153
+/vendor/lib/hw/android.hardware.renderscript@1.0-impl.so 26154-26164
+/vendor/lib/hw/android.hardware.soundtrigger@2.1-impl.so 26165-26170
+/vendor/lib/hw/audio.bluetooth.default.so 26171-26187
+/vendor/lib/hw/audio.bluetooth_qti.default.so 26188-26189
+/vendor/lib/hw/audio.primary.default.so 26190-26192
+/vendor/lib/hw/audio.primary.msmnile.so 26193-26372
+/vendor/lib/hw/audio.r_submix.default.so 26373-26378
+/vendor/lib/hw/audio.usb.default.so 26379-26382
+/vendor/lib/hw/camera.qcom.so 26383-28010
+/vendor/lib/hw/com.dsi.ant@1.0-impl.so 28011-28015
+/vendor/lib/hw/com.qti.chi.override.so 28016-28520
+/vendor/lib/hw/gralloc.default.so 28521-28524
+/vendor/lib/hw/gralloc.msmnile.so 28525-28532
+/vendor/lib/hw/hwcomposer.msmnile.so 28533-28609
+/vendor/lib/hw/lights.msmnile.so 28610-28611
+/vendor/lib/hw/local_time.default.so 28612-28613
+/vendor/lib/hw/memtrack.msmnile.so 28614-28615
+/vendor/lib/hw/power.default.so 28616
+/vendor/lib/hw/sound_trigger.primary.msmnile.so 28617-28658
+/vendor/lib/hw/vendor.qti.gnss@4.0-impl.so 28659-28749
+/vendor/lib/hw/vendor.qti.hardware.alarm@1.0-impl.so 28750-28752
+/vendor/lib/hw/vendor.qti.hardware.audiohalext@1.0-impl.so 28753-28758
+/vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so 28759-28774
+/vendor/lib/hw/vendor.qti.hardware.bluetooth_sar@1.1-impl.so 28775-28781
+/vendor/lib/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so 28782-28785
+/vendor/lib/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so 28786-28789
+/vendor/lib/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so 28790-28794
+/vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so 28795-28806
+/vendor/lib/hw/vendor.qti.hardware.qccvndhal@1.0-impl.so 28807-28809
+/vendor/lib/hw/vendor.qti.hardware.qseecom@1.0-impl.so 28810-28817
+/vendor/lib/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so 28818-28831
+/vendor/lib/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so 28832-28835
+/vendor/lib/hw/vendor.qti.hardware.servicetracker@1.2-impl.so 28836-28847
+/vendor/lib/hw/vendor.qti.hardware.soter@1.0-impl.so 28848-28853
+/vendor/lib/hw/vendor.qti.power.pasrmanager@1.0-impl.so 28854-28856
+/vendor/lib/hw/vibrator.default.so 28857-28858
+/vendor/lib/hw/vulkan.adreno.so 28859-29212
+/vendor/lib/lib-imscmservice.so 29213-29256
+/vendor/lib/lib-imsdpl.so 29257-29394
+/vendor/lib/lib-imsqimf.so 29395-29451
+/vendor/lib/lib-imsrcs-v2.so 29452-29559
+/vendor/lib/lib-imsrcsbaseimpl.so 29560-29583
+/vendor/lib/lib-imsvtcore.so 29584-29648
+/vendor/lib/lib-imsxml.so 29649-29681
+/vendor/lib/lib-rcsconfig.so 29682-29721
+/vendor/lib/lib-rtpcommon.so 29722-29727
+/vendor/lib/lib-rtpcore.so 29728-29841
+/vendor/lib/lib-rtpsl.so 29842-29865 0 0 0 0 0 0 0 29866
+/vendor/lib/lib-siputility.so 29867-29890
+/vendor/lib/lib-uceservice.so 29891-29946
+/vendor/lib/libAlacSwDec.so 29947-29956
+/vendor/lib/libApeSwDec.so 29957-29964
+/vendor/lib/libC2D2.so 29965-30000
+/vendor/lib/libCB.so 30001-30579
+/vendor/lib/libDeVIS.so 30580-30595
+/vendor/lib/libEIS.so 30596-30632
+/vendor/lib/libFileMux_proprietary.so 30633-30678
+/vendor/lib/libFlacSwDec.so 30679-30684
+/vendor/lib/libGPQTEEC_vendor.so 30685-30688
+/vendor/lib/libGPTEE_vendor.so 30689-30692
+/vendor/lib/libGPreqcancel.so 30693-30696
+/vendor/lib/libGPreqcancel_svc.so 30697-30700
+/vendor/lib/libI420colorconvert.so 30701
+/vendor/lib/libMpeg4SwEncoder.so 30702-30737
+/vendor/lib/libOGLManager.so 30738-30746
+/vendor/lib/libOmxAacDec.so 30747-30761
+/vendor/lib/libOmxAacEnc.so 30762-30770
+/vendor/lib/libOmxAlacDec.so 30771-30782
+/vendor/lib/libOmxAlacDecSw.so 30783-30796
+/vendor/lib/libOmxAmrDec.so 30797-30807
+/vendor/lib/libOmxAmrEnc.so 30808-30818
+/vendor/lib/libOmxAmrwbplusDec.so 30819-30830
+/vendor/lib/libOmxApeDec.so 30831-30842
+/vendor/lib/libOmxApeDecSw.so 30843-30855
+/vendor/lib/libOmxCore.so 30856-30861
+/vendor/lib/libOmxDsdDec.so 30862-30874
+/vendor/lib/libOmxEvrcDec.so 30875-30905
+/vendor/lib/libOmxEvrcEnc.so 30906-30916
+/vendor/lib/libOmxG711Dec.so 30917-30927
+/vendor/lib/libOmxG711Enc.so 30928-30938
+/vendor/lib/libOmxQcelp13Dec.so 30939-30968
+/vendor/lib/libOmxQcelp13Enc.so 30969-30979
+/vendor/lib/libOmxSwVdec.so 30980-30998
+/vendor/lib/libOmxSwVencMpeg4.so 30999-31044
+/vendor/lib/libOmxVdec.so 31045-31103
+/vendor/lib/libOmxVenc.so 31104-31174
+/vendor/lib/libOmxVideoDSMode.so 31175-31206
+/vendor/lib/libOmxVpp.so 31207-31231
+/vendor/lib/libOmxWmaDec.so 31232-31243
+/vendor/lib/libOpenCL.so 31244-31262
+/vendor/lib/libQSEEComAPI.so 31263-31270
+/vendor/lib/libQTEEConnector_vendor.so 31271-31276
+/vendor/lib/libSEC.HybridHDR.so 31277-31310
+/vendor/lib/libSecureUILib.so 31311-31313
+/vendor/lib/libSonyIMX471RmscLibrary.so 31314-31339
+/vendor/lib/libStDrvInt.so 31340-31343
+/vendor/lib/libTouchInputVM.so 31344-31348
+/vendor/lib/libTrustedInput.so 31349-31350
+/vendor/lib/libTrustedInputTZ.so 31351-31358
+/vendor/lib/libTrustedUI.so 31359-31360
+/vendor/lib/libTrustedUITZ.so 31361-31384
+/vendor/lib/libVkLayer_q3dtools.so 31385-31796
+/vendor/lib/liba2dpoffload.so 31797-31804
+/vendor/lib/libacdb-fts.so 31805-31806
+/vendor/lib/libacdbloader.so 31807-31830
+/vendor/lib/libacdbrtac.so 31831-31835
+/vendor/lib/libadiertac.so 31836-31839
+/vendor/lib/libadm.so 31840-31845
+/vendor/lib/libadpcmdec.so 31846-31854
+/vendor/lib/libadreno_app_profiles.so 31855-31994
+/vendor/lib/libadreno_utils.so 31995-32009
+/vendor/lib/libadsp_default_listener.so 32010-32011
+/vendor/lib/libadsprpc.so 32012-32060
+/vendor/lib/libalsautils.so 32061-32064
+/vendor/lib/libaoa.so 32065-32073
+/vendor/lib/libarbitrarybytes.so 32074-32079
+/vendor/lib/libarcsoft_blink_detection_CoupleDis.so 32080-32767 32827-33558
+/vendor/lib/libarcsoft_detection_base_CoupleDis.so 33559-33562
+/vendor/lib/libarm_proxy_skel.so 33563-33566
+/vendor/lib/libasn1cper.so 33567-33587
+/vendor/lib/libasn1crt.so 33588-33617
+/vendor/lib/libasn1crtx.so 33618-33664
+/vendor/lib/libaudcal.so 33665-33704
+/vendor/lib/libaudio_log_utils.so 33705-33707
+/vendor/lib/libaudioalsa.so 33708-33710
+/vendor/lib/libaudioconfigstore.so 33711-33715
+/vendor/lib/libaudioparsers.so 33716-33718
+/vendor/lib/libavservices_minijail.so 33719-33721
+/vendor/lib/libbase64.so 33722-33723
+/vendor/lib/libbatching.so 33724-33733
+/vendor/lib/libbatterylistener.so 33734-33739
+/vendor/lib/libbluetooth_audio_session.so 33740-33755
+/vendor/lib/libbt-hidlclient.so 33792-33798
+/vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so 72457-72516
+/vendor/lib/rfsa/adsp/capi_v2_dap_cpdp.so 72517-72672
+/vendor/lib/rfsa/adsp/libVC1Dec.so 72673-72726
+/vendor/lib/rfsa/adsp/libVC1DecDsp_skel.so 72727-72728 72675 72729-72741
+/vendor/lib/rfsa/adsp/libVDHexagonSuperPhoto_skel.so 72742-72754
+/vendor/lib/rfsa/adsp/libapps_mem_heap.so 72755-72756 72675 72757-72766
+/vendor/lib/rfsa/adsp/libarcsoft_dualcam_refocus_skel.so 72767-72816 72816 72816-72818 72818 72818 72818 72818 72818 72818 72818 72820 31403 31403 31403 31403 31403 31403 31403 31403 31403 72821-72826
+/vendor/lib/rfsa/adsp/libcamera_nn_skel.so 72827-72999
+/vendor/lib/rfsa/adsp/libcvpdsp_skel.so 73000-73001 72675 73002-73065
+/vendor/lib/rfsa/adsp/libdspCV_skel.so 73066-73067 72675 73068-73073
+/vendor/lib/rfsa/adsp/libdsp_streamer_add_constant.so 73074-73075 72675 73076-73078
+/vendor/lib/rfsa/adsp/libdsp_streamer_binning.so 73079-73080 72675 73081-73083
+/vendor/lib/rfsa/adsp/libdsp_streamer_skel.so 73084-73085 72675 73086-73092
+/vendor/lib/rfsa/adsp/libfastcvadsp.so 73093-73094 72675 73095-73455
+/vendor/lib/rfsa/adsp/libfastcvdsp_skel.so 73456-73457 72675 73458-73606
+/vendor/lib/rfsa/adsp/libhexagon_nn_skel.so 73607-73608 72829 73609-73890
+/vendor/lib/rfsa/adsp/libproxy_skel.so 73891-73907
+/vendor/lib/rfsa/adsp/libscveObjectSegmentation_skel.so 73908-73909 72675 73910-73915
+/vendor/lib/rfsa/adsp/libscveT2T_skel.so 73916-73917 72675 73918-73995
+/vendor/lib/rfsa/adsp/libsnpe_dsp_v66_domains_v2_skel.so 73996-73997 72829 73998-74330
+/vendor/lib/rfsa/adsp/libsns_device_mode_skel.so 74331-74332 72675 74333-74335
+/vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so 74336-74337 72675 74338-74342
+/vendor/lib/libbluetooth_audio_session_qti.so 33756-33791
+/vendor/lib/libbtnv.so 33799-33800
+/vendor/lib/libc2d30_bltlib.so 33801-33926
+/vendor/lib/libc2dcolorconvert.so 33927-33930
+/vendor/lib/libcacertclient.so 33931-33935
+/vendor/lib/libcamera2ndk_vendor.so 33936-33978
+/vendor/lib/libcamera_nn_stub.so 33979-33984
+/vendor/lib/libcamxfdalgov7.so 33985-34362
+/vendor/lib/libcamxfdalgov8.so 34363-34806
+/vendor/lib/libcamxfdengine.so 34807-34879
+/vendor/lib/libcamxstatscore.so 34880
+/vendor/lib/libcamxswprocessalgo.so 34881-34883
+/vendor/lib/libcamxtintlessalgo.so 34884-34899
+/vendor/lib/libcapiv2svacnn.so 34900-35013
+/vendor/lib/libcapiv2vop.so 35014-35102
+/vendor/lib/libcdfw.so 35103-35136
+/vendor/lib/libcdfw_remote_api.so 35137-35148
+/vendor/lib/libcdsp_default_listener.so 35149-35150
+/vendor/lib/libcdsprpc.so 35151-35153 32015-32029 35154-35184
+/vendor/lib/libcert_parse.wpa_s.so 35185-35208
+/vendor/lib/libchrome.so 35209-35434
+/vendor/lib/libcirrusspkrprot.so 35435-35438
+/vendor/lib/libcld80211.so 35439-35441
+/vendor/lib/libcne.so 35442-35659
+/vendor/lib/libcneapiclient.so 35660-35681
+/vendor/lib/libcneoplookup.so 35682-35683
+/vendor/lib/libcneqmiutils.so 35684
+/vendor/lib/libcodec2_hidl@1.0.so 35685-35734
+/vendor/lib/libcodec2_vndk.so 35735-35851
+/vendor/lib/libcom.oppo.calidatacontainer.so 35852-35853
+/vendor/lib/libcom.qti.chinodeutils.so 35854-35856
+/vendor/lib/libcomprcapture.so 35857
+/vendor/lib/libconfigdb.so 35858-35863
+/vendor/lib/libcpion.so 35864-35865
+/vendor/lib/libcppf.so 35866-35867
+/vendor/lib/libcryptfshwcommon.so 35868-35869
+/vendor/lib/libcryptfshwhidl.so 35870-35872
+/vendor/lib/libcvface_api.so 35873-39659
+/vendor/lib/libcvp.so 39660-39675
+/vendor/lib/libcvp_common.so 39676-39677
+/vendor/lib/libcvp_stub.so 39678-39684
+/vendor/lib/libcvpcpuRev_skel.so 39685-39697
+/vendor/lib/libdataitems.so 39698-39734
+/vendor/lib/libdiag.so 39735-39778
+/vendor/lib/libdiagjni.so 39779-39781
+/vendor/lib/libdisp-aba.so 39782-39822
+/vendor/lib/libdisplayconfig.qti.so 39823-39840
+/vendor/lib/libdisplaydebug.so 39841
+/vendor/lib/libdisplayqos.so 39842-39847
+/vendor/lib/libdpmqmihal.so 39848-39854
+/vendor/lib/libdpps.so 39855-39947
+/vendor/lib/libdrc.so 39948-39962
+/vendor/lib/libdrm.so 39963-39976
+/vendor/lib/libdrmfs.so 39977-39983
+/vendor/lib/libdrmtime.so 39984-39986
+/vendor/lib/libdrmutils.so 39987-39989
+/vendor/lib/libdsd2pcm.so 39990-39996
+/vendor/lib/libdsi_netctrl.so 39997-40099
+/vendor/lib/libdsutils.so 40100-40116
+/vendor/lib/libeffects.so 40117-40121
+/vendor/lib/libeffectsconfig.so 40122-40127
+/vendor/lib/libexthwplugin.so 40128-40132
+/vendor/lib/libfastcrc.so 40133-40136
+/vendor/lib/libfastcvdsp_stub.so 40137-40188
+/vendor/lib/libfastcvopt.so 40189-40215 31403 31403 40216-41043 0 0 41044 41046 41046-41047 0 0 0 41048-41788
+/vendor/lib/libfastrpc_utf_stub.so 41789-41792
+/vendor/lib/libgarden.so 41793-41863
+/vendor/lib/libgcs-calwrapper.so 41864-41866
+/vendor/lib/libgcs-ipc.so 41867-41870
+/vendor/lib/libgcs-osal.so 41871-41873
+/vendor/lib/libgcs.so 41874-41879
+/vendor/lib/libgdtap.so 41880-41894
+/vendor/lib/libgeofencing.so 41895-41903
+/vendor/lib/libgnss.so 41904-41958
+/vendor/lib/libgnsspps.so 41959-41960
+/vendor/lib/libgps.utils.so 41961-41993
+/vendor/lib/libgpu_tonemapper.so 41994-42003
+/vendor/lib/libgpudataproducer.so 42004-42270
+/vendor/lib/libgralloc.qti.so 42271-42275
+/vendor/lib/libgralloccore.so 42276-42289
+/vendor/lib/libgrallocutils.so 42290-42296
+/vendor/lib/libgsl.so 42297-42774
+/vendor/lib/libgui_vendor.so 42775-42948
+/vendor/lib/libhbtpclient.so 42949-42967
+/vendor/lib/libhbtpdsp.so 42968-42993
+/vendor/lib/libhbtpfrmwk.so 42994-43033
+/vendor/lib/libhdcp1prov.so 43034-43035
+/vendor/lib/libhdcp2p2prov.so 43036-43037
+/vendor/lib/libhdcpsrm.so 43038-43039
+/vendor/lib/libhdmiedid.so 43040-43041
+/vendor/lib/libhdmipassthru.so 43042-43045
+/vendor/lib/libhdr_tm.so 43046-43105
+/vendor/lib/libhdrdynamic.so 43106-43119
+/vendor/lib/libhdrdynamicootf.so 43120-43121
+/vendor/lib/libhfp.so 43122-43125
+/vendor/lib/libhidltransport.so 43126
+/vendor/lib/libhta_hexagon_runtime.so 43127-43142 31403 43143-43534
+/vendor/lib/libhvx_proxy_stub.so 43535-43542
+/vendor/lib/libhwbinder.so 43543
+/vendor/lib/libidl.so 43544-43546
+/vendor/lib/libizat_client_api.so 43547-43575
+/vendor/lib/libizat_core.so 43576-43615
+/vendor/lib/libjnihelper.so 43616-43626
+/vendor/lib/libjson.so 43627-43634
+/vendor/lib/libkeymasterdeviceutils.so 43635-43637
+/vendor/lib/libkeymasterprovision.so 43638-43648
+/vendor/lib/libkeymasterutils.so 43649-43654
+/vendor/lib/liblbs_core.so 43655-43682
+/vendor/lib/liblistensoundmodel2.so 43683-44123
+/vendor/lib/libllvm-glnext.so 44124-44285 44284 44286 44284 44287 44284 44289-46559
+/vendor/lib/libllvm-qcom.so 46560-47536 0 47537-48230 48229 48231 48229 48233 48229 48234-48307 0 0 0 0 0 0 0 48308-52136
+/vendor/lib/libloc_api_v02.so 52137-52206
+/vendor/lib/libloc_core.so 52207-52270
+/vendor/lib/libloc_socket.so 52271-52276
+/vendor/lib/liblocation_api.so 52277-52295
+/vendor/lib/liblocationservice.so 52296-52430
+/vendor/lib/liblocationservice_glue.so 52431-52439
+/vendor/lib/liblowi_client.so 52440-52502
+/vendor/lib/liblowi_wifihal.so 52503-52534
+/vendor/lib/liblqe.so 52535-52544
+/vendor/lib/libmdmdetect.so 52545-52547
+/vendor/lib/libmdsprpc.so 52548-52550 32015-32029 52551-52581
+/vendor/lib/libmidasserviceintf.so 52582-52586
+/vendor/lib/libminkdescriptor.so 52587-52592
+/vendor/lib/libminksocket.so 52593-52598
+/vendor/lib/libmiracast.so 52599-52602
+/vendor/lib/libmm-color-convertor.so 52603-52606
+/vendor/lib/libmm-hdcpmgr.so 52607-52613
+/vendor/lib/libmm-omxcore.so 52614-52618
+/vendor/lib/libmmosal.so 52619-52625
+/vendor/lib/libmmrtpdecoder_proprietary.so 52626-52645
+/vendor/lib/libmmrtpencoder_proprietary.so 52646-52658
+/vendor/lib/libmpbase.so 52659-52660
+/vendor/lib/libmulawdec.so 52661
+/vendor/lib/libnative-api.so 52662-52663
+/vendor/lib/libnbaio_mono.so 52664-52666
+/vendor/lib/libnetmgr.so 52667-52698
+/vendor/lib/libnetmgr_common.so 52699-52707
+/vendor/lib/libnetmgr_nr_fusion.so 52708-52710
+/vendor/lib/libnetmgr_rmnet_ext.so 52711-52714
+/vendor/lib/libnlnetmgr.so 52715-52718
+/vendor/lib/libnpu.so 52719-52742 31403 52743-53213
+/vendor/lib/libocam_common.so 53214-53244
+/vendor/lib/liboemaids_vendor.so 53245
+/vendor/lib/libopenvx.so 53246-53278 31403 31403 31403 53279 53281-53443 40311-40318 53444-53723 41022 53724-54092 0 54093-54094 54094 54094-54097 0 0 0 54098-54852
+/vendor/lib/libops.so 54853-54856
+/vendor/lib/libopus.so 54857-54939
+/vendor/lib/libp61-jcop-kit.so 54940-54948
+/vendor/lib/libpdmapper.so 54949-54950
+/vendor/lib/libpdnotifier.so 54951-54953
+/vendor/lib/libperfconfig.so 54954-54958
+/vendor/lib/libperfgluelayer.so 54959-54962
+/vendor/lib/libperfioctl.so 54963
+/vendor/lib/libperipheral_client.so 54964-54973
+/vendor/lib/libplatformconfig.so 54974-54977
+/vendor/lib/libpsi.so 55468-55469
+/vendor/lib/libprotobuf-cpp-full-3.9.1.so 54978-54997 31403 54998-55379
+/vendor/lib/libprotobuf-cpp-lite-3.9.1.so 55380-55467
+/vendor/lib/libpvr.so 55470-55471
+/vendor/lib/libqcbor.so 55472-55474
+/vendor/lib/libqcc_file_agent.so 55475-55478
+/vendor/lib/libqcci_legacy.so 55479-55481
+/vendor/lib/libqcmaputils.so 55482-55485
+/vendor/lib/libqcodec2.so 55486-55664
+/vendor/lib/libqcrilFramework.so 55665-55772
+/vendor/lib/libqcrildatactl.so 55773-55777
+/vendor/lib/libqdMetaData.so 55778-55782
+/vendor/lib/libqdi.so 55783-55809
+/vendor/lib/libqdma_file_agent.so 55810-55813
+/vendor/lib/libqdp.so 55814-55840
+/vendor/lib/libqdutils.so 55841-55845
+/vendor/lib/libqisl.so 55846-55849
+/vendor/lib/libqmi.so 55850-55895
+/vendor/lib/libqmi_cci.so 55896-55904
+/vendor/lib/libqmi_client_helper.so 55905-55907
+/vendor/lib/libqmi_client_qmux.so 55908-55914
+/vendor/lib/libqmi_common_so.so 55915
+/vendor/lib/libqmi_csi.so 55916-55921
+/vendor/lib/libqmi_csvt_srvc.so 55922-55927
+/vendor/lib/libqmi_encdec.so 55928-55930
+/vendor/lib/libqmi_legacy.so 55931-55976
+/vendor/lib/libqmiservices.so 55977-56004
+/vendor/lib/libqrtr.so 56005-56006
+/vendor/lib/libqsap_sdk.so 56007-56017
+/vendor/lib/libqseed3.so 56018-56043
+/vendor/lib/libqservice.so 56044-56052
+/vendor/lib/libqsocket.so 56053
+/vendor/lib/libqti-iopd-client.so 56054-56056
+/vendor/lib/libqti-iopd.so 56057-56089
+/vendor/lib/libqti-perfd-client.so 56090-56094
+/vendor/lib/libqti-perfd.so 56095-56130
+/vendor/lib/libqti-util.so 56131-56133
+/vendor/lib/libqti-utils.so 56134
+/vendor/lib/libqti_vndfwk_detect.so 56135
+/vendor/lib/libqtigef.so 56136-56139
+/vendor/lib/libqtikeymaster4.so 56140-56166
+/vendor/lib/librcc.so 56167-56180
+/vendor/lib/librecovery_updater_msm.so 56181-56187
+/vendor/lib/libreference-ril.so 56188-56206
+/vendor/lib/libril-qc-hal-qmi.so 56207-56293 31403 31403 31403 31403 31403 31403 31403 31403 31403 56295-60503 0 0 0 0 0 60504-60505 60505 60505 60505 60505 60505 60505 60505-61067
+/vendor/lib/libril-qc-logger.so 61068-61075
+/vendor/lib/libril-qc-ltedirectdisc.so 61076-61077
+/vendor/lib/libril-qc-radioconfig.so 61078
+/vendor/lib/libril-qcril-hook-oem.so 61079
+/vendor/lib/libril.so 61080-61133
+/vendor/lib/librilqmiservices.so 61134-61135
+/vendor/lib/librilutils.so 61136-61137
+/vendor/lib/librmnetctl.so 61138-61142
+/vendor/lib/librmp.so 61143-61145
+/vendor/lib/librpmb.so 61146-61154
+/vendor/lib/libscveCommon.so 61155-61158
+/vendor/lib/libscveCommon_stub.so 61159-61160
+/vendor/lib/libscveObjectSegmentation.so 61161-61209
+/vendor/lib/libscveObjectSegmentation_stub.so 61210-61211
+/vendor/lib/libscveObjectTracker.so 61212-61282
+/vendor/lib/libscveObjectTracker_stub.so 61283-61287
+/vendor/lib/libsdedrm.so 61288-61339
+/vendor/lib/libsdm-color.so 61340-61392
+/vendor/lib/libsdm-colormgr-algo.so 61393-61401
+/vendor/lib/libsdm-diag.so 61402-61424
+/vendor/lib/libsdm-disp-vndapis.so 61425-61443
+/vendor/lib/libsdmcore.so 61444-61549
+/vendor/lib/libsdmextension.so 61550-61649
+/vendor/lib/libsdmutils.so 61650-61654
+/vendor/lib/libsdsprpc.so 61655-61656 35153 32015-32029 35154-35155 61657 61659-61663 35162-35168 61664-61665 35171-35181 61666-61668
+/vendor/lib/libsecureui.so 61669-61676
+/vendor/lib/libsecureui_svcsock.so 61677-61684
+/vendor/lib/libsensorcal.so 61685-61699
+/vendor/lib/libsensorndkbridge.so 61700-61709
+/vendor/lib/libsensorslog.so 61710
+/vendor/lib/libsettings.so 61711-61753
+/vendor/lib/libsi.so 61754-61759
+/vendor/lib/libskewknob.so 61760-61764
+/vendor/lib/libsmemlog.so 61765
+/vendor/lib/libsmwrapper.so 61766-61767
+/vendor/lib/libsndmonitor.so 61768-61770
+/vendor/lib/libsns_device_mode_stub.so 61771-61772
+/vendor/lib/libsns_fastRPC_util.so 61773-61774
+/vendor/lib/libsns_low_lat_stream_stub.so 61775-61776
+/vendor/lib/libsns_registry_skel.so 61777-61778
+/vendor/lib/libsnsapi.so 61779-61797 31403 61798-62007
+/vendor/lib/libsnsdiaglog.so 62008-62011
+/vendor/lib/libsoc_helper.so 62012-62013
+/vendor/lib/libsoc_helper_jni.so 62014-62015
+/vendor/lib/libspcom.so 62016-62024
+/vendor/lib/libspkrprot.so 62025-62032
+/vendor/lib/libspl.so 62033-62034
+/vendor/lib/libssc.so 62035-62054
+/vendor/lib/libssc_default_listener.so 62055-62056
+/vendor/lib/libssd.so 62057-62058
+/vendor/lib/libssrec.so 62059-62062
+/vendor/lib/libstagefright_amrnb_common.so 62063-62079
+/vendor/lib/libstagefright_bufferpool@2.0.1.so 62080-62112
+/vendor/lib/libstagefright_enc_common.so 62113
+/vendor/lib/libstagefright_flacdec.so 62114-62137
+/vendor/lib/libstagefright_soft_aacdec.so 62138-62297
+/vendor/lib/libstagefright_soft_aacenc.so 62298-62404
+/vendor/lib/libstagefright_soft_amrdec.so 62405-62432
+/vendor/lib/libstagefright_soft_amrnbenc.so 62433-62454
+/vendor/lib/libstagefright_soft_amrwbenc.so 62455-62488
+/vendor/lib/libstagefright_soft_avcdec.so 62489-62573
+/vendor/lib/libstagefright_soft_avcenc.so 62574-62649
+/vendor/lib/libstagefright_soft_flacdec.so 62650-62653
+/vendor/lib/libstagefright_soft_flacenc.so 62654-62686
+/vendor/lib/libstagefright_soft_g711dec.so 62687-62690
+/vendor/lib/libstagefright_soft_gsmdec.so 62691-62696
+/vendor/lib/libstagefright_soft_hevcdec.so 62697-62807
+/vendor/lib/libstagefright_soft_mp3dec.so 62808-62825
+/vendor/lib/libstagefright_soft_mpeg2dec.so 62826-62853
+/vendor/lib/libstagefright_soft_mpeg4dec.so 62854-62880
+/vendor/lib/libstagefright_soft_mpeg4enc.so 62881-62916
+/vendor/lib/libstagefright_soft_opusdec.so 62917-62921
+/vendor/lib/libstagefright_soft_qtiflacdec.so 62922-62927
+/vendor/lib/libstagefright_soft_rawdec.so 62928-62930
+/vendor/lib/libstagefright_soft_vorbisdec.so 62931-62935
+/vendor/lib/libstagefright_soft_vpxdec.so 62936-62940
+/vendor/lib/libstagefright_soft_vpxenc.so 62941-62946
+/vendor/lib/libstagefright_softomx.so 62947-62960
+/vendor/lib/libstagefright_softomx_plugin.so 62961-62963
+/vendor/lib/libstagefrighthw.so 62964-62965
+/vendor/lib/libstreamparser.so 62966-62975
+/vendor/lib/libsubsystem_control.so 62976-62977
+/vendor/lib/libsurround_3mic_proc.so 62978-63134
+/vendor/lib/libswregistrationalgo.so 63135-64307
+/vendor/lib/libswvdec.so 64308-64349
+/vendor/lib/libsynergy_loc_api.so 64350-64366
+/vendor/lib/libsysmon_cdsp_skel.so 64367-64368
+/vendor/lib/libsystem_health_mon.so 64369
+/vendor/lib/libthermalclient.so 64370-64376
+/vendor/lib/libtime_genoff.so 64377-64379
+/vendor/lib/libtinycompress.so 64380-64383
+/vendor/lib/libtinyxml.so 64384-64394
+/vendor/lib/libtinyxml2_1.so 64395-64404
+/vendor/lib/libtrustedapploader.so 64405-64414
+/vendor/lib/libtzdrmgenprov.so 64415-64418
+/vendor/lib/libvideoutils.so 64419
+/vendor/lib/libvndfwk_detect_jni.qti.so 64420-64421
+/vendor/lib/libvorbisidec.so 64422-64454
+/vendor/lib/libvppclient.so 64455-64464
+/vendor/lib/libvpphcp.so 64465-64469
+/vendor/lib/libvpphvx.so 64470-64475
+/vendor/lib/libvppimmotion.so 64476-64486
+/vendor/lib/libvpplibrary.so 64487-64569
+/vendor/lib/libvpptestutils.so 64570-64606
+/vendor/lib/libvpx.so 64607-65106
+/vendor/lib/libwapi_cert.so 65107-65109
+/vendor/lib/libwebrtc_audio_preprocessing.so 65110-65327
+/vendor/lib/libwfdaac_vendor.so 65328-65535 65584-65649
+/vendor/lib/libwfdcodecv4l2_proprietary.so 65650-65660
+/vendor/lib/libwfdcommonutils_proprietary.so 65661-65673
+/vendor/lib/libwfdconfigutils_proprietary.so 65674-65694
+/vendor/lib/libwfddisplayconfig_proprietary.so 65695-65698
+/vendor/lib/libwfdhdcpcp.so 65699-65704
+/vendor/lib/libwfdhdcpservice_proprietary.so 65705-65718
+/vendor/lib/libwfdmminterface_proprietary.so 65719-65726
+/vendor/lib/libwfdmmservice_proprietary.so 65727-65739
+/vendor/lib/libwfdmmsrc_proprietary.so 65740-65786
+/vendor/lib/libwfdmodulehdcpsession.so 65787-65791
+/vendor/lib/libwfdrtsp_proprietary.so 65792-65853
+/vendor/lib/libwfdsessionmodule.so 65854-65864
+/vendor/lib/libwfdsourcesession_proprietary.so 65865-65876
+/vendor/lib/libwfdsourcesm_proprietary.so 65877-65906
+/vendor/lib/libwfduibcinterface_proprietary.so 65907
+/vendor/lib/libwfduibcsink_proprietary.so 65908-65913
+/vendor/lib/libwfduibcsinkinterface_proprietary.so 65914-65916
+/vendor/lib/libwfduibcsrc_proprietary.so 65917-65927
+/vendor/lib/libwfduibcsrcinterface_proprietary.so 65928-65930
+/vendor/lib/libwfdutils_proprietary.so 65931-65932
+/vendor/lib/libwifi-hal-ctrl.so 65933-65934
+/vendor/lib/libwifi-hal-qcom.so 65935-65997
+/vendor/lib/libwigig_flashaccess.so 65998-66003
+/vendor/lib/libwigig_ftm_flows.so 66004-66015
+/vendor/lib/libwigig_pciaccess.so 66016-66028
+/vendor/lib/libwigig_utils.so 66029-66035
+/vendor/lib/libwms.so 66036-66065
+/vendor/lib/libwpa_client.so 66066-66069
+/vendor/lib/libwqe.so 66070-66225
+/vendor/lib/libxml.so 66226-66231
+/vendor/lib/libxtadapter.so 66232-66234
+/vendor/lib/libxtwifi_server_protocol.so 66235-66346
+/vendor/lib/libxtwifi_server_protocol_uri_v3.so 66347-66505
+/vendor/lib/ls_client.so 66506-66513
+/vendor/lib/mediacas/libclearkeycasplugin.so 66514-66529
+/vendor/lib/mediadrm/libdrmclearkeyplugin.so 66530-66540
+/vendor/lib/modules/audio_adsp_loader.ko 66541-66545
+/vendor/lib/modules/audio_apr.ko 66546-66560
+/vendor/lib/modules/audio_extend.ko 66561-66565
+/vendor/lib/modules/audio_hdmi.ko 66566-66573
+/vendor/lib/modules/audio_machine_msmnile.ko 66574-66692
+/vendor/lib/modules/audio_max98937.ko 66693-66721
+/vendor/lib/modules/audio_mbhc.ko 66722-66752
+/vendor/lib/modules/audio_native.ko 66753-66835
+/vendor/lib/modules/audio_pinctrl_wcd.ko 66836-66840
+/vendor/lib/modules/audio_platform.ko 66841-66911 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 66912-66915 66588-66590 66594 66915 66588-66590 66594 66915 66588-66590 66594 66915 66588-66590 66594 66915 66588-66590 66594 66915 66588-66590 66594 66915 66588-66590 66594 66915 66588-66590 66594 66915 66588-66590 66594 66915 66588-66590 66594 66915 66588-66590 66594 66915 66588 66917-66926 66922 66927-66928 66925 66929-66932 66925-66926 66922 66927-66928 66925 66933-67460
+/vendor/lib/modules/audio_q6.ko 67461-67787
+/vendor/lib/modules/audio_q6_notifier.ko 67788-67794
+/vendor/lib/modules/audio_q6_pdr.ko 67795-67797
+/vendor/lib/modules/audio_stub.ko 67798-67799
+/vendor/lib/modules/audio_swr.ko 67800-67810
+/vendor/lib/modules/audio_swr_ctrl.ko 67811-67823
+/vendor/lib/modules/audio_tfa98xx-v6.ko 67824-67912
+/vendor/lib/modules/audio_usf.ko 67913-67940
+/vendor/lib/modules/audio_wcd934x.ko 67941-67959 0 0 0 0 0 0 0 0 67960-67968 66907 67969 66590 66594 67971-68098
+/vendor/lib/modules/audio_wcd9360.ko 68099-68110 0 0 0 0 0 68111-68114 66908 68115-68207
+/vendor/lib/modules/audio_wcd9xxx.ko 68208-68246
+/vendor/lib/modules/audio_wcd_core.ko 68247-68304
+/vendor/lib/modules/audio_wcd_spi.ko 68305-68315
+/vendor/lib/modules/audio_wglink.ko 68316-68324
+/vendor/lib/modules/audio_wsa881x.ko 68325-68328 0 0 68329-68339
+/vendor/lib/modules/modules.alias 68340-68341
+/vendor/lib/modules/modules.dep 68342
+/vendor/lib/modules/modules.load 68343
+/vendor/lib/modules/modules.softdep 68344
+/vendor/lib/modules/mpq-adapter.ko 68345-68351
+/vendor/lib/modules/mpq-dmx-hw-plugin.ko 68352-68386
+/vendor/lib/modules/msm_11ad_proxy.ko 68387-68401
+/vendor/lib/modules/qca_cld3_wlan.ko 68402-69579 69574 69578 69580-69874 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 69875 69877-69878 0 0 69879-72052
+/vendor/lib/modules/rdbg.ko 72053-72059
+/vendor/lib/modules/rmnet_perf.ko 72060-72077
+/vendor/lib/modules/rmnet_shs.ko 72078-72132
+/vendor/lib/modules/tspp.ko 72133-72155
+/vendor/lib/modules/wil6210.ko 72156-72318
+/vendor/lib/nfc_nci.pn54x.default.so 72319-72369 0 72370 0 72371-72372 0 72373-72374
+/vendor/lib/oplus_btaudio_offload_if.so 72375-72376
+/vendor/lib/qcom.camera.log.so 72377-72380 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 72381
+/vendor/lib/qcrild_librilutils.so 72382-72383
+/vendor/lib/qtibus.so 72384-72450
+/vendor/lib/qtimutex.so 72451-72456
+/vendor/lib/sensors.ssc.so 74343-74432
+/vendor/lib/soundfx/libasphere.so 74433-74434
+/vendor/lib/soundfx/libaudiopreprocessing.so 74435-74439
+/vendor/lib/soundfx/libbundlewrapper.so 74440-74458
+/vendor/lib/soundfx/libdownmix.so 74459-74461
+/vendor/lib/soundfx/libdynproc.so 74462-74472
+/vendor/lib/soundfx/libeffectproxy.so 74473-74474
+/vendor/lib/soundfx/libldnhncr.so 74475-74476
+/vendor/lib/soundfx/libqcbassboost.so 74477-74520
+/vendor/lib/soundfx/libqcompostprocbundle.so 74521-74528
+/vendor/lib/soundfx/libqcomvisualizer.so 74529-74532
+/vendor/lib/soundfx/libqcomvoiceprocessing.so 74533-74534
+/vendor/lib/soundfx/libqcreverb.so 74535-74590
+/vendor/lib/soundfx/libqcvirt.so 74591-74644
+/vendor/lib/soundfx/libreverbwrapper.so 74645-74652
+/vendor/lib/soundfx/libshoebox.so 74653-74655
+/vendor/lib/soundfx/libvisualizer.so 74656-74658
+/vendor/lib/soundfx/libvolumelistener.so 74659-74661
+/vendor/lib/unnhal-acc-hta.so 74662-74803
+/vendor/lib/vendor.display.color@1.0.so 74804-74834
+/vendor/lib/vendor.display.color@1.1.so 74835-74856
+/vendor/lib/vendor.display.color@1.2.so 74857-74879
+/vendor/lib/vendor.display.color@1.3.so 74880-74904
+/vendor/lib/vendor.display.color@1.4.so 74905-74930
+/vendor/lib/vendor.display.color@1.5.so 74931-74960
+/vendor/lib/vendor.display.config@1.0.so 74961-74983
+/vendor/lib/vendor.display.config@1.1.so 74984-75002
+/vendor/lib/vendor.display.config@1.10.so 75003-75042
+/vendor/lib/vendor.display.config@1.11.so 75043-75074
+/vendor/lib/vendor.display.config@1.2.so 75075-75094
+/vendor/lib/vendor.display.config@1.3.so 75095-75115
+/vendor/lib/vendor.display.config@1.4.so 75116-75137
+/vendor/lib/vendor.display.config@1.5.so 75138-75160
+/vendor/lib/vendor.display.config@1.6.so 75161-75185
+/vendor/lib/vendor.display.config@1.7.so 75186-75213
+/vendor/lib/vendor.display.config@1.8.so 75214-75241
+/vendor/lib/vendor.display.config@1.9.so 75242-75271
+/vendor/lib/vendor.display.config@2.0.so 75272-75293
+/vendor/lib/vendor.display.postproc@1.0.so 75294-75306
+/vendor/lib/vendor.nxp.eventprocessor@1.0.so 75307-75319
+/vendor/lib/vendor.nxp.nxpnfc@1.0.so 75320-75332
+/vendor/lib/vendor.nxpnq330.nxpese@1.0.so 75333-75345
+/vendor/lib/vendor.oplus.hardware.cammidasservice@1.0.so 75346-75359
+/vendor/lib/vendor.qti.data.factory@2.0.so 75360-75384
+/vendor/lib/vendor.qti.data.factory@2.1.so 75385-75407
+/vendor/lib/vendor.qti.data.slm@1.0.so 75408-75427
+/vendor/lib/vendor.qti.gnss@1.0.so 75428-75612
+/vendor/lib/vendor.qti.gnss@1.1.so 75613-75797
+/vendor/lib/vendor.qti.gnss@1.2.so 75798-75847
+/vendor/lib/vendor.qti.gnss@2.0.so 75848-75880
+/vendor/lib/vendor.qti.gnss@2.1.so 75881-76034
+/vendor/lib/vendor.qti.gnss@3.0.so 76035-76087
+/vendor/lib/vendor.qti.gnss@4.0-service.so 76088-76091
+/vendor/lib/vendor.qti.gnss@4.0.so 76092-76173
+/vendor/lib/vendor.qti.hardware.alarm@1.0.so 76174-76187
+/vendor/lib/vendor.qti.hardware.audiohalext@1.0.so 76188-76202
+/vendor/lib/vendor.qti.hardware.automotive.vehicle@1.0.so 76203-76216
+/vendor/lib/vendor.qti.hardware.bluetooth_audio@2.0.so 76217-76250
+/vendor/lib/vendor.qti.hardware.bluetooth_sar@1.0.so 76251-76263
+/vendor/lib/vendor.qti.hardware.bluetooth_sar@1.1.so 76264-76277
+/vendor/lib/vendor.qti.hardware.btconfigstore@1.0.so 76278-76292
+/vendor/lib/vendor.qti.hardware.btconfigstore@2.0.so 76293-76308
+/vendor/lib/vendor.qti.hardware.cacert@1.0.so 76309-76331
+/vendor/lib/vendor.qti.hardware.camera.device@1.0.so 76332-76347
+/vendor/lib/vendor.qti.hardware.camera.postproc@1.0.so 76348-76378
+/vendor/lib/vendor.qti.hardware.capabilityconfigstore@1.0.so 76379-76392
+/vendor/lib/vendor.qti.hardware.cryptfshw@1.0.so 76393-76407
+/vendor/lib/vendor.qti.hardware.cvp@1.0.so 76408-76516
+/vendor/lib/vendor.qti.hardware.data.cne.internal.api@1.0.so 76517-76556
+/vendor/lib/vendor.qti.hardware.data.cne.internal.constants@1.0.so 76557
+/vendor/lib/vendor.qti.hardware.data.cne.internal.server@1.0.so 76558-76597
+/vendor/lib/vendor.qti.hardware.data.connection@1.0.so 76598-76628
+/vendor/lib/vendor.qti.hardware.data.connection@1.1.so 76629-76644
+/vendor/lib/vendor.qti.hardware.dsp@1.0.so 77045-77065
+/vendor/lib/vendor.qti.hardware.data.dynamicdds@1.0.so 76646-76690
+/vendor/lib/vendor.qti.hardware.data.iwlan@1.0.so 76691-76727
+/vendor/lib/vendor.qti.hardware.data.latency@1.0.so 76728-76755
+/vendor/lib/vendor.qti.hardware.data.qmi@1.0.so 76756-76788
+/vendor/lib/vendor.qti.hardware.display.allocator@1.0.so 76789-76802
+/vendor/lib/vendor.qti.hardware.display.allocator@3.0.so 76803-76816
+/vendor/lib/vendor.qti.hardware.display.composer@1.0.so 76817-76851
+/vendor/lib/vendor.qti.hardware.display.composer@2.0.so 76852-76893
+/vendor/lib/vendor.qti.hardware.display.mapper@1.0.so 76894-76915
+/vendor/lib/vendor.qti.hardware.display.mapper@1.1.so 76916-76941
+/vendor/lib/vendor.qti.hardware.display.mapper@2.0.so 76942-76960
+/vendor/lib/vendor.qti.hardware.display.mapper@3.0.so 76961-76978
+/vendor/lib/vendor.qti.hardware.display.mapper@4.0.so 76979-76998
+/vendor/lib/vendor.qti.hardware.display.mapperextensions@1.0.so 76999-77022
+/vendor/lib/vendor.qti.hardware.display.mapperextensions@1.1.so 77023-77044
+/vendor/lib/vendor.qti.hardware.fingerprint@1.0.so 77066-77134
+/vendor/lib/vendor.qti.hardware.fm@1.0.so 77135-77155
+/vendor/lib/vendor.qti.hardware.improvetouch.touchcompanion@1.0-service.so 77156-77167
+/vendor/lib/vendor.qti.hardware.improvetouch.touchcompanion@1.0.so 77168-77207
+/vendor/lib/vendor.qti.hardware.iop@1.0.so 77208-77220
+/vendor/lib/vendor.qti.hardware.iop@2.0.so 77221-77235
+/vendor/lib/vendor.qti.hardware.perf@2.0.so 77236-77253
+/vendor/lib/vendor.qti.hardware.perf@2.1.so 77254-77277
+/vendor/lib/vendor.qti.hardware.perf@2.2.so 77278-77296
+/vendor/lib/vendor.qti.hardware.qccsyshal@1.0.so 77297-77328
+/vendor/lib/vendor.qti.hardware.qccvndhal@1.0-halimpl.so 77329-77335
+/vendor/lib/vendor.qti.hardware.qccvndhal@1.0.so 77336-77355
+/vendor/lib/vendor.qti.hardware.qdutils_disp@1.0.so 77356-77369
+/vendor/lib/vendor.qti.hardware.qseecom@1.0.so 77370-77391
+/vendor/lib/vendor.qti.hardware.qteeconnector@1.0.so 77392-77430
+/vendor/lib/vendor.qti.hardware.radio.am@1.0.so 77431-77452
+/vendor/lib/vendor.qti.hardware.radio.atcmdfwd@1.0.so 77453-77466
+/vendor/lib/vendor.qti.hardware.radio.ims@1.0.so 77467-77556
+/vendor/lib/vendor.qti.hardware.radio.ims@1.1.so 77557-77605
+/vendor/lib/vendor.qti.hardware.radio.ims@1.2.so 77606-77685
+/vendor/lib/vendor.qti.hardware.radio.ims@1.3.so 77686-77769
+/vendor/lib/vendor.qti.hardware.radio.ims@1.4.so 77770-77860
+/vendor/lib/vendor.qti.hardware.radio.ims@1.5.so 77861-77959
+/vendor/lib/vendor.qti.hardware.radio.ims@1.6.so 77960-78074
+/vendor/lib/vendor.qti.hardware.radio.internal.deviceinfo@1.0.so 78075-78105
+/vendor/lib/vendor.qti.hardware.radio.lpa@1.0.so 78106-78137
+/vendor/lib/vendor.qti.hardware.radio.qcrilhook@1.0.so 78138-78166
+/vendor/lib/vendor.qti.hardware.radio.qtiradio@1.0.so 78167-78194
+/vendor/lib/vendor.qti.hardware.radio.qtiradio@2.0.so 78195-78234
+/vendor/lib/vendor.qti.hardware.radio.qtiradio@2.1.so 78235-78277
+/vendor/lib/vendor.qti.hardware.radio.qtiradio@2.2.so 78278-78323
+/vendor/lib/vendor.qti.hardware.radio.qtiradio@2.3.so 78324-78362
+/vendor/lib/vendor.qti.hardware.radio.qtiradio@2.4.so 78363-78403
+/vendor/lib/vendor.qti.hardware.radio.uim@1.0.so 78404-78431
+/vendor/lib/vendor.qti.hardware.radio.uim@1.1.so 78432-78455
+/vendor/lib/vendor.qti.hardware.radio.uim@1.2.so 78456-78484
+/vendor/lib/vendor.qti.hardware.radio.uim_remote_client@1.0.so 78485-78519
+/vendor/lib/vendor.qti.hardware.radio.uim_remote_client@1.1.so 78520-78536
+/vendor/lib/vendor.qti.hardware.radio.uim_remote_client@1.2.so 78537-78555
+/vendor/lib/vendor.qti.hardware.radio.uim_remote_server@1.0.so 78556-78594
+/vendor/lib/vendor.qti.hardware.scve.objecttracker@1.0.so 78595-78624
+/vendor/lib/vendor.qti.hardware.scve.panorama@1.0.so 78625-78667
+/vendor/lib/vendor.qti.hardware.seccam@1.0.so 78668-78681
+/vendor/lib/vendor.qti.hardware.sensorscalibrate@1.0.so 78682-78695
+/vendor/lib/vendor.qti.hardware.servicetracker@1.0.so 78696-78718
+/vendor/lib/vendor.qti.hardware.servicetracker@1.1.so 78719-78737
+/vendor/lib/vendor.qti.hardware.servicetracker@1.2.so 78738-78767
+/vendor/lib/vendor.qti.hardware.sigma_miracast@1.0.so 78768-78788
+/vendor/lib/vendor.qti.hardware.slmadapter@1.0.so 78789-78814
+/vendor/lib/vendor.qti.hardware.soter@1.0.so 78815-78835
+/vendor/lib/vendor.qti.hardware.systemhelper@1.0.so 78836-78865
+/vendor/lib/vendor.qti.hardware.trustedui@1.0.so 78866-78904
+/vendor/lib/vendor.qti.hardware.tui_comm@1.0.so 78905-78929
+/vendor/lib/vendor.qti.hardware.vpp@1.1.so 78930-78960
+/vendor/lib/vendor.qti.hardware.vpp@1.2.so 78961-78985
+/vendor/lib/vendor.qti.hardware.vpp@1.3.so 78986-79014
+/vendor/lib/vendor.qti.hardware.wifidisplaysession@1.0.so 79015-79138
+/vendor/lib/vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl.so 79139-79149
+/vendor/lib/vendor.qti.hardware.wigig.netperftuner@1.0.so 79150-79164
+/vendor/lib/vendor.qti.ims.callcapability@1.0.so 79165-79185
+/vendor/lib/vendor.qti.ims.callinfo@1.0.so 79186-79205
+/vendor/lib/vendor.qti.ims.factory@1.0.so 79206-79222
+/vendor/lib/vendor.qti.ims.rcsconfig@1.0.so 79223-79249
+/vendor/lib/vendor.qti.ims.rcsconfig@1.1.so 79250-79280
+/vendor/lib/vendor.qti.ims.rcsconfig@2.0.so 79281-79331
+/vendor/lib/vendor.qti.ims.rcsconfig@2.1.so 79332-79357
+/vendor/lib/vendor.qti.imsrtpservice@3.0-service-Impl.so 79358-79367
+/vendor/lib/vendor.qti.imsrtpservice@3.0.so 79368-79404
+/vendor/lib/vendor.qti.latency@2.0.so 79405-79424
+/vendor/lib/vndk/libstagefright_foundation.so 79494-79523
+/vendor/lib/vndk/libstagefright_omx.so 79524-79574
+/vendor/lib/vendor.qti.memory.pasrmanager@1.0.so 79426-79442
+/vendor/lib/vendor.qti.power.pasrmanager@1.0.so 79443-79455
+/vendor/lib/vendor.qti.voiceprint@1.0.so 79456-79493
+/vendor/lib32/libarcsoft_lensstaindetection.so 79575-79999
+/vendor/lib64/android.hardware.audio.common-util.so 80000-80003
+/vendor/lib64/android.hardware.audio.common@2.0-util.so 80004-80009
+/vendor/lib64/android.hardware.audio.common@4.0-util.so 80010-80011 80006-80008 80012
+/vendor/lib64/android.hardware.audio.common@5.0-util.so 80013-80014 80006-80008 80015
+/vendor/lib64/android.hardware.audio.common@6.0-util.so 80016-80021
+/vendor/lib64/android.hardware.automotive.vehicle@2.0-manager-lib.so 80022-80066
+/vendor/lib64/android.hardware.camera.provider@2.4-external.so 80067-80098
+/vendor/lib64/android.hardware.camera.provider@2.4-legacy.so 80099-80151
+/vendor/lib64/android.hardware.graphics.composer@2.1-resources.so 80152-80162
+/vendor/lib64/android.hardware.graphics.composer@2.2-resources.so 80163-80165
+/vendor/lib64/android.hardware.sensors@2.0-ScopedWakelock.so 80166-80168
+/vendor/lib64/btaudio_offload_if.so 80169-80179
+/vendor/lib64/camera/com.qti.sensor.gc2375h.so 80180-80182
+/vendor/lib64/camera/com.qti.sensor.gc8054.so 80183-80185
+/vendor/lib64/camera/com.qti.sensor.hi846.so 80186-80188
+/vendor/lib64/camera/com.qti.sensor.imx471.so 80189-80192
+/vendor/lib64/camera/com.qti.sensor.imx616.so 80193-80195
+/vendor/lib64/camera/com.qti.sensor.ov08a10.so 80196-80198
+/vendor/lib64/camera/com.qti.sensor.ov32a1q.so 80199-80201
+/vendor/lib64/camera/com.qti.sensor.s5k3m5sx.so 80202-80204
+/vendor/lib64/camera/com.qti.sensor.s5kgw1.so 80205-80208
+/vendor/lib64/camera/com.qti.sensormodule.holitech_gc2375h.bin 80209-80222
+/vendor/lib64/camera/com.qti.sensormodule.ofilm_gc8054.bin 80223-80286
+/vendor/lib64/camera/com.qti.sensormodule.qtech_imx616.bin 80287-80329
+/vendor/lib64/camera/com.qti.sensormodule.qtech_ov32a1q.bin 80330-80452
+/vendor/lib64/camera/com.qti.sensormodule.qtech_s5k3m5sx.bin 80453-80533
+/vendor/lib64/camera/com.qti.sensormodule.qtech_s5kgw1.bin 80534-81344
+/vendor/lib64/camera/com.qti.sensormodule.sunny_hi846.bin 81345-81403
+/vendor/lib64/camera/com.qti.sensormodule.sunny_ov08a10.bin 81404-81429
+/vendor/lib64/camera/com.qti.sensormodule.truly_imx471.bin 81430-81463
+/vendor/lib64/camera/com.qti.tuned.SM8150_truly_imx471.bin 81464-81585 0 0 0 81586-81589 0 0 81590-81605 0 0 81606-81666 0 0 81667 81669-81670 0 0 0 81671-81672 0 0 0 81673-82478 82255 82479-82746 82589 82747-82748 82592 82749-82891 82249 82892-83652 81826 83653-83993
+/vendor/lib64/camera/com.qti.tuned.default.bin 83994-84196 0 84197 0 0 0 84198-84200 0 0 0 84201-84213 0 0 84214 84216-84238 0 0 84239-84241 0 0 84242 0 84243 0 0 84244-85110 84282 85111-85368
+/vendor/lib64/camera/com.qti.tuned.holitech_gc2375.bin 85369-85403 0 0 0 85404-85405 0 85406 0 0 0 85407-85415 0 0 0 85416 85418-85464 0 0 85465-85467 0 0 0 85468-85469 0 0 0 85470-85516 82436 85517-85562 0 0 0 85563-85574
+/vendor/lib64/camera/com.qti.tuned.ofilm_gc8054.bin 85575-85644 0 0 0 85645-85648 0 0 85649-85658 0 0 85659-85719 0 0 85720 85722-85723 0 0 85724-85726 0 0 85727-85986 83624-83625 85987-85988 83628 85989 83630 85990-85991 83633-83639 85992-85995 83644-83645 85996-85998 83649-83652 81826 83653 85999-86056 82552 86057-86059 83723 86060-86207 83615 86208-86247 85712 86248-86493 86321 86494-86962 82826 86963-87236
+/vendor/lib64/camera/com.qti.tuned.qtech_imx616.bin 87237-87446 0 0 87447-87451 0 0 87452-87467 0 0 0 87468-87538 0 0 0 87539 87541 0 0 0 87542-87544 0 0 87545-88254 83575 88255-88368 82972 88369-88451 81722 88452-88511 82673 88512-89107 88724 89108-89110 88728 89111-89805 85812 89806-89807 86170 89808-89913 87529 89914-89915 87532 89916-89968 88571 89969 88573-88574 89970-90022 86909 90023-90074 85909 90075-90134 83539 90135-90242 88961 90243-90244 88964 90245-90246 88967 90247-90523 90423-90425 90524 90427 90525-90617 82117 90618-90895 85458 90896-91341 91146 91342-91481 88676 91482-91484 88680 91485-91524 86136 91525-91526 88724 91527-91529 88728 91530-91572 88772 91573 88774 91574 88776-88777 91575-91613 82751 91614-91660 86170 91661-92489
+/vendor/lib64/camera/com.qti.tuned.qtech_ov32a1q.bin 92490-92509 82683 92510-92525 0 0 0 92526-92528 0 0 0 92529 92531-92544 0 0 0 92545-92547 82836-82837 92548-92549 82840 92550-92551 82843 92552-92553 82846 92554-92558 82852 92559-92581 81637 92582-92593 82782 92594-92597 0 0 92598-92600 0 0 0 92601-92602 0 0 92603-92631
+/vendor/lib64/camera/com.qti.tuned.qtech_s5k3m5sx.bin 92632-92949 0 92950 0 0 0 92951-92952 0 92953 0 0 92954 92956-92974 0 0 0 92975-93043 0 0 93044-93046 0 0 93047-93049 0 0 93050-93129 93112 93130-93134 93118-93119 93135 93121 93136-93614 87529 93615-93616 87532 93617-93622 91105 93623-93871 93848 93872-93876 93854 93877-94376 91150 94377-94378 91153 94379-94407 85771 94408-94409 85774 94410-94412 90191 94413-94550 90026 94551-94552 90029 94553-94554 90032 94555-94557 93612 94558-94559 87529 94560-94561 87532 94562-94577 81658 94578-94579 81661 94580-94713 86286 94714-94716 91291 94717-94718 91294 94719-94721 91298 94722-94726 90029 94727-94728 90032 94729-94878 83765 94879-94894 88605 94895-94896 91339 94897-94898 91146 94899-95010 81722 95011-95012 88454 95013-95025 82789 95026-95114 0 95115 0 0 95116-95117 0 95118 0 0 0 95119-95138 0 0 0 95139-95183 95019 95184-95189 90137 95190-95194 0 0 0 95195-95303 93753-93761 95304-95458 90201 95459-95460 94391 95461-95463 94395 95464-95485 90889 95486-95487 85454 95488-95490 90072 95491-95690 90198 95691-95692 90201 95693-95694 94391 95695-95703 88631 95704-95706 94405 95707-95708 85771 95709-95805 82782 95806-95807 94735 95808-95820 94749 95821-95825 86909 95826-95831 93785 95832-95835 93790-93794 95836 93796-93800 95837-95845 93825-93830 95846-95847 93833 95848 93835-93836 95849-95906 93841-93842 95907-95917 95896 95918-95922 95902 95923-96127 0 96128 0 0 96129-96130 0 96131 0 0 0 96132-96151 0 0 0 96152-96194 90896 96195-96198 90077 96199-96201 90081 96202-96206 0 0 0 96207-96366 91105 96367-96368 93625 96369-96371 93629 96372 93631 96373-96375 90137 96376-96377 90140 96378-96390 81719 96391-96392 81722 96393-96394 81725-81726 96395-96544 88601 96545 88603 96546 88605 96547-96548 91339 96549-96550 91146 96551-96552 94901 96553-96555 94905 96556-96557 94908 96558-96560 94912 96561 94914-94916 96562-96608 96591 96609-96610 96594 96611 96596-96600 96612-96778 96761-96762 96779-96782 96767-96768 96783 96770-96771 96784-97243 96608 96591 96609-96610 96594 96611 96596-96600 96612-96614 97244-97269 97252 97270-97274 97258-97259 97275 97261 97276-97322 93162 97323-97662 93695 97663-97779 82931 97780-97781 82934 97782-97784 82938 97785-97871 90131 97872 95185-95187 97873 95189 90137 95190-95191 90140 97874-97895 95934 97896-97900 93900 97901-97905 93906 97906-97912 95939-95940 97913-97917 95946 97918-97922 95952 97923-97999 97976 98000-98187 93177 98188-98192 93183 98193-98264 97599-97600 98265-98303 98337-98444 95344 98445-98531 88371 98532-98699 81722 98700-98701 88454 98702-98704 95016 98705-98706 95019 98707-98718 91194 98719-98721 91198 98722-98875 91098 98876-98877 91101 98878-98883 95016 98884-98885 95019 98886-98888 95187 98889-98890 90137 98891-98895 95031 98896-98905 81719 98906-99047 86139 99048-99060 83762 99061 83764-83765 99062-99067 86828 99068-99178 86244 99179-99181 85712 99182-99183 85715 99184-99267 0 99268 0 0 0 99269-99270 0 99271 0 0 0 99272-99291 0 0 99292-99295 94765 99296-99297 94768 99298-99299 94771 99300-99301 94774 99302-99303 94777 99304 94779-94780 99305 94782-94783 99306-99307 94786 99308-99309 94789 99310 94791-94792 99311-99322 99173 99323-99328 91049 99329-99330 91052 99331-99334 0 0 0 99335-99396 95721 99397-99401 95727 99402 95729-95730 99403 95732 99405-99437 86059 93612 99438-99439 87529-87535 94565 99440-99441 93734 99442 93736-93746 99443-99579 91298 99580-99581 88288 99582-99590 82782 99591-99592 94735 99593-99595 95811 99596-99597 95814 99598-99603 94749 99604-99605 95823 99606-99607 86909 99608-99609 95828 86913 99610-99677 96156 99678-99679 96159 99680-99681 96162 99682-99683 96165 99684 96167-96168 99685 96170-96171 99686-99687 96174 99688 96176-96177 99689-99690 96180 99691-99692 96183 99693-99796 91298 99797 88287-88288 99798-99799 99584 99800-99804 82210-82211 99805-99806 82214 99807-99910 95476 99911-99912 95479 99913-99921 85454 99922-99924 90072 99925 95492 85909 99926-99927 85912 99928-100039 100016 100040-100044 100022 100045-100186 95080 100187-100189 95084-95085 100190-100193 95090 100194-100245 0 100246 0 0 0 100247-100248 0 100249 0 0 0 100250-100269 0 0 100270-100313 90026 100314-100315 90029 100316-100317 90032 100318-100320 94732 100321-100324 0 0 0 100325-100485 99588 100486-100497 95814 100498-100499 99600 100500-100502 97880 100503-100504 97883-97884 100505 86909 100506-100508 86913 100509-100510 86916 100511-100512 92590 100513-100606 95605 100607-100649 99035 100650-100651 99038 100652-100654 99042 100655-100659 98551 100660-100668 88514 100669-100677 82173-82174 100678-100679 82177 100680-100728 100711-100712 100729-100730 100715 100731 100717-100721 100732-100873 93887-93888 100874-100877 93893-93894 100878-100890 97892-97893 100891 93893-93894 100892-100896 100883 100897 100885-100886 100898-100922 93923-93924 100923-100971 97948-97949 100972-100988 98044 100989-101002 95982 101003-101007 95988 101008-101083 96968-96973 101084-101339 94912 101340-101341 94915 101342-101562
+/vendor/lib64/camera/com.qti.tuned.qtech_s5kgw1.bin 101563-101805 0 101806 0 0 0 101807-101808 0 101809 0 0 0 101810 101812-101821 0 0 101822-101892 0 0 0 101893-101894 0 0 0 101895 0 101896 0 0 101897-102459 87017 102460-106556 105927 106557-107409 102268-102269 107410 102271-102272 107411 102274-102275 107412 102277 107413-107415 102281 107416 102283-102298 107417-107419 102302 107420-107421 102305 107422-107426 102311 107427-107428 102314-102328 107429-107431 102332 107432-107433 102335 107434-107441 102344-102350 107442-107444 102354-102358 107445-107450 102365-102369 107451-107457 102377-102381 107458-107462 102387-102392 107463-107466 102397 107467-107468 102400 107469-107471 102404 107472-107473 102407 107474-107475 102410 107476-107477 102413 107478-107480 102417 107481-107482 102420 107483-107488 102427 107489-107490 102430 107491-107492 102433 107493-107494 102436 107495-107663 102410 107664-107669 102417 107670-107776 105683 107777-109233 93619 109234-110602 102867 110603-110604 102870 110605-110606 102873 110607-111019 102218 111020-111113 99051 111114-111175 109084 111176-111180 88485 111181-111203 86594 111204-112001
+/vendor/lib64/camera/com.qti.tuned.sunny_hi846.bin 112002-112097 0 0 112098-112101 0 0 0 112102-112110 85722-85723 0 0 112111 112113-112169 0 0 112170-112172 0 0 0 112173-112174 0 0 112175-112239 86136 112240-112241 86139 112242-112244 99051 112245-112286 83762 112287-112288 83765 112289-112350 83688 112351-112353 83692 112354-112365 95674 112366-112367 95677 112368-112415 0 0 112416-112418 0 0 112419-112745 86909 112746-112747 95828 86913 112748-112749 86916 112750-112758 93635 112759-112760 93638 112761-112835 86098 112836-112838 86102 112839-112840 85712 112841-112842 85715 112843-112845 99187 112846-112930 94905 112931-112932 94908 112933-112935 94912 112936-112937 89966 112938-112939 88571 112940-113122 83650 113123-113124 81826 113125-113126 93750 113127-113207 94388 113208-113209 83611 113210-113268 89857 113269-113495 94571 113496-113498 94575 113499-113500 86913 113501-113502 86916 113503-113504 92590 113505-113579 85808 113580-113582 85812 113583-113587 86098 113588-113590 86102 113591-113592 98716 113593-113659 86795 113660-113662 112756 113663-113664 93635 113665-113666 82552 113667-113669 83723 113670-113671 83726 113672-113711 82789 113712-113713 95028 113714-113715 95031 113716-114115 97181-97182 114116-114117 97185 114118-114122 82592 114123-114190 85812 114191-114192 86170 114193-114194 86173 114195-114200 91570 114201-114202 94738 114203-114350 0 0 114351-114352 0 0 0 114353-114463 0 0 114464-114466 0 0 114467-114546
+/vendor/lib64/camera/com.qti.tuned.sunny_ov08a10.bin 114547-114650 0 0 0 114651-114654 0 0 0 114655-114664 0 0 0 114665-114736 86324 114738-114739 91242-91243 114740-114741 91246 114742-114746 99057 114747-114749 98529 114750-114753 0 0 114754-114756 0 0 0 114757-114758 0 0 114759-116029 88541 116030-116031 88544 116032-116040 99038 116041-116043 99042 116044-116355 90892 116356-116358 85458 116359-116363 99054 116364-116365 99057 116366-116368 98529 116369-116370 88371 116371-116374 99066 116375 86828 116376-116377 86831 116378-116477 98544 116478-116480 98548 116481-116482 98551 116483-116485 100663 116486-116487 98558 116488-116489 98561 116490-116491 98564 116492-116493 98567 100675 116494-117336 93612 117337-117382 94749 117383-117466 109086 117467-117545
+/vendor/lib64/camera/com.qti.tuned.truly_imx471.bin 117546 81465-81477 117547-117654 0 0 0 117655-117658 0 0 117659 117661-117675 0 0 117676-117727 82782 117728-117729 82785 117730-117734 0 0 117735-117737 0 0 0 117738-117739 0 0 0 117740-117788 112982 117789-117790 112985 117791-117890 83765 99062 117891 99064 117892-117894 86828 117895-118232 83798-83799 118233-118235 83803 118236-118265 85775 118266-118267 90191 118268-118269 90194 118270-118299 81722 96393 118300 81725 118301-118406 82789 118407-118408 95028 118409 95030-95031 118410-118480 94742 118481-118482 94745 118483-118524 118307 118525-118597 116038 118598-118637 82209 118638-118669 83577 118670-118722 97192 118723-118752 112363 118753-118754 95674 118755-118786 118634 118787 118636 118788-118789 82210-82211 118790-118822 82245 118823-118825 82249 118826-118860 97776 118861-118863 82931 118864-118906 87167 118907-118923 81725 118924-118926 95181 118927-118962 83692 118963-118964 112356 118965-119362 82376-82377 119363 82379-82380 119364 82382-82383 119365 82385 119366-119422 83274-83275 119423-119466 89614 119467-119557 82626 119558-119592 95701 119593-119594 88631 119595-119627 86795 119628-119630 112756 119631-119638 83736-83751 119639-119640 83754-83757 119641 83759-83766 119642-119672 82506 119673-119674 82509 119675-119750 113493 119751-119783 82673 119784-119785 82676 119786-119976
+/vendor/lib64/camera/components/com.arcsoft.node.ozeis.so 119977-119986
+/vendor/lib64/camera/components/com.oppo.node.drawafinfo.so 119987-120017
+/vendor/lib64/camera/components/com.oppo.node.oppoengmode.so 120018-120028
+/vendor/lib64/camera/components/com.oppo.node.preview.so 120029-120060
+/vendor/lib64/camera/components/com.oppo.node.rtb.so 120061-120082
+/vendor/lib64/camera/components/com.oppo.node.sat.so 120083-120131
+/vendor/lib64/camera/components/com.oppo.node.sstabdefer.so 120132-120156
+/vendor/lib64/camera/components/com.oppo.node.sstabrealt.so 120157-120180
+/vendor/lib64/camera/components/com.oppo.node.watermark.so 120181-120185
+/vendor/lib64/camera/components/com.qti.camx.chiiqutils.so 120186-120192
+/vendor/lib64/camera/components/com.qti.eisv2.so 120193-120217 0 0 0 0 0 0 120218-120220
+/vendor/lib64/camera/components/com.qti.eisv3.so 120221-120272 0 0 0 0 0 0 0 0 0 0 0 120273-120275
+/vendor/lib64/camera/components/com.qti.hvx.addconstant.so 120276-120278
+/vendor/lib64/camera/components/com.qti.hvx.binning.so 120279-120281
+/vendor/lib64/camera/components/com.qti.node.depth.so 120282-120286
+/vendor/lib64/camera/components/com.qti.node.dummyrtb.so 120287-120289
+/vendor/lib64/camera/components/com.qti.node.dummysat.so 120290-120294
+/vendor/lib64/camera/components/com.qti.node.eisv2.so 120295-120306
+/vendor/lib64/camera/components/com.qti.node.eisv3.so 120307-120319
+/vendor/lib64/camera/components/com.qti.node.fcv.so 120320-120324
+/vendor/lib64/camera/components/com.qti.node.gpu.so 120325-120339
+/vendor/lib64/camera/components/com.qti.node.memcpy.so 120340-120343
+/vendor/lib64/camera/components/com.qti.node.remosaic.so 120344-120348
+/vendor/lib64/camera/components/com.qti.node.stich.so 120349-120351
+/vendor/lib64/camera/components/com.qti.node.swregistration.so 120352-120354
+/vendor/lib64/camera/components/com.qti.stats.aec.so 120355-120448
+/vendor/lib64/camera/components/com.qti.stats.aecwrapper.so 120449-120451
+/vendor/lib64/camera/components/com.qti.stats.af.so 120452-120504
+/vendor/lib64/camera/components/com.qti.stats.afd.so 120505-120527 0 0 0 0 0 0 0 0 120528-120529
+/vendor/lib64/camera/components/com.qti.stats.afwrapper.so 120530-120532
+/vendor/lib64/camera/components/com.qti.stats.asd.so 120533-120550
+/vendor/lib64/camera/components/com.qti.stats.awb.so 120551-120626 0 0 120627-120631
+/vendor/lib64/camera/components/com.qti.stats.awbwrapper.so 120632-120636
+/vendor/lib64/camera/components/com.qti.stats.haf.so 120637-120708 0 0 0 0 0 0 0 120709-120711
+/vendor/lib64/camera/components/com.qti.stats.hafoverride.so 120712-120715
+/vendor/lib64/camera/components/com.qti.stats.localhistogram.so 120716-120732
+/vendor/lib64/camera/components/com.qti.stats.pdlib.so 120733-120911
+/vendor/lib64/camera/components/com.qti.stats.pdlibsony.so 120912-120929
+/vendor/lib64/camera/components/com.qti.stats.pdlibwrapper.so 120930-120939 0 0 0 0 0 120940-120941
+/vendor/lib64/camera/components/com.qtistatic.stats.aec.so 120942-120945
+/vendor/lib64/camera/components/com.qtistatic.stats.af.so 120946-120948
+/vendor/lib64/camera/components/com.qtistatic.stats.awb.so 120949-120953
+/vendor/lib64/camera/components/com.qtistatic.stats.pdlib.so 120954-120956
+/vendor/lib64/camera/components/libdepthmapwrapper.so 120957-120959
+/vendor/lib64/camera/fdconfigpreview.bin 120960
+/vendor/lib64/camera/fdconfigpreviewlite.bin 120960
+/vendor/lib64/camera/fdconfigvideo.bin 120960
+/vendor/lib64/camera/fdconfigvideolite.bin 120960
+/vendor/lib64/camera.device@1.0-impl.so 120961-121007
+/vendor/lib64/camera.device@3.2-impl.so 121008-121070
+/vendor/lib64/camera.device@3.3-impl.so 121071-121079
+/vendor/lib64/camera.device@3.4-external-impl.so 121080-121180
+/vendor/lib64/camera.device@3.4-impl.so 121181-121222
+/vendor/lib64/camera.device@3.5-external-impl.so 121223-121264
+/vendor/lib64/camera.device@3.5-impl.so 121265-121313
+/vendor/lib64/camera.device@3.6-external-impl.so 121314-121374
+/vendor/lib64/carwatchdog_aidl_interface-V2-ndk_platform.so 121375-121391
+/vendor/lib64/com.dsi.ant@1.0.so 121392-121424
+/vendor/lib64/com.qualcomm.qti.bluetooth_audio@1.0.so 121425-121467
+/vendor/lib64/com.qualcomm.qti.dpm.api@1.0.so 121468-121518
+/vendor/lib64/com.qualcomm.qti.imscmservice@1.0.so 121519-121583
+/vendor/lib64/com.qualcomm.qti.imscmservice@2.0.so 121584-121648
+/vendor/lib64/com.qualcomm.qti.imscmservice@2.1.so 121649-121712
+/vendor/lib64/com.qualcomm.qti.imscmservice@2.2.so 121713-121757
+/vendor/lib64/com.qualcomm.qti.uceservice@2.0.so 121758-121856
+/vendor/lib64/com.qualcomm.qti.uceservice@2.1.so 121857-121948
+/vendor/lib64/com.qualcomm.qti.uceservice@2.2.so 121949-122035
+/vendor/lib64/deviceInfoServiceModule.so 122036-122124
+/vendor/lib64/egl/eglSubDriverAndroid.so 122125-122142
+/vendor/lib64/egl/libEGL_adreno.so 122143-122152
+/vendor/lib64/egl/libGLESv1_CM_adreno.so 122153-122210
+/vendor/lib64/egl/libGLESv2_adreno.so 122211-123218
+/vendor/lib64/egl/libq3dtools_adreno.so 123219-123277
+/vendor/lib64/egl/libq3dtools_esx.so 123278-123648
+/vendor/lib64/ese_client.so 123649-123662
+/vendor/lib64/ese_spi_nxp_nq330.so 123663-123695
+/vendor/lib64/ftm_fm_lib.so 123696-123713
+/vendor/lib64/hal_libnfc.so 123714-123784
+/vendor/lib64/hw/android.hardware.audio.effect@2.0-impl.so 123785-123858
+/vendor/lib64/hw/android.hardware.audio.effect@4.0-impl.so 123859-123901 123828 123902-123911 123839 123912 123914-123922 123850-123851 123923-123929
+/vendor/lib64/hw/android.hardware.audio.effect@5.0-impl.so 123930-123970 123900 123971 123828 123902 123973-123981 123839 123912 123914 123982 123916-123920 123983-123984 123850-123851 123923-123925 123985-123988
+/vendor/lib64/hw/android.hardware.audio.effect@6.0-impl.so 123989-124053 123850-123851 124054-124060
+/vendor/lib64/hw/android.hardware.audio@2.0-impl.so 124061-124114
+/vendor/lib64/hw/android.hardware.audio@4.0-impl.so 124115-124169
+/vendor/lib64/hw/android.hardware.audio@5.0-impl.so 124170-124225
+/vendor/lib64/hw/android.hardware.audio@6.0-impl.so 124226-124282
+/vendor/lib64/hw/android.hardware.bluetooth.audio@2.0-impl.so 124283-124307
+/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so 124308-124394
+/vendor/lib64/hw/android.hardware.broadcastradio@1.0-impl.so 124395-124404
+/vendor/lib64/hw/android.hardware.camera.provider@2.4-impl.so 124405-124410
+/vendor/lib64/hw/android.hardware.contexthub@1.0-impl.generic.so 124411-124437
+/vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so 124438-124447
+/vendor/lib64/hw/android.hardware.gnss@2.1-impl-qti.so 124448-124531
+/vendor/lib64/hw/android.hardware.graphics.mapper@3.0-impl-qti-display.so 124532-124543
+/vendor/lib64/hw/android.hardware.graphics.mapper@4.0-impl-qti-display.so 124544-124553 0 124554-124563
+/vendor/lib64/hw/android.hardware.health@2.0-impl-2.1-qti.so 124564-124583
+/vendor/lib64/hw/android.hardware.health@2.0-impl-2.1.so 124584-124603
+/vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so 124604-124634
+/vendor/lib64/hw/android.hardware.memtrack@1.0-impl.so 124635-124639
+/vendor/lib64/hw/android.hardware.renderscript@1.0-impl.so 124640-124654
+/vendor/lib64/hw/audio.bluetooth.default.so 124655-124679
+/vendor/lib64/hw/audio.bluetooth_qti.default.so 124680-124683
+/vendor/lib64/hw/audio.primary.default.so 124684-124686
+/vendor/lib64/hw/audio.primary.msmnile.so 124687-124866
+/vendor/lib64/hw/audio.r_submix.default.so 124867-124874
+/vendor/lib64/hw/audio.usb.default.so 124875-124881
+/vendor/lib64/hw/camera.qcom.so 124882-126367
+/vendor/lib64/hw/com.dsi.ant@1.0-impl.so 126368-126374
+/vendor/lib64/hw/com.qti.chi.override.so 126375-126909
+/vendor/lib64/hw/gralloc.default.so 126910-126915
+/vendor/lib64/hw/gralloc.msmnile.so 126916-126926
+/vendor/lib64/hw/hwcomposer.msmnile.so 126927-127028
+/vendor/lib64/hw/lights.msmnile.so 127029-127031
+/vendor/lib64/hw/local_time.default.so 127032-127034
+/vendor/lib64/hw/memtrack.msmnile.so 127035-127037
+/vendor/lib64/hw/power.default.so 127038-127040
+/vendor/lib64/hw/sound_trigger.primary.msmnile.so 127041-127096
+/vendor/lib64/hw/vendor.qti.gnss@4.0-impl.so 127097-127222
+/vendor/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so 127223-127227
+/vendor/lib64/hw/vendor.qti.hardware.audiohalext@1.0-impl.so 127228-127237
+/vendor/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so 127238-127260
+/vendor/lib64/hw/vendor.qti.hardware.bluetooth_sar@1.1-impl.so 127261-127270
+/vendor/lib64/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so 127271-127277
+/vendor/lib64/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so 127278-127284
+/vendor/lib64/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so 127285-127292
+/vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so 127293-127309
+/vendor/lib64/hw/vendor.qti.hardware.qccvndhal@1.0-impl.so 127310-127313
+/vendor/lib64/hw/vendor.qti.hardware.qseecom@1.0-impl.so 127314-127323
+/vendor/lib64/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so 127324-127343
+/vendor/lib64/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so 127344-127349
+/vendor/lib64/hw/vendor.qti.hardware.servicetracker@1.2-impl.so 127350-127365
+/vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so 127366-127374
+/vendor/lib64/hw/vendor.qti.power.pasrmanager@1.0-impl.so 127375-127379
+/vendor/lib64/hw/vibrator.default.so 127380-127382
+/vendor/lib64/hw/vulkan.adreno.so 127383-127843
+/vendor/lib64/lib-imscmservice.so 127844-127898
+/vendor/lib64/lib-imsdpl.so 127899-128070
+/vendor/lib64/lib-imsqimf.so 128071-128147
+/vendor/lib64/lib-imsrcs-v2.so 128148-128290
+/vendor/lib64/lib-imsrcsbaseimpl.so 128291-128322
+/vendor/lib64/lib-imsvtcore.so 128323-128403
+/vendor/lib64/lib-imsxml.so 128404-128448
+/vendor/lib64/lib-rcsconfig.so 128449-128497
+/vendor/lib64/lib-rtpcommon.so 128498-128507
+/vendor/lib64/lib-rtpcore.so 128508-128649
+/vendor/lib64/lib-rtpsl.so 128650-128678 0 0 0 0 0 0 128679-128680
+/vendor/lib64/lib-siputility.so 128681-128713
+/vendor/lib64/lib-uceservice.so 128714-128784
+/vendor/lib64/libAlacSwDec.so 128785-128798
+/vendor/lib64/libApeSwDec.so 128799-128810
+/vendor/lib64/libC2D2.so 128811-128858
+/vendor/lib64/libCB.so 128859-129323 129199-129200 129324-129625
+/vendor/lib64/libCOppLceTonemapAPI.so 129626-129636
+/vendor/lib64/libDeVIS.so 129637-129655
+/vendor/lib64/libEIS.so 129656-129725
+/vendor/lib64/libFlacSwDec.so 129726-129738
+/vendor/lib64/libGPQTEEC_vendor.so 129739-129744
+/vendor/lib64/libGPTEE_vendor.so 129745-129749
+/vendor/lib64/libGPreqcancel.so 129750-129754
+/vendor/lib64/libGPreqcancel_svc.so 129755-129760
+/vendor/lib64/libI420colorconvert.so 129761-129763
+/vendor/lib64/libMpeg4SwEncoder.so 129764-129808
+/vendor/lib64/libOGLManager.so 129809-129818
+/vendor/lib64/libOPLUS_aisd.so 129819-130867 0 130868-130882
+/vendor/lib64/libOPPORectify.so 130883-130974 31403 130975-131071 131112-131785
+/vendor/lib64/libOmxAacDec.so 131786-131804
+/vendor/lib64/libOmxAacEnc.so 131805-131819
+/vendor/lib64/libOmxAlacDec.so 131820-131835
+/vendor/lib64/libOmxAlacDecSw.so 131836-131853
+/vendor/lib64/libOmxAmrDec.so 131854-131869
+/vendor/lib64/libOmxAmrEnc.so 131870-131884
+/vendor/lib64/libOmxAmrwbplusDec.so 131885-131900
+/vendor/lib64/libOmxApeDec.so 131901-131915 131835
+/vendor/lib64/libOmxApeDecSw.so 131916-131932
+/vendor/lib64/libOmxCore.so 131933-131941
+/vendor/lib64/libOmxEvrcDec.so 131942-131982
+/vendor/lib64/libOmxEvrcEnc.so 131983-131997
+/vendor/lib64/libOmxG711Dec.so 131998-132013
+/vendor/lib64/libOmxG711Enc.so 132014-132030
+/vendor/lib64/libOmxQcelp13Dec.so 132031-132072
+/vendor/lib64/libOmxQcelp13Enc.so 132073-132087
+/vendor/lib64/libOmxSwVdec.so 132088-132112
+/vendor/lib64/libOmxSwVencMpeg4.so 132113-132168
+/vendor/lib64/libOmxVdec.so 132169-132239
+/vendor/lib64/libOmxVenc.so 132240-132324
+/vendor/lib64/libOmxVpp.so 132325-132357
+/vendor/lib64/libOmxWmaDec.so 132358-132375
+/vendor/lib64/libOpenCL.so 132376-132404
+/vendor/lib64/libPerfectlyClearCrux.so 132405-132609
+/vendor/lib64/libQSEEComAPI.so 132610-132619
+/vendor/lib64/libQTEEConnector_vendor.so 132620-132628
+/vendor/lib64/libSEC.HybridHDR.so 132629-132690
+/vendor/lib64/libSecureUILib.so 132691-132695
+/vendor/lib64/libSonyIMX471RmscLibrary.so 132696-132716
+/vendor/lib64/libStDrvInt.so 132717-132723
+/vendor/lib64/libTouchInputVM.so 132724-132730
+/vendor/lib64/libTrustedInput.so 132731-132733
+/vendor/lib64/libTrustedInputTZ.so 132734-132744
+/vendor/lib64/libTrustedUI.so 132745-132748
+/vendor/lib64/libTrustedUITZ.so 132749-132787
+/vendor/lib64/libVDDualCameraBlurlessAPI.so 132788-133147 133147-133161 133147 133147 133162 133164-133172 0 0 0 133173 133147 133174-133186 133186-133208
+/vendor/lib64/libVDPostureDetection.so 133209-133300
+/vendor/lib64/libVkLayer_q3dtools.so 133301-133325 31403 133326-133877
+/vendor/lib64/libWaterMark.so 133878-134250
+/vendor/lib64/liba2dpoffload.so 134251-134263
+/vendor/lib64/libacdb-fts.so 134264-134266
+/vendor/lib64/libacdbloader.so 134267-134295
+/vendor/lib64/libacdbrtac.so 134296-134302
+/vendor/lib64/libadaptlaunch.so 134303-134324
+/vendor/lib64/libadiertac.so 134325-134330
+/vendor/lib64/libadreno_app_profiles.so 134331-134536
+/vendor/lib64/libadreno_utils.so 134537-134556
+/vendor/lib64/libadsp_default_listener.so 134557-134559
+/vendor/lib64/libadsprpc.so 134560-134622
+/vendor/lib64/libalsautils.so 134623-134627
+/vendor/lib64/libaoa.so 134628-134649
+/vendor/lib64/libappclassifier.so 134650-134668
+/vendor/lib64/libarbitrarybytes.so 134669-134677
+/vendor/lib64/libarcsoft_beauty_preview.so 134678-135545 0 0 0 0 0 0 0 0 0 0 0 0 0 0 135546-135573 0 0 0 0 0 0 0 135574-135577 0 0 0 0 0 0 135578 0 0 0 0 0 0 0 0 0 135579 135581-135598 0 135599-135642 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 135643-135655 0 0 0 0 135656-135660 0 0 0 0 135661 0 0 0 0 0 0 135662-135674 0 135675-135707 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 135708-135725 0 0 0 0 0 135726-135730 0 0 0 0 135731 0 0 0 0 0 0 0 0 0 135732-135745 0 0 135746-135773 0 0 0 0 0 0 0 0 0 0 0 0 0 0 135774-135784 0 0 135785-135790 0 0 0 135791 0 0 0 0 0 135792-135802 0 135803-135838 0 0 0 0 0 0 0 0 0 135839-135852 0 0 0 0 135853 0 0 0 0 0 135854-136263 0 136264-136265 0 0 136266 0 0 0 136267-136275 0 0 0 136276 0 0 0 136277-136285 0 0 136286 0 0 0 136287-136288 0 136289-136291 0 136292-136293 0 0 0 136294 0 0 0 136295-136302 0 0 0 136303 0 0 0 136304-136305 0 136306-136311 0 0 136312 0 0 0 136313-136318 0 136319-136320 0 0 0 136321 0 0 0 136322-136334 0 136335-136337 0 136338-136340 0 136341-136346 0 136347-136348 0 0 0 0 0 0 0 136349-136350 0 136351-136382 0 136383-136408 0 136409-136457 0 136458-136498 0 136499-136501 0 136502-136504 0 136505-136526 0 136527-136556 0 0 0 136557 0 0 136558-137065 0 137066-137125 137063-137065 0 137066-137238 0 0 0 0 0 0 0 0 0 0 0 0 0 0 137239-137251 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 137252-137259 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 137260-137605
+/vendor/lib64/libarcsoft_distortion_correction.so 137606-137969
+/vendor/lib64/libarcsoft_dualcam_bokeh_api.so 137970-138026
+/vendor/lib64/libarcsoft_dualcam_bokeh_frt_api.so 138027-138030 137974-137975 138031-138036 137982-137983 138037 138039-138080
+/vendor/lib64/libarcsoft_dualcam_refocus_frt_image.so 138081-138707 138706 138708-138710 138706 138708-138709 138712 138709 138713-138847 138846 138848-138850 138846 138848-138849 138851 138849 138852-141766 141766 141766 141766 141766 141766-141922
+/vendor/lib64/libaudcal.so 158523-158577
+/vendor/lib64/libarcsoft_dualcam_refocus_frt_preview.so 141924-142170 142170-142172 142172 142172-142174 142174 142174 142174 142174 142174 142176-142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177-142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179-142514
+/vendor/lib64/libarcsoft_dualcam_refocus_frt_uw.so 142515-142521 138088-138090 142522-142566 138136 142567 142569 138139-138141 142570-142576 138149-138150 142577 138152 142578 138154 142579-142580 138157-138159 142581-142583 138163 142584-142591 138172-138173 142592-142595 138178 142596-142603 138187 142604 138189-138191 142605-142610 138198 142611 138200-138208 142612-142613 138211-138212 142614-142621 138221 142622-142625 138226 142626 138228 142627-142628 138231 142629-142630 138234-138235 142631-142635 138241 142636 138243 142637-142638 138246 142639 138248 142640-142641 138251-138252 142642-142644 138256 142645 138258 142646-142647 138261-138263 142648-142649 138266-138267 142650-142654 138273-138277 142655-142657 138281 142658-142673 138298-138309 142674 138311 142675-142677 138315 142678-142679 138318-138319 142680-142681 138322-138323 142682 138325 142683-142687 138331 142688 138333 142689-142700 138346-138352 142701-142702 138355 142703 138357-138362 142704-142706 138366-138368 142707-142711 138374 142712-142717 138381 142718-142741 138406 142742-142743 138409 142744 138411-138418 142745 138420-138423 142746 138425 142747 138427-138428 142748-142749 138431-138436 142750-142751 138439-138441 142752-142755 138446-138447 142756 138449-138455 142757-142764 138464-138472 142765-142766 138475-138481 142767-142768 138484 142769-142776 138493-138504 142777-142782 138511-138514 142783-142784 138517 142785-142786 138520-138556 142787 138558-138569 142788-142791 138574 142792-142797 138581 142798-142801 138586 142802-142849 138635-138638 142850-142872 138662-138663 142873-142877 138669 142878-142915 142914 142916-142918 142914 142916-142917 142919 142917 142920-143054 143053 143055-143057 143053 143055-143056 143058 143056 143059-145971 141765-141766 141766 141766 141766 141766 141766-141920 145972-145973
+/vendor/lib64/libarcsoft_dualcam_refocus_left.so 145974-146667 146666 146668-146670 146666 146668-146669 146672 146669 146673-146699 146698 146700-146702 146698 146700-146701 146703 146701 146704-146709 0 146710-146774 146773 146775-146777 146773 146775-146776 146778 146776 146779-150079 0 0 150080 0 150081-150393 141765-141766 141766 141766 141766 141766 141766-141920 150394-150398
+/vendor/lib64/libarcsoft_dualcam_refocus_preview.so 150399-150738 142168 150739 142170 150740 142172 142172 142172 150742 142174 142174 142174 142174 142174 142174 142174 150743 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 150744 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 150745-152658 0 152659 0 152660-152942
+/vendor/lib64/libarcsoft_dualcam_refocus_right.so 152943-153424 0 153425-153491 153490 153492-153494 153490 153492-153493 153496 153493 153497-153550 141765-141766 141766 141766 141766 141766 141766 153551
+/vendor/lib64/libarcsoft_dualcam_refocus_uw.so 153552-154245 154244 154246-154248 154244 154246-154247 154250 154247 154251-154321 154320 154322-154324 154320 154322-154323 154325 154323 154326-157627 0 157628 0 157629-157941 141765-141766 141766 141766 141766 141766 141766-141920 157942-157946
+/vendor/lib64/libarcsoft_lensstaindetection.so 157947-158372
+/vendor/lib64/libarcsoft_time_convert.so 158373-158375
+/vendor/lib64/libarm_proxy_skel.so 33563-33566
+/vendor/lib64/libasn1cper.so 158376-158404
+/vendor/lib64/libasn1crt.so 158405-158451
+/vendor/lib64/libasn1crtx.so 158452-158522
+/vendor/lib64/libaudio_log_utils.so 158578-158582
+/vendor/lib64/libaudioalsa.so 158583-158587
+/vendor/lib64/libaudioconfigstore.so 158588-158595
+/vendor/lib64/libaudioparsers.so 158596-158600
+/vendor/lib64/libavservices_minijail.so 158601-158605
+/vendor/lib64/libbase64.so 158606-158608
+/vendor/lib64/libbatching.so 158609-158629
+/vendor/lib64/libbatterylistener.so 158630-158638
+/vendor/lib64/libbluetooth_audio_session.so 158639-158660
+/vendor/lib64/libbluetooth_audio_session_qti.so 158661-158708
+/vendor/lib64/libbt-hidlclient.so 158709-158717
+/vendor/lib64/libbtnv.so 158718-158720
+/vendor/lib64/libc2d30_bltlib.so 158721-158879
+/vendor/lib64/libc2dcolorconvert.so 158880-158885
+/vendor/lib64/libcacertclient.so 158886-158892
+/vendor/lib64/libcamera2ndk_vendor.so 158893-158970
+/vendor/lib64/libcamera_core_hwi.so 158971-159006
+/vendor/lib64/libcamera_nn_stub.so 159007-159013
+/vendor/lib64/libcamxfdalgov7.so 159014-159417
+/vendor/lib64/libcamxfdalgov8.so 159418-159648
+/vendor/lib64/libcamxfdengine.so 159649-159685 0 0 0 0 0 0 0 0 0 0 159686-159743
+/vendor/lib64/libcamxstatscore.so 159744-159751 0 0 0 0 0 0 0 159752-159753
+/vendor/lib64/libcamxswprocessalgo.so 159754-159763 0 0 0 0 0 159764-159765
+/vendor/lib64/libcamxtintlessalgo.so 159766-159798 0 0 0 0 0 0 0 0 0 0 0 0 0 0 159799-159801
+/vendor/lib64/libcapiv2svacnn.so 159802-159978
+/vendor/lib64/libcapiv2vop.so 159979-160078
+/vendor/lib64/libcdfw.so 160079-160130
+/vendor/lib64/libcdfw_remote_api.so 160131-160148
+/vendor/lib64/libcdsp_default_listener.so 160149 134558 160150
+/vendor/lib64/libcdsprpc.so 160151-160213
+/vendor/lib64/libcert_parse.wpa_s.so 160214-160264
+/vendor/lib64/libchrome.so 160265-160288 31403 160289-160570 160570-160576
+/vendor/lib64/libcirrusspkrprot.so 160577-160581
+/vendor/lib64/libcld80211.so 160582-160586
+/vendor/lib64/libcne.so 160587-160824
+/vendor/lib64/libcneapiclient.so 160825-160855
+/vendor/lib64/libcneoplookup.so 160856-160858
+/vendor/lib64/libcneqmiutils.so 160859-160861
+/vendor/lib64/libcodec2_hidl@1.0.so 160862-160950
+/vendor/lib64/libcodec2_vndk.so 160951-161137
+/vendor/lib64/libcom.oppo.calidatacontainer.so 161138-161140
+/vendor/lib64/libcom.qti.chinodeutils.so 161141-161145
+/vendor/lib64/libcomprcapture.so 161146-161148
+/vendor/lib64/libconfigdb.so 161149-161157
+/vendor/lib64/libcpion.so 161158-161161
+/vendor/lib64/libcryptfshwcommon.so 161162-161164
+/vendor/lib64/libcryptfshwhidl.so 161165-161168
+/vendor/lib64/libcvface_api.so 161169-163839 163873-164549 0 164550 0 164551-164557 0 0 164558 0 0 0 0 0 0 0 0 0 0 164560-165294
+/vendor/lib64/libcvp.so 165295-165317
+/vendor/lib64/libcvp_common.so 165318-165321
+/vendor/lib64/libcvp_stub.so 165322-165332
+/vendor/lib64/libcvpcpuRev_skel.so 165333-165349
+/vendor/lib64/libdataitems.so 165350-165421
+/vendor/lib64/libdiag.so 165422-165474 0 165475-165477
+/vendor/lib64/libdiagjni.so 165478-165482
+/vendor/lib64/libdisp-aba.so 165483-165536
+/vendor/lib64/libdisplayconfig.qti.so 165537-165561
+/vendor/lib64/libdisplaydebug.so 165562-165564
+/vendor/lib64/libdisplayqos.so 165565-165571
+/vendor/lib64/libdpmqmihal.so 165572-165580
+/vendor/lib64/libdpps.so 165581-165706
+/vendor/lib64/libdrm.so 165707-165727
+/vendor/lib64/libdrmfs.so 165728-165738
+/vendor/lib64/libdrmtime.so 165739-165742
+/vendor/lib64/libdrmutils.so 165743-165746
+/vendor/lib64/libdsi_netctrl.so 165747-165894
+/vendor/lib64/libdsutils.so 165895-165920
+/vendor/lib64/libeffects.so 165921-165929
+/vendor/lib64/libeffectsconfig.so 165930-165939
+/vendor/lib64/libembmsservice.so 165940-166146
+/vendor/lib64/libexthwplugin.so 166147-166153
+/vendor/lib64/libfastcvdsp_stub.so 166154-166206
+/vendor/lib64/libfastcvopt.so 166207-166247 31403 31403 166248-166359 40311-40318 166361-167220 0 0 0 0 0 0 167221-167222 167222 167222 167222 167222-167223 0 0 0 0 0 0 167224 0 167225-167964
+/vendor/lib64/libfastrpc_utf_stub.so 167965-167970
+/vendor/lib64/libgameoptfeature.so 167971-168021
+/vendor/lib64/libgarden.so 168022-168140
+/vendor/lib64/libgarden_haltests_e2e.so 168141-168298
+/vendor/lib64/libgcs-calwrapper.so 168299-168302
+/vendor/lib64/libgcs-ipc.so 168303-168308 6285
+/vendor/lib64/libgcs-osal.so 168309-168312
+/vendor/lib64/libgcs.so 168313-168322
+/vendor/lib64/libgdtap.so 168323-168345
+/vendor/lib64/libgeofencing.so 168346-168362
+/vendor/lib64/libgnss.so 168363-168455
+/vendor/lib64/libgnsspps.so 168456-168459
+/vendor/lib64/libgps.utils.so 168460-168512
+/vendor/lib64/libgpu_tonemapper.so 168513-168528
+/vendor/lib64/libgpudataproducer.so 168529-168915
+/vendor/lib64/libgralloc.qti.so 168916-168923
+/vendor/lib64/libgralloccore.so 168924-168941
+/vendor/lib64/libgrallocutils.so 168942-168951
+/vendor/lib64/libgsl.so 168952-169472
+/vendor/lib64/libhbtpclient.so 169473-169498
+/vendor/lib64/libhbtpdsp.so 169499-169532
+/vendor/lib64/libhbtpfrmwk.so 169533-169586
+/vendor/lib64/libhdcp1prov.so 169587-169589
+/vendor/lib64/libhdcp2p2prov.so 169590-169592
+/vendor/lib64/libhdcpsrm.so 169593-169595
+/vendor/lib64/libhdmiedid.so 169596-169599
+/vendor/lib64/libhdmipassthru.so 169600-169604
+/vendor/lib64/libhdr_tm.so 169605-169673
+/vendor/lib64/libhdrdynamic.so 169674-169692
+/vendor/lib64/libhdrdynamicootf.so 169693-169695
+/vendor/lib64/libhexagon_nn_stub.so 169696-169710
+/vendor/lib64/libhfp.so 169711-169716
+/vendor/lib64/libhidltransport.so 169717-169719
+/vendor/lib64/libhta_hexagon_runtime.so 169720-169742 31403 169743-170189 0 170190-170192 170192 170194-170268
+/vendor/lib64/libhvx_proxy_stub.so 43535-43542
+/vendor/lib64/libhwbinder.so 170269 169718 170270
+/vendor/lib64/libhwc2on1adapter.so 170271-170310
+/vendor/lib64/libhwc2onfbadapter.so 170311-170319
+/vendor/lib64/libidl.so 170320-170324
+/vendor/lib64/libipanat.so 170325-170334
+/vendor/lib64/libizat_client_api.so 170335-170393
+/vendor/lib64/libizat_core.so 170394-170460
+/vendor/lib64/libjnihelper.so 170461-170475
+/vendor/lib64/libjson.so 170476-170487
+/vendor/lib64/libkeymasterdeviceutils.so 170488-170492
+/vendor/lib64/libkeymasterprovision.so 170493-170508
+/vendor/lib64/libkeymasterutils.so 170509-170518
+/vendor/lib64/libkeystore-engine-wifi-hidl.so 170519-170524
+/vendor/lib64/libkeystore-wifi-hidl.so 170525-170528
+/vendor/lib64/liblbs_core.so 170529-170568
+/vendor/lib64/liblearningmodule.so 170569-170610
+/vendor/lib64/liblistensoundmodel2.so 170611-171121
+/vendor/lib64/libllvm-glnext.so 171122-171273 48229 171274 48229 171275 48229 171277 48229 171278-174508
+/vendor/lib64/libllvm-qcom.so 174509-176199 44284 176200 44284 176201 44284 176203 44284 44284 176204-176285 0 0 0 0 0 0 0 176286-181832
+/vendor/lib64/libloadalgo_stub.so 181833-181835
+/vendor/lib64/libloc_api_v02.so 181836-181939
+/vendor/lib64/libloc_core.so 181940-182066
+/vendor/lib64/libloc_socket.so 182067-182076
+/vendor/lib64/liblocation_api.so 182077-182114
+/vendor/lib64/liblocationservice.so 182115-182309
+/vendor/lib64/liblocationservice_glue.so 182310-182322
+/vendor/lib64/liblqe.so 182500-182517
+/vendor/lib64/liblowi_client.so 182324-182441
+/vendor/lib64/liblowi_wifihal.so 182442-182499
+/vendor/lib64/libmdmdetect.so 182518-182522
+/vendor/lib64/libmdmimgload.so 182523-182532
+/vendor/lib64/libmdsprpc.so 182533-182536 160155-160169 182537-182580
+/vendor/lib64/libmeters-ns.so 182581-182604
+/vendor/lib64/libmeters.so 182605-182610
+/vendor/lib64/libmidasserviceintf.so 182611-182616
+/vendor/lib64/libminkdescriptor.so 182617-182625
+/vendor/lib64/libminksocket.so 182626-182635
+/vendor/lib64/libmiracast.so 182636-182641
+/vendor/lib64/libmm-color-convertor.so 182642-182646
+/vendor/lib64/libmm-hdcpmgr.so 182647-182655
+/vendor/lib64/libmm-omxcore.so 182656-182663
+/vendor/lib64/libmmosal.so 182664-182673
+/vendor/lib64/libmpbase.so 182674-182675
+/vendor/lib64/libmulawdec.so 182676-182678
+/vendor/lib64/libnative-api.so 182679-182681
+/vendor/lib64/libnbaio_mono.so 182682-182687
+/vendor/lib64/libnetfilter_conntrack.so 182688-182712
+/vendor/lib64/libnetmgr.so 182713-182755
+/vendor/lib64/libnetmgr_common.so 182756-182767
+/vendor/lib64/libnetmgr_nr_fusion.so 182768-182770
+/vendor/lib64/libnetmgr_rmnet_ext.so 182771-182775
+/vendor/lib64/libnfnetlink.so 182776-182782
+/vendor/lib64/libnlnetmgr.so 182783-182788
+/vendor/lib64/libnpu.so 182789-182823 31403 182824-183381 0 183382-183388 183388 183388 183390-183465
+/vendor/lib64/libocam_common.so 183466-183510
+/vendor/lib64/liboemaids_vendor.so 183511 169718 183512
+/vendor/lib64/liboffloadhal.so 183513-183533
+/vendor/lib64/libopenvx.so 183534-183581 31403 31403 31403 183582 183584-184817 0 0 0 184818-184819 184819 184819 184819 184819 184819 184819-184822 0 0 0 0 0 0 184823 0 184824-185570
+/vendor/lib64/liboppo_platform_hwi.so 185571-185576
+/vendor/lib64/libops.so 185577-185582
+/vendor/lib64/libp61-jcop-kit.so 185583-185596
+/vendor/lib64/libpdmapper.so 185597-185599
+/vendor/lib64/libpdnotifier.so 185600-185603
+/vendor/lib64/libperfconfig.so 185604-185610
+/vendor/lib64/libperfgluelayer.so 185611-185615
+/vendor/lib64/libperfioctl.so 185616-185618
+/vendor/lib64/libperipheral_client.so 185619-185632
+/vendor/lib64/libplatformconfig.so 185633-185639
+/vendor/lib64/libprotobuf-cpp-full-3.9.1.so 185640-185669 31403 185670-186192 186192 186192 186194-186202
+/vendor/lib64/libprotobuf-cpp-lite-3.9.1.so 186203-186265 185861 186266-186323
+/vendor/lib64/libpsi.so 186324-186326
+/vendor/lib64/libpvr.so 186327-186329
+/vendor/lib64/libqcbor.so 186330-186334
+/vendor/lib64/libqcc_file_agent.so 186335-186341
+/vendor/lib64/libqcci_legacy.so 186342-186346
+/vendor/lib64/libqcmaputils.so 186347-186352
+/vendor/lib64/libqcodec2.so 186353-186605
+/vendor/lib64/libqcrilFramework.so 186606-186792
+/vendor/lib64/libqcrildatactl.so 186793-186800
+/vendor/lib64/libqdMetaData.so 186801-186806
+/vendor/lib64/libqdi.so 186807-186846
+/vendor/lib64/libqdma_file_agent.so 186847-186848 186337-186339 186849-186850
+/vendor/lib64/libqdp.so 186851-186896
+/vendor/lib64/libqdutils.so 186897-186903
+/vendor/lib64/libqisl.so 186904-186908
+/vendor/lib64/libqmi.so 186909-186979
+/vendor/lib64/libqmi_cci.so 186980-186992
+/vendor/lib64/libqmi_client_helper.so 186993-186998
+/vendor/lib64/libqmi_client_qmux.so 186999-187010
+/vendor/lib64/libqmi_common_so.so 187011-187013
+/vendor/lib64/libqmi_csi.so 187014-187023
+/vendor/lib64/libqmi_csvt_srvc.so 187024-187032
+/vendor/lib64/libqmi_encdec.so 187033-187037
+/vendor/lib64/libqmi_legacy.so 187038-187105
+/vendor/lib64/libqmiservices.so 187106-187143
+/vendor/lib64/libqrtr.so 187144-187146
+/vendor/lib64/libqsap_sdk.so 187147-187162
+/vendor/lib64/libqseed3.so 187163-187195
+/vendor/lib64/libqservice.so 187196-187209
+/vendor/lib64/libqsocket.so 187210-187212
+/vendor/lib64/libqti-iopd-client.so 187213-187217
+/vendor/lib64/libqti-iopd.so 187218-187255
+/vendor/lib64/libqti-perfd-client.so 187256-187262
+/vendor/lib64/libqti-perfd.so 187263-187312
+/vendor/lib64/libqti-util.so 187313-187318
+/vendor/lib64/libqti-utils.so 187319-187321
+/vendor/lib64/libqti_vndfwk_detect.so 187322-187324
+/vendor/lib64/libqtigef.so 187325-187329
+/vendor/lib64/libqtikeymaster4.so 187330-187366
+/vendor/lib64/librcc.so 187367-187384
+/vendor/lib64/librecovery_updater_msm.so 187385-187393 52586
+/vendor/lib64/libreference-ril.so 187394-187418
+/vendor/lib64/libreffeature.so 187419-187437
+/vendor/lib64/libril-qc-hal-qmi.so 187438-187566 31403 31403 31403 31403 31403 31403 31403 31403 31403 187568-195175 0 0 0 0 0 0 0 0 0 0 195176-195177 195177 195177 195177 195177 195177 195177 195177 195177 195177 195177 195177 195177 195177 195177 195177 195177-195741
+/vendor/lib64/libril-qc-logger.so 195742-195752
+/vendor/lib64/libril-qc-ltedirectdisc.so 195753 169718 195754
+/vendor/lib64/libril-qc-radioconfig.so 195755-195757
+/vendor/lib64/libril-qcril-hook-oem.so 195758-195760
+/vendor/lib64/libril.so 195761-195836
+/vendor/lib64/librilqmiservices.so 195837-195840
+/vendor/lib64/librilutils.so 195841-195844
+/vendor/lib64/librmnetctl.so 195845-195852
+/vendor/lib64/librmp.so 195853-195858
+/vendor/lib64/librpmb.so 195859-195869
+/vendor/lib64/libscveCommon.so 195870-195876
+/vendor/lib64/libscveCommon_stub.so 195877-195879
+/vendor/lib64/libscveObjectSegmentation.so 195880-195946
+/vendor/lib64/libscveObjectSegmentation_stub.so 195947-195949
+/vendor/lib64/libscveObjectTracker.so 195950-196051
+/vendor/lib64/libscveObjectTracker_stub.so 196052-196060
+/vendor/lib64/libsdedrm.so 196061-196126
+/vendor/lib64/libsdm-color.so 196127-196194
+/vendor/lib64/libsdm-colormgr-algo.so 196195-196206
+/vendor/lib64/libsdm-diag.so 196207-196238
+/vendor/lib64/libsdm-disp-vndapis.so 196239-196265
+/vendor/lib64/libsdmcore.so 196266-196401
+/vendor/lib64/libsdmextension.so 196402-196530
+/vendor/lib64/libsdmutils.so 196531-196538
+/vendor/lib64/libsdsprpc.so 196539 182534 196540-196541 160155-160169 182537-182540 196543-196551 182550-182560 196552-196553 182563-182565 196554-196555 182568-182577 196556-196558
+/vendor/lib64/libsecureui.so 196559-196570
+/vendor/lib64/libsecureui_svcsock.so 196571-196582
+/vendor/lib64/libsensorcal.so 196583-196601
+/vendor/lib64/libsensorndkbridge.so 196602-196607 196637-196643
+/vendor/lib64/libsensorslog.so 196644-196646
+/vendor/lib64/libsettings.so 196647-196704
+/vendor/lib64/libsi.so 196705-196713
+/vendor/lib64/libskewknob.so 196714-196719
+/vendor/lib64/libsmemlog.so 196720-196722
+/vendor/lib64/libsndmonitor.so 196723-196727
+/vendor/lib64/libsns_device_mode_stub.so 196728-196730
+/vendor/lib64/libsns_fastRPC_util.so 196731-196733
+/vendor/lib64/libsns_low_lat_stream_stub.so 196734-196736
+/vendor/lib64/libsns_registry_skel.so 196737-196739
+/vendor/lib64/libsnsapi.so 196740-196767 31403 196768-197072
+/vendor/lib64/libsnsdiaglog.so 197073-197077
+/vendor/lib64/libsoc_helper.so 197078-197080
+/vendor/lib64/libsoc_helper_jni.so 197081-197083
+/vendor/lib64/libspcom.so 197084-197097
+/vendor/lib64/libspkrprot.so 197098-197107
+/vendor/lib64/libspl.so 197108-197110
+/vendor/lib64/libssc.so 197111-197138
+/vendor/lib64/libssc_default_listener.so 197139 134558 197140
+/vendor/lib64/libssd.so 197141-197143
+/vendor/lib64/libssrec.so 197144-197150
+/vendor/lib64/libstagefright_bufferpool@2.0.1.so 197151-197220
+/vendor/lib64/libstagefright_soft_qtiflacdec.so 197221-197230
+/vendor/lib64/libstagefright_softomx.so 197231-197255
+/vendor/lib64/libstagefrighthw.so 197256-197258
+/vendor/lib64/libsubsystem_control.so 197259-197262
+/vendor/lib64/libswregistrationalgo.so 197263-198653
+/vendor/lib64/libswvdec.so 198654-198705
+/vendor/lib64/libsynergy_loc_api.so 198706-198733
+/vendor/lib64/libsysmon_cdsp_skel.so 198734-198736
+/vendor/lib64/libsystem_health_mon.so 198737-198739
+/vendor/lib64/libthermalclient.so 198740-198749
+/vendor/lib64/libtime_genoff.so 198750-198752
+/vendor/lib64/libtinycompress.so 198753-198757
+/vendor/lib64/libtinyxml.so 198758-198774
+/vendor/lib64/libtinyxml2_1.so 198775-198793
+/vendor/lib64/rfsa/adsp/libsns_device_mode_skel.so 74331-74332 72675 74333-74335
+/vendor/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so 74336-74337 72675 74338-74342
+/vendor/lib64/libtriplecam_image_optical_zoom.so 198795-199148 142168 199149 142170 199150 142172 142172 142172 199152 142174 142174 142174 142174 142174 142174 142174 199153 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 142177 199154 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 142179 199155-199415 199352-199414 199416-199455
+/vendor/lib64/libtriplecam_optical_zoom_control.so 199456-199527
+/vendor/lib64/libtriplecam_optical_zoom_vs.so 199528-199621
+/vendor/lib64/libtriplecam_video_optical_zoom.so 199622-199833 0 199834-199839
+/vendor/lib64/libtrustedapploader.so 199840-199852
+/vendor/lib64/libtzdrmgenprov.so 199853-199858
+/vendor/lib64/libvndfwk_detect_jni.qti.so 199859-199861
+/vendor/lib64/libvppclient.so 199862-199875
+/vendor/lib64/libvpphcp.so 199876-199884
+/vendor/lib64/libvpphvx.so 199885-199893
+/vendor/lib64/libvppimmotion.so 199894-199913
+/vendor/lib64/libvpplibrary.so 199914-200022
+/vendor/lib64/libvpptestutils.so 200023-200065
+/vendor/lib64/libwapi_cert.so 200066-200070
+/vendor/lib64/libwebrtc_audio_preprocessing.so 200071-200321
+/vendor/lib64/libwfddisplayconfig_proprietary.so 200322-200326
+/vendor/lib64/libwfdhdcpcp.so 200327-200334
+/vendor/lib64/libwifi-hal-ctrl.so 200335-200337
+/vendor/lib64/libwifi-hal-qcom.so 200338-200447
+/vendor/lib64/libwifi-hal.so 200448-200559
+/vendor/lib64/libwigig_flashaccess.so 200560-200569
+/vendor/lib64/libwigig_ftm_flows.so 200570-200590
+/vendor/lib64/libwigig_pciaccess.so 200591-200610
+/vendor/lib64/libwigig_utils.so 200611-200619
+/vendor/lib64/libwms.so 200620-200650
+/vendor/lib64/libwpa_client.so 200651-200658
+/vendor/lib64/libwqe.so 200659-200864
+/vendor/lib64/libxml.so 200865-200874
+/vendor/lib64/libxtadapter.so 200875-200879
+/vendor/lib64/libxtwifi_server_protocol.so 200880-201055
+/vendor/lib64/libxtwifi_server_protocol_uri_v3.so 201056-201298
+/vendor/lib64/ls_client.so 201299-201310
+/vendor/lib64/mediacas/libclearkeycasplugin.so 201312-201333
+/vendor/lib64/mediadrm/libdrmclearkeyplugin.so 201335-201349
+/vendor/lib64/nfc_nci.pn54x.default.so 201350-201413 0 201414 0 201415-201421 6285
+/vendor/lib64/oplus_btaudio_offload_if.so 201422-201424
+/vendor/lib64/qcom.camera.log.so 201425-201429 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 201430
+/vendor/lib64/qcrild_librilutils.so 201431 195843 201432
+/vendor/lib64/qtibus.so 201433-201548
+/vendor/lib64/qtimutex.so 201549-201558
+/vendor/lib64/sensors.ssc.so 201561-201682
+/vendor/lib64/soundfx/libasphere.so 201684-201686
+/vendor/lib64/soundfx/libaudiopreprocessing.so 201687-201695
+/vendor/lib64/soundfx/libbundlewrapper.so 201696-201712
+/vendor/lib64/soundfx/libdownmix.so 201713-201716
+/vendor/lib64/soundfx/libdynproc.so 201717-201730
+/vendor/lib64/soundfx/libeffectproxy.so 201731-201734
+/vendor/lib64/soundfx/libldnhncr.so 201735-201738
+/vendor/lib64/soundfx/libqcbassboost.so 201739-201796
+/vendor/lib64/soundfx/libqcompostprocbundle.so 201797-201809
+/vendor/lib64/soundfx/libqcomvisualizer.so 201810-201815
+/vendor/lib64/soundfx/libqcomvoiceprocessing.so 201816-201818
+/vendor/lib64/soundfx/libqcreverb.so 201819-201892
+/vendor/lib64/soundfx/libqcvirt.so 201893-201962
+/vendor/lib64/soundfx/libreverbwrapper.so 201963-201971
+/vendor/lib64/soundfx/libshoebox.so 201972-201974
+/vendor/lib64/soundfx/libvisualizer.so 201975-201978
+/vendor/lib64/soundfx/libvolumelistener.so 201979-201983
+/vendor/lib64/unnhal-acc-adreno.so 201984-202025 31403 31403 31403 202026 202028-203095 0 203096-203097 203097 203097-203111
+/vendor/lib64/unnhal-acc-common.so 203112-203736
+/vendor/lib64/unnhal-acc-hta.so 203737-203929
+/vendor/lib64/unnhal-acc-hvx.so 203930-204047
+/vendor/lib64/vendor.display.color@1.0.so 204048-204092
+/vendor/lib64/vendor.display.color@1.1.so 204093-204121
+/vendor/lib64/vendor.display.color@1.2.so 204122-204153
+/vendor/lib64/vendor.display.color@1.3.so 204154-204188
+/vendor/lib64/vendor.display.color@1.4.so 204189-204223 52586
+/vendor/lib64/vendor.display.color@1.5.so 204224-204263
+/vendor/lib64/vendor.display.config@1.0.so 204264-204295
+/vendor/lib64/vendor.display.config@1.1.so 204296-204321
+/vendor/lib64/vendor.display.config@1.10.so 204322-204375
+/vendor/lib64/vendor.display.config@1.11.so 204376-204418
+/vendor/lib64/vendor.display.config@1.2.so 204419-204445
+/vendor/lib64/vendor.display.config@1.3.so 204446-204473
+/vendor/lib64/vendor.display.config@1.4.so 204474-204504
+/vendor/lib64/vendor.display.config@1.5.so 204505-204536
+/vendor/lib64/vendor.display.config@1.6.so 204537-204569
+/vendor/lib64/vendor.display.config@1.7.so 204570-204608
+/vendor/lib64/vendor.display.config@1.8.so 204609-204646
+/vendor/lib64/vendor.display.config@1.9.so 204647-204685
+/vendor/lib64/vendor.display.config@2.0.so 204686-204717
+/vendor/lib64/vendor.display.postproc@1.0.so 204718-204736
+/vendor/lib64/vendor.nxp.eventprocessor@1.0.so 204737-204755
+/vendor/lib64/vendor.nxp.nxpnfc@1.0.so 204756-204774
+/vendor/lib64/vendor.nxpnq330.nxpese@1.0.so 204775-204793
+/vendor/lib64/vendor.oplus.hardware.cammidasservice@1.0.so 204794-204813
+/vendor/lib64/vendor.oplus.hardware.wifi.powersystem@1.0.so 204814-204849
+/vendor/lib64/vendor.oplus.hardware.wifi.supplicant@2.0.so 204850-204940
+/vendor/lib64/vendor.qti.data.factory@2.0.so 204941-204975
+/vendor/lib64/vendor.qti.data.factory@2.1.so 204976-205007
+/vendor/lib64/vendor.qti.data.slm@1.0.so 205008-205036
+/vendor/lib64/vendor.qti.gnss@1.0.so 205037-205290
+/vendor/lib64/vendor.qti.gnss@1.1.so 205291-205543
+/vendor/lib64/vendor.qti.gnss@1.2.so 205544-205611
+/vendor/lib64/vendor.qti.gnss@2.0.so 205612-205656
+/vendor/lib64/vendor.qti.gnss@2.1.so 205657-205865
+/vendor/lib64/vendor.qti.gnss@3.0.so 205866-205937 52586
+/vendor/lib64/vendor.qti.gnss@4.0-service.so 205938-205943
+/vendor/lib64/vendor.qti.gnss@4.0.so 205944-206055
+/vendor/lib64/vendor.qti.hardware.alarm@1.0.so 206056-206075
+/vendor/lib64/vendor.qti.hardware.audiohalext@1.0.so 206076-206095
+/vendor/lib64/vendor.qti.hardware.automotive.vehicle@1.0.so 206096-206114
+/vendor/lib64/vendor.qti.hardware.bluetooth_audio@2.0.so 206115-206160
+/vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so 206161-206179
+/vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so 206180-206199
+/vendor/lib64/vendor.qti.hardware.btconfigstore@1.0.so 206200-206220
+/vendor/lib64/vendor.qti.hardware.btconfigstore@2.0.so 206221-206244
+/vendor/lib64/vendor.qti.hardware.cacert@1.0.so 206245-206277
+/vendor/lib64/vendor.qti.hardware.camera.device@1.0.so 206278-206300
+/vendor/lib64/vendor.qti.hardware.camera.postproc@1.0.so 206301-206343
+/vendor/lib64/vendor.qti.hardware.capabilityconfigstore@1.0.so 206344-206359 204790 206360-206362
+/vendor/lib64/vendor.qti.hardware.cryptfshw@1.0.so 206363-206383
+/vendor/lib64/vendor.qti.hardware.cvp@1.0.so 206384-206534
+/vendor/lib64/vendor.qti.hardware.data.cne.internal.api@1.0.so 206535-206589
+/vendor/lib64/vendor.qti.hardware.data.cne.internal.constants@1.0.so 206590-206592
+/vendor/lib64/vendor.qti.hardware.data.cne.internal.server@1.0.so 206593-206648
+/vendor/lib64/vendor.qti.hardware.data.connection@1.0.so 206649-206692
+/vendor/lib64/vendor.qti.hardware.data.connection@1.1.so 206693-206714
+/vendor/lib64/vendor.qti.hardware.data.dynamicdds@1.0.so 206715-206777
+/vendor/lib64/vendor.qti.hardware.data.iwlan@1.0.so 206778-206830
+/vendor/lib64/vendor.qti.hardware.data.latency@1.0.so 206831-206870
+/vendor/lib64/vendor.qti.hardware.data.qmi@1.0.so 206871-206916
+/vendor/lib64/vendor.qti.hardware.display.allocator@1.0.so 206917-206936
+/vendor/lib64/vendor.qti.hardware.display.allocator@3.0.so 206937-206953 206934 206954-206955
+/vendor/lib64/vendor.qti.hardware.display.allocator@4.0.so 206956-206975
+/vendor/lib64/vendor.qti.hardware.display.composer@1.0.so 206976-207022
+/vendor/lib64/vendor.qti.hardware.dsp@1.0.so 207290-207319
+/vendor/lib64/vendor.qti.hardware.display.composer@2.0.so 207025-207081
+/vendor/lib64/vendor.qti.hardware.display.mapper@1.0.so 207082-207112
+/vendor/lib64/vendor.qti.hardware.display.mapper@1.1.so 207113-207147
+/vendor/lib64/vendor.qti.hardware.display.mapper@2.0.so 207148-207173
+/vendor/lib64/vendor.qti.hardware.display.mapper@3.0.so 207174-207198
+/vendor/lib64/vendor.qti.hardware.display.mapper@4.0.so 207199-207226
+/vendor/lib64/vendor.qti.hardware.display.mapperextensions@1.0.so 207227-207259
+/vendor/lib64/vendor.qti.hardware.display.mapperextensions@1.1.so 207260-207289
+/vendor/lib64/vendor.qti.hardware.embmssl@1.0-adapter-helper.so 207320-207418
+/vendor/lib64/vendor.qti.hardware.embmssl@1.0.so 207419-207509
+/vendor/lib64/vendor.qti.hardware.factory@1.0.so 207510-207534
+/vendor/lib64/vendor.qti.hardware.factory@1.1.so 207535-207557
+/vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so 207558-207651
+/vendor/lib64/vendor.qti.hardware.fm@1.0.so 207652-207680
+/vendor/lib64/vendor.qti.hardware.fstman@1.0.so 207681-207734
+/vendor/lib64/vendor.qti.hardware.improvetouch.touchcompanion@1.0-service.so 207735-207750
+/vendor/lib64/vendor.qti.hardware.improvetouch.touchcompanion@1.0.so 207751-207805
+/vendor/lib64/vendor.qti.hardware.iop@1.0.so 207806-207824
+/vendor/lib64/vendor.qti.hardware.iop@2.0.so 207825-207845
+/vendor/lib64/vendor.qti.hardware.perf@2.0.so 207846-207869 6285
+/vendor/lib64/vendor.qti.hardware.perf@2.1.so 207870-207902
+/vendor/lib64/vendor.qti.hardware.perf@2.2.so 207903-207929
+/vendor/lib64/vendor.qti.hardware.qccsyshal@1.0.so 207930-207973
+/vendor/lib64/vendor.qti.hardware.qccvndhal@1.0-halimpl.so 207974-207983
+/vendor/lib64/vendor.qti.hardware.qccvndhal@1.0.so 207984-208010 6285
+/vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0.so 208011-208029
+/vendor/lib64/vendor.qti.hardware.qseecom@1.0.so 208030-208060
+/vendor/lib64/vendor.qti.hardware.qteeconnector@1.0.so 208061-208115
+/vendor/lib64/vendor.qti.hardware.radio.am@1.0.so 208116-208146
+/vendor/lib64/vendor.qti.hardware.radio.atcmdfwd@1.0.so 208147-208165
+/vendor/lib64/vendor.qti.hardware.radio.ims@1.0.so 208166-208292
+/vendor/lib64/vendor.qti.hardware.radio.ims@1.1.so 208293-208362
+/vendor/lib64/vendor.qti.hardware.radio.ims@1.2.so 208363-208475
+/vendor/lib64/vendor.qti.hardware.radio.ims@1.3.so 208476-208594
+/vendor/lib64/vendor.qti.hardware.radio.ims@1.4.so 208595-208723
+/vendor/lib64/vendor.qti.hardware.radio.ims@1.5.so 208724-208862
+/vendor/lib64/vendor.qti.hardware.radio.ims@1.6.so 208863-209025
+/vendor/lib64/vendor.qti.hardware.radio.internal.deviceinfo@1.0.so 209026-209069
+/vendor/lib64/vendor.qti.hardware.radio.lpa@1.0.so 209070-209113
+/vendor/lib64/vendor.qti.hardware.radio.qcrilhook@1.0.so 209114-209154
+/vendor/lib64/vendor.qti.hardware.radio.qtiradio@1.0.so 209155-209193
+/vendor/lib64/vendor.qti.hardware.radio.qtiradio@2.0.so 209194-209249
+/vendor/lib64/vendor.qti.hardware.radio.qtiradio@2.1.so 209250-209309
+/vendor/lib64/vendor.qti.hardware.radio.qtiradio@2.2.so 209310-209372
+/vendor/lib64/vendor.qti.hardware.radio.qtiradio@2.3.so 209373-209428
+/vendor/lib64/vendor.qti.hardware.radio.qtiradio@2.4.so 209429-209484
+/vendor/lib64/vendor.qti.hardware.radio.uim@1.0.so 209485-209523
+/vendor/lib64/vendor.qti.hardware.radio.uim@1.1.so 209524-209556
+/vendor/lib64/vendor.qti.hardware.radio.uim@1.2.so 209557-209596
+/vendor/lib64/vendor.qti.hardware.radio.uim_remote_client@1.0.so 209597-209644
+/vendor/lib64/vendor.qti.hardware.radio.uim_remote_client@1.1.so 209645-209668
+/vendor/lib64/vendor.qti.hardware.radio.uim_remote_client@1.2.so 209669-209694
+/vendor/lib64/vendor.qti.hardware.radio.uim_remote_server@1.0.so 209695-209748
+/vendor/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so 209749-209789
+/vendor/lib64/vendor.qti.hardware.scve.panorama@1.0.so 209790-209849
+/vendor/lib64/vendor.qti.hardware.seccam@1.0.so 209850-209868
+/vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so 209869-209887
+/vendor/lib64/vendor.qti.hardware.servicetracker@1.0.so 209888-209921
+/vendor/lib64/vendor.qti.hardware.servicetracker@1.1.so 209922-209948
+/vendor/lib64/vendor.qti.hardware.servicetracker@1.2.so 209949-209989
+/vendor/lib64/vendor.qti.hardware.sigma_miracast@1.0.so 209990-210019
+/vendor/lib64/vendor.qti.hardware.slmadapter@1.0.so 210020-210056
+/vendor/lib64/vendor.qti.hardware.soter@1.0.so 210057-210085
+/vendor/lib64/vendor.qti.hardware.systemhelper@1.0.so 210086-210126
+/vendor/lib64/vendor.qti.hardware.trustedui@1.0.so 210127-210181
+/vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so 210182-210216
+/vendor/lib64/vendor.qti.hardware.vpp@1.1.so 210217-210260
+/vendor/lib64/vendor.qti.hardware.vpp@1.2.so 210261-210294
+/vendor/lib64/vendor.qti.hardware.vpp@1.3.so 210295-210334
+/vendor/lib64/vendor.qti.hardware.wifi.hostapd@1.0.so 210335-210368
+/vendor/lib64/vendor.qti.hardware.wifi.hostapd@1.1.so 210369-210406
+/vendor/lib64/vendor.qti.hardware.wifi.hostapd@1.2.so 210407-210435
+/vendor/lib64/vendor.qti.hardware.wifi.keystore@1.0.so 210436-210454
+/vendor/lib64/vendor.qti.hardware.wifi.supplicant@2.0.so 210455-210598
+/vendor/lib64/vendor.qti.hardware.wifi.supplicant@2.1.so 210599-210639
+/vendor/lib64/vendor.qti.hardware.wifi.supplicant@2.2.so 210640-210681
+/vendor/lib64/vendor.qti.hardware.wifi.wifilearner@1.0.so 210682-210702
+/vendor/lib64/vendor.qti.hardware.wifidisplaysession@1.0.so 210703-210866
+/vendor/lib64/vendor.qti.hardware.wigig.netperftuner@1.0.so 210867-210886
+/vendor/lib64/vendor.qti.hardware.wigig.supptunnel@1.0.so 210887-210929
+/vendor/lib64/vendor.qti.ims.callcapability@1.0.so 210930-210959
+/vendor/lib64/vendor.qti.ims.callinfo@1.0.so 210960-210987
+/vendor/lib64/vendor.qti.ims.factory@1.0.so 210988-211013
+/vendor/lib64/vendor.qti.ims.rcsconfig@1.0.so 211014-211052
+/vendor/lib64/vendor.qti.ims.rcsconfig@1.1.so 211054-211097
+/vendor/lib64/vendor.qti.ims.rcsconfig@2.0.so 211098-211169
+/vendor/lib64/vendor.qti.ims.rcsconfig@2.1.so 211170-211205
+/vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so 211206-211217
+/vendor/lib64/vendor.qti.imsrtpservice@3.0.so 211218-211267
+/vendor/lib64/vendor.qti.latency@2.0.so 211268-211296
+/vendor/lib64/vendor.qti.memory.pasrmanager@1.0.so 211297-211320
+/vendor/lib64/vendor.qti.power.pasrmanager@1.0.so 211321-211339
+/vendor/lib64/vendor.qti.voiceprint@1.0.so 211340-211391
+/vendor/overlay/FrameworksResTarget.apk 211393-211396
+/vendor/overlay/WifiResTarget.apk 211397-211399
+/vendor/radio/qcril_database/qcril.db 211402-211411 211410-211411 211410-211421
+/vendor/radio/qcril_database/upgrade/0_initial.sql 211423-211438
+/vendor/radio/qcril_database/upgrade/1_version_intro.sql 211439
+/vendor/radio/qcril_database/upgrade/2_version_add_wps_config.sql 211440
+/vendor/radio/qcril_database/upgrade/3_version_update_wps_config.sql 211441
+/vendor/radio/qcril_database/upgrade/4_version_update_ecc_table.sql 211442-211443
+/vendor/radio/qcril_database/upgrade/5_version_update_ecc_table.sql 211444-211447
+/vendor/radio/qcril_database/upgrade/6_version_update_ecc_table.sql 211448
+/vendor/radio/qcril_database/upgrade/7_version_update_ecc_table.sql 211449-211453
+/vendor/recovery-from-boot.p 211454-219436
+/vendor/ueventd.rc 219468-219474
