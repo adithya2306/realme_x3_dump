@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <app_feature name="com.coloros.uxdesign.icons.host" args="String:https://guif.coloros.com"/>
+    <app_feature name="com.coloros.uxdesign.language.host" args="String:https://lang-f.coloros.com"/>
+	<app_feature name="oplus.software.uxicon_exp" args="boolean:true"/>
+</extend_features>

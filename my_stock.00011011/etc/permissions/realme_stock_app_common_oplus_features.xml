@@ -1,0 +1,13 @@
+<oplus-config>
+  <!-- mazhiqiang@realmeUI, 2020/10/14, add for feature list optimize -->
+  <oplus-feature name="oplus.software.list_optimize" />
+  <!-- mazhiqiang@realmeUI, 2020/10/14, add for feature super sleep -->
+  <oplus-feature name="oplus.software.super_sleep" />
+  <!-- lunan@realmeUI, bugID#234419, 2021/3/22, disable tv videocall for realmeUI -->
+	<unavailable-oplus-feature name="oplus.software.tv_videocall.support" />
+  <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add for some process keep alive ext -->
+  <oplus-feature name="oplus.software.keep_alive" />
+  <oplus-feature name="oplus.software.keep_alive_ext" />
+  <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add end -->
+
+</oplus-config>

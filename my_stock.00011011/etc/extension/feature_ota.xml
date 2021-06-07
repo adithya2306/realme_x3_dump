@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!--component update url ,default:""-->
+    <app_feature name="com.oppo.ota.component_update_url" args="String:https://component-ota-f.coloros.com"/>
+    <!--check update url ,default:""-->
+    <app_feature name="com.oppo.ota.url" args="String:https://ifota.coloros.com/post/"/>
+    <!--realme check update url ,default:""-->
+    <app_feature name="com.oppo.ota.realme_url" args="String:https://ifota.realmemobile.com/post/"/>
+    <!--contributors_url ,default:""-->
+    <app_feature name="com.oppo.ota.contributors_url" args="String:https://ifcontributor.coloros.com/contributor/home"/>
+    <!--appointment_url ,default:""-->
+    <app_feature name="com.oppo.ota.appointment_url" args="String:https://otarecruitf.apps.coloros.com/recruit/home"/>
+    <!--realme_appointment_url ,default:""-->
+    <app_feature name="com.oppo.ota.realme_appointment_url" args="String:https://otarecruit-sg.realme.com/recruit/home"/>
+    <!--new appointment_url ,default:""-->
+    <app_feature name="com.oplus.ota.new_appointment_url" args="String:https://ota-recruit-f.coloros.com/recruit/url"/>
+    <!--new rlm_appointment_url ,default:""-->
+    <app_feature name="com.oplus.ota.new_rlm_appointment_url" args="String:https://ota-recruit-sg.realmemobile.com/recruit/url"/>
+    <!--show_appointment_entry ,default:true-->
+    <app_feature name="com.oppo.ota.show_appointment_entry" args="boolean:true"/>
+    <!--cellular_download_choice_type ,default:1-->
+    <app_feature name="com.oppo.ota.cellular_download_choice_type" args="int:1"/>
+    <!--show_version_type ,default:1-->
+    <app_feature name="com.oppo.ota.show_version_type" args="int:2"/>
+    <!--print otaVersion switch ,default:false-->
+    <app_feature name="com.oplus.ota.print_log" args="boolean:false"/>
+	<!-- to distinguish whether the rom is exp -->
+	<app_feature name="com.oplus.ota.is_exp" args="boolean:true"/>
+    <!--component update cryptoSDK pubkey ,default:""-->
+    <app_feature name="com.oplus.ota.pubkey" args="String:MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkA980wxi+eTGcFDiw2I6RrUeO4jL/Aj3Yw4dNuW7tYt+O1sRTHgrzxPD9SrOqzz7G0KgoSfdFHe3JVLPN+U1waK+T0HfLusVJshDaMrMiQFDUiKajb+QKr+bXQhVofH74fjat+oRJ8vjXARSpFk4/41x5j1Bt/2bHoqtdGPcUizZ4whMwzap+hzVlZgs7BNfepo24PWPRujsN3uopl+8u4HFpQDlQl7GdqDYDj2zNOHdFQI2UpSf0aIeKCKOpSKF72KDEESpJVQsqO4nxMwEi2jMujQeCHyTCjBZ+W35RzwT9+0pyZv8FB3c7FYY9FdF/+lvfax5mvFEBd9jO+dpMQIDAQAB"/>
+    <!--component update cryptoSDK pubkey version ,default:""-->
+    <app_feature name="com.oplus.ota.pubkey_ver" args="String:1615895993238"/>
+</extend_features>

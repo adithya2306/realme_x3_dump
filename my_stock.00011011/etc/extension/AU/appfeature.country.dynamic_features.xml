@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<extend_features>
+    <app_feature name="com.android.phone.no_display_record" />
+    <app_feature name="com.android.incallui.no_display_record" />
+    <app_feature name="com.oplus.soundrecorder.no_display_record" />
+    <app_feature name="com.android.incallui.video_call_hold" />
+    <app_feature name="com.android.server.telecom.intercept_emergency_call_when_oos" />
+</extend_features>
