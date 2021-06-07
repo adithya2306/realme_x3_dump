@@ -1,0 +1,10 @@
+mcfg_hw/generic/common/default/5g_defau/mcfg_hw.mbn
+mcfg_hw/generic/common/default/cust_def/mcfg_hw.mbn
+mcfg_hw/generic/common/default/sm8150.g/default/mcfg_hw.mbn
+mcfg_hw/generic/common/sm8150/la/7+7_mode/sr_dsds/mcfg_hw.mbn
+mcfg_hw/generic/common/sm8150/la/ss/mcfg_hw.mbn
+mcfg_hw/generic/common/sm8150/wd/7+7_mode/sr_dsds/mcfg_hw.mbn
+mcfg_hw/generic/common/sm8150/wd/ss/mcfg_hw.mbn
+mcfg_hw/generic/common/sm8150/wp8/7+7_mode/sr_dsds/mcfg_hw.mbn
+mcfg_hw/generic/common/sm8150/wp8/ss/mcfg_hw.mbn
+mcfg_hw/generic/common/sm8150/cmcc_sub/sr_dsds/mcfg_hw.mbn
