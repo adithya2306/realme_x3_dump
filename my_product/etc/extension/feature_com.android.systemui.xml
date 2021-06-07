@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!-- indicate if the device is prevented screen nurn -->
+    <app_feature name="com.android.systemui.prevented_screen_burn"/>
+    <!-- indicate if the device will be used dark scrim -->
+    <app_feature name="com.android.systemui.use_dark_scrim"/>
+</extend_features>

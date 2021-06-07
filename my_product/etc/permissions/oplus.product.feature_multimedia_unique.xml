@@ -1,0 +1,11 @@
+<oplus-config>
+    <!-- Chen.Pan@RM.BSP.TP.Funtion, 2010/12/01, Add for blackgesture -->
+    <feature name="oppo.lcd.first.tp.last.support"/>
+    <!-- zhenyu.dong@MM.AUDIOSERVER, 2020/08/07, Add for rm feature start -->
+    <oplus-feature name="oplus.software.audio.dualheadphone"/>
+    <oplus-feature name="oplus.software.audio.dualheadphone.lite"/>
+    <!-- end -->
+
+    <!-- Chen.Pan@MULTIMEDIA.VIBRATE, 2020/11/26, Add for FourD Vibrate feature start -->
+    <oplus-feature name="oplus.software.haptic_vibrator_v1.support"/>
+</oplus-config>

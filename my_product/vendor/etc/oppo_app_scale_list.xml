@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/*
+** Copyright (c) 2016-2050 OPPO Mobile Comm Corp., Ltd, All rights reserved.
+** OPPO Technologies Proprietary and Confidential.
+** The xml is for config game resolution.
+** For example scale 1.5 change 1080*1920 to 720*1280 (1080/720=1.5)
+** Author:xiaori.yuan@oppo.com
+*/
+-->
+<filter-conf>
+    <version>20200807</version>
+    <isOpen>1</isOpen>
+    <filter-name>oppo_app_scale_list</filter-name>
+    <game>
+        <PackageName>com.imangi.templerun2</PackageName>
+        <scale>1.5</scale>
+    </game>
+    <game>
+        <PackageName>com.kiloo.subwaysurf</PackageName>
+        <scale>1.5</scale>
+    </game>
+    <game>
+        <PackageName>com.netease.dhxy.nearme.gamecenter</PackageName>
+        <scale>1.3333</scale>
+    </game>
+    <game>
+        <PackageName>com.cocos2d.fishingfun.nearme.gamecenter</PackageName>
+        <scale>1.333</scale>
+    </game>
+    <game>
+        <PackageName>org.cocos2d.fishingjoy3</PackageName>
+        <scale>1.333</scale>
+    </game>
+    <game>
+        <PackageName>org.cocos2dx.FishingJoy2</PackageName>
+        <scale>1.333</scale>
+    </game>
+    <game>
+        <PackageName>com.gbits.atm.nearme.gamecenter</PackageName>
+        <scale>1.3333</scale>
+    </game>
+    <game>
+        <PackageName>com.nextwave.wcc2</PackageName>
+        <scale>1.5</scale>
+    </game>
+    <game>
+        <PackageName>com.minitech.miniworld.nearme.gamecenter</PackageName>
+        <scale>1.5</scale>
+    </game>
+    <appReduceBtnMethod>
+        <method>appReduceBtnMethod_01</method>
+        <appPkg>com.tencent.tmgp.sgame</appPkg>
+        <appPkg>com.happyelements.AndroidAnimal</appPkg>
+        <appPkg>com.tencent.tmgp.pubgmhd</appPkg>
+        <appPkg>com.tencent.mm</appPkg>
+        <appPkg>com.tencent.mobileqq</appPkg>
+        <appPkg>com.sina.weibo</appPkg>
+        <appPkg>com.taobao.taobao</appPkg>
+        <appPkg>com.heytap.browser</appPkg>
+        <appPkg>com.ss.android.article.news</appPkg>
+        <appPkg>com.android.incallui</appPkg>
+        <appPkg>com.kugou.android</appPkg>
+        <appPkg>com.tencent.karaoke</appPkg>
+        <appPkg>com.UCMobile</appPkg>
+        <appPkg>com.tencent.mtt</appPkg>
+        <appPkg>com.baidu.searchbox</appPkg>
+        <appPkg>com.ss.android.article.lite</appPkg>
+        <appPkg>com.tencent.news</appPkg>
+        <appPkg>com.baidu.BaiduMap</appPkg>
+        <appPkg>com.autonavi.minimap</appPkg>
+        <appPkg>com.sdu.didi.psnger</appPkg>
+        <appPkg>com.sdu.didi.gsui</appPkg>
+        <appPkg>com.jingdong.app.mall</appPkg>
+        <appPkg>com.eg.android.AlipayGphone</appPkg>
+        <appPkg>com.immomo.momo</appPkg>
+        <appPkg>com.gvsoft.gofun</appPkg>
+        <appPkg>com.zing.zalo</appPkg>
+        <appPkg>com.imo.android.imoim</appPkg>
+        <appPkg>com.snapchat.android</appPkg>
+        <appPkg>com.viber.voip</appPkg>
+        <appPkg>com.android.chrome</appPkg>
+        <appPkg>com.tencent.ig</appPkg>
+        <appPkg>com.mxtech.videoplayer.ad</appPkg>
+        <appPkg>com.facebook.katana</appPkg>
+        <appPkg>com.facebook.lite</appPkg>
+        <appPkg>com.facebook.orca</appPkg>
+        <appPkg>com.google.android.youtube</appPkg>
+        <appPkg>com.google.android.apps.youtube.mango</appPkg>
+        <appPkg>com.instagram.android</appPkg>
+        <appPkg>com.whatsapp</appPkg>
+        <appPkg>com.dts.freefireth</appPkg>
+        <appPkg>com.mobile.legends</appPkg>
+        <appPkg>com.google.android.apps.maps</appPkg>
+        <appPkg>com.google.android.googlequicksearchbox</appPkg>
+        <appPkg>com.UCMobile.intl</appPkg>
+        <switch>1</switch>
+        <levels>850,1000,1100,1500,1700</levels>
+        <ratio>0.0,0.03,0.06,0.1,0.05</ratio>
+        <rate>0,0,0,0,0</rate>
+    </appReduceBtnMethod>
+</filter-conf>

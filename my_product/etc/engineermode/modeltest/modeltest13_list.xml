@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelTestList>
+    <ModelItem id="DualCamera Calibrate test" name="DualCameraCalibrate">
+        <intent>com.oppo.engineermode.manualtest.cameratest.CameraCalibrationTest</intent>
+    </ModelItem>
+</ModelTestList>

@@ -1,0 +1,19 @@
+<oplus-config>
+<!-- xuwenmin@CONNECTIVITY.WIFI.NETWORK, 2020/08/07   -->
+    <oplus-feature name="oplus.software.wlan.assistant" />
+    <oplus-feature name="oplus.software.wlan.sla" />
+    <oplus-feature name="oplus.software.wlan.dual_sta" />
+    <oplus-feature name="oplus.software.wlan.dbs" />
+<!--  BT begin -->
+<!-- GaoShangxiu@CONNECTIVITY.BT.ARCHITECHURE, 2020/07/14   -->
+    <oplus-feature name="oplus.software.bt.absvolume_support" />
+
+    <oplus-feature name="oplus.software.bt.rmtdevice_report" />
+
+    <oplus-feature name="oplus.software.bt.vendor_at_command" />
+
+    <oplus-feature name="oplus.software.bt.ignore_locationmode" />
+
+    <oplus-feature name="oplus.software.bt.iot_enablelogging" />
+<!--  BT end -->
+</oplus-config>

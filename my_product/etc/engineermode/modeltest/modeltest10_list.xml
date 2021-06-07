@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelTestList>
+    <ModelItem id="Flash Light Calibrate test" name="CameraRearSingleFlashLightTest">
+        <intent>com.oppo.engineermode.camera.flashlighttest.CameraRearSingleFlashlightTest</intent>
+    </ModelItem>
+</ModelTestList>

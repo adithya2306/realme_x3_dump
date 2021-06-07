@@ -1,0 +1,56 @@
+
+<permissions>
+    <feature name="oppo.feature.19710" />
+    <!-- Zhen.Yue@PSW.MM.Display.SF.Feature, 2018/04/02, Add for roundcorner -->
+    <feature name="oppo.roundcorner.support" />
+    <feature name="oppo.mmdisplay.origin.roundcorner.support" />
+    <!-- feature name="oppo.aod.support" /-->
+    <!-- feature name="oppo.aod.prevent.burn.support" /-->
+    <!-- Gou shengjun@PSW.MM.Display.Driver.Feature, 2018/12/05, Add for fingerprint -->
+    <feature name="oppo.fingerprint.disable.dimlayer" />
+    <!-- feature name="oppo.hardware.fingerprint.optical.support" /-->
+
+    <!-- brightness deprecated feature -->
+    <!-- videogallery, oppograllery, systemui always use this deprecated feature -->
+    <feature name="oppo.autobrightctl.animation.support" />
+    <!-- settingprovider always use this deprecated feature -->
+    <feature name="oppo.brightness.mode.automatic" />
+    <!-- systemui,shortcuts,engineermode,supportservices,deepthinker,oppoguardelf,videogallery,settingsprovider,oppogallery2 always use this deprecated feature -->
+    <feature name="oppo.multibits.dimming.support" />
+    <!-- settings always use this deprecated feature -->
+    <feature name="oppo.hdr.enhance.brightness.support" />
+
+    <!-- Wenhua.Leng@PSW.Multimedia.Display.LCD.Params, 2018/12/19, Modify for screen underlightsensor -->
+    <feature name="oppo.display.screen.gloablehbm.support" />
+    <feature name="oppo.display.screen.underlightsensor.support" />
+    <!-- Zhen.Yue@Display.DS.ColorMode, 2019/03/20, Add this for ColorMode -->
+    <feature name="oppo.display.colormode.support" />
+    <!-- Zhen.Yue@Display.DS.DC, 2019/04/01, Add this for DC backlight -->
+    <!-- feature name="oppo.display.dcbacklight.support" /-->
+    <!-- Dongting.Mei@PSW.MM.Display.Feature, 2019/07/26, add for heteromorphism on 19696 -->
+    <feature name="oppo.display.compat.support" />
+    <feature name="com.oppo.feature.screen.heteromorphism"/>
+    <!-- Yanliang.Huang@RM.MM.MediaServer.Feature, 2019/10/29, Add for frc support -->
+    <feature name="realme.hqv.frc.support"/>
+    <!-- niewei.feng@PSW.MM.MediaServer.Player.NA, 2019/11/06, Add for HQV Gamming. -->
+    <feature name="oppo.game.color.plus.support" />
+
+    <!-- sceen mode deprecated feature -->
+    <!-- gamespace always use this deprecated feature -->
+    <feature name="oppo.appautoresolution.support" />
+    <!-- screenshot，engineermode，systemui，settingsprovider，oppoguardelf，settings always use this deprecated feature -->
+    <feature name="oppo.display.screen.120hz.support" />
+    <!-- systemui，oppoguardelf always use this deprecated feature -->
+    <feature name="oppo.dynamicfpsswitch.feature.support" />
+    <!-- settingsprovider, settings always use this deprecated feature -->
+    <feature name="oppo.display.screen.defaultsmartmode" />
+    <!-- no use -->
+    <!-- feature name="oppo.multi.device.decrease.refresh.rate" / -->
+
+    <!-- Zeke.Shi@RM.MM.Display.Feature, 2019/01/07, Add for cabc dynamic level support -->
+    <feature name="cabc.level.dynamic.enable" />
+
+    <!-- Chenyang.Zhang@RM.MM.AuioServer.Policy, 2020/01/04, Add for DualHeadPhone -->
+    <feature name="realme.multimedia.dualheadphone"/>
+    <feature name="oppo.multimedia.record.channel.support"/>
+</permissions>

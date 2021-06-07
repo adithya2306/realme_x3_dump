@@ -1,0 +1,4 @@
+<permissions>
+    <!-- gamespace always use this deprecated feature -->
+    <feature name="oppo.feature.haptic.vibrator.support" />
+</permissions>

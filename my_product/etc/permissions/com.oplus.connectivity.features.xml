@@ -1,0 +1,5 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<permissions>
+    <!-- Yuan.Huang@PSW.CN.WiFi.Network.internet.1809314, 2019/07/23, Add for [WiFi Dual STA], { -->
+    <feature name="oplus.wlan.dualsta.support"/>
+</permissions>

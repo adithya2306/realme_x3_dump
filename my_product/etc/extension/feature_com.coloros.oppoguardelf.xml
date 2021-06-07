@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <app_feature name="com.coloros.oppoguardelf.cabc_level_dynamic_enable" />
+
+    <!-- disalbe 90Hz/120Hz mode app features for settings-->
+    <app_feature name="com.android.settings.refresh_rate_90HZ.disable"/>
+    <!--<app_feature name="com.android.settings.refresh_rate_120HZ.disable"/>-->
+</extend_features>

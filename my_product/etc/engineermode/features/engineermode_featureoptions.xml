@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<features>
+    <!-- BSP feature -->
+    <feature name="com.oppo.eng.otg.support" />
+    <feature name="com.oppo.eng.type.c.support" />
+    <feature name="com.oppo.eng.otg.external.device.support" />
+    <feature name="com.oppo.eng.vooc.charger.support" />
+    <feature name="com.oppo.eng.pd.charger.support" />
+    <feature name="com.oppo.eng.smallboard.detect.support" />
+    <feature name="com.oppo.eng.a.smallboard.detect.support" />
+    <feature name="com.oppo.eng.adsp.sensor.mode.support" />
+    <feature name="com.oppo.eng.gyroscope.sensor.support" />
+    <feature name="com.oppo.eng.magnetic.sensor.support" />
+    <feature name="com.oppo.eng.gravity.sensor.calibrate.support" />
+    <feature name="com.oppo.eng.proximity.sensor.calibrate.support" />
+    <feature name="com.oppo.eng.light.sensor.calibrate.support" />
+    <feature name="com.oppo.eng.sensor.selftest.support" />
+    <feature name="com.oppo.eng.sensor.calibrate.through.hidl.support" />
+    <feature name="com.oppo.eng.stepcounter.sensor.support" />
+    <feature name="com.oppo.eng.ship.mode.support" />
+    <feature name="com.oppo.eng.log.sensor.support" />
+    <feature name="com.oppo.eng.vc.thermal.monitor.support" />
+    <feature name="com.oppo.eng.proximity.distance.calibration.support" />
+    <feature name="com.oppo.eng.drm.widevine.support" />
+    <feature name="com.oppo.eng.vibrator.impedance" value="[15500,23500]" />
+    <!-- #ifdef CM_EDIT-->
+    <!-- Feiyue.Chang@CM.RM.Andorid.ENGINEERMODE.2679573, 2020/01/21, add for vibrator-->
+    <feature name="com.oppo.eng.vibrator.resonant.frequency" value="[2250,2400]" />
+    <!-- #endif CM_EDIT -->
+    <feature name="com.oppo.eng.network.air.interface.detect.support" />
+
+    <!-- Network feature -->
+    <feature name="com.oppo.eng.gemini.support" />
+    <feature name="com.oppo.eng.sim.hot.swap.support" />
+    <feature name="com.oppo.eng.sar.body" value="0.906" />
+    <feature name="com.oppo.eng.sar.head" value="1.188" />
+    <!-- Multimedia feature -->
+    <feature name="com.oppo.eng.smart.pa.calibrate.support" />
+    <feature name="com.oppo.eng.smart.pa.calibrate.modeltest.support" />
+    <feature name="com.oppo.eng.dual.speaker.support" />
+    <feature name="com.oppo.eng.lcm.frequency.switch.support" />
+    <!-- Connectivity feature -->
+    <feature name="com.oppo.eng.nfc.ese.support" />
+
+    <!-- Android feature -->
+    <!-- for Aging V1.2 -->
+    <feature name="com.oppo.eng.production.line.aging.support" />
+    <!-- for Aging V1.3 -->
+    <feature name="com.oppo.eng.production.line.aging.new.support" />
+    <feature name="com.oppo.eng.navigation.bar.support" />
+    <feature name="com.oppo.eng.standlone.userdata.support" />
+    <feature name="com.oppo.eng.qcom.platform" />
+    <feature name="com.oppo.eng.exp.platform" />
+    <feature name="com.oppo.eng.vibrator.linearmotor.v2.support" />
+    <!-- Charger Parameters -->
+
+    <feature name="com.oppo.eng.vooc.charge.current.range" value="(-6500,-2500)"/>
+    <feature name="com.oppo.eng.vooc.charge.current.slow.range" value="(-6500,-1400)"/>
+
+
+    //pa calibration para
+    <feature name="com.oppo.eng.pa.left.range.support" value="(5.0,8.0)"/>
+    <feature name="com.oppo.eng.pa.right.range.support" value="(5.0,8.0)"/>
+</features>
