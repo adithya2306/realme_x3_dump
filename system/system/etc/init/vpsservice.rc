@@ -1,0 +1,10 @@
+#
+# Copyright (c) 2019-2020 Qualcomm Technologies, Inc.
+# All Rights Reserved.
+# Confidential and Proprietary - Qualcomm Technologies, Inc.
+#
+
+service vendor.vpsservice /system/bin/vpsservice
+    class main
+    user system
+    group system readproc media_rw media
